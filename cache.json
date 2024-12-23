@@ -6,13 +6,213 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://abovethelaw.com/2024/12/united-healthcare-using-dmca-against-luigi-mangione-images-which-is-bizarre-wildly-inappropriate/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://abovethelaw.com/2024/12/united-healthcare-using-dmca-against-luigi-mangione-images-which-is-bizarre-wildly-inappropriate/",
+          "publishedOn": "2024-12-23T00:26:59.000Z",
+          "wordCount": 3200,
+          "title": "'United Healthcare' Using DMCA Against Luigi Mangione Images",
+          "imageUrl": "https://abovethelaw.com/wp-content/uploads/2024/12/GettyImages-2188645013.jpg"
+        },
+        {
+          "id": "https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/",
+          "publishedOn": "2024-12-22T23:46:05.000Z",
+          "wordCount": 3593,
+          "title": "Classified fighter jet specs leaked on War Thunder forums – again",
+          "imageUrl": "https://ukdj.imgix.net/6031ffb537ab5ed40d8328448dd8f4d4_/future-eurofighter-typhoonjpg-2009.jpg?auto=compress%2Cformat&ixlib=php-3.3.1&s=6df3400d054c25b031f21e888dfcf733"
+        },
+        {
+          "id": "https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/",
+          "publishedOn": "2024-12-22T22:47:09.000Z",
+          "wordCount": 12768,
+          "title": "MI300X vs. H100 vs. H200 Benchmark Part 1: Training – CUDA Moat Still Alive",
+          "imageUrl": "https://i0.wp.com/semianalysis.com/wp-content/uploads/2024/12/image-196.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://surfingcomplexity.blog/2024/12/22/whither-dashboard-design/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://surfingcomplexity.blog/2024/12/22/whither-dashboard-design/",
+          "publishedOn": "2024-12-22T21:39:39.000Z",
+          "wordCount": 3987,
+          "title": "Whither Dashboard Design?",
+          "imageUrl": "https://surfingcomplexity.blog/wp-content/uploads/2020/05/surfer_1f3c4.png?w=120"
+        },
+        {
+          "id": "https://openai.com/12-days/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openai.com/12-days/",
+          "publishedOn": "2024-12-22T21:27:14.000Z",
+          "wordCount": null,
+          "title": "ChatGPT O3 Preview Announcement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24",
+          "publishedOn": "2024-12-22T21:01:49.000Z",
+          "wordCount": 15980,
+          "title": "Finley (YC W21) Is Hiring a Growth Associate (Ex-Finance)",
+          "imageUrl": "https://lever-client-logos.s3.us-west-2.amazonaws.com/43be64f4-9596-4af6-bdcd-762165889f75-1704738138574.png"
+        },
+        {
+          "id": "https://twtxt.readthedocs.io/en/latest/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twtxt.readthedocs.io/en/latest/index.html",
+          "publishedOn": "2024-12-22T20:51:44.000Z",
+          "wordCount": 280,
+          "title": "Twtxt is a decentralised, minimalist microblogging service for hackers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2412.15210",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2412.15210",
+          "publishedOn": "2024-12-22T20:32:01.000Z",
+          "wordCount": 586,
+          "title": "Tokenisation Is NP-Complete",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://www.npr.org/2024/12/22/nx-s1-5233033/holidays-loneliness-cure-stammtisch",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.npr.org/2024/12/22/nx-s1-5233033/holidays-loneliness-cure-stammtisch",
+          "publishedOn": "2024-12-22T18:51:41.000Z",
+          "wordCount": 1840,
+          "title": "One way to fight loneliness: The Germans call it a Stammtisch",
+          "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2F81%2F5ad64be64a99bcddfa952850bc0e%2Fimg-6295.JPG"
+        },
+        {
+          "id": "https://rockyj-blogs.web.app/2024/12/22/jruby-jbang.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rockyj-blogs.web.app/2024/12/22/jruby-jbang.html",
+          "publishedOn": "2024-12-22T17:53:36.000Z",
+          "wordCount": 2777,
+          "title": "JRuby with JBang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/",
+          "publishedOn": "2024-12-22T17:30:21.000Z",
+          "wordCount": 3804,
+          "title": "Fighting spam with Haskell at Meta (2015)",
+          "imageUrl": "https://engineering.fb.com/wp-content/uploads/2015/06/Haskell_spamfighting.jpeg"
+        },
+        {
+          "id": "https://berthub.eu/articles/posts/on-long-term-software-development/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://berthub.eu/articles/posts/on-long-term-software-development/",
+          "publishedOn": "2024-12-22T17:14:26.000Z",
+          "wordCount": 3112,
+          "title": "Long Term Software Development",
+          "imageUrl": "https://berthub.eu/articles/complexity-2.png"
+        },
+        {
+          "id": "https://avi.im/blag/2024/sqlite-past-present-future/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://avi.im/blag/2024/sqlite-past-present-future/",
+          "publishedOn": "2024-12-22T14:44:30.000Z",
+          "wordCount": 905,
+          "title": "How bloom filters made SQLite 10x faster",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693",
+          "publishedOn": "2024-12-22T12:29:33.000Z",
+          "wordCount": null,
+          "title": "GPT-5 is behind schedule",
+          "imageUrl": null
+        },
+        {
+          "id": "https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf",
+          "publishedOn": "2024-12-22T11:49:18.000Z",
+          "wordCount": 1986,
+          "title": "Telling Stories in Athenian Law [pdf] (2002)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html",
+          "publishedOn": "2024-12-22T11:49:12.000Z",
+          "wordCount": 1489,
+          "title": "Decoding the telephony signals in Pink Floyd's 'The Wall'",
+          "imageUrl": null
+        },
+        {
+          "id": "https://poets.org/poem/stopping-woods-snowy-evening",
+          "author": null,
+          "description": "Comments",
+          "link": "https://poets.org/poem/stopping-woods-snowy-evening",
+          "publishedOn": "2024-12-22T11:21:04.000Z",
+          "wordCount": 817,
+          "title": "Stopping by Woods on a Snowy Evening (1923)",
+          "imageUrl": "https://api.poets.org/sites/default/files/poets-twitter.png"
+        },
+        {
+          "id": "https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7",
+          "publishedOn": "2024-12-22T10:40:36.000Z",
+          "wordCount": null,
+          "title": "One surprising psychosis treatment that works: Learning to live with the voices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.fastmail.com/blog/why-we-use-our-own-hardware/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.fastmail.com/blog/why-we-use-our-own-hardware/",
+          "publishedOn": "2024-12-22T08:36:31.000Z",
+          "wordCount": 2593,
+          "title": "Why we use our own hardware",
+          "imageUrl": "https://www.fastmail.com/assets/images/hero-Lq_HIxPzCx-1200.png"
+        },
+        {
+          "id": "https://codemic.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://codemic.io/",
+          "publishedOn": "2024-12-22T08:27:16.000Z",
+          "wordCount": 3,
+          "title": "CodeMic: A new way to talk about code",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/",
           "author": null,
           "description": "Comments",
           "link": "https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/",
           "publishedOn": "2024-12-22T07:31:22.000Z",
           "wordCount": 1668,
-          "title": "Murder Mystery: GCC Builds Failing After Sbuild Refactoring",
+          "title": "Murder Mystery: GCC builds failing after sbuild refactoring",
           "imageUrl": null
         },
         {
@@ -21,199 +221,29 @@
           "description": "Comments",
           "link": "https://hyperessays.net/",
           "publishedOn": "2024-12-22T05:16:37.000Z",
-          "wordCount": 849,
+          "wordCount": 844,
           "title": "The essays of Michel de Montaigne online",
           "imageUrl": "https://hyperessays.net/img/banners/hyperessays-preview.png"
         },
         {
-          "id": "https://tidyfirst.substack.com/p/slow-deployment-causes-meetings",
+          "id": "https://www.boxingscene.com/the-beltline-ai-powered-judge-takes-boxing-a-step-closer-to-the-brave-new-world-it-appears-to-seek--200866",
           "author": null,
           "description": "Comments",
-          "link": "https://tidyfirst.substack.com/p/slow-deployment-causes-meetings",
-          "publishedOn": "2024-12-22T03:12:23.000Z",
-          "wordCount": null,
-          "title": "Slow deployment causes meetings (2015)",
-          "imageUrl": null
+          "link": "https://www.boxingscene.com/the-beltline-ai-powered-judge-takes-boxing-a-step-closer-to-the-brave-new-world-it-appears-to-seek--200866",
+          "publishedOn": "2024-12-21T11:41:51.000Z",
+          "wordCount": 6299,
+          "title": "'AI-powered judge' takes boxing closer to brave new world it appears to seek",
+          "imageUrl": "https://photo.boxingscene.com/uploads/Oleksandr%20Usyk%20Tyson%20Fury6484.JPG"
         },
         {
-          "id": "https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x",
+          "id": "https://github.com/libriscv/multi_tenant_drogon",
           "author": null,
           "description": "Comments",
-          "link": "https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x",
-          "publishedOn": "2024-12-22T02:01:51.000Z",
-          "wordCount": 1555,
-          "title": "Rosetta 2 creator leaves Apple to work on Lean full-time",
-          "imageUrl": "https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7"
-        },
-        {
-          "id": "https://github.com/reltadev/github-assistant",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/reltadev/github-assistant",
-          "publishedOn": "2024-12-22T00:41:27.000Z",
-          "wordCount": 2144,
-          "title": "Show HN: GitHub-assistant – Natural language questions from your GitHub data",
-          "imageUrl": "https://opengraph.githubassets.com/65908dad4367f833eaa6365a0148cc18756e336088489070fda0c8894765f3b5/reltadev/github-assistant"
-        },
-        {
-          "id": "https://github.com/ggerganov/ggml/discussions/707",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/ggerganov/ggml/discussions/707",
-          "publishedOn": "2024-12-21T23:28:12.000Z",
-          "wordCount": 846,
-          "title": "Train a Mnist VAE with C and CUDA",
-          "imageUrl": "https://opengraph.githubassets.com/d66aafe0014e1f6013dcb60cd1362f56c1947ce539a285636da645bc18e26310/ggerganov/ggml/discussions/707"
-        },
-        {
-          "id": "https://www.datafix.com.au/BASHing/2020-08-12.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.datafix.com.au/BASHing/2020-08-12.html",
-          "publishedOn": "2024-12-21T22:25:37.000Z",
-          "wordCount": 474,
-          "title": "A data table thousands of years old (2020)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openjdk.org/jeps/483",
-          "author": null,
-          "description": "Comments",
-          "link": "https://openjdk.org/jeps/483",
-          "publishedOn": "2024-12-21T19:53:26.000Z",
-          "wordCount": 3102,
-          "title": "JEP 483: Ahead-of-Time Class Loading and Linking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gist.github.com/bssrdf/397900607028bffd0f8d223a7acdce7e",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gist.github.com/bssrdf/397900607028bffd0f8d223a7acdce7e",
-          "publishedOn": "2024-12-21T19:34:07.000Z",
-          "wordCount": 1463,
-          "title": "A curious case of O(N^2) behavior which should be O(N) (2023)",
-          "imageUrl": "https://raw.githubusercontent.com/gist/bssrdf/397900607028bffd0f8d223a7acdce7e/raw/301f39edb13ab89a17ffcfe14b424ba4603df0f3/profiling1.png"
-        },
-        {
-          "id": "http://0x80.pl/notesen/2024-12-21-uint8-division.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://0x80.pl/notesen/2024-12-21-uint8-division.html",
-          "publishedOn": "2024-12-21T19:25:13.000Z",
-          "wordCount": 2970,
-          "title": "Dividing unsigned 8-bit numbers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://talktomehuman.com/demo",
-          "author": null,
-          "description": "Comments",
-          "link": "https://talktomehuman.com/demo",
-          "publishedOn": "2024-12-21T18:22:58.000Z",
-          "wordCount": 11,
-          "title": "Show HN: Demo of my web game about social persuasion",
-          "imageUrl": "https://talktomehuman.com/img/social-image.moz90.jpg"
-        },
-        {
-          "id": "https://anvaka.github.io/city-roads/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://anvaka.github.io/city-roads/",
-          "publishedOn": "2024-12-21T18:16:01.000Z",
-          "wordCount": 70,
-          "title": "City Roads: A tool to draw all roads in a city at once",
-          "imageUrl": "https://i.imgur.com/Fbbe5a6.png"
-        },
-        {
-          "id": "https://eonfall.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eonfall.com/",
-          "publishedOn": "2024-12-21T16:45:36.000Z",
-          "wordCount": 2603,
-          "title": "Show HN: Eonfall – A new third-person co-op action game built for the web",
-          "imageUrl": "https://32f7d4ec.eonfall-front-end.pages.dev/images/og-image.png"
-        },
-        {
-          "id": "https://s2.dev/blog/intro",
-          "author": null,
-          "description": "Comments",
-          "link": "https://s2.dev/blog/intro",
-          "publishedOn": "2024-12-21T15:11:19.000Z",
-          "wordCount": 2681,
-          "title": "Introducing S2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/malmeloo/FindMy.py",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/malmeloo/FindMy.py",
-          "publishedOn": "2024-12-21T12:14:55.000Z",
-          "wordCount": 2598,
-          "title": "Query Apple's FindMy network with Python",
-          "imageUrl": "https://opengraph.githubassets.com/d77ad58ef8385d5a00556342fbae61ac7307e265b6d4f833114ce89c1a88ef59/malmeloo/FindMy.py"
-        },
-        {
-          "id": "https://code.dblock.org/2020/09/01/keep-a-changelog-at-work.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://code.dblock.org/2020/09/01/keep-a-changelog-at-work.html",
-          "publishedOn": "2024-12-21T06:13:27.000Z",
-          "wordCount": 692,
-          "title": "Keeping a Changelog at Work (2020)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/",
-          "publishedOn": "2024-12-21T01:49:25.000Z",
-          "wordCount": 838,
-          "title": "Enum of Arrays",
-          "imageUrl": "/blog/img/preview.webp"
-        },
-        {
-          "id": "https://samwho.dev/turing-machines/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://samwho.dev/turing-machines/",
-          "publishedOn": "2024-12-20T22:37:14.000Z",
-          "wordCount": 4371,
-          "title": "Turing Machines",
-          "imageUrl": "https://samwho.dev/images/turing-machines-og.png?h=6567026e8884fb88a389"
-        },
-        {
-          "id": "https://github.com/rivet-gg/rivet",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/rivet-gg/rivet",
-          "publishedOn": "2024-12-20T16:36:33.000Z",
-          "wordCount": 4633,
-          "title": "Show HN: Rivet Actors – Durable Objects build with Rust, FoundationDB, Isolates",
-          "imageUrl": "https://repository-images.githubusercontent.com/654560183/dd961904-4e01-4173-a152-3f56bd57d6dd"
-        },
-        {
-          "id": "https://www.solipsys.co.uk/ZimExpt/LanguageAndPersonality.html?xl20hn",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.solipsys.co.uk/ZimExpt/LanguageAndPersonality.html?xl20hn",
-          "publishedOn": "2024-12-20T10:51:06.000Z",
-          "wordCount": 819,
-          "title": "Language and Personality",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.rhotter.com/posts/harmonics",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.rhotter.com/posts/harmonics",
-          "publishedOn": "2024-12-20T05:34:18.000Z",
-          "wordCount": 102,
-          "title": "Spherical Harmonics",
-          "imageUrl": null
+          "link": "https://github.com/libriscv/multi_tenant_drogon",
+          "publishedOn": "2024-12-20T10:43:36.000Z",
+          "wordCount": 2757,
+          "title": "Show HN: Ephemeral VMs in 1 Microsecond",
+          "imageUrl": "https://opengraph.githubassets.com/df687a8865de664f69f2ba6e486bb89560a36d2b54cfd12617ad235bc7b21d59/libriscv/drogon-sandbox"
         },
         {
           "id": "https://arstechnica.com/gadgets/2012/12/the-legacy-of-next-lives-on-in-os-x/",
@@ -221,88 +251,58 @@
           "description": "Comments",
           "link": "https://arstechnica.com/gadgets/2012/12/the-legacy-of-next-lives-on-in-os-x/",
           "publishedOn": "2024-12-20T04:57:31.000Z",
-          "wordCount": 3697,
+          "wordCount": 3691,
           "title": "The legacy of NeXT lives on in OS X (2012)",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2012/12/next-apple-qbert.png"
         },
         {
-          "id": "https://github.com/rayking99/cqd",
+          "id": "https://www.youtube.com/watch?v=vYCT7cw0ycw",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/rayking99/cqd",
-          "publishedOn": "2024-12-20T03:49:28.000Z",
-          "wordCount": 1740,
-          "title": "Cqd: Colour my __dir__ please",
-          "imageUrl": "https://opengraph.githubassets.com/05bc0f3a38e65f72a3e4a9f6db6aca7b450d0cf297823b6b0d8555d4bc4b2694/rayking99/cqd"
-        },
-        {
-          "id": "https://thecodist.com/how-talking-over-a-wall-changed-my-direction-as-a-programmer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thecodist.com/how-talking-over-a-wall-changed-my-direction-as-a-programmer/",
-          "publishedOn": "2024-12-20T03:10:09.000Z",
-          "wordCount": 1306,
-          "title": "Talking over a wall changed my direction as a programmer",
-          "imageUrl": "https://thecodist.com/content/images/2024/10/talking.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sI5DehAuT2I",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=sI5DehAuT2I",
-          "publishedOn": "2024-12-19T15:07:22.000Z",
+          "link": "https://www.youtube.com/watch?v=vYCT7cw0ycw",
+          "publishedOn": "2024-12-19T21:34:12.000Z",
           "wordCount": null,
-          "title": "Wuppertal's suspended monorail proved its doubters wrong [video]",
+          "title": "Reimagining mathematics in a world of reasoning machines [video]",
           "imageUrl": null
         },
         {
-          "id": "https://www.16elt.com/2024/09/25/first-book-of-byte-sized-tech/",
+          "id": "https://ifp.org/the-case-for-clinical-trial-abundance/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.16elt.com/2024/09/25/first-book-of-byte-sized-tech/",
-          "publishedOn": "2024-12-18T23:03:58.000Z",
-          "wordCount": 2728,
-          "title": "Ideas from \"A Philosophy of Software Design\"",
+          "link": "https://ifp.org/the-case-for-clinical-trial-abundance/",
+          "publishedOn": "2024-12-19T16:16:47.000Z",
+          "wordCount": 7152,
+          "title": "The case for clinical trial abundance",
+          "imageUrl": "https://ifp.org/wp-content/uploads/Vaccine-Manufacturing-Line-Illustration-1024x574.png"
+        },
+        {
+          "id": "https://github.com/tide-foundation/tidecloak-gettingstarted",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/tide-foundation/tidecloak-gettingstarted",
+          "publishedOn": "2024-12-19T10:17:52.000Z",
+          "wordCount": 5659,
+          "title": "Show HN: TideCloak – Decentralized IAM for security and user sovereignty",
+          "imageUrl": "https://opengraph.githubassets.com/4dc3e863d6a25cd71bc50522235445c2d627517d0d1780272bebd3cafee3ef71/tide-foundation/tidecloak-gettingstarted"
+        },
+        {
+          "id": "https://tracydurnell.com/2024/12/17/in-praise-of-the-hundred-page-idea/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tracydurnell.com/2024/12/17/in-praise-of-the-hundred-page-idea/",
+          "publishedOn": "2024-12-19T01:50:58.000Z",
+          "wordCount": 3281,
+          "title": "In praise of the hundred page idea",
           "imageUrl": null
         },
         {
-          "id": "https://www.cycleworld.com/story/motorcycle-news/kawasaki-bex-rideable-robot-goat/",
+          "id": "https://rachelbythebay.com/w/2024/12/17/packets/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.cycleworld.com/story/motorcycle-news/kawasaki-bex-rideable-robot-goat/",
-          "publishedOn": "2024-12-18T20:48:08.000Z",
-          "wordCount": 2430,
-          "title": "Meet Bex, Kawasaki's Rideable Robot Goat",
-          "imageUrl": "https://www.cycleworld.com/resizer/aQ8Xh62jsuDm0jzyL8nleplUXwM=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/S6I7ES7UBFHALNOL2IJ52KXFSU.jpg"
-        },
-        {
-          "id": "https://www.greptile.com/blog/make-llms-shut-up",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.greptile.com/blog/make-llms-shut-up",
-          "publishedOn": "2024-12-18T16:31:46.000Z",
-          "wordCount": 2371,
-          "title": "How we made our AI code review bot stop leaving nitpicky comments",
-          "imageUrl": "https://greptile.com/shutup/shut.png"
-        },
-        {
-          "id": "https://gvolpe.com/blog/home-manager-dotfiles-management/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gvolpe.com/blog/home-manager-dotfiles-management/",
-          "publishedOn": "2024-12-18T14:04:49.000Z",
-          "wordCount": 2400,
-          "title": "Home Manager: Dotfiles Management",
-          "imageUrl": null
-        },
-        {
-          "id": "https://paul.blasuc.ci/posts/fault-report.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://paul.blasuc.ci/posts/fault-report.html",
-          "publishedOn": "2024-12-18T12:04:42.000Z",
-          "wordCount": 2803,
-          "title": "Fault Report – and alternative to Result in F#",
+          "link": "https://rachelbythebay.com/w/2024/12/17/packets/",
+          "publishedOn": "2024-12-18T15:39:25.000Z",
+          "wordCount": null,
+          "title": "Feed readers which don't take \"no\" for an answer",
           "imageUrl": null
         }
       ]
