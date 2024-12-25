@@ -6,6 +6,136 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2024/12/17/science/ultrablack-velvet-ant-brazil.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2024/12/17/science/ultrablack-velvet-ant-brazil.html",
+          "publishedOn": "2024-12-25T00:14:52.000Z",
+          "wordCount": null,
+          "title": "Brazilian velvet ant is ultrablack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.pcworld.com/article/2564783/gordon-mah-ung-remembered.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.pcworld.com/article/2564783/gordon-mah-ung-remembered.html",
+          "publishedOn": "2024-12-24T22:55:14.000Z",
+          "wordCount": 17472,
+          "title": "Gordon Mah Ung has died",
+          "imageUrl": "https://www.pcworld.com/wp-content/uploads/2024/12/Gordon-Mah-Ung-Primary-Enlarged-14.jpg?quality=50&strip=all&w=1024"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42505519",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42505519",
+          "publishedOn": "2024-12-24T22:51:23.000Z",
+          "wordCount": 500,
+          "title": "Ask HN: Why isn't Alex Krizhevsky as famous as Ilya Sutskever or G.Hinton?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Jaennaet/pISSStream",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Jaennaet/pISSStream",
+          "publishedOn": "2024-12-24T22:38:40.000Z",
+          "wordCount": 1347,
+          "title": "macOS menu bar app that shows how full the ISS urine tank is in real time",
+          "imageUrl": "https://opengraph.githubassets.com/c975039cb7788b48b40e65ddaf8d9dd9e2fd6ef6c10acd4cfa5e55e8615554a3/Jaennaet/pISSStream"
+        },
+        {
+          "id": "https://simonwillison.net/2024/Dec/24/qvq/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://simonwillison.net/2024/Dec/24/qvq/",
+          "publishedOn": "2024-12-24T21:25:32.000Z",
+          "wordCount": 1038,
+          "title": "Trying out QvQ – Qwen's new visual reasoning model",
+          "imageUrl": "https://static.simonwillison.net/static/2024/count-pelicans-easy.jpg"
+        },
+        {
+          "id": "https://www.abortretry.fail/p/shockley-semiconductor-laboratory",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.abortretry.fail/p/shockley-semiconductor-laboratory",
+          "publishedOn": "2024-12-24T20:29:09.000Z",
+          "wordCount": 5449,
+          "title": "Shockley Semiconductor Laboratory",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59ed66c0-5bac-42e8-b755-1507ecaee17e_1920x1530.jpeg"
+        },
+        {
+          "id": "https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d",
+          "author": null,
+          "description": "Comments",
+          "link": "https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d",
+          "publishedOn": "2024-12-24T19:39:40.000Z",
+          "wordCount": 44810,
+          "title": "Masks, Smoke, and Mirrors: The story of EgyptAir flight 804",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*hZVL6dgisJ-bNPFTsdKvEQ.png"
+        },
+        {
+          "id": "https://svbrain.xyz/2024/12/20/cerebrum",
+          "author": null,
+          "description": "Comments",
+          "link": "https://svbrain.xyz/2024/12/20/cerebrum",
+          "publishedOn": "2024-12-24T18:14:19.000Z",
+          "wordCount": 840,
+          "title": "Cerebrum: Simulate and infer synaptic connectivity in large-scale brain networks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://torrentfreak.com/cloudflare-must-block-piracy-shield-domains-and-ip-addresses-across-its-service-241224/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://torrentfreak.com/cloudflare-must-block-piracy-shield-domains-and-ip-addresses-across-its-service-241224/",
+          "publishedOn": "2024-12-24T17:35:13.000Z",
+          "wordCount": 1672,
+          "title": "Court of Milan orders Cloudflare to block ‘piracy shield’ domains, IP addresses",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theestablished.com/self/health/why-making-friends-as-an-adult-is-harder-than-ever",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theestablished.com/self/health/why-making-friends-as-an-adult-is-harder-than-ever",
+          "publishedOn": "2024-12-24T15:40:28.000Z",
+          "wordCount": 90,
+          "title": "Why making friends as an adult is harder",
+          "imageUrl": "https://gumlet.assettype.com/theestablished/2024-09-10/msutq1d5/Story5_Why making friends as an adult is harder than ever.jpg"
+        },
+        {
+          "id": "https://byteofdev.com/posts/javascript-benchmarking-mess/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://byteofdev.com/posts/javascript-benchmarking-mess/",
+          "publishedOn": "2024-12-24T12:37:45.000Z",
+          "wordCount": 2596,
+          "title": "JavaScript Benchmarking Is a Mess",
+          "imageUrl": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/JavaScriptBenchmarksMess_xwYxJuV0LU"
+        },
+        {
+          "id": "https://mathstodon.xyz/@johncarlosbaez/113703444230936435",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mathstodon.xyz/@johncarlosbaez/113703444230936435",
+          "publishedOn": "2024-12-24T03:41:22.000Z",
+          "wordCount": 130,
+          "title": "The number pi has an evil twin",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/113/703/358/405/037/392/original/12262b712b868b80.jpg"
+        },
+        {
+          "id": "https://www.rfleury.com/p/demystifying-debuggers-part-2-the",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.rfleury.com/p/demystifying-debuggers-part-2-the",
+          "publishedOn": "2024-12-24T01:33:31.000Z",
+          "wordCount": 14342,
+          "title": "Demystifying Debuggers, Part 2: The Anatomy of a Running Program",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F808c2a1f-73f3-4f53-8263-6261d6de9959_3192x2048.png"
+        },
+        {
           "id": "https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391",
           "author": null,
           "description": "Comments",
@@ -22,17 +152,7 @@
           "link": "https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference",
           "publishedOn": "2024-12-24T00:17:18.000Z",
           "wordCount": 1637,
-          "title": "Making AMD GPUs competitive for LLM inference",
-          "imageUrl": null
-        },
-        {
-          "id": "https://onlinelibrary.wiley.com/doi/10.1002/spe.3296",
-          "author": null,
-          "description": "Comments",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1002/spe.3296",
-          "publishedOn": "2024-12-23T23:48:08.000Z",
-          "wordCount": null,
-          "title": "Parsing millions of URLs per Second",
+          "title": "Making AMD GPUs competitive for LLM inference (2023)",
           "imageUrl": null
         },
         {
@@ -42,158 +162,48 @@
           "link": "https://seangeiger.substack.com/p/why-are-cancer-guidelines-stuck-in",
           "publishedOn": "2024-12-23T23:36:37.000Z",
           "wordCount": null,
-          "title": "Why Are Cancer Guidelines Stuck in PDFs?",
+          "title": "Why are cancer guidelines stuck in PDFs?",
           "imageUrl": null
         },
         {
-          "id": "https://github.com/isledecomp/isle",
+          "id": "https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/isledecomp/isle",
-          "publishedOn": "2024-12-23T20:03:37.000Z",
-          "wordCount": 3586,
-          "title": "Show HN: Complete decompilation of Lego Island",
-          "imageUrl": "https://opengraph.githubassets.com/aef53e379e77bc3249aa5605068daf09f42fe647286669944cd256fa8fbe9383/isledecomp/isle"
-        },
-        {
-          "id": "https://manx-docs.org/about.php",
-          "author": null,
-          "description": "Comments",
-          "link": "https://manx-docs.org/about.php",
-          "publishedOn": "2024-12-23T19:59:57.000Z",
-          "wordCount": 1016,
-          "title": "Manx – a catalog of manuals for old computers",
+          "link": "https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/",
+          "publishedOn": "2024-12-23T20:29:29.000Z",
+          "wordCount": 6527,
+          "title": "A Practitioner's Guide to Wide Events",
           "imageUrl": null
         },
         {
-          "id": "https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known",
+          "id": "https://www.youtube.com/watch?v=JfZxOuc9Qwk",
           "author": null,
           "description": "Comments",
-          "link": "https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known",
+          "link": "https://www.youtube.com/watch?v=JfZxOuc9Qwk",
           "publishedOn": "2024-12-23T19:49:34.000Z",
           "wordCount": null,
-          "title": "The journey to save the last known 43-inch Sony CRT",
+          "title": "What happened to the world's largest tube TV? [video]",
           "imageUrl": null
         },
         {
-          "id": "https://interconnected.org/home/2024/12/23/jailbreaking",
+          "id": "https://eclecticlight.co/2024/12/23/will-that-hub-or-dock-slow-your-ssds-or-even-make-them-faster/",
           "author": null,
           "description": "Comments",
-          "link": "https://interconnected.org/home/2024/12/23/jailbreaking",
-          "publishedOn": "2024-12-23T19:28:06.000Z",
-          "wordCount": 1994,
-          "title": "Narrative Jailbreaking for Fun and Profit",
-          "imageUrl": "https://interconnected.org/home/2024/12/23/jailbreaking.png?v=1"
+          "link": "https://eclecticlight.co/2024/12/23/will-that-hub-or-dock-slow-your-ssds-or-even-make-them-faster/",
+          "publishedOn": "2024-12-23T14:45:10.000Z",
+          "wordCount": 7638,
+          "title": "Will that hub or dock slow your SSDs, or even make them faster?",
+          "imageUrl": "https://eclecticlight.co/wp-content/uploads/2024/12/tb1m2at20gbps.png"
         },
         {
-          "id": "https://blog.pgvecto.rs/why-hnsw-is-not-the-answer",
+          "id": "https://arxiv.org/abs/2211.00241",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.pgvecto.rs/why-hnsw-is-not-the-answer",
-          "publishedOn": "2024-12-23T18:24:09.000Z",
-          "wordCount": 11132,
-          "title": "Why HNSW is not the answer and disk-based alternatives might be more practical",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1734489736749%2F013834d9-0f88-4853-b868-1efdf35f7270.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42496436",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=42496436",
-          "publishedOn": "2024-12-23T18:20:08.000Z",
-          "wordCount": 108,
-          "title": "OneText (YC W23) Is Hiring a Founding Growth Marketer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://directory.llmstxt.cloud/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://directory.llmstxt.cloud/",
-          "publishedOn": "2024-12-23T18:02:02.000Z",
-          "wordCount": 1894,
-          "title": "llms.txt directory",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.goodfire.ai/papers/mapping-latent-spaces-llama/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.goodfire.ai/papers/mapping-latent-spaces-llama/",
-          "publishedOn": "2024-12-23T17:18:17.000Z",
-          "wordCount": 1890,
-          "title": "Show HN: Llama 3.3 70B Sparse Autoencoders with API access",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arxiv.org/abs/2412.15143",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2412.15143",
-          "publishedOn": "2024-12-23T16:44:28.000Z",
-          "wordCount": 766,
-          "title": "Supernovae Evidence for Foundational Change to Cosmological Models",
+          "link": "https://arxiv.org/abs/2211.00241",
+          "publishedOn": "2024-12-23T13:10:15.000Z",
+          "wordCount": 735,
+          "title": "Adversarial policies beat superhuman Go AIs (2023)",
           "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/",
-          "publishedOn": "2024-12-23T15:37:20.000Z",
-          "wordCount": 4038,
-          "title": "C++ is an absolute blast",
-          "imageUrl": "https://learncodethehardway.com//images/blog/meta_programming_cocaine.jpg"
-        },
-        {
-          "id": "https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/",
-          "publishedOn": "2024-12-23T15:30:35.000Z",
-          "wordCount": 2764,
-          "title": "Fogus: Things and Stuff of 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://keypub.sh/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://keypub.sh/",
-          "publishedOn": "2024-12-23T15:19:08.000Z",
-          "wordCount": 720,
-          "title": "Show HN: Keypub.sh – OAuth for the terminal using SSH keys",
-          "imageUrl": null
-        },
-        {
-          "id": "https://rubenerd.com/building-a-replacement-486-cmos-motherboard-battery/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://rubenerd.com/building-a-replacement-486-cmos-motherboard-battery/",
-          "publishedOn": "2024-12-23T14:52:21.000Z",
-          "wordCount": 922,
-          "title": "Building a replacement 386/486 CMOS battery",
-          "imageUrl": "https://rubenerd.com/files/2024/goodbye-varta@2x.jpg"
-        },
-        {
-          "id": "https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html",
-          "publishedOn": "2024-12-23T14:47:56.000Z",
-          "wordCount": 1986,
-          "title": "Commercial tea bags release microplastics, entering human cells",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/commercial-tea-bags-re.jpg"
-        },
-        {
-          "id": "https://denisdefreyne.com/articles/2024-memoization/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://denisdefreyne.com/articles/2024-memoization/",
-          "publishedOn": "2024-12-23T13:37:13.000Z",
-          "wordCount": 5848,
-          "title": "The intricacies of implementing memoization in Ruby",
-          "imageUrl": "https://denisdefreyne.com/articles/2024-memoization/card.png"
         },
         {
           "id": "https://ploum.net/2024-12-23-julius-en.html",
@@ -201,109 +211,99 @@
           "description": "Comments",
           "link": "https://ploum.net/2024-12-23-julius-en.html",
           "publishedOn": "2024-12-23T13:03:59.000Z",
-          "wordCount": 1515,
+          "wordCount": 1516,
           "title": "My Colleague Julius",
           "imageUrl": "https://ploum.net/files/clickworker.jpg"
         },
         {
-          "id": "https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark",
+          "id": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD896.html",
           "author": null,
           "description": "Comments",
-          "link": "https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark",
-          "publishedOn": "2024-12-23T12:57:45.000Z",
-          "wordCount": 9503,
-          "title": "Xerox to acquire Lexmark",
+          "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD896.html",
+          "publishedOn": "2024-12-23T12:03:18.000Z",
+          "wordCount": 1185,
+          "title": "On the nature of computing science (1984)",
           "imageUrl": null
         },
         {
-          "id": "https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/",
+          "id": "https://yoric.github.io/post/rust-refinement-types/",
           "author": null,
           "description": "Comments",
-          "link": "https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/",
-          "publishedOn": "2024-12-23T10:50:30.000Z",
-          "wordCount": 6022,
-          "title": "Can AI do maths yet? Thoughts from a mathematician",
-          "imageUrl": "https://xenaproject.wordpress.com/wp-content/uploads/2020/05/cropped-twitchpfc.png?w=200"
-        },
-        {
-          "id": "https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=41658",
-          "author": null,
-          "description": "Comments",
-          "link": "https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=41658",
-          "publishedOn": "2024-12-23T05:16:27.000Z",
-          "wordCount": 3595,
-          "title": "WSDA, USDA announce eradication of northern giant hornet from the United States",
+          "link": "https://yoric.github.io/post/rust-refinement-types/",
+          "publishedOn": "2024-12-23T09:15:27.000Z",
+          "wordCount": 2373,
+          "title": "What would it take to add refinement types to Rust?",
           "imageUrl": null
         },
         {
-          "id": "https://www.nature.com/immersive/d41586-024-04050-5/index.html",
+          "id": "https://news.ycombinator.com/item?id=42492508",
           "author": null,
           "description": "Comments",
-          "link": "https://www.nature.com/immersive/d41586-024-04050-5/index.html",
-          "publishedOn": "2024-12-22T14:01:06.000Z",
+          "link": "https://news.ycombinator.com/item?id=42492508",
+          "publishedOn": "2024-12-23T07:23:28.000Z",
+          "wordCount": 56662,
+          "title": "Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cly4q9d5vx8o",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.co.uk/news/articles/cly4q9d5vx8o",
+          "publishedOn": "2024-12-23T07:22:56.000Z",
+          "wordCount": 7801,
+          "title": "The fair dreamed up by art legends – unsealed after 44 years",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/46d1/live/86321bb0-bedf-11ef-a0f2-fd81ae5962f4.jpg"
+        },
+        {
+          "id": "https://github.com/hoarder-app/hoarder",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/hoarder-app/hoarder",
+          "publishedOn": "2024-12-22T11:34:17.000Z",
+          "wordCount": 3713,
+          "title": "Hoarder: Self-hostable bookmark-everything app",
+          "imageUrl": "https://opengraph.githubassets.com/15524b586c04af8daccd8425fa86b9a7c8cf2df632aced46edba07773645654e/hoarder-app/hoarder"
+        },
+        {
+          "id": "https://kyunghyuncho.me/i-sensed-anxiety-and-frustration-at-neurips24/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kyunghyuncho.me/i-sensed-anxiety-and-frustration-at-neurips24/",
+          "publishedOn": "2024-12-22T05:48:55.000Z",
+          "wordCount": 2269,
+          "title": "i sensed anxiety and frustration at NeurIPS 24",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.forgottenweapons.com/wp-content/uploads/2024/12/Mamba-production-meeting.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.forgottenweapons.com/wp-content/uploads/2024/12/Mamba-production-meeting.pdf",
+          "publishedOn": "2024-12-22T01:45:23.000Z",
+          "wordCount": 198352,
+          "title": "Minutes of a Meeting Held at Gear Ratio on Tuesday 13 June 78 [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nyuu.page/essays/solidity/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nyuu.page/essays/solidity/",
+          "publishedOn": "2024-12-21T01:10:34.000Z",
+          "wordCount": 6783,
+          "title": "Saving Nanocap Speculators from Themselves",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wsj.com/finance/stocks/stock-market-trading-apps-addiction-afecb07a",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/finance/stocks/stock-market-trading-apps-addiction-afecb07a",
+          "publishedOn": "2024-12-20T04:21:50.000Z",
           "wordCount": null,
-          "title": "AI Decodes the Calls of the Wild",
+          "title": "More men are addicted to the 'crack cocaine' of the stock market",
           "imageUrl": null
-        },
-        {
-          "id": "https://buildingslack.com/the-death-of-glitch-the-birth-of-slack/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://buildingslack.com/the-death-of-glitch-the-birth-of-slack/",
-          "publishedOn": "2024-12-22T10:20:39.000Z",
-          "wordCount": 3138,
-          "title": "The death of Glitch, the birth of Slack",
-          "imageUrl": "https://buildingslack.com/content/images/size/w1200/2024/12/Glitch-Logo.jpg"
-        },
-        {
-          "id": "https://www.2solitude.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.2solitude.com/",
-          "publishedOn": "2024-12-22T08:24:15.000Z",
-          "wordCount": 740,
-          "title": "2solitude – Honeywell TPE 331-12 refitted Antonov AN-2 camper",
-          "imageUrl": "http://static1.squarespace.com/static/62757a9c4b9f3010d64f6fe4/t/62b0c6ee24c95f0651cd4e16/1655752430814/2Solitude+Social+Sharing+Image.jpg?format=1500w"
-        },
-        {
-          "id": "https://ryelang.org/cookbook/working-with/spreadsheets/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ryelang.org/cookbook/working-with/spreadsheets/",
-          "publishedOn": "2024-12-21T13:23:24.000Z",
-          "wordCount": 3798,
-          "title": "Spreadsheets 1/3 – Rye Language",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/samwho/spacer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/samwho/spacer",
-          "publishedOn": "2024-12-21T11:27:39.000Z",
-          "wordCount": 1614,
-          "title": "CLI tool to insert spacers when command output stops",
-          "imageUrl": "https://opengraph.githubassets.com/e9c0ddc4e8d73e76233ca70209b4c1d83095d73e95af3cf29e850e6c551d442e/samwho/spacer"
-        },
-        {
-          "id": "https://arstechnica.com/information-technology/2024/12/new-physics-sim-trains-robots-430000-times-faster-than-reality/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arstechnica.com/information-technology/2024/12/new-physics-sim-trains-robots-430000-times-faster-than-reality/",
-          "publishedOn": "2024-12-20T10:20:17.000Z",
-          "wordCount": 2369,
-          "title": "New physics SIM trains robots 430k times faster than reality",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/genesis_teapot-1152x648.jpg"
-        },
-        {
-          "id": "https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9",
-          "publishedOn": "2024-12-19T16:47:51.000Z",
-          "wordCount": 4037,
-          "title": "Happy 400th birthday to the world’s oldest bond",
-          "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F749ae0b5-b368-4e20-8e70-d779e6a5b560.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1"
         }
       ]
     }
