@@ -6,64 +6,284 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://yc-map.vercel.app/",
+          "id": "https://theprintshop.club/2021/07/12/a-tongue-in-cheek-look-back-at-broderbunds-the-print-shop/",
           "author": null,
           "description": "Comments",
-          "link": "https://yc-map.vercel.app/",
-          "publishedOn": "2024-12-25T22:37:31.000Z",
-          "wordCount": 16,
-          "title": "Show HN: Map of YC Startups",
+          "link": "https://theprintshop.club/2021/07/12/a-tongue-in-cheek-look-back-at-broderbunds-the-print-shop/",
+          "publishedOn": "2024-12-26T23:53:52.000Z",
+          "wordCount": 2622,
+          "title": "A Tongue-in-Cheek Look Back at Broderbund's 'The Print Shop'",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=Kqx9blbYDB0",
+          "id": "https://phys.org/news/2024-12-thermodynamic-gold-earth-surface.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=Kqx9blbYDB0",
-          "publishedOn": "2024-12-25T21:54:14.000Z",
+          "link": "https://phys.org/news/2024-12-thermodynamic-gold-earth-surface.html",
+          "publishedOn": "2024-12-26T23:11:21.000Z",
+          "wordCount": 2051,
+          "title": "Thermodynamic model identifies how gold reaches Earth's surface",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/study-identifies-how-g.jpg"
+        },
+        {
+          "id": "https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering",
+          "publishedOn": "2024-12-26T23:04:17.000Z",
+          "wordCount": 4922,
+          "title": "The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something",
+          "imageUrl": "https://images.unsplash.com/photo-1536390069759-2db770b49d77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxfHxjbHVzdGVyaW5nfGVufDB8fHx8MTcyODgxNjg0MHww&ixlib=rb-4.0.3&q=80&w=1080"
+        },
+        {
+          "id": "https://den.dev/blog/reverse-engineer-stream-deck-plus/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://den.dev/blog/reverse-engineer-stream-deck-plus/",
+          "publishedOn": "2024-12-26T22:46:06.000Z",
+          "wordCount": 6682,
+          "title": "Reverse Engineering the Stream Deck+",
+          "imageUrl": "https://assets.den.dev/images/postmedia/reverse-engineer-stream-deck-plus/header.webp"
+        },
+        {
+          "id": "https://www.universetoday.com/170211/neutron-stars-with-less-mass-than-a-white-dwarf-might-exist-and-ligo-and-virgo-could-find-them/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.universetoday.com/170211/neutron-stars-with-less-mass-than-a-white-dwarf-might-exist-and-ligo-and-virgo-could-find-them/",
+          "publishedOn": "2024-12-26T22:34:50.000Z",
+          "wordCount": 2020,
+          "title": "Neutron Stars with Less Mass Than a White Dwarf Might Exist",
+          "imageUrl": "https://www.universetoday.com/wp-content/uploads/2024/12/neutronstar.jpg"
+        },
+        {
+          "id": "https://www.cell.com/device/fulltext/S2666-9986(24)00583-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666998624005830%3Fshowall%3Dtrue",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cell.com/device/fulltext/S2666-9986(24)00583-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666998624005830%3Fshowall%3Dtrue",
+          "publishedOn": "2024-12-26T21:43:47.000Z",
           "wordCount": null,
-          "title": "I Saved an Electron Microscope from the Trash [video]",
+          "title": "Magnetic swarm intelligence of mass-produced, programmable microrobot assemblies",
           "imageUrl": null
         },
         {
-          "id": "https://igorstechnoclub.com/server-sent-events-sse-are-underrated/",
+          "id": "https://chemrxiv.org/engage/chemrxiv/article-details/6769dc3a81d2151a02b75ef6",
           "author": null,
           "description": "Comments",
-          "link": "https://igorstechnoclub.com/server-sent-events-sse-are-underrated/",
-          "publishedOn": "2024-12-25T21:35:55.000Z",
-          "wordCount": 2298,
-          "title": "Server-Sent Events (SSE) Are Underrated",
+          "link": "https://chemrxiv.org/engage/chemrxiv/article-details/6769dc3a81d2151a02b75ef6",
+          "publishedOn": "2024-12-26T21:04:51.000Z",
+          "wordCount": 13768,
+          "title": "Inverse Design of Complex Nanoparticle Heterostructures via DL on Graphs",
+          "imageUrl": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6769dc3a81d2151a02b75ef6/largeThumb/inverse-design-of-complex-nanoparticle-heterostructures-via-deep-learning-on-heterogeneous-graphs.jpg"
+        },
+        {
+          "id": "https://acko.net/blog/subpixel-distance-transform/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://acko.net/blog/subpixel-distance-transform/",
+          "publishedOn": "2024-12-26T20:48:01.000Z",
+          "wordCount": 6102,
+          "title": "Sub-pixel distance transform (2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ghostty.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ghostty.org/",
+          "publishedOn": "2024-12-26T20:14:57.000Z",
+          "wordCount": 56042,
+          "title": "Ghostty 1.0",
+          "imageUrl": "/social-share-card.jpg"
+        },
+        {
+          "id": "https://brennan.io/2015/01/16/write-a-shell-in-c/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brennan.io/2015/01/16/write-a-shell-in-c/",
+          "publishedOn": "2024-12-26T19:53:39.000Z",
+          "wordCount": 3769,
+          "title": "Write a Shell in C (2015)",
+          "imageUrl": "https://brennan.io/images/me.jpg"
+        },
+        {
+          "id": "https://sherwood.news/tech/openai-is-visa/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sherwood.news/tech/openai-is-visa/",
+          "publishedOn": "2024-12-26T19:44:51.000Z",
+          "wordCount": 14445,
+          "title": "OpenAI is Visa – Buttering up the government to retain a monopoly",
+          "imageUrl": "https://sherwoodnews.imgix.net/VISA-A.png?w=1600&auto=compress%2Cformat&cs=srgb"
+        },
+        {
+          "id": "https://www.jmeiners.com/lc3-vm/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jmeiners.com/lc3-vm/",
+          "publishedOn": "2024-12-26T19:30:18.000Z",
+          "wordCount": 7758,
+          "title": "Write Your Own Virtual Machine (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nflatrea.bearblog.dev/lua-is-so-underrated/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nflatrea.bearblog.dev/lua-is-so-underrated/",
+          "publishedOn": "2024-12-26T19:18:10.000Z",
+          "wordCount": 1093,
+          "title": "Lua Is So Underrated",
           "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
         },
         {
-          "id": "https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau",
+          "id": "https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau",
-          "publishedOn": "2024-12-25T21:25:13.000Z",
-          "wordCount": 676,
-          "title": "Air missile accident emerges as probable cause of Azerbaijan E190tragedy",
+          "link": "https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html",
+          "publishedOn": "2024-12-26T18:27:49.000Z",
+          "wordCount": 34009,
+          "title": "A Tour of WebAuthn",
           "imageUrl": null
         },
         {
-          "id": "https://www.os2museum.com/wp/i-thought-i-found-a-bug/",
+          "id": "https://4zm.org/2024/12/25/a-simple-elf.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.os2museum.com/wp/i-thought-i-found-a-bug/",
-          "publishedOn": "2024-12-25T19:55:07.000Z",
-          "wordCount": 3020,
-          "title": "I Thought I Found a Bug",
+          "link": "https://4zm.org/2024/12/25/a-simple-elf.html",
+          "publishedOn": "2024-12-26T18:10:23.000Z",
+          "wordCount": 3128,
+          "title": "A Simple ELF",
           "imageUrl": null
         },
         {
-          "id": "https://bernsteinbear.com/blog/cps/",
+          "id": "https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/",
           "author": null,
           "description": "Comments",
-          "link": "https://bernsteinbear.com/blog/cps/",
-          "publishedOn": "2024-12-25T19:43:10.000Z",
-          "wordCount": 2897,
-          "title": "Into CPS, Never to Return",
-          "imageUrl": "https://bernsteinbear.com/favicon.ico"
+          "link": "https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/",
+          "publishedOn": "2024-12-26T17:49:14.000Z",
+          "wordCount": 4724,
+          "title": "Arcan 0.7 – The All Tomato",
+          "imageUrl": "https://arcan-fe.com/wp-content/uploads/2024/12/cropped-arcanicon.png"
+        },
+        {
+          "id": "https://www.australiangeographic.com.au/topics/history-culture/2024/09/gondwanaland/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.australiangeographic.com.au/topics/history-culture/2024/09/gondwanaland/",
+          "publishedOn": "2024-12-26T17:39:10.000Z",
+          "wordCount": 5195,
+          "title": "Gondwanaland: The search for a land before (human) time",
+          "imageUrl": "https://www.australiangeographic.com.au/wp-content/uploads/2024/09/GettyImages-1495829576-resized-scaled.jpg"
+        },
+        {
+          "id": "https://cullfront.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cullfront.com/",
+          "publishedOn": "2024-12-26T17:37:00.000Z",
+          "wordCount": 142,
+          "title": "Cull Front: A new front end generator for Htmx and AlpineJS",
+          "imageUrl": "https://cullfront.com/bubblediagram.jpg"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer",
+          "publishedOn": "2024-12-26T17:33:54.000Z",
+          "wordCount": 1629,
+          "title": "Ocular AI (YC W24) Is Hiring a Founding Backend Engineer ($120K to $200K, SF)",
+          "imageUrl": "https://yc-workatastartup-production.s3.amazonaws.com/jobs_company_jobs/images/71525/7c9a3eaf09811d4451795197db324f8a524fe664.png?1735236374"
+        },
+        {
+          "id": "https://github.com/lisyarus/webgpu-raytracer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/lisyarus/webgpu-raytracer",
+          "publishedOn": "2024-12-26T17:24:28.000Z",
+          "wordCount": 3115,
+          "title": "Show HN: I've made a Monte-Carlo raytracer for glTF scenes in WebGPU",
+          "imageUrl": "https://repository-images.githubusercontent.com/905214299/2eddefcc-db1d-4fe8-a6d1-08ad37a1b4e2"
+        },
+        {
+          "id": "https://www.neurology.org/doi/10.1212/WNL.0000000000210212",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.neurology.org/doi/10.1212/WNL.0000000000210212",
+          "publishedOn": "2024-12-26T16:40:24.000Z",
+          "wordCount": null,
+          "title": "Early Improvements with Atogepant for the Preventive Treatment of Migraine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://orkohunter.net/blog/the-trap-of-introversion/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://orkohunter.net/blog/the-trap-of-introversion/",
+          "publishedOn": "2024-12-26T09:29:48.000Z",
+          "wordCount": 1731,
+          "title": "The trap of \"I am not an extrovert\"",
+          "imageUrl": "https://orkohunter.net/static/97384c1d763946efd1bea6d092863466/497c6/banner.png"
+        },
+        {
+          "id": "https://pbat.ch/recurse/demos/trio/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pbat.ch/recurse/demos/trio/",
+          "publishedOn": "2024-12-26T05:14:00.000Z",
+          "wordCount": 3,
+          "title": "Show HN: A singing synthesizer for the browser with automatic 3-part harmony",
+          "imageUrl": null
+        },
+        {
+          "id": "https://boris.okunskiy.name/posts/blender-differential-growth",
+          "author": null,
+          "description": "Comments",
+          "link": "https://boris.okunskiy.name/posts/blender-differential-growth",
+          "publishedOn": "2024-12-26T04:41:31.000Z",
+          "wordCount": 290,
+          "title": "Differential Growth Addon for Blender",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/meyfa/CobolCraft",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/meyfa/CobolCraft",
+          "publishedOn": "2024-12-26T03:59:54.000Z",
+          "wordCount": 3570,
+          "title": "A Minecraft server written in COBOL",
+          "imageUrl": "https://opengraph.githubassets.com/b39d7cdeabb47fbe3e533d403eda86d04f2324198950393f885c02f3b3b8f609/meyfa/CobolCraft"
+        },
+        {
+          "id": "https://github.com/blackcandy-org/blackcandy",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/blackcandy-org/blackcandy",
+          "publishedOn": "2024-12-26T03:17:34.000Z",
+          "wordCount": 5778,
+          "title": "Blackcandy: Self hosted music streaming server",
+          "imageUrl": "https://opengraph.githubassets.com/46e79589f99fe95c4dfa70501c2de84bb82767c36370ea39cd4cebb2dd7ca5ae/blackcandy-org/blackcandy"
+        },
+        {
+          "id": "https://github.com/siyuan-note/siyuan",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/siyuan-note/siyuan",
+          "publishedOn": "2024-12-26T02:26:39.000Z",
+          "wordCount": 8551,
+          "title": "Siyuan: Privacy-first, self-hosted personal knowledge management software",
+          "imageUrl": "https://repository-images.githubusercontent.com/291438522/088c9359-bb50-4be5-a5d9-b638bcc29566"
+        },
+        {
+          "id": "https://aphyr.com/posts/378-seconds-since-the-epoch",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aphyr.com/posts/378-seconds-since-the-epoch",
+          "publishedOn": "2024-12-26T00:59:27.000Z",
+          "wordCount": 1053,
+          "title": "Seconds Since the Epoch",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/drk1wi/portspoof",
@@ -73,197 +293,7 @@
           "publishedOn": "2024-12-25T17:44:04.000Z",
           "wordCount": 4220,
           "title": "Portspoof: Emulate a valid service on all 65535 TCP ports",
-          "imageUrl": "https://opengraph.githubassets.com/a48f021501bf20109bb26333ef509598735528ffabc8b37b28b7df4a61ac3958/drk1wi/portspoof"
-        },
-        {
-          "id": "https://sherlockproject.xyz/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sherlockproject.xyz/",
-          "publishedOn": "2024-12-25T17:14:45.000Z",
-          "wordCount": 511,
-          "title": "Sherlock: Hunt down social media accounts by username across 400 social networks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42509730",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=42509730",
-          "publishedOn": "2024-12-25T16:58:26.000Z",
-          "wordCount": 4861,
-          "title": "Ask HN: Resources for general purpose GPU development on Apple's M* chips?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://fstar-lang.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fstar-lang.org/",
-          "publishedOn": "2024-12-25T13:16:40.000Z",
-          "wordCount": 2411,
-          "title": "F*: A proof oriented general purpose programming language",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/",
-          "publishedOn": "2024-12-25T06:40:07.000Z",
-          "wordCount": 1535,
-          "title": "Ruby 3.4.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IQqtsm-bBRU",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=IQqtsm-bBRU",
-          "publishedOn": "2024-12-25T06:08:45.000Z",
-          "wordCount": null,
-          "title": "This open problem taught me what topology is [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://papermatch.mitanshu.tech/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://papermatch.mitanshu.tech/",
-          "publishedOn": "2024-12-25T05:44:12.000Z",
-          "wordCount": null,
-          "title": "Show HN: I made a website to semantically search ArXiv papers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.fixbrowser.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.fixbrowser.org/",
-          "publishedOn": "2024-12-25T03:08:13.000Z",
-          "wordCount": null,
-          "title": "Show HN: FixBrowser – a lightweight web browser created from scratch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blurbusters.com/crt-simulation-in-a-gpu-shader-looks-better-than-bfi/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blurbusters.com/crt-simulation-in-a-gpu-shader-looks-better-than-bfi/",
-          "publishedOn": "2024-12-25T01:26:29.000Z",
-          "wordCount": 4528,
-          "title": "CRT Simulation in a GPU Shader, Looks Better Than Black Frame Insertion",
-          "imageUrl": "https://blurbusters.com/wp-content/uploads/2024/12/crt-simulation-animated-718x404.gif"
-        },
-        {
-          "id": "https://github.com/Jaennaet/pISSStream",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Jaennaet/pISSStream",
-          "publishedOn": "2024-12-24T22:38:40.000Z",
-          "wordCount": 1944,
-          "title": "macOS menu bar app that shows how full the ISS urine tank is in real time",
-          "imageUrl": "https://repository-images.githubusercontent.com/905341353/c3e7a044-87a7-46f3-abbf-0ad68257e2d0"
-        },
-        {
-          "id": "https://danielmangum.com/posts/vpr-nordic-risc-v-processor/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://danielmangum.com/posts/vpr-nordic-risc-v-processor/",
-          "publishedOn": "2024-12-24T15:50:28.000Z",
-          "wordCount": 2809,
-          "title": "VPR: Nordic's First RISC-V Processor",
-          "imageUrl": "https://danielmangum.com/images/twitter-card.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J1GIF6VNipE",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=J1GIF6VNipE",
-          "publishedOn": "2024-12-23T20:29:44.000Z",
-          "wordCount": null,
-          "title": "Converting shopping malls into apartments [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.dbos.dev/blog/ezrgb-dbos-light-shows",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.dbos.dev/blog/ezrgb-dbos-light-shows",
-          "publishedOn": "2024-12-23T14:17:51.000Z",
-          "wordCount": 964,
-          "title": "The software you need for holiday overdecoration",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://www.theguardian.com/global-development/2024/dec/20/ugandan-runner-deo-kato-cape-town-london-hope-racism-europe-africa",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theguardian.com/global-development/2024/dec/20/ugandan-runner-deo-kato-cape-town-london-hope-racism-europe-africa",
-          "publishedOn": "2024-12-23T14:08:04.000Z",
-          "wordCount": 4744,
-          "title": "Ugandan runner due to arrive in London after 516 days, 7,700 miles on the road",
-          "imageUrl": "https://i.guim.co.uk/img/media/bc94cb80eb063b2bcad60531bc4d681f8228ad9c/0_51_2600_1560/master/2600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1fa0d7246bdc224961c4efa975b217e"
-        },
-        {
-          "id": "https://www.theguardian.com/world/2024/dec/23/swedish-cabin-frontline-possible-hybrid-war-undersea-cables-sabotage",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theguardian.com/world/2024/dec/23/swedish-cabin-frontline-possible-hybrid-war-undersea-cables-sabotage",
-          "publishedOn": "2024-12-23T13:31:22.000Z",
-          "wordCount": 4839,
-          "title": "The Swedish cabin on the frontline of a possible hybrid war",
-          "imageUrl": "https://i.guim.co.uk/img/media/6d956f86d8842a1ddb125936ee2ba182562da86a/0_0_8192_4915/master/8192.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7c9751de0249ea1ecb9d896f9cd66bd"
-        },
-        {
-          "id": "https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development/",
-          "publishedOn": "2024-12-23T12:36:03.000Z",
-          "wordCount": 2164,
-          "title": "A new learning experience on MDN",
-          "imageUrl": "https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development/featured.png"
-        },
-        {
-          "id": "https://supersnowflakemaker.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://supersnowflakemaker.com/",
-          "publishedOn": "2024-12-23T12:09:28.000Z",
-          "wordCount": 37,
-          "title": "Show HN: Super Snowflake Maker",
-          "imageUrl": "https://supersnowflakemaker.com/og3.png?2"
-        },
-        {
-          "id": "https://laladrik.xyz/blog/flameGraphViewer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://laladrik.xyz/blog/flameGraphViewer/",
-          "publishedOn": "2024-12-23T10:43:57.000Z",
-          "wordCount": 6582,
-          "title": "Navtive FlameGraphViewer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxblog.io/immutable-linux-distros-are-they-right-for-you-take-the-test/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://linuxblog.io/immutable-linux-distros-are-they-right-for-you-take-the-test/",
-          "publishedOn": "2024-12-23T09:39:41.000Z",
-          "wordCount": 3444,
-          "title": "Are Immutable Linux Distros right for you?",
-          "imageUrl": "https://static.linuxblog.io/wp-content/uploads/2024/12/amber-like-immutable-linux.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=igarEERjUuQ",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=igarEERjUuQ",
-          "publishedOn": "2024-12-23T00:25:40.000Z",
-          "wordCount": null,
-          "title": "Better Scala Builds with the Mill Build Tool, Functional Scala Online 2024 [video]",
-          "imageUrl": null
+          "imageUrl": "https://opengraph.githubassets.com/1b80f946af61f18aeeaf141d858a54773b63ac2c38dd93adf4b78ecfcbf4e9bf/drk1wi/portspoof"
         },
         {
           "id": "https://minds.md/zakirullin/cognitive",
@@ -271,38 +301,8 @@
           "description": "Comments",
           "link": "https://minds.md/zakirullin/cognitive",
           "publishedOn": "2024-12-22T22:18:12.000Z",
-          "wordCount": 4200,
+          "wordCount": 4208,
           "title": "Cognitive load is what matters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://spectrum.ieee.org/quantum-tokens",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spectrum.ieee.org/quantum-tokens",
-          "publishedOn": "2024-12-22T11:53:36.000Z",
-          "wordCount": 10492,
-          "title": "Unforgeable Quantum Tokens Delivered over Fiber Network",
-          "imageUrl": "https://spectrum.ieee.org/media-library/the-glowing-outline-of-a-key-with-a-quantinnum-logo-on-its-bow-set-against-a-dark-plexus-background.jpg?id=55360904&width=1200&height=600&coordinates=0%2C239%2C0%2C240"
-        },
-        {
-          "id": "https://jesipow.com/blog/postgres-reads-cause-writes/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jesipow.com/blog/postgres-reads-cause-writes/",
-          "publishedOn": "2024-12-22T10:24:07.000Z",
-          "wordCount": 4809,
-          "title": "Reads Causing Writes in Postgres",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.smidt.dev/posts/0004/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.smidt.dev/posts/0004/",
-          "publishedOn": "2024-12-22T03:00:32.000Z",
-          "wordCount": 1034,
-          "title": "Bit Vectors and my first steps into assembly",
           "imageUrl": null
         }
       ]
