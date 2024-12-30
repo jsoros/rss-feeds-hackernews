@@ -1,45 +1,215 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-29T01:44:23.769Z</id>
+    <id>urn:2024-12-30T01:40:28.756Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-29T01:44:23.769Z</updated>
+    <updated>2024-12-30T01:40:28.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Dr. Paul Releases 2024 'Festivus' Report on Government Waste]]></title>
-        <id>https://www.hsgac.senate.gov/media/reps/dr-paul-releases-2024-festivus-report-on-government-waste/</id>
-        <link href="https://www.hsgac.senate.gov/media/reps/dr-paul-releases-2024-festivus-report-on-government-waste/"/>
-        <updated>2024-12-29T00:47:20.000Z</updated>
+        <title type="html"><![CDATA[Little Snitch: Network Monitor and Application Firewall for macOS]]></title>
+        <id>https://www.obdev.at/en/products/littlesnitch/index.html</id>
+        <link href="https://www.obdev.at/en/products/littlesnitch/index.html"/>
+        <updated>2024-12-30T00:25:52.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[38C3: Blinkencity, radio controlling street lamps and power plants [video]]]></title>
-        <id>https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants</id>
-        <link href="https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants"/>
-        <updated>2024-12-28T23:02:41.000Z</updated>
+        <title type="html"><![CDATA[Pigment Mixing into Digital Painting]]></title>
+        <id>https://scrtwpns.com/mixbox/</id>
+        <link href="https://scrtwpns.com/mixbox/"/>
+        <updated>2024-12-29T23:15:18.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Finding and exploiting hidden features of Animal Crossing's NES emulator]]></title>
-        <id>https://jamchamb.net/2018/07/11/animal-crossing-nes-emulator-hacks.html</id>
-        <link href="https://jamchamb.net/2018/07/11/animal-crossing-nes-emulator-hacks.html"/>
-        <updated>2024-12-28T22:22:20.000Z</updated>
+        <title type="html"><![CDATA[The Cody Computer]]></title>
+        <id>https://www.codycomputer.org/</id>
+        <link href="https://www.codycomputer.org/"/>
+        <updated>2024-12-29T23:03:17.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fish 4.0: The Fish of Theseus]]></title>
-        <id>https://fishshell.com/blog/rustport/</id>
-        <link href="https://fishshell.com/blog/rustport/"/>
-        <updated>2024-12-28T22:07:15.000Z</updated>
+        <title type="html"><![CDATA[Belgium will ban sales of disposable e-cigarettes in a first for the EU]]></title>
+        <id>https://www.npr.org/2024/12/29/g-s1-40289/belgium-will-ban-sales-of-disposable-e-cigarettes</id>
+        <link href="https://www.npr.org/2024/12/29/g-s1-40289/belgium-will-ban-sales-of-disposable-e-cigarettes"/>
+        <updated>2024-12-29T22:42:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripe V2]]></title>
+        <id>https://brandur.org/fragments/stripe-v2</id>
+        <link href="https://brandur.org/fragments/stripe-v2"/>
+        <updated>2024-12-29T22:41:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['No Problem' Word Processor Poses a Problem for Former President Carter (1981)]]></title>
+        <id>https://www.nytimes.com/1981/03/24/arts/no-problem-machine-poses-a-presidential-problem.html</id>
+        <link href="https://www.nytimes.com/1981/03/24/arts/no-problem-machine-poses-a-presidential-problem.html"/>
+        <updated>2024-12-29T22:34:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Om Malik – The Story of Stent]]></title>
+        <id>https://om.co/2024/12/28/the-story-of-stent/</id>
+        <link href="https://om.co/2024/12/28/the-story-of-stent/"/>
+        <updated>2024-12-29T22:09:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Chorus, a Mac app that lets you chat a bunch of AIs at once]]></title>
+        <id>https://melty.sh/chorus</id>
+        <link href="https://melty.sh/chorus"/>
+        <updated>2024-12-29T21:47:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brave Care Has Closed]]></title>
+        <id>https://bravecare.com/</id>
+        <link href="https://bravecare.com/"/>
+        <updated>2024-12-29T21:33:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jimmy Carter has died]]></title>
+        <id>https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/</id>
+        <link href="https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/"/>
+        <updated>2024-12-29T21:08:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Zombocom Problem]]></title>
+        <id>https://newsletter.squishy.computer/p/the-zombocom-problem</id>
+        <link href="https://newsletter.squishy.computer/p/the-zombocom-problem"/>
+        <updated>2024-12-29T19:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are PC hardware companies driving technology into restricted closed ecosystems?]]></title>
+        <id>https://www.scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/</id>
+        <link href="https://www.scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/"/>
+        <updated>2024-12-29T19:11:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toronto man creates tiny mobile homes to help unhoused people escape the cold]]></title>
+        <id>https://www.cbc.ca/lite/story/1.7419805</id>
+        <link href="https://www.cbc.ca/lite/story/1.7419805"/>
+        <updated>2024-12-29T17:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I was wrong about the ethics crisis]]></title>
+        <id>https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/</id>
+        <link href="https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/"/>
+        <updated>2024-12-29T16:23:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Iceland getting ready to join the EU?]]></title>
+        <id>https://mikegalsworthy.substack.com/p/is-iceland-getting-ready-to-join</id>
+        <link href="https://mikegalsworthy.substack.com/p/is-iceland-getting-ready-to-join"/>
+        <updated>2024-12-29T14:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trying to use Bluesky without getting burned again]]></title>
+        <id>https://chrisholdgraf.com/blog/2024/bluesky</id>
+        <link href="https://chrisholdgraf.com/blog/2024/bluesky"/>
+        <updated>2024-12-29T12:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Run LLMs Locally]]></title>
+        <id>https://abishekmuthian.com/how-i-run-llms-locally/</id>
+        <link href="https://abishekmuthian.com/how-i-run-llms-locally/"/>
+        <updated>2024-12-29T10:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking NATO Radio Encryption [video]]]></title>
+        <id>https://media.ccc.de/v/38c3-breaking-nato-radio-encryption</id>
+        <link href="https://media.ccc.de/v/38c3-breaking-nato-radio-encryption"/>
+        <updated>2024-12-29T09:47:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BioTerrorism Will Save Your Life with the 4 Thieves Vinegar Collective [video]]]></title>
+        <id>https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective</id>
+        <link href="https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective"/>
+        <updated>2024-12-29T09:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebGL Fluid Simulation]]></title>
+        <id>https://paveldogreat.github.io/WebGL-Fluid-Simulation/</id>
+        <link href="https://paveldogreat.github.io/WebGL-Fluid-Simulation/"/>
+        <updated>2024-12-29T04:39:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can LLMs accurately recall the Bible?]]></title>
+        <id>https://benkaiser.dev/can-llms-accurately-recall-the-bible/</id>
+        <link href="https://benkaiser.dev/can-llms-accurately-recall-the-bible/"/>
+        <updated>2024-12-29T03:44:52.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -56,100 +226,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Family of OpenAI whistleblower Suchir Balaji demand FBI investigate death]]></title>
-        <id>https://www.theguardian.com/us-news/2024/dec/28/openai-whistleblower-suchir-balaji</id>
-        <link href="https://www.theguardian.com/us-news/2024/dec/28/openai-whistleblower-suchir-balaji"/>
-        <updated>2024-12-28T21:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AnkiAIUtils: Flashcards+AI Illustrations, Explanations, Mnemonics etc. – FOSS]]></title>
-        <id>https://github.com/thiswillbeyourgithub/AnkiAIUtils</id>
-        <link href="https://github.com/thiswillbeyourgithub/AnkiAIUtils"/>
-        <updated>2024-12-28T21:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU law mandating universal chargers for devices comes into force]]></title>
-        <id>https://www.france24.com/en/europe/20241228-eu-law-mandating-universal-chargers-for-devices-comes-into-force</id>
-        <link href="https://www.france24.com/en/europe/20241228-eu-law-mandating-universal-chargers-for-devices-comes-into-force"/>
-        <updated>2024-12-28T21:20:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libero – A Programmer's Tool and Code Generator (1997)]]></title>
-        <id>https://imatix-legacy.github.io/libero/index.htm</id>
-        <link href="https://imatix-legacy.github.io/libero/index.htm"/>
-        <updated>2024-12-28T20:03:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apple Photos phones home on iOS 18 and macOS 15]]></title>
         <id>https://lapcatsoftware.com/articles/2024/12/3.html</id>
         <link href="https://lapcatsoftware.com/articles/2024/12/3.html"/>
         <updated>2024-12-28T19:22:30.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google's Results Are Infested, Open AI Is Using Their Playbook from the 2000s]]></title>
-        <id>https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook</id>
-        <link href="https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook"/>
-        <updated>2024-12-28T17:06:40.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My history with Forth and stack machines (2010)]]></title>
-        <id>https://yosefk.com/blog/my-history-with-forth-stack-machines.html</id>
-        <link href="https://yosefk.com/blog/my-history-with-forth-stack-machines.html"/>
-        <updated>2024-12-28T16:34:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Unicon Programming Language]]></title>
-        <id>https://btiffin.users.sourceforge.net/up/unicon.html</id>
-        <link href="https://btiffin.users.sourceforge.net/up/unicon.html"/>
-        <updated>2024-12-28T15:55:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I automated my job application process]]></title>
-        <id>https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1</id>
-        <link href="https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1"/>
-        <updated>2024-12-28T15:26:31.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EmacsConf 2024 Notes]]></title>
-        <id>https://sachachua.com/blog/2024/12/emacsconf-2024-notes/</id>
-        <link href="https://sachachua.com/blog/2024/12/emacsconf-2024-notes/"/>
-        <updated>2024-12-28T14:22:30.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -166,140 +246,60 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Carlsen disqualified from World Rapid and Blitz championship for wearing jeans]]></title>
-        <id>https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852</id>
-        <link href="https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852"/>
-        <updated>2024-12-28T00:54:06.000Z</updated>
+        <title type="html"><![CDATA[Build a working game of Tetris in Conway's Game of Life (2014)]]></title>
+        <id>https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life</id>
+        <link href="https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life"/>
+        <updated>2024-12-27T07:04:21.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Liberating Wi-Fi on the ESP32 [video]]]></title>
-        <id>https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32</id>
-        <link href="https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32"/>
-        <updated>2024-12-28T00:03:05.000Z</updated>
+        <title type="html"><![CDATA[The last Inca bridge master]]></title>
+        <id>https://www.bbc.com/travel/article/20241206-the-last-inca-bridge-master</id>
+        <link href="https://www.bbc.com/travel/article/20241206-the-last-inca-bridge-master"/>
+        <updated>2024-12-27T04:07:00.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plasticlist Report – Data on plastic chemicals in Bay Area foods]]></title>
-        <id>https://www.plasticlist.org/report</id>
-        <link href="https://www.plasticlist.org/report"/>
-        <updated>2024-12-27T20:15:44.000Z</updated>
+        <title type="html"><![CDATA[The Anatomy of a Large-Scale Hypertextual Web Search Engine (1998)]]></title>
+        <id>http://infolab.stanford.edu/~backrub/google.html</id>
+        <link href="http://infolab.stanford.edu/~backrub/google.html"/>
+        <updated>2024-12-27T00:43:23.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TSMC's Arizona Plant to Start Making Advanced Chips]]></title>
-        <id>https://spectrum.ieee.org/tsmc-arizona</id>
-        <link href="https://spectrum.ieee.org/tsmc-arizona"/>
-        <updated>2024-12-27T19:43:23.000Z</updated>
+        <title type="html"><![CDATA[Faster CI with Selective Testing]]></title>
+        <id>https://mill-build.org/blog/3-selective-testing.html</id>
+        <link href="https://mill-build.org/blog/3-selective-testing.html"/>
+        <updated>2024-12-26T19:30:16.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What would happen if you made a planet out of fish?]]></title>
-        <id>https://james-simon.github.io/blog/fish-planet/</id>
-        <link href="https://james-simon.github.io/blog/fish-planet/"/>
-        <updated>2024-12-26T23:55:50.000Z</updated>
+        <title type="html"><![CDATA[Melbourne Train Control System is running on a hardware emulated PDP11]]></title>
+        <id>https://mastodon.sdf.org/@dervishe/107242749336390295</id>
+        <link href="https://mastodon.sdf.org/@dervishe/107242749336390295"/>
+        <updated>2024-12-26T11:17:37.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Gambler Who Cracked the Horse-Racing Code (2018)]]></title>
-        <id>https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code</id>
-        <link href="https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code"/>
-        <updated>2024-12-26T19:39:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA, Axiom Space Change Assembly Order of Commercial Space Station]]></title>
-        <id>https://www.nasa.gov/humans-in-space/nasa-axiom-space-change-assembly-order-of-commercial-space-station/</id>
-        <link href="https://www.nasa.gov/humans-in-space/nasa-axiom-space-change-assembly-order-of-commercial-space-station/"/>
-        <updated>2024-12-26T18:33:21.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analyzing North Korean Malware]]></title>
-        <id>https://medium.com/@henrique4win/analyzing-north-korean-malware-95dc3325d943</id>
-        <link href="https://medium.com/@henrique4win/analyzing-north-korean-malware-95dc3325d943"/>
-        <updated>2024-12-26T17:47:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joco almost died at launch. Now, it's a lifeline for e-bike delivery riders]]></title>
-        <id>https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/</id>
-        <link href="https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/"/>
-        <updated>2024-12-26T16:59:40.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Numbers Are Leaves]]></title>
-        <id>https://www.christo.sh/numbers-are-leaves/</id>
-        <link href="https://www.christo.sh/numbers-are-leaves/"/>
-        <updated>2024-12-26T14:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Microsoft's Phi-3-Mini and its integration with tool like Ollama]]></title>
-        <id>https://pieces.app/blog/phi-3-mini-integrations</id>
-        <link href="https://pieces.app/blog/phi-3-mini-integrations"/>
-        <updated>2024-12-26T14:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should more of us be moving to live near friends?]]></title>
-        <id>https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends</id>
-        <link href="https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends"/>
-        <updated>2024-12-26T09:23:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a 3D safety sensor with Rust]]></title>
-        <id>https://www.sonair.com/journal/building-for-safety-with-rust</id>
-        <link href="https://www.sonair.com/journal/building-for-safety-with-rust"/>
-        <updated>2024-12-26T05:29:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[That's not an abstraction, that's a layer of indirection]]></title>
-        <id>https://fhur.me/posts/2024/thats-not-an-abstraction</id>
-        <link href="https://fhur.me/posts/2024/thats-not-an-abstraction"/>
-        <updated>2024-12-25T05:06:58.000Z</updated>
+        <title type="html"><![CDATA[TWISTED: The dramatic history of twisted-pair Ethernet]]></title>
+        <id>https://www.youtube.com/watch?v=f8PP5IHsL8Y</id>
+        <link href="https://www.youtube.com/watch?v=f8PP5IHsL8Y"/>
+        <updated>2024-12-26T05:18:01.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>

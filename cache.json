@@ -6,44 +6,214 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.hsgac.senate.gov/media/reps/dr-paul-releases-2024-festivus-report-on-government-waste/",
+          "id": "https://www.obdev.at/en/products/littlesnitch/index.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.hsgac.senate.gov/media/reps/dr-paul-releases-2024-festivus-report-on-government-waste/",
-          "publishedOn": "2024-12-29T00:47:20.000Z",
-          "wordCount": 5373,
-          "title": "Dr. Paul Releases 2024 'Festivus' Report on Government Waste",
-          "imageUrl": "https://www.hsgac.senate.gov/wp-content/uploads/festivus-cover-2.png"
+          "link": "https://www.obdev.at/en/products/littlesnitch/index.html",
+          "publishedOn": "2024-12-30T00:25:52.000Z",
+          "wordCount": 955,
+          "title": "Little Snitch: Network Monitor and Application Firewall for macOS",
+          "imageUrl": "https://www.obdev.at/Images/social-graphs/opengraph-littlesnitch.jpg"
         },
         {
-          "id": "https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants",
+          "id": "https://scrtwpns.com/mixbox/",
           "author": null,
           "description": "Comments",
-          "link": "https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants",
-          "publishedOn": "2024-12-28T23:02:41.000Z",
-          "wordCount": 766,
-          "title": "38C3: Blinkencity, radio controlling street lamps and power plants [video]",
-          "imageUrl": "//cdn.c3voc.de/relive/38c3/198/thumb.jpg"
+          "link": "https://scrtwpns.com/mixbox/",
+          "publishedOn": "2024-12-29T23:15:18.000Z",
+          "wordCount": 1783,
+          "title": "Pigment Mixing into Digital Painting",
+          "imageUrl": "https://scrtwpns.com/mixbox/og_image.jpg"
         },
         {
-          "id": "https://jamchamb.net/2018/07/11/animal-crossing-nes-emulator-hacks.html",
+          "id": "https://www.codycomputer.org/",
           "author": null,
           "description": "Comments",
-          "link": "https://jamchamb.net/2018/07/11/animal-crossing-nes-emulator-hacks.html",
-          "publishedOn": "2024-12-28T22:22:20.000Z",
-          "wordCount": 5894,
-          "title": "Finding and exploiting hidden features of Animal Crossing's NES emulator",
+          "link": "https://www.codycomputer.org/",
+          "publishedOn": "2024-12-29T23:03:17.000Z",
+          "wordCount": 455,
+          "title": "The Cody Computer",
           "imageUrl": null
         },
         {
-          "id": "https://fishshell.com/blog/rustport/",
+          "id": "https://www.npr.org/2024/12/29/g-s1-40289/belgium-will-ban-sales-of-disposable-e-cigarettes",
           "author": null,
           "description": "Comments",
-          "link": "https://fishshell.com/blog/rustport/",
-          "publishedOn": "2024-12-28T22:07:15.000Z",
-          "wordCount": 4546,
-          "title": "Fish 4.0: The Fish of Theseus",
+          "link": "https://www.npr.org/2024/12/29/g-s1-40289/belgium-will-ban-sales-of-disposable-e-cigarettes",
+          "publishedOn": "2024-12-29T22:42:41.000Z",
+          "wordCount": 1162,
+          "title": "Belgium will ban sales of disposable e-cigarettes in a first for the EU",
+          "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5388x3031+0+281/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2Fa1%2Fa1f7ed8442a2bd7b1cfb349bed0b%2Fap24347591995756.jpg"
+        },
+        {
+          "id": "https://brandur.org/fragments/stripe-v2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brandur.org/fragments/stripe-v2",
+          "publishedOn": "2024-12-29T22:41:46.000Z",
+          "wordCount": 1142,
+          "title": "Stripe V2",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/1981/03/24/arts/no-problem-machine-poses-a-presidential-problem.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/1981/03/24/arts/no-problem-machine-poses-a-presidential-problem.html",
+          "publishedOn": "2024-12-29T22:34:54.000Z",
+          "wordCount": null,
+          "title": "'No Problem' Word Processor Poses a Problem for Former President Carter (1981)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://om.co/2024/12/28/the-story-of-stent/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://om.co/2024/12/28/the-story-of-stent/",
+          "publishedOn": "2024-12-29T22:09:58.000Z",
+          "wordCount": 5906,
+          "title": "Om Malik – The Story of Stent",
+          "imageUrl": "https://149366103.v2.pressablecdn.com/wp-content/uploads/2021/05/image-og-fallback-om-left-black-vb.png"
+        },
+        {
+          "id": "https://melty.sh/chorus",
+          "author": null,
+          "description": "Comments",
+          "link": "https://melty.sh/chorus",
+          "publishedOn": "2024-12-29T21:47:22.000Z",
+          "wordCount": 76,
+          "title": "Show HN: Chorus, a Mac app that lets you chat a bunch of AIs at once",
+          "imageUrl": "https://fly.storage.tigris.dev/meltylabs/chorus_og.png"
+        },
+        {
+          "id": "https://bravecare.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bravecare.com/",
+          "publishedOn": "2024-12-29T21:33:42.000Z",
+          "wordCount": 5681,
+          "title": "Brave Care Has Closed",
+          "imageUrl": "https://images.prismic.io/bravecare-web/9f807cd8-4004-4bb0-bb5f-043941c2feb9_img-home-col-1.png?auto=compress,format&rect=25,0,686,360&w=1200&h=630"
+        },
+        {
+          "id": "https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/",
+          "publishedOn": "2024-12-29T21:08:21.000Z",
+          "wordCount": null,
+          "title": "Jimmy Carter has died",
+          "imageUrl": null
+        },
+        {
+          "id": "https://newsletter.squishy.computer/p/the-zombocom-problem",
+          "author": null,
+          "description": "Comments",
+          "link": "https://newsletter.squishy.computer/p/the-zombocom-problem",
+          "publishedOn": "2024-12-29T19:30:02.000Z",
+          "wordCount": 2579,
+          "title": "The Zombocom Problem",
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/rWRbTnE1PEM"
+        },
+        {
+          "id": "https://www.scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/",
+          "publishedOn": "2024-12-29T19:11:43.000Z",
+          "wordCount": 797,
+          "title": "Are PC hardware companies driving technology into restricted closed ecosystems?",
+          "imageUrl": "http://scottrlarson.com/img/publications/oem-rst-driver-debacle-or-intentional/no-rst-driver-found.jpeg"
+        },
+        {
+          "id": "https://www.cbc.ca/lite/story/1.7419805",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cbc.ca/lite/story/1.7419805",
+          "publishedOn": "2024-12-29T17:06:28.000Z",
+          "wordCount": 2817,
+          "title": "Toronto man creates tiny mobile homes to help unhoused people escape the cold",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/",
+          "publishedOn": "2024-12-29T16:23:18.000Z",
+          "wordCount": 3000,
+          "title": "I was wrong about the ethics crisis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mikegalsworthy.substack.com/p/is-iceland-getting-ready-to-join",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mikegalsworthy.substack.com/p/is-iceland-getting-ready-to-join",
+          "publishedOn": "2024-12-29T14:00:31.000Z",
+          "wordCount": null,
+          "title": "Is Iceland getting ready to join the EU?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chrisholdgraf.com/blog/2024/bluesky",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chrisholdgraf.com/blog/2024/bluesky",
+          "publishedOn": "2024-12-29T12:13:02.000Z",
+          "wordCount": 3727,
+          "title": "Trying to use Bluesky without getting burned again",
+          "imageUrl": "/build/bluesky-castles-90f466dfa878b52d9795ed72166de5b7.png"
+        },
+        {
+          "id": "https://abishekmuthian.com/how-i-run-llms-locally/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://abishekmuthian.com/how-i-run-llms-locally/",
+          "publishedOn": "2024-12-29T10:49:00.000Z",
+          "wordCount": 1110,
+          "title": "I Run LLMs Locally",
+          "imageUrl": "https://abishekmuthian.com/images/obsidian-smart-connections.jpg"
+        },
+        {
+          "id": "https://media.ccc.de/v/38c3-breaking-nato-radio-encryption",
+          "author": null,
+          "description": "Comments",
+          "link": "https://media.ccc.de/v/38c3-breaking-nato-radio-encryption",
+          "publishedOn": "2024-12-29T09:47:59.000Z",
+          "wordCount": 1378,
+          "title": "Breaking NATO Radio Encryption [video]",
+          "imageUrl": "https://static.media.ccc.de/media/congress/2024/150-13d09061-168d-5e30-8ac8-eb73a3dbb35f_preview.jpg"
+        },
+        {
+          "id": "https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective",
+          "author": null,
+          "description": "Comments",
+          "link": "https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective",
+          "publishedOn": "2024-12-29T09:47:09.000Z",
+          "wordCount": 1281,
+          "title": "BioTerrorism Will Save Your Life with the 4 Thieves Vinegar Collective [video]",
+          "imageUrl": "https://static.media.ccc.de/media/congress/2024/316-78910469-adfa-5c79-8529-1a9d66ef9e6a_preview.jpg"
+        },
+        {
+          "id": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+          "publishedOn": "2024-12-29T04:39:49.000Z",
+          "wordCount": 295,
+          "title": "WebGL Fluid Simulation",
+          "imageUrl": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/logo.png"
+        },
+        {
+          "id": "https://benkaiser.dev/can-llms-accurately-recall-the-bible/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://benkaiser.dev/can-llms-accurately-recall-the-bible/",
+          "publishedOn": "2024-12-29T03:44:52.000Z",
+          "wordCount": 1446,
+          "title": "Can LLMs accurately recall the Bible?",
+          "imageUrl": "https://benkaiser.dev/content/images/2024/12/blog-title.jpeg"
         },
         {
           "id": "https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html",
@@ -51,49 +221,9 @@
           "description": "Comments",
           "link": "https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html",
           "publishedOn": "2024-12-28T21:48:31.000Z",
-          "wordCount": 14482,
+          "wordCount": 14925,
           "title": "Intel's $475M error: the silicon behind the Pentium division bug",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tOHWCPdAk-K4bZr7d9d5Nkbu7C4hAwpPHvFl7ApRGepssppMU0T3eeJSYr4eYy7wjwa_Gzf3ORGXAIA9c0PoTg5gLl4tl8H7VOijshmRTc0rZAZzYKjv19HnV-opbiYDyPlbOZbAk=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://www.theguardian.com/us-news/2024/dec/28/openai-whistleblower-suchir-balaji",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theguardian.com/us-news/2024/dec/28/openai-whistleblower-suchir-balaji",
-          "publishedOn": "2024-12-28T21:46:42.000Z",
-          "wordCount": 4446,
-          "title": "Family of OpenAI whistleblower Suchir Balaji demand FBI investigate death",
-          "imageUrl": "https://i.guim.co.uk/img/media/91407774189591dfb6dce402822e8e5ef0f70c18/0_116_1748_1049/master/1748.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c45e72a59e1e9b989c4bb7f6af8a0b0f"
-        },
-        {
-          "id": "https://github.com/thiswillbeyourgithub/AnkiAIUtils",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/thiswillbeyourgithub/AnkiAIUtils",
-          "publishedOn": "2024-12-28T21:30:34.000Z",
-          "wordCount": 15171,
-          "title": "AnkiAIUtils: Flashcards+AI Illustrations, Explanations, Mnemonics etc. – FOSS",
-          "imageUrl": "https://opengraph.githubassets.com/54f6086477523f050081c4d1e6356c5bd39ab2f62d5063cb13bccacb2cc67b99/thiswillbeyourgithub/AnkiAIUtils"
-        },
-        {
-          "id": "https://www.france24.com/en/europe/20241228-eu-law-mandating-universal-chargers-for-devices-comes-into-force",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.france24.com/en/europe/20241228-eu-law-mandating-universal-chargers-for-devices-comes-into-force",
-          "publishedOn": "2024-12-28T21:20:35.000Z",
-          "wordCount": 8999,
-          "title": "EU law mandating universal chargers for devices comes into force",
-          "imageUrl": "https://s.france24.com/media/display/edadd034-c521-11ef-86a1-005056bfb2b6/w:1280/p:16x9/000_33W86M6.jpg"
-        },
-        {
-          "id": "https://imatix-legacy.github.io/libero/index.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://imatix-legacy.github.io/libero/index.htm",
-          "publishedOn": "2024-12-28T20:03:28.000Z",
-          "wordCount": 638,
-          "title": "Libero – A Programmer's Tool and Code Generator (1997)",
-          "imageUrl": null
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uG6Z8rl3ePwieFRdap0fqetKqZHmP5ojuM8FLeALcZra-mVI7DTbUGZvy6ueMs4qOMCx5IpI2l61JKuWzFNvDP7GjtS4sYVdFhn9zQ6fk1qQ2t69aQiRdy21LZ9bpqRcsSh7unsfE=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://lapcatsoftware.com/articles/2024/12/3.html",
@@ -103,56 +233,6 @@
           "publishedOn": "2024-12-28T19:22:30.000Z",
           "wordCount": 753,
           "title": "Apple Photos phones home on iOS 18 and macOS 15",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook",
-          "author": null,
-          "description": "Comments",
-          "link": "https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook",
-          "publishedOn": "2024-12-28T17:06:40.000Z",
-          "wordCount": 1692,
-          "title": "Google's Results Are Infested, Open AI Is Using Their Playbook from the 2000s",
-          "imageUrl": "https://chuckwnelson.com/images/google-vs-openai.jpg"
-        },
-        {
-          "id": "https://yosefk.com/blog/my-history-with-forth-stack-machines.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://yosefk.com/blog/my-history-with-forth-stack-machines.html",
-          "publishedOn": "2024-12-28T16:34:24.000Z",
-          "wordCount": 6773,
-          "title": "My history with Forth and stack machines (2010)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://btiffin.users.sourceforge.net/up/unicon.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://btiffin.users.sourceforge.net/up/unicon.html",
-          "publishedOn": "2024-12-28T15:55:46.000Z",
-          "wordCount": 5652,
-          "title": "The Unicon Programming Language",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1",
-          "publishedOn": "2024-12-28T15:26:31.000Z",
-          "wordCount": 13822,
-          "title": "I automated my job application process",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1735305596902%2F2ad92d98-e9d4-458a-b1e9-f7c2b64a48b3.png%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        },
-        {
-          "id": "https://sachachua.com/blog/2024/12/emacsconf-2024-notes/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sachachua.com/blog/2024/12/emacsconf-2024-notes/",
-          "publishedOn": "2024-12-28T14:22:30.000Z",
-          "wordCount": 4704,
-          "title": "EmacsConf 2024 Notes",
           "imageUrl": null
         },
         {
@@ -166,144 +246,64 @@
           "imageUrl": "https://www.chronotrains.com/opengraph-image.png?ec621739c9bad044"
         },
         {
-          "id": "https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852",
+          "id": "https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life",
           "author": null,
           "description": "Comments",
-          "link": "https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852",
-          "publishedOn": "2024-12-28T00:54:06.000Z",
-          "wordCount": 13735,
-          "title": "Carlsen disqualified from World Rapid and Blitz championship for wearing jeans",
-          "imageUrl": "https://static.tnn.in/thumb/msid-116727854,thumbsize-1810069,width-1280,height-720,resizemode-75/116727854.jpg"
+          "link": "https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life",
+          "publishedOn": "2024-12-27T07:04:21.000Z",
+          "wordCount": 14795,
+          "title": "Build a working game of Tetris in Conway's Game of Life (2014)",
+          "imageUrl": "https://cdn.sstatic.net/Sites/codegolf/Img/apple-touch-icon@2.png?v=ed60a1645c65"
         },
         {
-          "id": "https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32",
+          "id": "https://www.bbc.com/travel/article/20241206-the-last-inca-bridge-master",
           "author": null,
           "description": "Comments",
-          "link": "https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32",
-          "publishedOn": "2024-12-28T00:03:05.000Z",
-          "wordCount": 1073,
-          "title": "Liberating Wi-Fi on the ESP32 [video]",
-          "imageUrl": "https://static.media.ccc.de/media/congress/2024/226-ab1e5592-c1c7-54ea-8170-687e3f73b2d0_preview.jpg"
+          "link": "https://www.bbc.com/travel/article/20241206-the-last-inca-bridge-master",
+          "publishedOn": "2024-12-27T04:07:00.000Z",
+          "wordCount": 8455,
+          "title": "The last Inca bridge master",
+          "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0k963cz.jpg"
         },
         {
-          "id": "https://www.plasticlist.org/report",
+          "id": "http://infolab.stanford.edu/~backrub/google.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.plasticlist.org/report",
-          "publishedOn": "2024-12-27T20:15:44.000Z",
-          "wordCount": 14412,
-          "title": "Plasticlist Report – Data on plastic chemicals in Bay Area foods",
-          "imageUrl": "https://www.plasticlist.org/opengraph-image.png?b2e05cc5c231511e"
-        },
-        {
-          "id": "https://spectrum.ieee.org/tsmc-arizona",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spectrum.ieee.org/tsmc-arizona",
-          "publishedOn": "2024-12-27T19:43:23.000Z",
-          "wordCount": 10142,
-          "title": "TSMC's Arizona Plant to Start Making Advanced Chips",
-          "imageUrl": "https://spectrum.ieee.org/media-library/aerial-photo-of-a-manufacturing-facility-in-desert-landscape-with-field-of-solar-panels-in-the-foreground-large-buildings-in-th.jpg?id=55368693&width=1200&height=600&coordinates=0%2C117%2C0%2C118"
-        },
-        {
-          "id": "https://james-simon.github.io/blog/fish-planet/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://james-simon.github.io/blog/fish-planet/",
-          "publishedOn": "2024-12-26T23:55:50.000Z",
-          "wordCount": 2052,
-          "title": "What would happen if you made a planet out of fish?",
+          "link": "http://infolab.stanford.edu/~backrub/google.html",
+          "publishedOn": "2024-12-27T00:43:23.000Z",
+          "wordCount": 10446,
+          "title": "The Anatomy of a Large-Scale Hypertextual Web Search Engine (1998)",
           "imageUrl": null
         },
         {
-          "id": "https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code",
+          "id": "https://mill-build.org/blog/3-selective-testing.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code",
-          "publishedOn": "2024-12-26T19:39:39.000Z",
-          "wordCount": 576,
-          "title": "The Gambler Who Cracked the Horse-Racing Code (2018)",
+          "link": "https://mill-build.org/blog/3-selective-testing.html",
+          "publishedOn": "2024-12-26T19:30:16.000Z",
+          "wordCount": 3269,
+          "title": "Faster CI with Selective Testing",
           "imageUrl": null
         },
         {
-          "id": "https://www.nasa.gov/humans-in-space/nasa-axiom-space-change-assembly-order-of-commercial-space-station/",
+          "id": "https://mastodon.sdf.org/@dervishe/107242749336390295",
           "author": null,
           "description": "Comments",
-          "link": "https://www.nasa.gov/humans-in-space/nasa-axiom-space-change-assembly-order-of-commercial-space-station/",
-          "publishedOn": "2024-12-26T18:33:21.000Z",
-          "wordCount": 1906,
-          "title": "NASA, Axiom Space Change Assembly Order of Commercial Space Station",
-          "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/12/axstation-earth.png"
+          "link": "https://mastodon.sdf.org/@dervishe/107242749336390295",
+          "publishedOn": "2024-12-26T11:17:37.000Z",
+          "wordCount": 124,
+          "title": "Melbourne Train Control System is running on a hardware emulated PDP11",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/@henrique4win/analyzing-north-korean-malware-95dc3325d943",
+          "id": "https://www.youtube.com/watch?v=f8PP5IHsL8Y",
           "author": null,
           "description": "Comments",
-          "link": "https://medium.com/@henrique4win/analyzing-north-korean-malware-95dc3325d943",
-          "publishedOn": "2024-12-26T17:47:47.000Z",
-          "wordCount": 9273,
-          "title": "Analyzing North Korean Malware",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*gbwG4qgL70vW0tAw"
-        },
-        {
-          "id": "https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/",
-          "publishedOn": "2024-12-26T16:59:40.000Z",
-          "wordCount": 4052,
-          "title": "Joco almost died at launch. Now, it's a lifeline for e-bike delivery riders",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/11/NY-jonny-Joco-on-street.jpg?resize=1200,900"
-        },
-        {
-          "id": "https://www.christo.sh/numbers-are-leaves/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.christo.sh/numbers-are-leaves/",
-          "publishedOn": "2024-12-26T14:23:30.000Z",
-          "wordCount": 4366,
-          "title": "Numbers Are Leaves",
-          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
-        },
-        {
-          "id": "https://pieces.app/blog/phi-3-mini-integrations",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pieces.app/blog/phi-3-mini-integrations",
-          "publishedOn": "2024-12-26T14:09:37.000Z",
-          "wordCount": 5537,
-          "title": "Exploring Microsoft's Phi-3-Mini and its integration with tool like Ollama",
-          "imageUrl": "https://framerusercontent.com/images/MSZqe8qGQSO0kyAZ4Bd0wTbnmI.png"
-        },
-        {
-          "id": "https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends",
-          "publishedOn": "2024-12-26T09:23:08.000Z",
-          "wordCount": 29727,
-          "title": "Should more of us be moving to live near friends?",
-          "imageUrl": "https://media.architecturaldigest.com/photos/6761de954397e661294fc286/16:9/w_1280,c_limit/livingnearfriends-3%20copy.jpg"
-        },
-        {
-          "id": "https://www.sonair.com/journal/building-for-safety-with-rust",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sonair.com/journal/building-for-safety-with-rust",
-          "publishedOn": "2024-12-26T05:29:17.000Z",
-          "wordCount": 4324,
-          "title": "Building a 3D safety sensor with Rust",
-          "imageUrl": "https://cdn.prod.website-files.com/660c0a9ae7eeb8588c079803/67687fdcb73c68e3a2bacaf6_IMG_9502_ver2%202.png"
-        },
-        {
-          "id": "https://fhur.me/posts/2024/thats-not-an-abstraction",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fhur.me/posts/2024/thats-not-an-abstraction",
-          "publishedOn": "2024-12-25T05:06:58.000Z",
-          "wordCount": 975,
-          "title": "That's not an abstraction, that's a layer of indirection",
-          "imageUrl": "/preview.png"
+          "link": "https://www.youtube.com/watch?v=f8PP5IHsL8Y",
+          "publishedOn": "2024-12-26T05:18:01.000Z",
+          "wordCount": null,
+          "title": "TWISTED: The dramatic history of twisted-pair Ethernet",
+          "imageUrl": null
         }
       ]
     }
