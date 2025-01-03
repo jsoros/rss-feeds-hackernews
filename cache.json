@@ -6,133 +6,223 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.nytimes.com/2025/01/01/travel/bedbugs-turkish-airlines-flights.html",
+          "id": "https://github.com/n1trux/awesome-donations",
           "author": null,
           "description": "Comments",
-          "link": "https://www.nytimes.com/2025/01/01/travel/bedbugs-turkish-airlines-flights.html",
-          "publishedOn": "2025-01-02T00:48:42.000Z",
+          "link": "https://github.com/n1trux/awesome-donations",
+          "publishedOn": "2025-01-02T23:29:04.000Z",
+          "wordCount": 5455,
+          "title": "Awesome Donations: A repository of FLOSS donation options",
+          "imageUrl": "https://opengraph.githubassets.com/2662ae39c65b88cb9454ae99c55d45ef0b39a6c6e9ddad5089a9a28b723e6568/n1trux/awesome-donations"
+        },
+        {
+          "id": "https://tavianator.com/2025/shlx.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tavianator.com/2025/shlx.html",
+          "publishedOn": "2025-01-02T23:00:48.000Z",
+          "wordCount": 939,
+          "title": "The Alder Lake SHLX Anomaly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/",
+          "publishedOn": "2025-01-02T22:50:15.000Z",
+          "wordCount": 1675,
+          "title": "I am rich and have no idea what to do",
+          "imageUrl": null
+        },
+        {
+          "id": "https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog",
+          "author": null,
+          "description": "Comments",
+          "link": "https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog",
+          "publishedOn": "2025-01-02T22:08:42.000Z",
+          "wordCount": 293,
+          "title": "iTerm2 critical security release",
+          "imageUrl": null
+        },
+        {
+          "id": "https://up.codes/careers?utm_source=HN",
+          "author": null,
+          "description": "Comments",
+          "link": "https://up.codes/careers?utm_source=HN",
+          "publishedOn": "2025-01-02T21:01:41.000Z",
+          "wordCount": 28,
+          "title": "UpCodes (YC S17) is hiring remote recruiters to help make buildings cheaper",
+          "imageUrl": "https://up.codes/img/upcodes-og-twitter-image.png"
+        },
+        {
+          "id": "https://www.tvtechnology.com/news/sixth-circuit-of-appeals-strikes-down-fccs-net-neutrality-rules",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tvtechnology.com/news/sixth-circuit-of-appeals-strikes-down-fccs-net-neutrality-rules",
+          "publishedOn": "2025-01-02T20:05:35.000Z",
+          "wordCount": 14484,
+          "title": "U.S. appeals court strikes down FCC's net neutrality rules",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/nwE6wfPkYC65mDZZiR5JUD-1200-80.jpg"
+        },
+        {
+          "id": "http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html",
+          "publishedOn": "2025-01-02T19:20:50.000Z",
+          "wordCount": 3055,
+          "title": "Advent of Code 2024 in pure SQL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nsavage.substack.com/p/beyond-rag-building-a-knowledge-management",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nsavage.substack.com/p/beyond-rag-building-a-knowledge-management",
+          "publishedOn": "2025-01-02T18:47:45.000Z",
           "wordCount": null,
-          "title": "Passengers Say Turkish Airlines Flights Have Unwelcome Guests: Bedbugs",
+          "title": "Building a Knowledge System That Enhances Rather Than Replaces Thought",
           "imageUrl": null
         },
         {
-          "id": "https://www.seangoedecke.com/glue-work-considered-harmful/",
+          "id": "https://twitter.com/natfriedman/status/1874884925587087434",
           "author": null,
           "description": "Comments",
-          "link": "https://www.seangoedecke.com/glue-work-considered-harmful/",
-          "publishedOn": "2025-01-02T00:09:54.000Z",
-          "wordCount": 748,
-          "title": "Glue Work Considered Harmful",
+          "link": "https://twitter.com/natfriedman/status/1874884925587087434",
+          "publishedOn": "2025-01-02T18:35:57.000Z",
+          "wordCount": 6,
+          "title": "PlasticList's Advice for Food Companies",
           "imageUrl": null
         },
         {
-          "id": "https://www.hackster.io/news/signalens-signalsdr-pro-is-a-raspberry-pi-like-high-performance-software-defined-radio-33d06214b465",
+          "id": "https://news.ycombinator.com/item?id=42577076",
           "author": null,
           "description": "Comments",
-          "link": "https://www.hackster.io/news/signalens-signalsdr-pro-is-a-raspberry-pi-like-high-performance-software-defined-radio-33d06214b465",
-          "publishedOn": "2025-01-01T23:44:13.000Z",
-          "wordCount": 1109,
-          "title": "Signalens' SignalSDR Pro Is a Raspberry Pi-Like High-Performance SDR",
-          "imageUrl": "https://hackster.imgix.net/uploads/attachments/1801148/_7hbx3w8Etm.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
-        },
-        {
-          "id": "https://www.snopes.com/fact-check/trees-stars-milky-way/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.snopes.com/fact-check/trees-stars-milky-way/",
-          "publishedOn": "2025-01-01T23:20:53.000Z",
-          "wordCount": 13418,
-          "title": "There Are More Trees on Earth Than Stars in the Milky Way",
-          "imageUrl": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2016/12/shutterstock_208439701.jpg"
-        },
-        {
-          "id": "https://austinhenley.com/blog/25yearsofai.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://austinhenley.com/blog/25yearsofai.html",
-          "publishedOn": "2025-01-01T22:41:16.000Z",
-          "wordCount": 1735,
-          "title": "My 25-year adventure in AI and ML",
-          "imageUrl": "https://austinhenley.com/blog/images/neuralavatar.png"
-        },
-        {
-          "id": "https://literallythevoid.com/blog/rails_for_everything.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://literallythevoid.com/blog/rails_for_everything.html",
-          "publishedOn": "2025-01-01T20:58:04.000Z",
-          "wordCount": 497,
-          "title": "Rails for Everything",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://blog.jacobvosmaer.nl/0036-beeper/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.jacobvosmaer.nl/0036-beeper/",
-          "publishedOn": "2025-01-01T20:39:53.000Z",
-          "wordCount": 1001,
-          "title": "My favourite computer ergonomics hack",
+          "link": "https://news.ycombinator.com/item?id=42577076",
+          "publishedOn": "2025-01-02T18:19:48.000Z",
+          "wordCount": 13719,
+          "title": "Tell HN: Impassable Cloudflare challenges are ruining my browsing experience",
           "imageUrl": null
         },
         {
-          "id": "https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/",
+          "id": "https://arxiv.org/abs/2305.07759",
           "author": null,
           "description": "Comments",
-          "link": "https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/",
-          "publishedOn": "2025-01-01T20:02:19.000Z",
-          "wordCount": 4979,
-          "title": "How the lore of New Year defeated the law of New Year",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6be9303-0aab-4918-9f34-0b5f90d4fc4f_1320x599.png"
+          "link": "https://arxiv.org/abs/2305.07759",
+          "publishedOn": "2025-01-02T17:54:19.000Z",
+          "wordCount": 875,
+          "title": "TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (2023)",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
         },
         {
-          "id": "https://engineering.fb.com/2024/12/19/developer-tools/glean-open-source-code-indexing/",
+          "id": "https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/",
           "author": null,
           "description": "Comments",
-          "link": "https://engineering.fb.com/2024/12/19/developer-tools/glean-open-source-code-indexing/",
-          "publishedOn": "2025-01-01T19:25:32.000Z",
-          "wordCount": 3931,
-          "title": "Indexing Code at Scale with Glean",
-          "imageUrl": "https://engineering.fb.com/wp-content/uploads/2022/07/Eng-Blog-Self-Serve-Hero-Images-DEBUGGING-203-Teale-1.jpg"
-        },
-        {
-          "id": "https://mathstodon.xyz/@tao/113721192051328193",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mathstodon.xyz/@tao/113721192051328193",
-          "publishedOn": "2025-01-01T19:12:57.000Z",
-          "wordCount": 128,
-          "title": "Terence Tao: One of my papers got declined today",
+          "link": "https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/",
+          "publishedOn": "2025-01-02T17:27:28.000Z",
+          "wordCount": null,
+          "title": "uBlock Origin GPL code being stolen by team behind honey browser extension",
           "imageUrl": null
         },
         {
-          "id": "https://www.ycombinator.com/companies/hyperdx/jobs",
+          "id": "https://github.com/OpenXiangShan/XiangShan",
           "author": null,
           "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/hyperdx/jobs",
-          "publishedOn": "2025-01-01T17:00:33.000Z",
-          "wordCount": 382,
-          "title": "HyperDX (YC S22) is hiring engineers to build open source observability",
-          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/fbea9a6e0a015828a846b42e2ecb6b3da23f3eb7.png?1688591754"
+          "link": "https://github.com/OpenXiangShan/XiangShan",
+          "publishedOn": "2025-01-02T17:08:38.000Z",
+          "wordCount": 3841,
+          "title": "XiangShan – open-source high performance RISC-V processor",
+          "imageUrl": "https://opengraph.githubassets.com/fc58abe85ba99fdd740cb8be03df6adcc9526856a797b609d6e28606b1c4cd50/OpenXiangShan/XiangShan"
         },
         {
-          "id": "https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html",
+          "id": "https://ryuuta.net/blog/diagnosing-an-unsual-wifi-issue/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html",
-          "publishedOn": "2025-01-01T14:27:39.000Z",
-          "wordCount": 4633,
-          "title": "Databases in 2024: A Year in Review",
-          "imageUrl": "https://www.gravatar.com/avatar/75219a26e1b5940510ad17df0d8c42d3?s=400"
+          "link": "https://ryuuta.net/blog/diagnosing-an-unsual-wifi-issue/",
+          "publishedOn": "2025-01-02T16:42:06.000Z",
+          "wordCount": 803,
+          "title": "Diagnosing an Unusual WiFi Issue (2020)",
+          "imageUrl": null
         },
         {
-          "id": "https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/",
+          "id": "https://brandur.org/fragments/uuid-v7-monotonicity",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/",
-          "publishedOn": "2025-01-01T14:18:27.000Z",
-          "wordCount": 997,
-          "title": "Ruby 3.4 Highlights",
+          "link": "https://brandur.org/fragments/uuid-v7-monotonicity",
+          "publishedOn": "2025-01-02T16:32:20.000Z",
+          "wordCount": 1234,
+          "title": "Postgres UUIDv7 and per-back end monotonicity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/connet-dev/connet",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/connet-dev/connet",
+          "publishedOn": "2025-01-02T16:27:08.000Z",
+          "wordCount": 7596,
+          "title": "Show HN: connet – A P2P reverse proxy with NAT traversal",
+          "imageUrl": "https://opengraph.githubassets.com/0aa55bfac315a962cd33cf9dcc478ae00d0c17a156d474b96c6baaad8909fd9c/connet-dev/connet"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42575537",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42575537",
+          "publishedOn": "2025-01-02T16:00:09.000Z",
+          "wordCount": 23249,
+          "title": "Ask HN: Who is hiring? (January 2025)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.unseenhistories.com/tolstoy-patrick-o-brian",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.unseenhistories.com/tolstoy-patrick-o-brian",
+          "publishedOn": "2025-01-02T15:19:05.000Z",
+          "wordCount": 22366,
+          "title": "A Private Life – Nikolai Tolstoy Remembers Patrick O'Brian",
+          "imageUrl": "https://exposure.accelerator.net/production/posts/4898862/og-image/og-image-1735812199.jpg;resize(1200,630,crop).jpeg?auto=webp"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c24nzeqq1l2o",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/articles/c24nzeqq1l2o",
+          "publishedOn": "2025-01-02T15:12:29.000Z",
+          "wordCount": 6502,
+          "title": "UK's biggest dinosaur footprint site unearthed",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f132/live/faaadac0-bd4c-11ef-a2ca-e99d0c9a24e3.jpg"
+        },
+        {
+          "id": "https://refactoringenglish.com/chapters/rules-for-software-tutorials/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://refactoringenglish.com/chapters/rules-for-software-tutorials/",
+          "publishedOn": "2025-01-02T14:23:30.000Z",
+          "wordCount": 5126,
+          "title": "Rules for writing software tutorials",
+          "imageUrl": "https://refactoringenglish.com/chapters/rules-for-software-tutorials/beginner-school.png"
+        },
+        {
+          "id": "http://minikanren.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://minikanren.org/",
+          "publishedOn": "2025-01-02T13:15:23.000Z",
+          "wordCount": 4023,
+          "title": "What Is miniKanren?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://forums.autodesk.com/t5/net/regarding-community-content-archiving/td-p/13198106",
+          "author": null,
+          "description": "Comments",
+          "link": "https://forums.autodesk.com/t5/net/regarding-community-content-archiving/td-p/13198106",
+          "publishedOn": "2025-01-02T05:43:28.000Z",
+          "wordCount": 38306,
+          "title": "Autodesk deletes old forum posts suddenly",
           "imageUrl": null
         },
         {
@@ -146,164 +236,74 @@
           "imageUrl": "https://doom-captcha.vercel.app/card.png"
         },
         {
-          "id": "https://apiparrot.com/",
+          "id": "https://www.wbur.org/news/2024/12/16/400-years-zildjian-cymbals-massachusetts",
           "author": null,
           "description": "Comments",
-          "link": "https://apiparrot.com/",
-          "publishedOn": "2025-01-01T13:15:03.000Z",
-          "wordCount": 1101,
-          "title": "Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs",
+          "link": "https://www.wbur.org/news/2024/12/16/400-years-zildjian-cymbals-massachusetts",
+          "publishedOn": "2024-12-31T17:12:51.000Z",
+          "wordCount": 9891,
+          "title": "Zildjian, a 400-year-old cymbal-making company in Massachusetts",
+          "imageUrl": "https://wordpress.wbur.org/wp-content/uploads/2024/12/0911_zildjian-09-1000x667.jpg"
+        },
+        {
+          "id": "https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/",
+          "publishedOn": "2024-12-31T12:17:16.000Z",
+          "wordCount": 6665,
+          "title": "The Anthrobots: a new living entity with much to teach us",
+          "imageUrl": "https://i0.wp.com/thoughtforms.life/wp-content/uploads/2023/12/AMAZING-healing-bridgeBot-immunoTest-Composite-pseudocolor.png?resize=1200%2C1200&ssl=1"
+        },
+        {
+          "id": "https://blog.codingconfessions.com/p/linux-context-switching-internals",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.codingconfessions.com/p/linux-context-switching-internals",
+          "publishedOn": "2024-12-30T22:43:29.000Z",
+          "wordCount": 11217,
+          "title": "Linux Context Switching Internals: Process State and Memory",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cf8ca74-e27e-4292-a00e-713be75d2f90_1472x832.jpeg"
+        },
+        {
+          "id": "https://www.peterzimon.com/hog/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.peterzimon.com/hog/",
+          "publishedOn": "2024-12-30T20:07:40.000Z",
+          "wordCount": 2290,
+          "title": "Shmøergh Hog – The making of a simple analog synth",
+          "imageUrl": "https://www.peterzimon.com/content/images/size/w1200/2024/10/hog-4.jpeg"
+        },
+        {
+          "id": "https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/",
+          "publishedOn": "2024-12-30T10:50:55.000Z",
+          "wordCount": 1141,
+          "title": "Curl with Partial Files",
+          "imageUrl": "https://daniel.haxx.se/blog/wp-content/uploads/2021/04/curl-polynesia-puzzle.jpg"
+        },
+        {
+          "id": "https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html",
+          "publishedOn": "2024-12-30T03:45:14.000Z",
+          "wordCount": 4435,
+          "title": "Optimizing Ruby's JSON, Part 4",
           "imageUrl": null
         },
         {
-          "id": "https://robotics-transformer2.github.io/",
+          "id": "https://arxiv.org/abs/2412.13459",
           "author": null,
           "description": "Comments",
-          "link": "https://robotics-transformer2.github.io/",
-          "publishedOn": "2025-01-01T12:29:29.000Z",
-          "wordCount": 2105,
-          "title": "RT-2: Vision-Language-Action Models (2023)",
-          "imageUrl": "https://robotics-transformer2.github.io/img/rt2teaser3.jpg"
-        },
-        {
-          "id": "https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf",
-          "publishedOn": "2025-01-01T12:21:18.000Z",
-          "wordCount": 702,
-          "title": "30% drop in O1-preview accuracy when Putnam problems are slightly variated",
-          "imageUrl": "https://openreview.net/images/openreview_logo_512.png"
-        },
-        {
-          "id": "https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024",
-          "publishedOn": "2025-01-01T08:16:09.000Z",
-          "wordCount": 10953,
-          "title": "Books I Loved Reading in 2024",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbc171c5-8835-430a-b2d5-9ca988395ad8_750x538"
-        },
-        {
-          "id": "https://screensaverchess.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://screensaverchess.com/",
-          "publishedOn": "2025-01-01T05:20:49.000Z",
-          "wordCount": 1,
-          "title": "Show HN: I made a screensaver that solves chess puzzles",
-          "imageUrl": null
-        },
-        {
-          "id": "https://curiouscoding.nl/posts/static-search-tree/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://curiouscoding.nl/posts/static-search-tree/",
-          "publishedOn": "2025-01-01T00:08:03.000Z",
-          "wordCount": 12964,
-          "title": "Static search trees: faster than binary search",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lehnews.wordpress.com/2014/03/25/walter-isaacson-my-so-called-writing-life/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lehnews.wordpress.com/2014/03/25/walter-isaacson-my-so-called-writing-life/",
-          "publishedOn": "2024-12-31T08:42:22.000Z",
-          "wordCount": 10045,
-          "title": "Walter Isaacson: My So-Called Writing Life (2014)",
-          "imageUrl": "https://lehnews.wordpress.com/wp-content/uploads/2014/03/walkerpercyaug161988krementzbwcrop11.jpg?w=474"
-        },
-        {
-          "id": "https://olano.dev/blog/software-design-is-knowledge-building/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://olano.dev/blog/software-design-is-knowledge-building/",
-          "publishedOn": "2024-12-31T07:59:54.000Z",
-          "wordCount": 2071,
-          "title": "Software Design Is Knowledge Building",
-          "imageUrl": "https://olano.dev/assets/img/inchequeable.png"
-        },
-        {
-          "id": "https://allenpike.com/2024/an-unreasonable-amount-of-time",
-          "author": null,
-          "description": "Comments",
-          "link": "https://allenpike.com/2024/an-unreasonable-amount-of-time",
-          "publishedOn": "2024-12-31T07:20:19.000Z",
-          "wordCount": 412,
-          "title": "An Unreasonable Amount of Time",
-          "imageUrl": "https://allenpike.com/images/simple-opengraph-banner.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/d41586-024-04161-z",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/d41586-024-04161-z",
-          "publishedOn": "2024-12-30T13:35:46.000Z",
-          "wordCount": null,
-          "title": "How AI is unlocking ancient texts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2024/12/most-people-dont-care-about-quality/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://shkspr.mobi/blog/2024/12/most-people-dont-care-about-quality/",
-          "publishedOn": "2024-12-30T13:24:36.000Z",
-          "wordCount": null,
-          "title": "Most people don't care about quality",
-          "imageUrl": null
-        },
-        {
-          "id": "https://maskray.me/blog/2024-12-30-skipping-boring-functions-in-debuggers",
-          "author": null,
-          "description": "Comments",
-          "link": "https://maskray.me/blog/2024-12-30-skipping-boring-functions-in-debuggers",
-          "publishedOn": "2024-12-30T08:32:53.000Z",
-          "wordCount": 1076,
-          "title": "Skipping Boring Functions in Debuggers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://minus-ze.ro/posts/unintuitive-optimization-for-performing-paths-union/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://minus-ze.ro/posts/unintuitive-optimization-for-performing-paths-union/",
-          "publishedOn": "2024-12-29T18:40:10.000Z",
-          "wordCount": 1876,
-          "title": "Unintuitive optimization for performing paths union",
-          "imageUrl": "https://minus-ze.ro/unintuitive-optimization-for-performing-paths-union.png"
-        },
-        {
-          "id": "https://blog.disintegrator.dev/posts/dev-virtual-machine/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.disintegrator.dev/posts/dev-virtual-machine/",
-          "publishedOn": "2024-12-29T17:51:01.000Z",
-          "wordCount": 1094,
-          "title": "Developing inside a virtual machine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.johndcook.com/blog/2024/12/29/what-exactly-is-a-second/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.johndcook.com/blog/2024/12/29/what-exactly-is-a-second/",
-          "publishedOn": "2024-12-29T16:11:16.000Z",
-          "wordCount": 1910,
-          "title": "What is a second?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.katalog-barbaraiweins.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.katalog-barbaraiweins.com/",
-          "publishedOn": "2024-12-29T13:43:18.000Z",
-          "wordCount": 2036,
-          "title": "For four years, I photographed, indexed and classified my entire house",
-          "imageUrl": null
+          "link": "https://arxiv.org/abs/2412.13459",
+          "publishedOn": "2024-12-29T14:30:48.000Z",
+          "wordCount": 805,
+          "title": "4.5M Suspected Fake Stars in GitHub",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     }
