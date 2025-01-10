@@ -6,94 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase",
+          "id": "https://rodneybrooks.com/predictions-scorecard-2025-january-01/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase",
-          "publishedOn": "2025-01-09T00:25:39.000Z",
-          "wordCount": 1498,
-          "title": "You don't have to pay the Microsoft 365 price increase",
-          "imageUrl": "https://d3c7odttnp7a2d.cloudfront.net/uploads/article/social_image/you-don-t-have-to-pay-the-microsoft-365-price-increase/Social_Image_1200_x_630__5_.jpg"
-        },
-        {
-          "id": "https://sidhion.com/blog/28h_days_update_1/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sidhion.com/blog/28h_days_update_1/",
-          "publishedOn": "2025-01-08T23:37:54.000Z",
-          "wordCount": 1213,
-          "title": "28h Days: year 1 update",
+          "link": "https://rodneybrooks.com/predictions-scorecard-2025-january-01/",
+          "publishedOn": "2025-01-10T00:27:55.000Z",
+          "wordCount": 15956,
+          "title": "Rodney Brooks: Predictions Scorecard, 2025",
           "imageUrl": null
         },
         {
-          "id": "https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california",
+          "id": "https://www.wired.com/story/gravy-location-data-app-leak-rtb/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california",
-          "publishedOn": "2025-01-08T23:29:06.000Z",
-          "wordCount": 12769,
-          "title": "A Supermarket in California (1955)",
-          "imageUrl": "https://s3-us-east-2.amazonaws.com/cdn-test.poetryfoundation.org/content/images/4e10cff72d74e4bb21ffd9935dac615912684e14.jpeg"
+          "link": "https://www.wired.com/story/gravy-location-data-app-leak-rtb/",
+          "publishedOn": "2025-01-10T00:00:52.000Z",
+          "wordCount": 27264,
+          "title": "Candy Crush, Tinder, MyFitnessPal: Apps hijacked to spy on location",
+          "imageUrl": "https://media.wired.com/photos/6780349b52e18f7d54f734ac/191:100/w_1280,c_limit/app-hack-sec-1752520492.jpg"
         },
         {
-          "id": "https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/",
+          "id": "https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/",
           "author": null,
           "description": "Comments",
-          "link": "https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/",
-          "publishedOn": "2025-01-08T23:13:08.000Z",
-          "wordCount": null,
-          "title": "Steve Langasek, one of Ubuntu Linux's leading lights, has died",
+          "link": "https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/",
+          "publishedOn": "2025-01-09T23:20:25.000Z",
+          "wordCount": 3326,
+          "title": "Disappointed with the TVs at CES 2025",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2155814890-1152x648.jpg"
+        },
+        {
+          "id": "https://curiousdevscorner.gumroad.com/l/master-helm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://curiousdevscorner.gumroad.com/l/master-helm",
+          "publishedOn": "2025-01-09T23:13:34.000Z",
+          "wordCount": 816,
+          "title": "A quickstart eBook about Helm's essentials",
+          "imageUrl": "https://public-files.gumroad.com/l0mlui9vtcwe8lkzdvgwkusbxsh8"
+        },
+        {
+          "id": "https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/",
+          "publishedOn": "2025-01-09T22:37:01.000Z",
+          "wordCount": 3745,
+          "title": "Soldering the Tek way",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2025/01/tek_soldering.jpeg"
+        },
+        {
+          "id": "https://joshleeb.com/posts/monospace-ligatures.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://joshleeb.com/posts/monospace-ligatures.html",
+          "publishedOn": "2025-01-09T22:28:07.000Z",
+          "wordCount": 1425,
+          "title": "Shaping ligatures in monospace fonts",
           "imageUrl": null
         },
         {
-          "id": "https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/",
+          "id": "https://www.meta.com/en-gb/blog/quest/surface-emg-wrist-white-paper-reality-labs/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/",
-          "publishedOn": "2025-01-08T22:56:27.000Z",
-          "wordCount": 1495,
-          "title": "Salesforce will hire no more software engineers in 2025, says Marc Benioff",
-          "imageUrl": "https://www.salesforceben.com/wp-content/uploads/2024/12/Salesforce-Will-Hire-No-More-Software-Engineers-in-2025-Says-Marc-Benioff.png"
-        },
-        {
-          "id": "https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/",
-          "publishedOn": "2025-01-08T21:40:09.000Z",
-          "wordCount": 1321,
-          "title": "LA wildfires force thousands to evacuate, NASA JPL closed",
-          "imageUrl": "https://regmedia.co.uk/2025/01/08/shutterstock_1818129098.jpg"
-        },
-        {
-          "id": "https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb",
-          "publishedOn": "2025-01-08T21:27:12.000Z",
-          "wordCount": 1927,
-          "title": "I had to take down my course-swapping site or be expelled",
-          "imageUrl": "https://media.licdn.com/dms/image/sync/v2/D5627AQExQHaQFQpkag/articleshare-shrink_800/articleshare-shrink_800/0/1736309267479?e=2147483647&v=beta&t=JdFT-liJg4bN7LEKuEUh2tomsTA9cXjTVCROEU3TTxw"
-        },
-        {
-          "id": "https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md",
-          "publishedOn": "2025-01-08T19:58:22.000Z",
-          "wordCount": 4059,
-          "title": "Multiplicative Infinitesimals",
-          "imageUrl": "https://opengraph.githubassets.com/8f9b33ef3ef3b6f51ab003cf5190aeb5d4405c55dce3ab780cc5db610f0ed72f/Ericson2314/baccumulation"
-        },
-        {
-          "id": "https://jerf.org/iri/post/2025/programming_language_ideas/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jerf.org/iri/post/2025/programming_language_ideas/",
-          "publishedOn": "2025-01-08T18:58:58.000Z",
-          "wordCount": 5217,
-          "title": "Some programming language ideas",
+          "link": "https://www.meta.com/en-gb/blog/quest/surface-emg-wrist-white-paper-reality-labs/",
+          "publishedOn": "2025-01-09T21:46:18.000Z",
+          "wordCount": 1228,
+          "title": "Human-Computer Input via a Wrist-Based SEMG Wearable",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42649996",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42649996",
+          "publishedOn": "2025-01-09T21:33:06.000Z",
+          "wordCount": 4569,
+          "title": "Ask HN: A friend has brain cancer: any bio hacks that worked?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404",
+          "author": null,
+          "description": "Comments",
+          "link": "https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404",
+          "publishedOn": "2025-01-09T20:02:36.000Z",
+          "wordCount": 6537,
+          "title": "How Britain got its first internet connection (2015)",
+          "imageUrl": "https://images.theconversation.com/files/640805/original/file-20250106-17-rlmijt.jpg?ixlib=rb-4.1.0&rect=0%2C89%2C1000%2C500&q=45&auto=format&w=1356&h=668&fit=crop"
+        },
+        {
+          "id": "https://publicdomainreview.org/collection/francis-picabia-391-review/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://publicdomainreview.org/collection/francis-picabia-391-review/",
+          "publishedOn": "2025-01-09T19:28:56.000Z",
+          "wordCount": 10743,
+          "title": "Perpetual Movement: Francis Picabia's 391 Review (1917–1924)",
+          "imageUrl": "https://the-public-domain-review.imgix.net/collections/francis-picabias-391/391_thumb.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42648597",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42648597",
+          "publishedOn": "2025-01-09T18:43:07.000Z",
+          "wordCount": 3888,
+          "title": "Ask HN: How do you backup your Android?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42647695",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42647695",
+          "publishedOn": "2025-01-09T17:15:11.000Z",
+          "wordCount": 752,
+          "title": "MixRank (YC S11) Is Hiring Software Engineers Globally",
+          "imageUrl": null
+        },
+        {
+          "id": "https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/",
+          "publishedOn": "2025-01-09T17:07:40.000Z",
+          "wordCount": 9674,
+          "title": "\"Twelfth Night Till Candlemas\" – a 40-year book-quest and its remarkable ending",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F927d3b98-1136-4a4a-8bfb-74c7315bb76b_589x948.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41586-024-08328-6/link",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41586-024-08328-6/link",
+          "publishedOn": "2025-01-09T16:38:26.000Z",
+          "wordCount": 15144,
+          "title": "Show HN: TabPFN v2 – A SOTA foundation model for small tabular data",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-024-08328-6/MediaObjects/41586_2024_8328_Fig1_HTML.png"
+        },
+        {
+          "id": "https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/",
+          "publishedOn": "2025-01-09T16:19:34.000Z",
+          "wordCount": 6705,
+          "title": "WorstFit: Unveiling Hidden Transformers in Windows ANSI",
+          "imageUrl": "https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/fb7a21f99453ce05667ddab5a.jpg"
+        },
+        {
+          "id": "https://th0mas.nl/downloads/pdftris.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://th0mas.nl/downloads/pdftris.pdf",
+          "publishedOn": "2025-01-09T13:31:33.000Z",
+          "wordCount": 13165,
+          "title": "Show HN: Tetris in a PDF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jirevwe.github.io/sql-nulls-are-weird.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jirevwe.github.io/sql-nulls-are-weird.html",
+          "publishedOn": "2025-01-09T13:21:40.000Z",
+          "wordCount": 2042,
+          "title": "SQL nulls are weird",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/piebro/factorio-blueprint-visualizer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/piebro/factorio-blueprint-visualizer",
+          "publishedOn": "2025-01-09T11:23:03.000Z",
+          "wordCount": 3019,
+          "title": "Show HN: Factorio Blueprint Visualizer",
+          "imageUrl": "https://opengraph.githubassets.com/0d8b622e7e6bd7664269e9195c685f72777d89ed4b70e0ff97be9a81bbf1d0e0/piebro/factorio-blueprint-visualizer"
         },
         {
           "id": "https://sagipolaczek.github.io/NeuralSVG/",
@@ -106,26 +196,6 @@
           "imageUrl": "static/images/og_tag_header_image.jpg"
         },
         {
-          "id": "https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer",
-          "publishedOn": "2025-01-08T17:00:22.000Z",
-          "wordCount": 703,
-          "title": "Two Dots (YC S22) Is Hiring ML and Back End Engineers",
-          "imageUrl": "/images/original/missing.png"
-        },
-        {
-          "id": "https://sdomi.pl/weblog/23-serenityos-realhw/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sdomi.pl/weblog/23-serenityos-realhw/",
-          "publishedOn": "2025-01-08T16:54:39.000Z",
-          "wordCount": 4411,
-          "title": "Bringing SerenityOS to real hardware, one driver at a time",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/browserbase/stagehand",
           "author": null,
           "description": "Comments",
@@ -133,7 +203,7 @@
           "publishedOn": "2025-01-08T16:41:04.000Z",
           "wordCount": 3016,
           "title": "Show HN: Stagehand – an open source browser automation framework powered by AI",
-          "imageUrl": "https://opengraph.githubassets.com/707c9048985bcd00586a62b776cf08c3c119b2150e1d30b5f910e0f4aa9c08e3/browserbase/stagehand"
+          "imageUrl": "https://opengraph.githubassets.com/05620796b10dd597b428c486b17bbbefdfbe4a46ed4a80c57b5ef2610b35d313/browserbase/stagehand"
         },
         {
           "id": "https://atlasof.space/",
@@ -146,26 +216,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.mattkeeter.com/projects/fidget/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.mattkeeter.com/projects/fidget/",
-          "publishedOn": "2025-01-08T14:30:58.000Z",
-          "wordCount": 4332,
-          "title": "Fidget",
-          "imageUrl": null
-        },
-        {
-          "id": "https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/",
-          "publishedOn": "2025-01-08T13:11:40.000Z",
-          "wordCount": 2541,
-          "title": "Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra",
-          "imageUrl": "https://robotics.umich.edu/wp-content/uploads/2018/12/robotics-social-blue.jpg"
-        },
-        {
           "id": "https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key",
           "author": null,
           "description": "Comments",
@@ -176,134 +226,84 @@
           "imageUrl": null
         },
         {
-          "id": "https://blog.karliner.net/projects/belshazzars-clock/",
+          "id": "https://www.nytimes.com/2025/01/03/books/david-lodge-dead.html",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.karliner.net/projects/belshazzars-clock/",
-          "publishedOn": "2025-01-08T11:14:20.000Z",
-          "wordCount": 828,
-          "title": "Show HN: Belshazzar's Clock, luminous paint night clock",
-          "imageUrl": null
-        },
-        {
-          "id": "https://operating-system-in-1000-lines.vercel.app/en",
-          "author": null,
-          "description": "Comments",
-          "link": "https://operating-system-in-1000-lines.vercel.app/en",
-          "publishedOn": "2025-01-08T07:18:50.000Z",
-          "wordCount": 317,
-          "title": "Operating System in 1,000 Lines – Intro",
-          "imageUrl": null
-        },
-        {
-          "id": "https://znah.net/tt09/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://znah.net/tt09/",
-          "publishedOn": "2025-01-08T06:38:41.000Z",
-          "wordCount": 913,
-          "title": "Gate-level simulation of ASIC in browser",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/",
-          "publishedOn": "2025-01-07T20:47:38.000Z",
-          "wordCount": 4757,
-          "title": "How many real numbers exist? New proof moves closer to an answer (2021)",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/07/Infinity-Tower_1200_social.jpg"
-        },
-        {
-          "id": "https://learningsynths.ableton.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://learningsynths.ableton.com/",
-          "publishedOn": "2025-01-07T12:46:02.000Z",
-          "wordCount": 293,
-          "title": "Learning Synths",
-          "imageUrl": "https://learningsynths.ableton.com/meta/og-learningsynths-1200x630.jpg"
-        },
-        {
-          "id": "https://onlinelibrary.wiley.com/doi/full/10.1002/9780470050118.ecse071",
-          "author": null,
-          "description": "Comments",
-          "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/9780470050118.ecse071",
-          "publishedOn": "2025-01-07T10:48:49.000Z",
+          "link": "https://www.nytimes.com/2025/01/03/books/david-lodge-dead.html",
+          "publishedOn": "2025-01-07T19:42:24.000Z",
           "wordCount": null,
-          "title": "Computer Architecture – Michael Flynn (2007)",
+          "title": "David Lodge, British novelist who satirized academic life, has died",
           "imageUrl": null
         },
         {
-          "id": "https://www.seangoedecke.com/ratchet-effects/",
+          "id": "https://blog.apnic.net/2024/10/18/the-strange-cases-of-consumer-grade-routers-on-puny-power-supplies/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.seangoedecke.com/ratchet-effects/",
-          "publishedOn": "2025-01-06T12:30:11.000Z",
-          "wordCount": 1298,
-          "title": "Ratchet effects determine engineer reputation at large companies – sean goedecke",
+          "link": "https://blog.apnic.net/2024/10/18/the-strange-cases-of-consumer-grade-routers-on-puny-power-supplies/",
+          "publishedOn": "2025-01-06T18:42:03.000Z",
+          "wordCount": 4769,
+          "title": "The cases of consumer-grade routers on puny power supplies",
+          "imageUrl": "https://blog.apnic.net/wp-content/uploads/2024/10/Broken_link_FT.png"
+        },
+        {
+          "id": "https://apple.fandom.com/wiki/MacBASIC",
+          "author": null,
+          "description": "Comments",
+          "link": "https://apple.fandom.com/wiki/MacBASIC",
+          "publishedOn": "2025-01-06T16:39:57.000Z",
+          "wordCount": 3019,
+          "title": "MacBASIC",
+          "imageUrl": "https://static.wikia.nocookie.net/ipod/images/c/c9/MacBASIC_0.29_about_box.png/revision/latest?cb=20210313003529"
+        },
+        {
+          "id": "https://tiki.li/apps/particles.html?v=2501a",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tiki.li/apps/particles.html?v=2501a",
+          "publishedOn": "2025-01-06T16:27:20.000Z",
+          "wordCount": 268,
+          "title": "Relax while watching bouncing particles making connections when they get closer",
           "imageUrl": null
         },
         {
-          "id": "https://olano.dev/blog/a-pixel-parable/",
+          "id": "https://hackclub.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://olano.dev/blog/a-pixel-parable/",
-          "publishedOn": "2025-01-06T00:48:58.000Z",
-          "wordCount": 6289,
-          "title": "A Pixel Parable",
-          "imageUrl": "https://olano.dev/assets/img/parable/loom.png"
+          "link": "https://hackclub.com/",
+          "publishedOn": "2025-01-06T15:21:14.000Z",
+          "wordCount": 7122,
+          "title": "We are teen hackers from around the world who code together",
+          "imageUrl": "https://cloud-lgl7kg862-hack-club-bot.vercel.app/0start__1_.png"
         },
         {
-          "id": "https://www.ft.com/content/2138e940-0c81-44b0-87a7-325f278413e1",
+          "id": "https://www.bbc.com/future/article/20171206-the-fascinating-reason-why-clowns-paint-their-faces-on-eggs",
           "author": null,
           "description": "Comments",
-          "link": "https://www.ft.com/content/2138e940-0c81-44b0-87a7-325f278413e1",
-          "publishedOn": "2025-01-06T00:29:35.000Z",
-          "wordCount": 1985,
-          "title": "Who killed the rave?",
-          "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4860b630-06a8-4d48-b022-e232303cc519.jpg?source=next-barrier-page"
+          "link": "https://www.bbc.com/future/article/20171206-the-fascinating-reason-why-clowns-paint-their-faces-on-eggs",
+          "publishedOn": "2025-01-06T12:24:24.000Z",
+          "wordCount": 11507,
+          "title": "Why clowns paint their faces on eggs (2017)",
+          "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p05q76qw.jpg"
         },
         {
-          "id": "https://fixparser.dev/what-is-fix",
+          "id": "https://8dcc.github.io/programming/pool-allocator.html",
           "author": null,
           "description": "Comments",
-          "link": "https://fixparser.dev/what-is-fix",
-          "publishedOn": "2025-01-05T15:33:47.000Z",
-          "wordCount": 1212,
-          "title": "Brief Introduction to Fix and Fix JSON",
+          "link": "https://8dcc.github.io/programming/pool-allocator.html",
+          "publishedOn": "2025-01-05T23:07:37.000Z",
+          "wordCount": 4227,
+          "title": "Writing a simple pool allocator in C",
           "imageUrl": null
         },
         {
-          "id": "https://arxiv.org/abs/2501.00021",
+          "id": "https://www.newyorker.com/culture/the-weekend-essay/writing-as-transformation-louise-gluck",
           "author": null,
           "description": "Comments",
-          "link": "https://arxiv.org/abs/2501.00021",
-          "publishedOn": "2025-01-05T15:23:00.000Z",
-          "wordCount": 667,
-          "title": "Did we miss P In CAP? Partial Progress Conjecture under Asynchrony",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://www.nytimes.com/2025/01/02/us/mother-orca-tahlequah-calf-dead.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2025/01/02/us/mother-orca-tahlequah-calf-dead.html",
-          "publishedOn": "2025-01-05T03:28:23.000Z",
-          "wordCount": null,
-          "title": "Orca that carried dead calf for weeks appears to be in mourning again",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.eejournal.com/article/a-history-of-early-microcontrollers-part-1-calculator-chips-came-first/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.eejournal.com/article/a-history-of-early-microcontrollers-part-1-calculator-chips-came-first/",
-          "publishedOn": "2025-01-04T22:18:54.000Z",
-          "wordCount": 5607,
-          "title": "A History of Early Microcontrollers, Part 1: Calculator Chips Came First (2022)",
-          "imageUrl": "https://www.eejournal.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-01-at-7.04.21-PM.png"
+          "link": "https://www.newyorker.com/culture/the-weekend-essay/writing-as-transformation-louise-gluck",
+          "publishedOn": "2025-01-05T06:15:14.000Z",
+          "wordCount": 33317,
+          "title": "Writing as Transformation",
+          "imageUrl": "https://media.newyorker.com/photos/6769886303d5f7a137819786/16:9/w_1280,c_limit/Gluck_Writing.jpg"
         }
       ]
     }
