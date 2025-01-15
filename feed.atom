@@ -1,305 +1,305 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-14T01:26:00.475Z</id>
+    <id>urn:2025-01-15T01:34:50.572Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-14T01:26:00.475Z</updated>
+    <updated>2025-01-15T01:34:50.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[GitHub Git Operations Are Down]]></title>
-        <id>https://www.githubstatus.com/incidents/qd96yfgvmcf9</id>
-        <link href="https://www.githubstatus.com/incidents/qd96yfgvmcf9"/>
-        <updated>2025-01-13T23:47:31.000Z</updated>
+        <title type="html"><![CDATA[Climbers using xenon gas to climb Everest]]></title>
+        <id>https://gripped.com/profiles/climbers-using-xenon-gas-which-is-banned-in-sports-to-climb-everest/</id>
+        <link href="https://gripped.com/profiles/climbers-using-xenon-gas-which-is-banned-in-sports-to-climb-everest/"/>
+        <updated>2025-01-14T23:08:54.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs]]></title>
-        <id>https://docs.linuxserver.io/images/docker-webtop/</id>
-        <link href="https://docs.linuxserver.io/images/docker-webtop/"/>
-        <updated>2025-01-13T23:25:08.000Z</updated>
+        <title type="html"><![CDATA[Rewriting my website in plain HTML and CSS]]></title>
+        <id>https://www.vijayp.dev/blog/rewrite-plain-html/</id>
+        <link href="https://www.vijayp.dev/blog/rewrite-plain-html/"/>
+        <updated>2025-01-14T22:57:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[voyage-code-3]]></title>
-        <id>https://blog.voyageai.com/2024/12/04/voyage-code-3/</id>
-        <link href="https://blog.voyageai.com/2024/12/04/voyage-code-3/"/>
-        <updated>2025-01-13T23:09:14.000Z</updated>
+        <title type="html"><![CDATA[GPT-4o with scheduled tasks (jawbone) is available in beta]]></title>
+        <id>https://chatgpt.com/?model=gpt-4o-jawbone</id>
+        <link href="https://chatgpt.com/?model=gpt-4o-jawbone"/>
+        <updated>2025-01-14T22:25:54.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spain proposes 100% tax on homes bought by non-EU residents]]></title>
-        <id>https://www.theguardian.com/world/2025/jan/13/spain-proposes-100-tax-on-homes-bought-by-non-eu-residents</id>
-        <link href="https://www.theguardian.com/world/2025/jan/13/spain-proposes-100-tax-on-homes-bought-by-non-eu-residents"/>
-        <updated>2025-01-13T23:06:43.000Z</updated>
+        <title type="html"><![CDATA[If You Ever See This Speed Sign, You're Probably Going to Die]]></title>
+        <id>https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/</id>
+        <link href="https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/"/>
+        <updated>2025-01-14T21:59:12.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snyk security researcher deploys malicious NPM packages targeting Cursor.com]]></title>
-        <id>https://sourcecodered.com/snyk-malicious-npm-package/</id>
-        <link href="https://sourcecodered.com/snyk-malicious-npm-package/"/>
-        <updated>2025-01-13T22:38:27.000Z</updated>
+        <title type="html"><![CDATA[Show HN: Simplex: Automate browser workflows using code and natural language]]></title>
+        <id>https://www.simplex.sh/playground</id>
+        <link href="https://www.simplex.sh/playground"/>
+        <updated>2025-01-14T21:30:14.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientists Discover Underground Water Vault in Oregon 3x the Size of Lake Mead]]></title>
-        <id>https://scitechdaily.com/scientists-discover-a-massive-underground-water-vault-in-oregon-3x-the-size-of-lake-mead/</id>
-        <link href="https://scitechdaily.com/scientists-discover-a-massive-underground-water-vault-in-oregon-3x-the-size-of-lake-mead/"/>
-        <updated>2025-01-13T22:02:04.000Z</updated>
+        <title type="html"><![CDATA[Don't use cosine similarity carelessly]]></title>
+        <id>https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/</id>
+        <link href="https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/"/>
+        <updated>2025-01-14T21:23:21.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sonos CEO steps down after app update debacle]]></title>
-        <id>https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/</id>
-        <link href="https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/"/>
-        <updated>2025-01-13T19:42:48.000Z</updated>
+        <title type="html"><![CDATA[Proof of location for online polls]]></title>
+        <id>https://ip-vote.com/geolocation_via_latency.html</id>
+        <link href="https://ip-vote.com/geolocation_via_latency.html"/>
+        <updated>2025-01-14T20:31:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How corn syrup took over America]]></title>
-        <id>https://thehustle.co/originals/how-corn-syrup-took-over-america</id>
-        <link href="https://thehustle.co/originals/how-corn-syrup-took-over-america"/>
-        <updated>2025-01-13T18:56:47.000Z</updated>
+        <title type="html"><![CDATA[How rqlite is tested]]></title>
+        <id>https://philipotoole.com/how-is-rqlite-tested/</id>
+        <link href="https://philipotoole.com/how-is-rqlite-tested/"/>
+        <updated>2025-01-14T20:21:47.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WordPress Is in Trouble]]></title>
-        <id>https://anderegg.ca/2025/01/11/wordpress-is-in-trouble</id>
-        <link href="https://anderegg.ca/2025/01/11/wordpress-is-in-trouble"/>
-        <updated>2025-01-13T18:55:31.000Z</updated>
+        <title type="html"><![CDATA[Home Loss File System]]></title>
+        <id>https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/htmlview#gid=1160377357</id>
+        <link href="https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/htmlview#gid=1160377357"/>
+        <updated>2025-01-14T17:54:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Engineer Reading List]]></title>
-        <id>https://www.latent.space/p/2025-papers</id>
-        <link href="https://www.latent.space/p/2025-papers"/>
-        <updated>2025-01-13T18:11:17.000Z</updated>
+        <title type="html"><![CDATA[Show HN: WASM-powered codespaces for Python notebooks on GitHub]]></title>
+        <id>https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github</id>
+        <link href="https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github"/>
+        <updated>2025-01-14T17:46:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Humanize Healthcare Content as Wyndly (YC W21) 's first content hire]]></title>
-        <id>https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084</id>
-        <link href="https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084"/>
-        <updated>2025-01-13T17:00:21.000Z</updated>
+        <title type="html"><![CDATA[Google’s OAuth login doesn’t protect against purchasing a failed startup domain]]></title>
+        <id>https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw</id>
+        <link href="https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw"/>
+        <updated>2025-01-14T16:14:01.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Curious Gems of the River Thames]]></title>
-        <id>https://www.atlasobscura.com/articles/thames-garnets-mudlark</id>
-        <link href="https://www.atlasobscura.com/articles/thames-garnets-mudlark"/>
-        <updated>2025-01-13T15:13:45.000Z</updated>
+        <title type="html"><![CDATA[Show HN: Value likelihoods for OpenAI structured output]]></title>
+        <id>https://arena-ai.github.io/structured-logprobs/</id>
+        <link href="https://arena-ai.github.io/structured-logprobs/"/>
+        <updated>2025-01-14T15:52:43.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fluid Simulation Pendant]]></title>
-        <id>https://mitxela.com/projects/fluid-pendant</id>
-        <link href="https://mitxela.com/projects/fluid-pendant"/>
-        <updated>2025-01-13T13:50:46.000Z</updated>
+        <title type="html"><![CDATA[Why is homeschooling becoming fashionable?]]></title>
+        <id>https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into</id>
+        <link href="https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into"/>
+        <updated>2025-01-14T15:51:33.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can you complete the Oregon Trail if you wait at river for 14272 years: A study]]></title>
-        <id>https://moral.net.au/writing/2025/01/11/waiting_for_oregon/</id>
-        <link href="https://moral.net.au/writing/2025/01/11/waiting_for_oregon/"/>
-        <updated>2025-01-13T12:42:27.000Z</updated>
+        <title type="html"><![CDATA[Craniometrix (YC W22) is hiring a founding engineer on CTO track]]></title>
+        <id>https://www.ycombinator.com/companies/craniometrix/jobs/5Ucqf0Q-founding-full-stack-engineer-cto-track</id>
+        <link href="https://www.ycombinator.com/companies/craniometrix/jobs/5Ucqf0Q-founding-full-stack-engineer-cto-track"/>
+        <updated>2025-01-14T14:43:04.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Debugging: Indispensable rules for finding even the most elusive problems (2004)]]></title>
-        <id>https://dwheeler.com/essays/debugging-agans.html</id>
-        <link href="https://dwheeler.com/essays/debugging-agans.html"/>
-        <updated>2025-01-13T12:07:42.000Z</updated>
+        <title type="html"><![CDATA[Dbt Labs acquires SDF Labs]]></title>
+        <id>https://www.getdbt.com/blog/dbt-labs-acquires-sdf-labs</id>
+        <link href="https://www.getdbt.com/blog/dbt-labs-acquires-sdf-labs"/>
+        <updated>2025-01-14T14:42:54.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Origins of Wokeness]]></title>
-        <id>https://paulgraham.com/woke.html</id>
-        <link href="https://paulgraham.com/woke.html"/>
-        <updated>2025-01-13T11:21:01.000Z</updated>
+        <title type="html"><![CDATA[Take the Pedals Off the Bike]]></title>
+        <id>https://www.fortressofdoors.com/take-the-pedals-off-the-bike/</id>
+        <link href="https://www.fortressofdoors.com/take-the-pedals-off-the-bike/"/>
+        <updated>2025-01-14T14:17:52.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Detrimental Decibels: A Study of Noise Levels in Vancouver's SkyTrain System (2022)]]></title>
-        <id>https://open.library.ubc.ca/media/stream/pdf/51869/1.0421693/5</id>
-        <link href="https://open.library.ubc.ca/media/stream/pdf/51869/1.0421693/5"/>
-        <updated>2025-01-13T09:49:46.000Z</updated>
+        <title type="html"><![CDATA[Show HN: A blocklist to remove spam and bad websites from search results]]></title>
+        <id>https://github.com/popcar2/BadWebsiteBlocklist</id>
+        <link href="https://github.com/popcar2/BadWebsiteBlocklist"/>
+        <updated>2025-01-14T14:06:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How did they make cars fall apart in old movies (2017)]]></title>
-        <id>https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies</id>
-        <link href="https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies"/>
-        <updated>2025-01-13T01:41:52.000Z</updated>
+        <title type="html"><![CDATA[Servo vs. steppers: Speed, Torque and Accuracy [video]]]></title>
+        <id>https://www.youtube.com/watch?v=H-nO1F-AO9I</id>
+        <link href="https://www.youtube.com/watch?v=H-nO1F-AO9I"/>
+        <updated>2025-01-14T14:05:40.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Right to root access]]></title>
-        <id>https://medhir.com/blog/right-to-root-access</id>
-        <link href="https://medhir.com/blog/right-to-root-access"/>
-        <updated>2025-01-12T22:53:16.000Z</updated>
+        <title type="html"><![CDATA[Estimates of plant CO2 uptake rise by nearly one third]]></title>
+        <id>https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates</id>
+        <link href="https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates"/>
+        <updated>2025-01-14T12:41:46.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I created an open-source Hardware Hacking Wiki – with tutorials for beginners]]></title>
-        <id>https://www.hardbreak.wiki/</id>
-        <link href="https://www.hardbreak.wiki/"/>
-        <updated>2025-01-12T11:29:52.000Z</updated>
+        <title type="html"><![CDATA[The rise and fall of the English sentence (2017)]]></title>
+        <id>https://nautil.us/the-rise-and-fall-of-the-english-sentence-236880/</id>
+        <link href="https://nautil.us/the-rise-and-fall-of-the-english-sentence-236880/"/>
+        <updated>2025-01-14T10:02:56.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FreeBSD Suspend/Resume]]></title>
-        <id>https://vermaden.wordpress.com/2025/01/11/freebsd-suspend-resume/</id>
-        <link href="https://vermaden.wordpress.com/2025/01/11/freebsd-suspend-resume/"/>
-        <updated>2025-01-11T01:47:55.000Z</updated>
+        <title type="html"><![CDATA[FFmpeg by Example]]></title>
+        <id>https://ffmpegbyexample.com/</id>
+        <link href="https://ffmpegbyexample.com/"/>
+        <updated>2025-01-14T09:58:15.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A laptop stand made from a single sheet of recycled paper]]></title>
-        <id>https://www.core77.com/posts/134948/A-Laptop-Stand-Made-from-a-Single-Sheet-of-Recycled-Paper</id>
-        <link href="https://www.core77.com/posts/134948/A-Laptop-Stand-Made-from-a-Single-Sheet-of-Recycled-Paper"/>
-        <updated>2025-01-11T01:07:31.000Z</updated>
+        <title type="html"><![CDATA[Cosmos Keyboard: Scan your hand, build a keyboard]]></title>
+        <id>https://ryanis.cool/cosmos/</id>
+        <link href="https://ryanis.cool/cosmos/"/>
+        <updated>2025-01-13T17:42:00.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How we used GPT-4o for image detection with 350 similar illustrations]]></title>
-        <id>https://olup-blog.pages.dev/stories/image-detection-cars</id>
-        <link href="https://olup-blog.pages.dev/stories/image-detection-cars"/>
-        <updated>2025-01-10T21:02:32.000Z</updated>
+        <title type="html"><![CDATA[Mastodon announces new European non-profit, change of CEO]]></title>
+        <id>https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/</id>
+        <link href="https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/"/>
+        <updated>2025-01-13T10:23:50.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When a winter storm trapped a luxury passenger train near Donner Pass]]></title>
-        <id>https://www.smithsonianmag.com/history/when-a-deadly-winter-storm-trapped-a-luxury-passenger-train-near-the-donner-pass-for-three-days-180985782/</id>
-        <link href="https://www.smithsonianmag.com/history/when-a-deadly-winter-storm-trapped-a-luxury-passenger-train-near-the-donner-pass-for-three-days-180985782/"/>
-        <updated>2025-01-10T17:16:16.000Z</updated>
+        <title type="html"><![CDATA[The Missing Nvidia GPU Glossary]]></title>
+        <id>https://modal.com/gpu-glossary/readme</id>
+        <link href="https://modal.com/gpu-glossary/readme"/>
+        <updated>2025-01-12T18:22:07.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Railroad Tycoon II]]></title>
-        <id>https://www.filfre.net/2025/01/railroad-tycoon-ii/</id>
-        <link href="https://www.filfre.net/2025/01/railroad-tycoon-ii/"/>
-        <updated>2025-01-10T17:15:22.000Z</updated>
+        <title type="html"><![CDATA[Getting an all-optical AI to handle non-linear math]]></title>
+        <id>https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/</id>
+        <link href="https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/"/>
+        <updated>2025-01-12T13:33:39.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Python with do..end in place of strict indentation]]></title>
-        <id>https://github.com/navxio/dopy</id>
-        <link href="https://github.com/navxio/dopy"/>
-        <updated>2025-01-10T13:53:14.000Z</updated>
+        <title type="html"><![CDATA[Das Blinkenlights]]></title>
+        <id>https://rodyne.com/?p=1674</id>
+        <link href="https://rodyne.com/?p=1674"/>
+        <updated>2025-01-12T09:39:50.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Celebrating the Timeless Allure of Tintin's Aesthetics]]></title>
-        <id>https://collegetowns.substack.com/p/celebrating-the-timeless-allure-of</id>
-        <link href="https://collegetowns.substack.com/p/celebrating-the-timeless-allure-of"/>
-        <updated>2025-01-09T23:47:50.000Z</updated>
+        <title type="html"><![CDATA[Virtual Vette – Racing Simulator Built from Wrecked Corvette]]></title>
+        <id>https://www.instructables.com/Virtual-Vette-Racing-Simulator-Built-From-Wrecked-/</id>
+        <link href="https://www.instructables.com/Virtual-Vette-Racing-Simulator-Built-From-Wrecked-/"/>
+        <updated>2025-01-12T08:04:57.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lines of code that will beat A/B testing every time (2012)]]></title>
-        <id>https://stevehanov.ca/blog/index.php?id=132</id>
-        <link href="https://stevehanov.ca/blog/index.php?id=132"/>
-        <updated>2025-01-09T23:34:17.000Z</updated>
+        <title type="html"><![CDATA[Test if a number is even]]></title>
+        <id>https://ubuntuincident.wordpress.com/2025/01/11/test-if-a-number-is-even/</id>
+        <link href="https://ubuntuincident.wordpress.com/2025/01/11/test-if-a-number-is-even/"/>
+        <updated>2025-01-11T21:30:04.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why is my CPU usage always 100%?]]></title>
-        <id>https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/</id>
-        <link href="https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/"/>
-        <updated>2025-01-09T21:15:33.000Z</updated>
+        <title type="html"><![CDATA[Glicol: Next-generation computer music language]]></title>
+        <id>https://glicol.org/</id>
+        <link href="https://glicol.org/"/>
+        <updated>2025-01-10T21:44:24.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Entropy of a Large Language Model output]]></title>
-        <id>https://nikkin.dev/blog/llm-entropy.html</id>
-        <link href="https://nikkin.dev/blog/llm-entropy.html"/>
-        <updated>2025-01-09T20:00:47.000Z</updated>
+        <title type="html"><![CDATA[Reversible computing escapes the lab]]></title>
+        <id>https://spectrum.ieee.org/reversible-computing</id>
+        <link href="https://spectrum.ieee.org/reversible-computing"/>
+        <updated>2025-01-10T21:42:54.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
