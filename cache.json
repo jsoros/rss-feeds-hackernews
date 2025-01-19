@@ -6,13 +6,213 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=42744820",
+          "id": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=42744820",
-          "publishedOn": "2025-01-18T01:00:04.000Z",
-          "wordCount": 180,
-          "title": "Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)",
+          "link": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
+          "publishedOn": "2025-01-19T00:31:38.000Z",
+          "wordCount": 12159,
+          "title": "Unix Spell Ran in 64kB RAM",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce523ed3-b3aa-4cf3-b06a-4d67e70d838a_800x529.jpeg"
+        },
+        {
+          "id": "https://mastodon.matrix.org/@element/113842786942364269",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mastodon.matrix.org/@element/113842786942364269",
+          "publishedOn": "2025-01-18T23:52:23.000Z",
+          "wordCount": 122,
+          "title": "Nation-scale Matrix deployments will fail using the community version of Synapse",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pt-hd.iocaihost.me/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pt-hd.iocaihost.me/",
+          "publishedOn": "2025-01-18T22:44:58.000Z",
+          "wordCount": 25,
+          "title": "Pharaoh's Tomb HD – A Remake Made in JavaScript with Kaplay",
+          "imageUrl": "https://pt-hd.iocaihost.me/assets/img/pt-meta.png"
+        },
+        {
+          "id": "https://www.kalmanfilter.net/default.aspx",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.kalmanfilter.net/default.aspx",
+          "publishedOn": "2025-01-18T21:50:15.000Z",
+          "wordCount": 1345,
+          "title": "Kalman Filter Tutorial",
+          "imageUrl": "img/profile.png"
+        },
+        {
+          "id": "https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/",
+          "publishedOn": "2025-01-18T21:42:31.000Z",
+          "wordCount": 2740,
+          "title": "Perplexity AI submits bid to merge with TikTok",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2181313521.jpg?w=1024"
+        },
+        {
+          "id": "https://github.com/MilesCranmer/BorrowChecker.jl",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/MilesCranmer/BorrowChecker.jl",
+          "publishedOn": "2025-01-18T19:59:03.000Z",
+          "wordCount": 8774,
+          "title": "Borrowchecker.jl – Designing a borrow checker for Julia",
+          "imageUrl": "https://opengraph.githubassets.com/2c2bb1d9df0a37c67f0ad9bc4547b1081a707820aa648cecab22af5c42ef9610/MilesCranmer/BorrowChecker.jl"
+        },
+        {
+          "id": "https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html",
+          "publishedOn": "2025-01-18T19:36:13.000Z",
+          "wordCount": 1889,
+          "title": "WASM GC isn't ready for realtime graphics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky",
+          "publishedOn": "2025-01-18T19:27:58.000Z",
+          "wordCount": 12078,
+          "title": "Skymont: Intel's E-Cores reach for the Sky",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc695ac57-1aee-4795-b426-40cd2cf9aa0f_1912x1070.jpeg"
+        },
+        {
+          "id": "https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html",
+          "publishedOn": "2025-01-18T18:53:47.000Z",
+          "wordCount": 6824,
+          "title": "Reverse-engineering a carry-lookahead adder in the Pentium",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tOUWQrGJTykpDcbOZ3xGcZOPdDj0mvD_XF-uUhiHbRpLvXaIfknPjHViHw84UOYrFOT1PpstqNgdKuaFRUNJ6xDAbK7HGlXbYoZi0dKFakra399JKv8dQ9Q9Zfqg9NOClptmr_O_x6zwh3=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://xeiaso.net/notes/2025/amazon-crawler/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://xeiaso.net/notes/2025/amazon-crawler/",
+          "publishedOn": "2025-01-18T18:48:51.000Z",
+          "wordCount": 541,
+          "title": "Amazon's AI crawler is making my Git server unstable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.cr.yp.to/20250118-flight.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.cr.yp.to/20250118-flight.html",
+          "publishedOn": "2025-01-18T18:28:21.000Z",
+          "wordCount": 6954,
+          "title": "Looking at some claims that quantum computers won't work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/tonybaloney/vscode-pets",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/tonybaloney/vscode-pets",
+          "publishedOn": "2025-01-18T18:17:59.000Z",
+          "wordCount": 2240,
+          "title": "VS Code Pets",
+          "imageUrl": "https://opengraph.githubassets.com/afe8cd3138fb4124756d87425620e985c72ece1a5b8558acb0179973f3ddd38a/tonybaloney/vscode-pets"
+        },
+        {
+          "id": "https://isd-project.github.io/isd/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://isd-project.github.io/isd/",
+          "publishedOn": "2025-01-18T16:22:03.000Z",
+          "wordCount": 1520,
+          "title": "Show HN: Interactive systemd – a better way to work with systemd units",
+          "imageUrl": "https://isd-project.github.io/isd/assets/images/social/index.png"
+        },
+        {
+          "id": "https://dusa.rocks/docs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dusa.rocks/docs/",
+          "publishedOn": "2025-01-18T15:45:26.000Z",
+          "wordCount": 510,
+          "title": "Dusa Programming Language (Finite-Choice Logic Programming)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.subanima.org/bees/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.subanima.org/bees/",
+          "publishedOn": "2025-01-18T15:32:41.000Z",
+          "wordCount": 3834,
+          "title": "Why do bees die when they sting you?",
+          "imageUrl": "https://www.subanima.org/content/images/size/w1200/2021/11/beedead.png"
+        },
+        {
+          "id": "https://eblong.com/zarf/essays/rule-based-if/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://eblong.com/zarf/essays/rule-based-if/index.html",
+          "publishedOn": "2025-01-18T14:22:46.000Z",
+          "wordCount": 5047,
+          "title": "Rule-Based Programming in Interactive Fiction",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anirudh.fi/blog/identity/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://anirudh.fi/blog/identity/",
+          "publishedOn": "2025-01-18T13:15:22.000Z",
+          "wordCount": 466,
+          "title": "ATProto and the ownership of identity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/",
+          "publishedOn": "2025-01-18T12:31:20.000Z",
+          "wordCount": 7797,
+          "title": "Windows BitLocker – Screwed Without a Screwdriver",
+          "imageUrl": "https://neodyme.io/_astro/bitlocker.u92LLzk8.png"
+        },
+        {
+          "id": "https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as",
+          "publishedOn": "2025-01-18T12:28:53.000Z",
+          "wordCount": 13997,
+          "title": "The AMD Radeon Instinct MI300A's Giant Memory Subsystem",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1693a082-e333-44b9-9819-18526ca6c365_1661x909.png"
+        },
+        {
+          "id": "https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/",
+          "publishedOn": "2025-01-18T02:42:54.000Z",
+          "wordCount": 2965,
+          "title": "Can you read this cursive handwriting? The National Archives wants your help",
+          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/tQgDJ6K8RmEtlqEyxa5w3oZBklk=/fit-in/1200x0/filters:focal(1000x752:1001x753)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2F32%2F94%2F3294bdbb-bd00-4fc7-8ab3-88faf17855d7%2Fcursive.jpg"
+        },
+        {
+          "id": "https://corte.si/posts/code/hilbert/portrait/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://corte.si/posts/code/hilbert/portrait/",
+          "publishedOn": "2025-01-18T01:25:40.000Z",
+          "wordCount": 2163,
+          "title": "Portrait of the Hilbert Curve (2010)",
           "imageUrl": null
         },
         {
@@ -22,7 +222,7 @@
           "link": "https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle",
           "publishedOn": "2025-01-17T20:41:56.000Z",
           "wordCount": null,
-          "title": "Investigating an \"Evil\" RJ45 Dongle",
+          "title": "Investigating an “evil” RJ45 dongle",
           "imageUrl": null
         },
         {
@@ -31,279 +231,79 @@
           "description": "Comments",
           "link": "https://blog.railway.com/p/data-center-build-part-one",
           "publishedOn": "2025-01-17T20:41:07.000Z",
-          "wordCount": 8257,
-          "title": "So You Want to Build Your Own Data Center",
+          "wordCount": 8293,
+          "title": "So you want to build your own data center",
           "imageUrl": "https://res.cloudinary.com/railway/image/upload/v1737145576/datacenter_whzz2p.png"
         },
         {
-          "id": "https://github.com/tomhea/c2fj",
+          "id": "https://virtual.basilicasanpietro.va/en",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/tomhea/c2fj",
-          "publishedOn": "2025-01-17T19:36:37.000Z",
-          "wordCount": 5220,
-          "title": "Show HN: Compile C to Not Gates",
-          "imageUrl": "https://opengraph.githubassets.com/22b2ee4e0999a91e82a6c7a0e9e028dc29fda8980de52aa53b11eb1a45bf1fd2/tomhea/c2fj"
+          "link": "https://virtual.basilicasanpietro.va/en",
+          "publishedOn": "2025-01-16T22:31:06.000Z",
+          "wordCount": 8278,
+          "title": "Saint Peter Basilica digital experience",
+          "imageUrl": "https://virtual.basilicasanpietro.va/en/opengraph-image.jpg?353abd5da2eeab77"
         },
         {
-          "id": "https://cceckman.com/writing/branchless-utf8-encoding/",
+          "id": "https://www.crikey.com.au/2025/01/16/australian-open-animated-cartoon-caricatures-broadcast-restrictions/",
           "author": null,
           "description": "Comments",
-          "link": "https://cceckman.com/writing/branchless-utf8-encoding/",
-          "publishedOn": "2025-01-17T19:20:14.000Z",
-          "wordCount": 1564,
-          "title": "Branchless UTF-8 Encoding",
-          "imageUrl": "https://cceckman.com/bg-light.png"
+          "link": "https://www.crikey.com.au/2025/01/16/australian-open-animated-cartoon-caricatures-broadcast-restrictions/",
+          "publishedOn": "2025-01-16T00:50:46.000Z",
+          "wordCount": 6113,
+          "title": "Australian Open resorts to animated caricatures to bypass broadcast restrictions",
+          "imageUrl": "https://www.crikey.com.au/wp-content/uploads/2025/01/Tennis.jpg?quality=70"
         },
         {
-          "id": "https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/",
+          "id": "https://briancallahan.net/blog/20250112.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/",
-          "publishedOn": "2025-01-17T19:17:48.000Z",
-          "wordCount": 14005,
-          "title": "Higher potassium intake at dinner linked to fewer sleep disturbances – study",
-          "imageUrl": "https://www.nutraingredients-asia.com/resizer/v2/2IM4BXTINJAZHKJWGJXUHJ3A6M.jpg?smart=true&auth=d0b3e2b75729fe8631009f1cb2c783a5f2a7cb1a1b89c1dfd0fba8c9fafb96c3&width=1200&height=630"
-        },
-        {
-          "id": "https://arxiv.org/abs/2501.09286",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2501.09286",
-          "publishedOn": "2025-01-17T19:07:54.000Z",
-          "wordCount": 582,
-          "title": "Mathematics of the daily word game Waffle",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11",
-          "publishedOn": "2025-01-17T17:54:02.000Z",
-          "wordCount": null,
-          "title": "Hands-On Graphics Without X11",
+          "link": "https://briancallahan.net/blog/20250112.html",
+          "publishedOn": "2025-01-15T18:00:53.000Z",
+          "wordCount": 1468,
+          "title": "Porting the GNAT Ada compiler to macOS/aarch64",
           "imageUrl": null
         },
         {
-          "id": "https://blog.sourcedive.net/brood-war-korean-translations/",
+          "id": "http://wormwoodiana.blogspot.com/2024/12/second-hand-bookshops-in-britain-2024.html",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.sourcedive.net/brood-war-korean-translations/",
-          "publishedOn": "2025-01-17T17:15:07.000Z",
-          "wordCount": 3508,
-          "title": "Brood War Korean Translations",
-          "imageUrl": "https://blog.sourcedive.net/content/images/2024/03/HL1BG.jpg"
+          "link": "http://wormwoodiana.blogspot.com/2024/12/second-hand-bookshops-in-britain-2024.html",
+          "publishedOn": "2025-01-15T15:50:01.000Z",
+          "wordCount": 7027,
+          "title": "Second-Hand Bookshops in Britain: 2024 Report",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPXMB72YssR6WWyjWvOPGZWV0armuwMefbQVd8MmS4PDU3gSrfvgPWhHLdGWPg4H7xOrIumCugMEvaKT0EMEnBz4ApTw4zenwd-0cHMmVs6ArCrbusz0SOe9QaOJT1ZqAYo_vL0jbRKZsrLJLGGKorVNp68j-sNnzOlxKGe5v8G2JthvVRJVyx9EuvX4Q/w1200-h630-p-k-no-nu/Arthur%20Probsthain.jpg"
         },
         {
-          "id": "https://github.com/rgl-epfl/drtvam",
+          "id": "https://salykova.github.io/sgemm-gpu",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/rgl-epfl/drtvam",
-          "publishedOn": "2025-01-17T16:53:55.000Z",
-          "wordCount": 2629,
-          "title": "Dr. TVAM – Inverse Rendering for Tomographic Volumetric Additive Manufacturing",
-          "imageUrl": "https://opengraph.githubassets.com/e48a88f1834b1ff64daaad07c3e70f6cd5a941b76a5f6340593e972d63555b67/rgl-epfl/drtvam"
-        },
-        {
-          "id": "https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day",
-          "author": null,
-          "description": "Comments",
-          "link": "https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day",
-          "publishedOn": "2025-01-17T16:21:13.000Z",
-          "wordCount": 15601,
-          "title": "French modernists were alarmed, inspired by newspaper's voracious dynamism",
-          "imageUrl": "https://images.aeonmedia.co/images/9af46853-f2a5-4ea3-b25f-55c67b7d345b/v2-essay-delondre_-_dans_l_omnibus_-_p2215_-_musee_carnavalet.jpg?width=1200&quality=75&format=auto"
-        },
-        {
-          "id": "https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams",
-          "author": null,
-          "description": "Comments",
-          "link": "https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams",
-          "publishedOn": "2025-01-17T15:36:01.000Z",
-          "wordCount": 8022,
-          "title": "Show HN: GUI for editing Mermaid class diagrams",
-          "imageUrl": "https://content.mermaidchart.com/wp-content/uploads/2025/01/new-class-mermaid.png"
-        },
-        {
-          "id": "https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html",
-          "publishedOn": "2025-01-17T15:23:58.000Z",
-          "wordCount": 28882,
-          "title": "Supreme Court upholds TikTok ban, but Trump might offer lifeline",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108086106-1737129201236-108086106-1737127200905-108086106-1736857946728-gettyimages-2193244752-arriens-chinadis250114_np6RB.jpg?v=1737129211&w=1920&h=1080"
-        },
-        {
-          "id": "https://blog.skyvern.com/skyvern-2-0-state-of-the-art-web-navigation-with-85-8-on-webvoyager-eval/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.skyvern.com/skyvern-2-0-state-of-the-art-web-navigation-with-85-8-on-webvoyager-eval/",
-          "publishedOn": "2025-01-17T15:23:05.000Z",
-          "wordCount": 1826,
-          "title": "Skyvern Browser Agent 2.0: How We Reached State of the Art in Evals",
-          "imageUrl": "https://blog.skyvern.com/content/images/2025/01/benchmark_result.png"
-        },
-        {
-          "id": "https://games.productartistry.com/games/dark-patterns",
-          "author": null,
-          "description": "Comments",
-          "link": "https://games.productartistry.com/games/dark-patterns",
-          "publishedOn": "2025-01-17T14:23:56.000Z",
-          "wordCount": 231,
-          "title": "Show HN: Interactive game teaching dark patterns in UX design",
-          "imageUrl": "https://games.productartistry.com/og-image.png"
-        },
-        {
-          "id": "https://www.linusakesson.net/music/family-bass/index.php",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.linusakesson.net/music/family-bass/index.php",
-          "publishedOn": "2025-01-17T08:54:28.000Z",
-          "wordCount": 1287,
-          "title": "The Family Bass - Music with an NES",
+          "link": "https://salykova.github.io/sgemm-gpu",
+          "publishedOn": "2025-01-15T09:20:03.000Z",
+          "wordCount": 6626,
+          "title": "Beating cuBLAS in Single-Precision General Matrix Multiplication",
           "imageUrl": null
         },
         {
-          "id": "https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/",
+          "id": "https://github.com/jjcm/llmpeg",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/",
-          "publishedOn": "2025-01-17T05:50:25.000Z",
-          "wordCount": 6787,
-          "title": "Let's talk about AI and end-to-end encryption",
-          "imageUrl": "https://blog.cryptographyengineering.com/wp-content/uploads/2025/01/apple-security-encryption.jpg"
+          "link": "https://github.com/jjcm/llmpeg",
+          "publishedOn": "2025-01-15T02:29:43.000Z",
+          "wordCount": 1262,
+          "title": "Show HN: LLMpeg",
+          "imageUrl": "https://opengraph.githubassets.com/19edb1505affe3e442731851ebd67276486daf92060b9965eccaf07366331c07/jjcm/llmpeg"
         },
         {
-          "id": "https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable",
+          "id": "https://marian42.de/article/infinite-wfc/",
           "author": null,
           "description": "Comments",
-          "link": "https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable",
-          "publishedOn": "2025-01-17T00:32:06.000Z",
-          "wordCount": null,
-          "title": "Is the world becoming uninsurable?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/westoncb/nonlinear-optics-sandbox",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/westoncb/nonlinear-optics-sandbox",
-          "publishedOn": "2025-01-16T21:55:01.000Z",
-          "wordCount": 4615,
-          "title": "Show HN: Real-time nonlinear optics simulation (JS/GLSL)",
-          "imageUrl": "https://opengraph.githubassets.com/53244cafa009831f019699a7b66c45d80ebabe3c4c77a2154a16841111d59f26/westoncb/nonlinear-optics-sandbox"
-        },
-        {
-          "id": "https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit",
-          "publishedOn": "2025-01-16T21:25:24.000Z",
-          "wordCount": 569,
-          "title": "Starship Flight 7",
-          "imageUrl": "https://www.spacex.com/static/images/share.jpg"
-        },
-        {
-          "id": "https://zadzmo.org/code/nepenthes/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://zadzmo.org/code/nepenthes/",
-          "publishedOn": "2025-01-16T13:57:43.000Z",
-          "wordCount": 1487,
-          "title": "Nepenthes is a tarpit to catch AI web crawlers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Grand_Harbour_of_Malta_tornado",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Grand_Harbour_of_Malta_tornado",
-          "publishedOn": "2025-01-15T03:09:18.000Z",
-          "wordCount": 1055,
-          "title": "Grand Harbour of Malta Tornado",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Siegemaltakl1.jpg/1200px-Siegemaltakl1.jpg"
-        },
-        {
-          "id": "http://weblog.jamisbuck.org/2011/1/12/maze-generation-recursive-division-algorithm",
-          "author": null,
-          "description": "Comments",
-          "link": "http://weblog.jamisbuck.org/2011/1/12/maze-generation-recursive-division-algorithm",
-          "publishedOn": "2025-01-14T21:03:43.000Z",
-          "wordCount": 2469,
-          "title": "Maze Generation: Recursive Division (2011)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lightcellenergy.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.lightcellenergy.com/",
-          "publishedOn": "2025-01-14T13:36:09.000Z",
-          "wordCount": 427,
-          "title": "Lightcell: An engine that uses light to make electricity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/",
-          "publishedOn": "2025-01-14T13:23:59.000Z",
-          "wordCount": 454,
-          "title": "When the Simplest Concurrent Program Goes Against All Intuition",
-          "imageUrl": null
-        },
-        {
-          "id": "https://leetarxiv.substack.com/p/emulating-a-gpu-on-a-cpu-using-finite",
-          "author": null,
-          "description": "Comments",
-          "link": "https://leetarxiv.substack.com/p/emulating-a-gpu-on-a-cpu-using-finite",
-          "publishedOn": "2025-01-14T09:35:47.000Z",
-          "wordCount": null,
-          "title": "Finite Field Assembly: A Language for Emulating GPUs on CPU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://postgresql-anonymizer.readthedocs.io/en/stable/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://postgresql-anonymizer.readthedocs.io/en/stable/",
-          "publishedOn": "2025-01-14T07:36:25.000Z",
-          "wordCount": 790,
-          "title": "PostgreSQL Anonymizer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://docs.p2p.industries/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://docs.p2p.industries/",
-          "publishedOn": "2025-01-14T06:31:22.000Z",
-          "wordCount": 857,
-          "title": "Show HN: Decentralized robots (and things) orchestration system",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html",
-          "publishedOn": "2025-01-14T04:44:06.000Z",
-          "wordCount": 12456,
-          "title": "A New type of web hacking technique: DoubleClickjacking",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguGmhrd0CL2DZf_1AUpRuyxGq2u-4iThnd64mHOgFe6cLMpRE3UzL8qW8dkb4wgfIgVcPGbisBWuqM8WzU7kSdYdyTTq4vTx2SiH3hO-RgUeSvRENFBMB3CzcFBhfOqha17Ona4gnLcbD4KsE2Wyy0_YfbG8Af6iYnIphO_4le7BrYgwzvgKVEXT8FGzzy/s16000/Screenshot%202024-12-30%20at%208.53.06%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://www.universityofcalifornia.edu/news/how-uc-santa-cruz-professor-unearthed-oldest-alphabet-yet",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.universityofcalifornia.edu/news/how-uc-santa-cruz-professor-unearthed-oldest-alphabet-yet",
-          "publishedOn": "2025-01-13T20:50:01.000Z",
-          "wordCount": 1210,
-          "title": "A UC Santa Cruz professor unearthed the oldest alphabet yet",
-          "imageUrl": "https://www.universityofcalifornia.edu/sites/default/files/Elaine-Sullivan-starting-to-excavate-Tomb-4_0.jpg"
+          "link": "https://marian42.de/article/infinite-wfc/",
+          "publishedOn": "2025-01-14T17:25:06.000Z",
+          "wordCount": 2101,
+          "title": "Generating an infinite world with the Wave Function Collapse algorithm",
+          "imageUrl": "https://marian42.de/article/infinite-wfc/city_1280.jpg"
         }
       ]
     }
