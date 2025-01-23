@@ -6,13 +6,213 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://meatfighter.com/pitfall-web/",
+          "id": "https://demodesk.com/careers?utm_source=hn",
           "author": null,
           "description": "Comments",
-          "link": "https://meatfighter.com/pitfall-web/",
-          "publishedOn": "2025-01-22T01:07:23.000Z",
-          "wordCount": 833,
-          "title": "Open-source browser port of Pitfall from the Atari 2600",
+          "link": "https://demodesk.com/careers?utm_source=hn",
+          "publishedOn": "2025-01-23T01:01:09.000Z",
+          "wordCount": 1003,
+          "title": "Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer",
+          "imageUrl": "https://cdn.prod.website-files.com/6048e45faa378d2a5d047448/62583962b0696af4c8f53b2b_Group%201870%20(7).png"
+        },
+        {
+          "id": "https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them",
+          "publishedOn": "2025-01-23T00:47:42.000Z",
+          "wordCount": 10223,
+          "title": "gRPC vs. REST: Understand gRPC, OpenAPI and REST and When to Use in API Design",
+          "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/02_-_API_Management_TYbidbQ.max-2600x2600.jpg"
+        },
+        {
+          "id": "https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/",
+          "publishedOn": "2025-01-23T00:29:09.000Z",
+          "wordCount": 5381,
+          "title": "Most Influential Papers in Computer Science History",
+          "imageUrl": "https://terriblesoftware.org/wp-content/uploads/2025/01/cznmcy1wcml2yxrll3jhd3bpegvsx2ltywdlcy93zwjzaxrlx2nvbnrlbnqvbhivchg5ndq4njktaw1hz2uta3d2dxuxzzuuanbn.webp"
+        },
+        {
+          "id": "https://www.science.org/content/article/trump-hits-nih-devastating-freezes-meetings-travel-communications-and-hiring",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.science.org/content/article/trump-hits-nih-devastating-freezes-meetings-travel-communications-and-hiring",
+          "publishedOn": "2025-01-23T00:06:35.000Z",
+          "wordCount": null,
+          "title": "NIH hit with freezes on meetings, travel, communications, and hiring",
+          "imageUrl": null
+        },
+        {
+          "id": "https://zinebakery.com//homemade-zines/bakeshop-2-diywebarchiving",
+          "author": null,
+          "description": "Comments",
+          "link": "https://zinebakery.com//homemade-zines/bakeshop-2-diywebarchiving",
+          "publishedOn": "2025-01-22T23:57:29.000Z",
+          "wordCount": 278,
+          "title": "DIY Web Archiving Zine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2501.10479",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2501.10479",
+          "publishedOn": "2025-01-22T23:46:09.000Z",
+          "wordCount": 743,
+          "title": "Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html",
+          "publishedOn": "2025-01-22T22:41:47.000Z",
+          "wordCount": 8756,
+          "title": "Google Fiber is coming to Las Vegas",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMc8Soj302rB-Gqf9OqLEd6H5_XYnUIJTJNEGHFP_q-Kod8AoDo-dmdvBxu3YQW6XT9iNr13qco4L_sLau6bsADwrkFvSHu8YOasVXkeV9N4P3leKE7bH59LofCRmnRVD1iP4UyLjfVMWaCWn8HCHloRMWgwuG-asGkrtE0mtTwi-WGAU2obwx3nS59h-2/w1200-h630-p-k-no-nu/PXL_20250113_204948933.MP.jpg"
+        },
+        {
+          "id": "https://f-droid.org/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://f-droid.org/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html",
+          "publishedOn": "2025-01-22T22:18:07.000Z",
+          "wordCount": 1436,
+          "title": "A Look Back at 2024: F-Droid's Progress and What's Coming in 2025",
+          "imageUrl": "https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png"
+        },
+        {
+          "id": "http://web.mit.edu/6.033/2007/wwwdocs/assignments/handson-therac.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://web.mit.edu/6.033/2007/wwwdocs/assignments/handson-therac.html",
+          "publishedOn": "2025-01-22T21:38:05.000Z",
+          "wordCount": 500,
+          "title": "Therac-25 Simulator",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional",
+          "publishedOn": "2025-01-22T21:32:03.000Z",
+          "wordCount": 1997,
+          "title": "Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional",
+          "imageUrl": "https://www.eff.org/files/banner_library/nationalsecurity_banner-2_0.png"
+        },
+        {
+          "id": "https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer",
+          "publishedOn": "2025-01-22T20:43:40.000Z",
+          "wordCount": 11525,
+          "title": "The ultra-fast cancer treatments which could replace conventional radiotherapy",
+          "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0kl5vy5.jpg"
+        },
+        {
+          "id": "https://www.byran.ee/posts/creation/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.byran.ee/posts/creation/",
+          "publishedOn": "2025-01-22T20:41:52.000Z",
+          "wordCount": 2138,
+          "title": "Show HN: I Made an Open-Source Laptop from Scratch",
+          "imageUrl": "https://byran.ee/open-graph.jpg"
+        },
+        {
+          "id": "https://rustle.ca/posts/articles/work-from-home-lighting",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rustle.ca/posts/articles/work-from-home-lighting",
+          "publishedOn": "2025-01-22T20:08:57.000Z",
+          "wordCount": 1607,
+          "title": "How to improve your WFH lighting to reduce eye strain",
+          "imageUrl": "https://rustle.ca/assets/media/images/OG_IMAGE_JUMBLE.png"
+        },
+        {
+          "id": "https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp/",
+          "publishedOn": "2025-01-22T20:03:42.000Z",
+          "wordCount": 4175,
+          "title": "I made a multiplayer shooter game in Lisp, here is my journey",
+          "imageUrl": "https://ertu.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"
+        },
+        {
+          "id": "https://tabboo.xyz/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tabboo.xyz/",
+          "publishedOn": "2025-01-22T17:27:14.000Z",
+          "wordCount": 830,
+          "title": "TabBoo – add random jumpscares to websites you're trying to avoid",
+          "imageUrl": "https://tabboo.xyz/metaimage.png"
+        },
+        {
+          "id": "https://github.com/slu4coder/Minimal-64x4-Home-Computer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/slu4coder/Minimal-64x4-Home-Computer",
+          "publishedOn": "2025-01-22T16:08:59.000Z",
+          "wordCount": 1478,
+          "title": "Minimal 64x4 Home Computer",
+          "imageUrl": "https://opengraph.githubassets.com/87fc68a8644dbcf9d40a5710a107d7015ea8499e0630dcec014a4430244d9fdf/slu4coder/Minimal-64x4-Home-Computer"
+        },
+        {
+          "id": "https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/",
+          "publishedOn": "2025-01-22T15:25:57.000Z",
+          "wordCount": 3607,
+          "title": "Mastercard DNS error went unnoticed for years",
+          "imageUrl": null
+        },
+        {
+          "id": "https://stratoshark.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://stratoshark.org/",
+          "publishedOn": "2025-01-22T15:25:32.000Z",
+          "wordCount": 308,
+          "title": "Show HN: Stratoshark, a sibling application to Wireshark",
+          "imageUrl": null
+        },
+        {
+          "id": "http://simplecpudesign.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://simplecpudesign.com/",
+          "publishedOn": "2025-01-22T15:07:26.000Z",
+          "wordCount": 1941,
+          "title": "Simple CPU Design",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.jofreeman.com/joreen/tyranny.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jofreeman.com/joreen/tyranny.htm",
+          "publishedOn": "2025-01-22T14:57:23.000Z",
+          "wordCount": 6662,
+          "title": "The Tyranny of Structurelessness (1970)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://allthatjazz.me/posts/doom-scrolling-struggles",
+          "author": null,
+          "description": "Comments",
+          "link": "https://allthatjazz.me/posts/doom-scrolling-struggles",
+          "publishedOn": "2025-01-22T11:00:48.000Z",
+          "wordCount": 1922,
+          "title": "My Struggle with Doom Scrolling",
           "imageUrl": null
         },
         {
@@ -22,18 +222,8 @@
           "link": "https://twitter.com/Free_Ross/status/1881851923005165704",
           "publishedOn": "2025-01-22T00:10:52.000Z",
           "wordCount": 6,
-          "title": "Ross Ulbricht was just granted a full pardon",
+          "title": "Ross Ulbricht granted a full pardon",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/Tencent/Hunyuan3D-2",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Tencent/Hunyuan3D-2",
-          "publishedOn": "2025-01-21T22:42:12.000Z",
-          "wordCount": 3946,
-          "title": "Hunyuan3D 2.0 – High-Resolution 3D Assets Generation",
-          "imageUrl": "https://opengraph.githubassets.com/1f1865fe3420ffc975c5d7747e4f0ecb5d54fd7dc862e2645bf3adf7064e5c98/Tencent/Hunyuan3D-2"
         },
         {
           "id": "https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41",
@@ -46,264 +236,74 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.quistgaardpepper.com/",
+          "id": "https://www.livescience.com/archaeology/curse-tablet-found-in-roman-era-grave-in-france-targets-enemies-by-invoking-mars-the-god-of-war",
           "author": null,
           "description": "Comments",
-          "link": "https://www.quistgaardpepper.com/",
-          "publishedOn": "2025-01-21T21:15:20.000Z",
-          "wordCount": 35108,
-          "title": "The Peppermills of Jens Quistgaard",
+          "link": "https://www.livescience.com/archaeology/curse-tablet-found-in-roman-era-grave-in-france-targets-enemies-by-invoking-mars-the-god-of-war",
+          "publishedOn": "2025-01-21T04:35:18.000Z",
+          "wordCount": 14968,
+          "title": "Curse tablet found in Roman-era grave in France targets enemies by invoking Mars",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/TH3BDNNcQgw3DAue6oSdRY-1200-80.png"
+        },
+        {
+          "id": "https://jon.work/og/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jon.work/og/",
+          "publishedOn": "2025-01-21T00:16:25.000Z",
+          "wordCount": 7,
+          "title": "File Systems: The Original Hypermedia",
+          "imageUrl": "https://jon.work/og/cover.webp"
+        },
+        {
+          "id": "https://letsnotdothat.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://letsnotdothat.com/",
+          "publishedOn": "2025-01-20T18:02:23.000Z",
+          "wordCount": 688,
+          "title": "Master the Art of the Product Manager 'No'",
+          "imageUrl": "https://LetsNotDoThat.com/splash.png"
+        },
+        {
+          "id": "https://mertkavi.com/how-to-solve-computational-science-problems-with-ai-physics-informed-neural-networks-pinns/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mertkavi.com/how-to-solve-computational-science-problems-with-ai-physics-informed-neural-networks-pinns/",
+          "publishedOn": "2025-01-20T15:26:30.000Z",
+          "wordCount": 1568,
+          "title": "How to solve computational science problems with AI: PINNs",
           "imageUrl": null
         },
         {
-          "id": "https://www.ycombinator.com/companies/hyperdx/jobs",
+          "id": "http://blog.vmchale.com/article/escardo-oliva-functional",
           "author": null,
           "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/hyperdx/jobs",
-          "publishedOn": "2025-01-21T21:01:02.000Z",
-          "wordCount": 378,
-          "title": "HyperDX (YC S22) is hiring engineers to build open source observability",
-          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/fbea9a6e0a015828a846b42e2ecb6b3da23f3eb7.png?1688591754"
-        },
-        {
-          "id": "https://www.sigstore.dev/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sigstore.dev/",
-          "publishedOn": "2025-01-21T20:34:14.000Z",
-          "wordCount": 29,
-          "title": "Sigstore: Making sure your software is what it claims to be",
-          "imageUrl": "https://sigstore.dev/img/sigstore_logo.png"
-        },
-        {
-          "id": "https://jreleaser.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jreleaser.org/",
-          "publishedOn": "2025-01-21T20:33:11.000Z",
-          "wordCount": 371,
-          "title": "JReleaser: quick and effortless way to release your project",
+          "link": "http://blog.vmchale.com/article/escardo-oliva-functional",
+          "publishedOn": "2025-01-20T13:40:37.000Z",
+          "wordCount": 1306,
+          "title": "A Proper x86 Assembler in Haskell Using the Escardó-Oliva Functional",
           "imageUrl": null
         },
         {
-          "id": "https://news.ycombinator.com/item?id=42784365",
+          "id": "https://khz.ac/sound/ribbon-mic/",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=42784365",
-          "publishedOn": "2025-01-21T19:39:39.000Z",
-          "wordCount": 5181,
-          "title": "Ask HN: Is anyone doing anything cool with tiny language models?",
+          "link": "https://khz.ac/sound/ribbon-mic/",
+          "publishedOn": "2025-01-19T23:39:20.000Z",
+          "wordCount": 2329,
+          "title": "The Ribbon Microphone",
           "imageUrl": null
         },
         {
-          "id": "https://mrgris.com/projects/merc-extreme/",
+          "id": "http://deevybee.blogspot.com/2025/01/tomatoes-roaming-fields-and-canaries-in.html",
           "author": null,
           "description": "Comments",
-          "link": "https://mrgris.com/projects/merc-extreme/",
-          "publishedOn": "2025-01-21T19:00:03.000Z",
-          "wordCount": 2005,
-          "title": "Mercator: Extreme",
-          "imageUrl": null
-        },
-        {
-          "id": "https://abakcus.com/rafael-araujo-geometrical-masterpieces/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://abakcus.com/rafael-araujo-geometrical-masterpieces/",
-          "publishedOn": "2025-01-21T18:24:03.000Z",
-          "wordCount": 3314,
-          "title": "Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)",
-          "imageUrl": "https://abakcus.com/wp-content/uploads/2024/08/The-Mesmerizing-Geometrical-Masterpieces-of-Rafael-Araujo.png"
-        },
-        {
-          "id": "http://amasci.com/weird/unusual/e-wall.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://amasci.com/weird/unusual/e-wall.html",
-          "publishedOn": "2025-01-21T17:37:01.000Z",
-          "wordCount": 2030,
-          "title": "Invisible Electrostatic Wall at 3M plant (1996)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.righto.com/2025/01/pentium-reverse-engineering-bicmos.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.righto.com/2025/01/pentium-reverse-engineering-bicmos.html",
-          "publishedOn": "2025-01-21T17:23:23.000Z",
-          "wordCount": 6096,
-          "title": "Interesting BiCMOS circuits in the Pentium, reverse-engineered",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ujiBJf7LwaNU782JCM_Yif5-uz0xrVKlDgrRa1JFxOtCHTYsHKp-CHq6fyjOpEngePaFmL1LpfcQyJ5qI1MYItXA9rzS1T_Vwg1U5Tw5wfm5ZMR1xvEDU5UuHnbcw_nLSFHIsEDxJmW2VNUIQ=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://www.foqos.app/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.foqos.app/",
-          "publishedOn": "2025-01-21T16:52:42.000Z",
-          "wordCount": 124,
-          "title": "Show HN: I made a app that uses NFC as a physical switch to block distractions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mattkeeter.com/blog/2025-01-20-guided/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.mattkeeter.com/blog/2025-01-20-guided/",
-          "publishedOn": "2025-01-21T16:25:25.000Z",
-          "wordCount": 2418,
-          "title": "Guided by the beauty of our test suite",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/",
-          "publishedOn": "2025-01-21T16:20:18.000Z",
-          "wordCount": 4283,
-          "title": "Concept cells help your brain abstract information and build memories",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/01/Concept-Neurons_crCarlos-Arrojo-Social.jpg"
-        },
-        {
-          "id": "https://www.naff.dev/blog/all-the-packages",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.naff.dev/blog/all-the-packages",
-          "publishedOn": "2025-01-21T15:47:04.000Z",
-          "wordCount": 1908,
-          "title": "How many Alpine packages can you install at once? (2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://spectrum.ieee.org/calm-tech",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spectrum.ieee.org/calm-tech",
-          "publishedOn": "2025-01-21T15:12:15.000Z",
-          "wordCount": 10275,
-          "title": "Calm tech certification \"rewards\" less distracting tech",
-          "imageUrl": "https://spectrum.ieee.org/media-library/a-child-using-their-finger-to-write-thank-you-for-your-hard-work-in-japanese-on-the-mui-board-gen-2-which-looks-like-wood-dec.jpg?id=55669913&width=1200&height=600&coordinates=0%2C400%2C0%2C400"
-        },
-        {
-          "id": "https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117",
-          "publishedOn": "2025-01-21T14:59:44.000Z",
-          "wordCount": 4499,
-          "title": "0-click deanonymization attack targeting Signal, Discord, other platforms",
-          "imageUrl": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png"
-        },
-        {
-          "id": "https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13544",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13544",
-          "publishedOn": "2025-01-21T13:47:18.000Z",
-          "wordCount": null,
-          "title": "Metacognitive laziness: Effects of generative AI on learning motivation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42779776",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=42779776",
-          "publishedOn": "2025-01-21T13:19:02.000Z",
-          "wordCount": 20756,
-          "title": "Ask HN: Organize local communities without Facebook?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.printercow.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.printercow.com/",
-          "publishedOn": "2025-01-21T11:06:12.000Z",
-          "wordCount": 576,
-          "title": "Show HN: Printercow – Turn any thermal printer into an API endpoint",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/MoonshotAI/Kimi-k1.5",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/MoonshotAI/Kimi-k1.5",
-          "publishedOn": "2025-01-21T08:53:21.000Z",
-          "wordCount": 2804,
-          "title": "Kimi K1.5: Scaling Reinforcement Learning with LLMs",
-          "imageUrl": "https://opengraph.githubassets.com/f6e67e078a7dc6ed1b1cb3e26b8f7a395f8baae32c7d04f69af33e3119218a36/MoonshotAI/Kimi-k1.5"
-        },
-        {
-          "id": "https://www.nature.com/articles/d41586-025-00142-y",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/d41586-025-00142-y",
-          "publishedOn": "2025-01-21T06:28:25.000Z",
-          "wordCount": 2985,
-          "title": "More than 40% of postdocs leave academia, study reveals",
-          "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d41586-025-00142-y/d41586-025-00142-y_50486412.jpg"
-        },
-        {
-          "id": "https://cekrem.github.io/posts/liskov-substitution-the-real-meaning-of-inheritance/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cekrem.github.io/posts/liskov-substitution-the-real-meaning-of-inheritance/",
-          "publishedOn": "2025-01-21T06:17:10.000Z",
-          "wordCount": 815,
-          "title": "Liskov Substitution: The Real Meaning of Inheritance",
-          "imageUrl": "https://cekrem.github.io/images/featured-with-margins.png"
-        },
-        {
-          "id": "https://quarter--mile.com/Unconventional-Adventures",
-          "author": null,
-          "description": "Comments",
-          "link": "https://quarter--mile.com/Unconventional-Adventures",
-          "publishedOn": "2025-01-20T12:15:29.000Z",
-          "wordCount": 15314,
-          "title": "Unconventional Adventures",
-          "imageUrl": "https://freight.cargo.site/i/a5cb9b27d0cec33a4f49d6a8afe44e10993d39cae45cc48aaa3263b4b65abd35/matteo-paganelli-rRJ0aA6AIpQ-unsplash.jpg"
-        },
-        {
-          "id": "https://castle-engine.io/wp/2025/01/06/web-target-big-progress-first-3-demos-to-try/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://castle-engine.io/wp/2025/01/06/web-target-big-progress-first-3-demos-to-try/",
-          "publishedOn": "2025-01-19T20:50:13.000Z",
-          "wordCount": 1433,
-          "title": "Castle Game Engine: Web target – big progress, first 3 demos to try",
-          "imageUrl": "https://castle-engine.io/wp/wp-content/uploads/2025/01/web_viewport.png"
-        },
-        {
-          "id": "https://blog.demofox.org/2017/11/26/dissecting-tiny-clouds/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.demofox.org/2017/11/26/dissecting-tiny-clouds/",
-          "publishedOn": "2025-01-19T01:28:36.000Z",
-          "wordCount": 6121,
-          "title": "Dissecting \"Tiny Clouds\" shadertoy (2017)",
-          "imageUrl": "https://blog.demofox.org/wp-content/uploads/2017/11/tinyclouds.png"
-        },
-        {
-          "id": "https://michaelrbock.com/hypothesis/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://michaelrbock.com/hypothesis/",
-          "publishedOn": "2025-01-18T19:18:19.000Z",
-          "wordCount": 3578,
-          "title": "How to navigate and exit the idea maze",
-          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/michaelrbock/362x.webp"
-        },
-        {
-          "id": "https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/",
-          "publishedOn": "2025-01-18T14:41:53.000Z",
-          "wordCount": 3121,
-          "title": "Prime numbers so memorable that people hunt for them",
-          "imageUrl": "https://static.scientificamerican.com/dam/m/614371f60bf10f0c/original/Red_numbers_on_blue_background.jpg?m=1737052384.492&w=1200"
+          "link": "http://deevybee.blogspot.com/2025/01/tomatoes-roaming-fields-and-canaries-in.html",
+          "publishedOn": "2025-01-19T18:23:44.000Z",
+          "wordCount": 3850,
+          "title": "Tomatoes roaming the fields: another embarrassing paper for MDPI",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-trzr7XAhwrfwkAOgUC3-WZRetPViJFoKJxNHdlnfV6NXblmkhLy87Xy6gb-ysKtUhwctl6Gwz9BjWsE08KvoH2r0KlND5Jt3215jDlsumKrmGdaTQpcz2qR8B6sDVpeP2DJpapYGi5pbOkFu7xQVeMPrZq76MVdazhqsY5zthVsqO50tyeYjtnGonkBc/w1200-h630-p-k-no-nu/tomato.jpg"
         }
       ]
     }
