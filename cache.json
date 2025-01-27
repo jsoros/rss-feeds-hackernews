@@ -6,14 +6,214 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://lwn.net/Articles/1004324/",
+          "id": "https://github.com/egurapha/Shunpo",
           "author": null,
           "description": "Comments",
-          "link": "https://lwn.net/Articles/1004324/",
-          "publishedOn": "2025-01-26T00:50:07.000Z",
-          "wordCount": 3767,
-          "title": "Chimera Linux works toward a simplified desktop",
+          "link": "https://github.com/egurapha/Shunpo",
+          "publishedOn": "2025-01-27T00:14:53.000Z",
+          "wordCount": 2160,
+          "title": "Shunpo: Minimalist bash tool to make directory navigation a little bit faster",
+          "imageUrl": "https://opengraph.githubassets.com/36b58cfd3d0f7fb3502049280f286e5ddae52709e179044d7ddf735acd2cb94d/egurapha/Shunpo"
+        },
+        {
+          "id": "https://github.com/seemoo-lab/openhaystack",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/seemoo-lab/openhaystack",
+          "publishedOn": "2025-01-27T00:11:27.000Z",
+          "wordCount": 6005,
+          "title": "Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network",
+          "imageUrl": "https://opengraph.githubassets.com/1cb63b891036d71480902e020a0e2ebe6d6ede33c217a787213361c41d49a7f8/seemoo-lab/openhaystack"
+        },
+        {
+          "id": "https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943",
+          "author": null,
+          "description": "Comments",
+          "link": "https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943",
+          "publishedOn": "2025-01-26T23:13:01.000Z",
+          "wordCount": 5283,
+          "title": "Lessons in creating family photos that people want to keep (2018)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*w54uFjPnLQr6CVlvVx7wmg.jpeg"
+        },
+        {
+          "id": "https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/",
+          "publishedOn": "2025-01-26T23:03:10.000Z",
+          "wordCount": 3076,
+          "title": "Kansas tuberculosis outbreak is now America's largest in recorded history",
+          "imageUrl": "https://www.cjonline.com/gcdn/authoring/authoring-images/2024/08/22/NTCJ/74910877007-tb.jpg?crop=1759,990,x0,y176&width=1759&height=990&format=pjpg&auto=webp"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf",
+          "publishedOn": "2025-01-26T22:39:54.000Z",
+          "wordCount": 1177,
+          "title": "Hyperbound (YC S23) is hiring a Founding Account Executive in SF",
+          "imageUrl": "https://yc-workatastartup-production.s3.amazonaws.com/jobs_company_jobs/images/72398/0308747d7afb8893e43cfdf6237941e623596a54.png?1737930416"
+        },
+        {
+          "id": "https://www.jasonthorsness.com/20",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jasonthorsness.com/20",
+          "publishedOn": "2025-01-26T22:03:39.000Z",
+          "wordCount": 508,
+          "title": "Show HN: DeepSeek My User Agent",
+          "imageUrl": "https://www.jasonthorsness.com/20/opengraph-image-1a3vah.jpg?f720e110dae35dbc"
+        },
+        {
+          "id": "https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/",
+          "publishedOn": "2025-01-26T21:29:41.000Z",
+          "wordCount": 2311,
+          "title": "The only photo of the Concorde flying at supersonic speed",
+          "imageUrl": "https://petapixel.com/assets/uploads/2025/01/Concorde-2.jpg"
+        },
+        {
+          "id": "https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/",
+          "publishedOn": "2025-01-26T20:59:16.000Z",
+          "wordCount": null,
+          "title": "Astronomers delete asteroid because it turned out to be Tesla Roadster",
           "imageUrl": null
+        },
+        {
+          "id": "https://github.com/kej715/ack",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/kej715/ack",
+          "publishedOn": "2025-01-26T20:17:38.000Z",
+          "wordCount": 5011,
+          "title": "Amsterdam Compiler Kit for Cray X-MP",
+          "imageUrl": "https://opengraph.githubassets.com/53d6dff0948eb8519143f15834c5f6d786106772c10621969344a16bcfd13a5e/kej715/ack"
+        },
+        {
+          "id": "https://blog.zdsmith.com/posts/two-bites-of-data-science-in-k.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.zdsmith.com/posts/two-bites-of-data-science-in-k.html",
+          "publishedOn": "2025-01-26T18:29:18.000Z",
+          "wordCount": 1869,
+          "title": "Two Bites of Data Science in K",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alister.eu/jazz/oj/about.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://alister.eu/jazz/oj/about.php",
+          "publishedOn": "2025-01-26T17:40:11.000Z",
+          "wordCount": 448,
+          "title": "OpenJazz is a free, open-source version of the classic Jazz Jackrabbit games",
+          "imageUrl": null
+        },
+        {
+          "id": "https://qwenlm.github.io/blog/qwen2.5-1m/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://qwenlm.github.io/blog/qwen2.5-1m/",
+          "publishedOn": "2025-01-26T17:24:15.000Z",
+          "wordCount": 3219,
+          "title": "Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens",
+          "imageUrl": "https://qwenlm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"
+        },
+        {
+          "id": "https://nicole.express/2025/zoo-of-zero-motivation.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nicole.express/2025/zoo-of-zero-motivation.html",
+          "publishedOn": "2025-01-26T17:01:25.000Z",
+          "wordCount": 2937,
+          "title": "Reviving a Dead Audio Format: The Return of ZZM",
+          "imageUrl": "https://nicole.express/assets/img/zoom/zzt.png"
+        },
+        {
+          "id": "https://mort.coffee/home/wayland-input-latency/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mort.coffee/home/wayland-input-latency/",
+          "publishedOn": "2025-01-26T16:57:52.000Z",
+          "wordCount": 1139,
+          "title": "Hard numbers in the Wayland vs. X11 input latency discussion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/",
+          "publishedOn": "2025-01-26T16:33:51.000Z",
+          "wordCount": 13360,
+          "title": "The Microsoft 365 Copilot launch was a disaster",
+          "imageUrl": "https://www.zdnet.com/a/img/resize/621773290cd51d0e0c274899e0fd15bb92d1fcb2/2025/01/24/b5900281-5652-4f23-9973-91b5cdd180a2/spookykreyboardgettyimages-936348112.jpg?auto=webp&fit=crop&height=675&width=1200"
+        },
+        {
+          "id": "https://novitoll.com/posts/2025-1-25/100_years_of_Bell_Labs.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://novitoll.com/posts/2025-1-25/100_years_of_Bell_Labs.pdf",
+          "publishedOn": "2025-01-26T16:10:24.000Z",
+          "wordCount": 917259,
+          "title": "100 years of Bell Labs [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.popularfintech.com/p/no-one-is-disrupting-banks",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.popularfintech.com/p/no-one-is-disrupting-banks",
+          "publishedOn": "2025-01-26T14:05:15.000Z",
+          "wordCount": 6067,
+          "title": "No one is disrupting banks – at least not the big ones",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2ef9d75-ae0a-4f4c-9d8f-ef178e9f0cff_1577x980.jpeg"
+        },
+        {
+          "id": "https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/",
+          "publishedOn": "2025-01-26T11:04:16.000Z",
+          "wordCount": 3694,
+          "title": "The protester's guide to smartphone security",
+          "imageUrl": "https://www.privacyguides.org/articles/assets/img/social/2025/01/23/activists-guide-securing-your-smartphone.png"
+        },
+        {
+          "id": "https://github.com/sharingan-no-kakashi/orange-intelligence",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/sharingan-no-kakashi/orange-intelligence",
+          "publishedOn": "2025-01-26T11:02:59.000Z",
+          "wordCount": 3974,
+          "title": "Show HN: Orange intelligence, an open source alternative to Apple Intelligence",
+          "imageUrl": "https://opengraph.githubassets.com/c5c7b91a53626ac3912927b61e95c0f976ef8c99f1d55e183f04cc0e408e53f6/sharingan-no-kakashi/orange-intelligence"
+        },
+        {
+          "id": "https://timkellogg.me/blog/2025/01/25/r1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://timkellogg.me/blog/2025/01/25/r1",
+          "publishedOn": "2025-01-26T04:03:03.000Z",
+          "wordCount": 1819,
+          "title": "Explainer: What's r1 and everything else?",
+          "imageUrl": "https://cdn.pixabay.com/photo/2022/07/18/11/12/statue-7329573_1280.jpg"
+        },
+        {
+          "id": "https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/",
+          "publishedOn": "2025-01-26T03:44:43.000Z",
+          "wordCount": 1849,
+          "title": "AI slop, suspicion, and writing back",
+          "imageUrl": "https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/cover.webp"
         },
         {
           "id": "https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/",
@@ -22,287 +222,87 @@
           "link": "https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/",
           "publishedOn": "2025-01-26T00:40:46.000Z",
           "wordCount": 4789,
-          "title": "The South Vietnamese pilot who landed a Cessna on a carrier to save his family",
+          "title": "The South Vietnamese pilot who landed a Cessna on a carrier to save his family (2019)",
           "imageUrl": "https://www.historynet.com/wp-content/uploads/2019/04/Buang-lead-1024x743.jpg"
         },
         {
-          "id": "https://sqlook.com/",
+          "id": "https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda",
           "author": null,
           "description": "Comments",
-          "link": "https://sqlook.com/",
-          "publishedOn": "2025-01-25T23:47:38.000Z",
-          "wordCount": 535,
-          "title": "SQLook – A free online SQLite database manager with a Windows 2000 interface",
-          "imageUrl": "https://sqlook.com/static/img/social-preview.png"
+          "link": "https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda",
+          "publishedOn": "2025-01-25T15:30:25.000Z",
+          "wordCount": 48846,
+          "title": "The impact of competition and DeepSeek on Nvidia",
+          "imageUrl": "https://raw.githubusercontent.com/Dicklesworthstone/yto_blog_posts/refs/heads/main/blog_05_banner.webp"
         },
         {
-          "id": "https://www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/",
+          "id": "https://uppercut.chadbibler.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/",
-          "publishedOn": "2025-01-25T23:27:11.000Z",
-          "wordCount": 1694,
-          "title": "Tool touted as 'first AI software engineer' is bad at its job, testers claim",
-          "imageUrl": "https://regmedia.co.uk/2025/01/22/shutterstock_confused_robot.jpg"
+          "link": "https://uppercut.chadbibler.com/",
+          "publishedOn": "2025-01-24T00:46:55.000Z",
+          "wordCount": 455,
+          "title": "Show HN: A new native app for 20 year old OS X",
+          "imageUrl": null
         },
         {
-          "id": "https://www.eff.org/deeplinks/2025/01/texas-enforcing-its-state-data-privacy-law-so-should-other-states",
+          "id": "https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.eff.org/deeplinks/2025/01/texas-enforcing-its-state-data-privacy-law-so-should-other-states",
-          "publishedOn": "2025-01-25T22:48:56.000Z",
-          "wordCount": 2080,
-          "title": "Texas Is Enforcing Its State Data Privacy Law. So Should Other States",
-          "imageUrl": "https://www.eff.org/files/banner_library/location-city.png"
+          "link": "https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html",
+          "publishedOn": "2025-01-23T21:38:27.000Z",
+          "wordCount": 19986,
+          "title": "Using the most unhinged AVX-512 instruction to make fastest phrase search algo",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=NEDFUjqA1s8",
+          "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315188",
           "author": null,
           "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=NEDFUjqA1s8",
-          "publishedOn": "2025-01-25T22:48:44.000Z",
+          "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315188",
+          "publishedOn": "2025-01-23T18:35:24.000Z",
+          "wordCount": 10986,
+          "title": "From tiny to immense: Geological spotlight on the Alexander Mosaic",
+          "imageUrl": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315188.g006&size=inline"
+        },
+        {
+          "id": "http://dicioccio.fr/on-dualities.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://dicioccio.fr/on-dualities.html",
+          "publishedOn": "2025-01-23T16:46:48.000Z",
+          "wordCount": 4027,
+          "title": "Dualities in Functional Programming",
+          "imageUrl": "https://dicioccio.fr/images/product-consumer.png"
+        },
+        {
+          "id": "https://calbryant.uk/blog/3d-printing-giant-things-with-jigsaw-generator/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://calbryant.uk/blog/3d-printing-giant-things-with-jigsaw-generator/",
+          "publishedOn": "2025-01-23T13:35:04.000Z",
+          "wordCount": 2819,
+          "title": "Show HN: 3D printing giant things with a Python jigsaw generator",
+          "imageUrl": "https://calbryant.uk/blog/3d-printing-giant-things-with-jigsaw-generator/bed-17_hu44b41be395f83c9527170d0597ef0b13_122438_1280x720_fill_q100_bg666_box_center_3.jpg"
+        },
+        {
+          "id": "https://resobscura.substack.com/p/the-leading-ai-models-are-now-very",
+          "author": null,
+          "description": "Comments",
+          "link": "https://resobscura.substack.com/p/the-leading-ai-models-are-now-very",
+          "publishedOn": "2025-01-22T23:29:21.000Z",
           "wordCount": null,
-          "title": "Poisoning AI with \".аss\" subtitles [video]",
+          "title": "The leading AI models are now good historians",
           "imageUrl": null
         },
         {
-          "id": "https://crastinator-pro.github.io/steam-brick/",
+          "id": "https://ahmet.im/blog/controller-pitfalls/",
           "author": null,
           "description": "Comments",
-          "link": "https://crastinator-pro.github.io/steam-brick/",
-          "publishedOn": "2025-01-25T22:15:13.000Z",
-          "wordCount": 975,
-          "title": "Steam Brick: No screen, no controller, just a power button and a USB port",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42825423",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=42825423",
-          "publishedOn": "2025-01-25T22:13:30.000Z",
-          "wordCount": 201,
-          "title": "Bucket Robotics (YC S24) is hiring our first engineer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jimgray.azurewebsites.net/papers/TandemTR86.2_FaultToleranceInTandemComputerSystems.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jimgray.azurewebsites.net/papers/TandemTR86.2_FaultToleranceInTandemComputerSystems.pdf",
-          "publishedOn": "2025-01-25T21:40:08.000Z",
-          "wordCount": 30741,
-          "title": "Fault Tolerance in Tandem Computer Systems (1986)[pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf",
-          "publishedOn": "2025-01-25T21:25:42.000Z",
-          "wordCount": 15382,
-          "title": "Immutability Changes Everything (2016) [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://magazine.ucsf.edu/building-a-silicon-brain",
-          "author": null,
-          "description": "Comments",
-          "link": "https://magazine.ucsf.edu/building-a-silicon-brain",
-          "publishedOn": "2025-01-25T20:36:26.000Z",
-          "wordCount": 2493,
-          "title": "Using AI to develop a fuller model of the human brain",
-          "imageUrl": "https://magazine.ucsf.edu/sites/default/files/2024-12/silicon-brain-ai-neuroscience-featured.jpg"
-        },
-        {
-          "id": "https://wikenigma.org.uk/start",
-          "author": null,
-          "description": "Comments",
-          "link": "https://wikenigma.org.uk/start",
-          "publishedOn": "2025-01-25T20:35:45.000Z",
-          "wordCount": 1406,
-          "title": "Wikenigma – an Encyclopedia of Unknowns",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/",
-          "publishedOn": "2025-01-25T20:29:41.000Z",
-          "wordCount": 7580,
-          "title": "An invalid 68030 instruction accidentally allowed the Mac Classic II to boot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dualqrcode.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dualqrcode.com/",
-          "publishedOn": "2025-01-25T20:28:18.000Z",
-          "wordCount": 5,
-          "title": "Dual-Link QR Code Generator",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/revenate/actionate",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/revenate/actionate",
-          "publishedOn": "2025-01-25T20:23:33.000Z",
-          "wordCount": 4953,
-          "title": "Show HN: Actionate – GitHub Actions for JetBrains IDEs",
-          "imageUrl": "https://opengraph.githubassets.com/47d5817e0f51bcc5b7a7bb342cfcbd618ed64a9e41437da7a582c685a2a17d77/revenate/actionate"
-        },
-        {
-          "id": "https://hntrbrk.com/schrodinger/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hntrbrk.com/schrodinger/",
-          "publishedOn": "2025-01-25T20:22:53.000Z",
-          "wordCount": 9624,
-          "title": "Schrödinger: The Nvidia biotech partner Jensen Huang told to \"think bigger\"",
-          "imageUrl": "http://hntrbrk.com/wp-content/uploads/2025/01/Hunterbrook-Designs.jpg"
-        },
-        {
-          "id": "https://outsidetext.substack.com/p/anomalous-tokens-in-deepseek-v3-and",
-          "author": null,
-          "description": "Comments",
-          "link": "https://outsidetext.substack.com/p/anomalous-tokens-in-deepseek-v3-and",
-          "publishedOn": "2025-01-25T20:19:12.000Z",
-          "wordCount": null,
-          "title": "Searching for DeepSeek's glitch tokens",
-          "imageUrl": null
-        },
-        {
-          "id": "https://iamwillwang.com/dollar/every-html-element/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://iamwillwang.com/dollar/every-html-element/",
-          "publishedOn": "2025-01-25T19:02:26.000Z",
-          "wordCount": 744,
-          "title": "Every HTML Element",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.openra.net/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.openra.net/",
-          "publishedOn": "2025-01-25T18:55:07.000Z",
-          "wordCount": 726,
-          "title": "OpenRA – Classic strategy games rebuilt for the modern era",
-          "imageUrl": "https://www.openra.net/images/social.jpg?t=2024-12-28-20-51"
-        },
-        {
-          "id": "https://arxiv.org/abs/2501.12948",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2501.12948",
-          "publishedOn": "2025-01-25T18:39:49.000Z",
-          "wordCount": 1163,
-          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html",
-          "publishedOn": "2025-01-25T18:16:15.000Z",
-          "wordCount": null,
-          "title": "CIA now favors lab leak theory to explain Covid's origins",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pilane.obviy.us/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pilane.obviy.us/",
-          "publishedOn": "2025-01-25T13:14:37.000Z",
-          "wordCount": 1349,
-          "title": "Show HN: I built a DIY plane spotting system at home",
-          "imageUrl": null
-        },
-        {
-          "id": "https://subwaysheds.com/#11.27/40.7427/-73.9869",
-          "author": null,
-          "description": "Comments",
-          "link": "https://subwaysheds.com/#11.27/40.7427/-73.9869",
-          "publishedOn": "2025-01-24T03:46:02.000Z",
-          "wordCount": 4,
-          "title": "How far can you get in 40 minutes from each subway station in NYC?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://iceberg.apache.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://iceberg.apache.org/",
-          "publishedOn": "2025-01-23T01:03:02.000Z",
-          "wordCount": 1715,
-          "title": "Apache Iceberg",
-          "imageUrl": null
-        },
-        {
-          "id": "https://eventhorizontelescope.org/m87-one-year-later-catching-black-holes-turbulent-accretion-flow",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eventhorizontelescope.org/m87-one-year-later-catching-black-holes-turbulent-accretion-flow",
-          "publishedOn": "2025-01-22T19:03:06.000Z",
-          "wordCount": 1247,
-          "title": "M87* One Year Later: Catching the Black Hole's Turbulent Accretion Flow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/SpinalHDL/VexRiscv",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/SpinalHDL/VexRiscv",
-          "publishedOn": "2025-01-22T15:06:36.000Z",
-          "wordCount": 26270,
-          "title": "A FPGA friendly 32 bit RISC-V CPU implementation",
-          "imageUrl": "https://opengraph.githubassets.com/913d0521ba4451017fc172c55bffa4064961f722fabfcaf25671f503e6c932ac/SpinalHDL/VexRiscv"
-        },
-        {
-          "id": "https://github.com/measuredco/puck/releases/tag/v0.18.0",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/measuredco/puck/releases/tag/v0.18.0",
-          "publishedOn": "2025-01-22T12:39:50.000Z",
-          "wordCount": 1360,
-          "title": "Show HN: Puck 0.18 adds drag-and-drop for CSS grid and Flexbox",
-          "imageUrl": "https://opengraph.githubassets.com/2d909b58487e686c9fdce3e792fbe90727c10a562d10613c65ed81cc8848f499/measuredco/puck/releases/tag/v0.18.0"
-        },
-        {
-          "id": "https://openheart.fyi/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://openheart.fyi/",
-          "publishedOn": "2025-01-22T10:49:56.000Z",
-          "wordCount": null,
-          "title": "Open Heart Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://paulromer.net/base-rate-blindness/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://paulromer.net/base-rate-blindness/",
-          "publishedOn": "2025-01-22T00:27:14.000Z",
-          "wordCount": 1251,
-          "title": "Base-Rate Blindness",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mattrighetti.com/2025/01/20/you-dont-need-sql-builders",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mattrighetti.com/2025/01/20/you-dont-need-sql-builders",
-          "publishedOn": "2025-01-21T09:47:55.000Z",
-          "wordCount": 1922,
-          "title": "You probably don't need query builders",
+          "link": "https://ahmet.im/blog/controller-pitfalls/",
+          "publishedOn": "2025-01-22T22:33:20.000Z",
+          "wordCount": 3717,
+          "title": "So you wanna write Kubernetes controllers?",
           "imageUrl": null
         }
       ]
