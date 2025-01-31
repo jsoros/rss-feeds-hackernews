@@ -6,153 +6,183 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=42873532",
+          "id": "https://www.nytimes.com/2025/01/30/health/fda-journavx-suzetrigine-vertex-opioids.html",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=42873532",
-          "publishedOn": "2025-01-30T01:02:03.000Z",
-          "wordCount": 416,
-          "title": "Etleap (YC W13) Is Hiring a Senior Software Engineer (SF)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jslegend.itch.io/duck-hunter",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jslegend.itch.io/duck-hunter",
-          "publishedOn": "2025-01-30T00:53:21.000Z",
-          "wordCount": 396,
-          "title": "Classic Duck Hunt Game Made in JavaScript and Kaplay",
-          "imageUrl": "https://img.itch.zone/aW1nLzE5NjA4OTIzLnBuZw==/original/irV863.png"
-        },
-        {
-          "id": "https://github.com/mathesar-foundation/mathesar",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/mathesar-foundation/mathesar",
-          "publishedOn": "2025-01-30T00:31:53.000Z",
-          "wordCount": 4743,
-          "title": "Mathesar – An intuitive spreadsheet-like interface to Postgres data",
-          "imageUrl": "https://opengraph.githubassets.com/7618aa933c9b3efd1a4c96ee42a42b4b7ecc47d7a50733682b10d86ef8ab6b8f/mathesar-foundation/mathesar"
-        },
-        {
-          "id": "https://github.com/marketplace/actions/feed-to-bluesky",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/marketplace/actions/feed-to-bluesky",
-          "publishedOn": "2025-01-30T00:12:49.000Z",
-          "wordCount": 2091,
-          "title": "Blueskyfeedbot: Post RSS Feeds to Bluesky via GitHub Actions",
-          "imageUrl": "https://avatars.githubusercontent.com/u/43951?s=400&v=4"
-        },
-        {
-          "id": "https://www.henrikkarlsson.xyz/p/start-a-blog",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.henrikkarlsson.xyz/p/start-a-blog",
-          "publishedOn": "2025-01-29T22:45:14.000Z",
-          "wordCount": 3449,
-          "title": "Advice for a friend who wants to start a blog",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3298eeb-473c-4b64-a703-0228b21e8ddf_3440x2757.jpeg"
-        },
-        {
-          "id": "https://medium.com/dartlang/an-update-on-dart-macros-data-serialization-06d3037d4f12",
-          "author": null,
-          "description": "Comments",
-          "link": "https://medium.com/dartlang/an-update-on-dart-macros-data-serialization-06d3037d4f12",
-          "publishedOn": "2025-01-29T22:08:30.000Z",
-          "wordCount": 1807,
-          "title": "An update on Dart macros and data serialization",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewstack.io/from-c-to-clojure-new-language-promises-best-of-both/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thenewstack.io/from-c-to-clojure-new-language-promises-best-of-both/",
-          "publishedOn": "2025-01-29T21:56:11.000Z",
+          "link": "https://www.nytimes.com/2025/01/30/health/fda-journavx-suzetrigine-vertex-opioids.html",
+          "publishedOn": "2025-01-31T00:47:09.000Z",
           "wordCount": null,
-          "title": "From C++ to Clojure: Jank language promises best of both",
+          "title": "FDA Approves drug to treat pain without opioid effects",
           "imageUrl": null
         },
         {
-          "id": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx",
+          "id": "https://ahey.io/",
           "author": null,
           "description": "Comments",
-          "link": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx",
-          "publishedOn": "2025-01-29T21:42:10.000Z",
+          "link": "https://ahey.io/",
+          "publishedOn": "2025-01-30T23:39:29.000Z",
+          "wordCount": 71,
+          "title": "Show HN: Ahey – A simple pub-sub service built on top of web push",
+          "imageUrl": "https://ahey.io/banner.png"
+        },
+        {
+          "id": "https://www.svix.com/careers/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.svix.com/careers/",
+          "publishedOn": "2025-01-30T21:00:10.000Z",
+          "wordCount": 484,
+          "title": "Svix (YC W21) Is Hiring a Developer Marketer (US Remote)",
+          "imageUrl": "https://www.svix.com[object Object]"
+        },
+        {
+          "id": "https://www.noemamag.com/signs-of-life-in-a-desert-of-death/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.noemamag.com/signs-of-life-in-a-desert-of-death/",
+          "publishedOn": "2025-01-30T20:30:09.000Z",
+          "wordCount": 5203,
+          "title": "Signs Of Life In A Desert",
+          "imageUrl": "https://noemamag.imgix.net/2025/01/noema_hr_003-copy-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=16932135bc86447f2259c3f8368141af"
+        },
+        {
+          "id": "https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/",
+          "publishedOn": "2025-01-30T20:14:47.000Z",
+          "wordCount": 1882,
+          "title": "How Jane Street accidentally built a better build system for OCaml",
+          "imageUrl": "https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/dune-jenga.png"
+        },
+        {
+          "id": "https://www.nist.gov/topics/physics/optical-frequency-combs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nist.gov/topics/physics/optical-frequency-combs",
+          "publishedOn": "2025-01-30T19:44:02.000Z",
+          "wordCount": 3544,
+          "title": "Optical Frequency Combs",
+          "imageUrl": "https://www.nist.gov/sites/default/files/styles/social/public/images/2024/04/12/Frequency_comb_on_chip.png?itok=dF3ehFRZ"
+        },
+        {
+          "id": "https://github.com/exelban/stats",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/exelban/stats",
+          "publishedOn": "2025-01-30T19:37:42.000Z",
+          "wordCount": 3912,
+          "title": "Stats – macOS system monitor in your menu bar",
+          "imageUrl": "https://repository-images.githubusercontent.com/189285554/f6de4500-d335-11e9-9bea-89158f46d803"
+        },
+        {
+          "id": "https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023",
+          "publishedOn": "2025-01-30T18:48:30.000Z",
+          "wordCount": 2308,
+          "title": "California law enforcement misused state databases more than 7k times in 2023",
+          "imageUrl": "https://www.eff.org/files/banner_library/police-2.png"
+        },
+        {
+          "id": "https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421",
+          "publishedOn": "2025-01-30T18:38:12.000Z",
+          "wordCount": 2305,
+          "title": "Many of the Pokemon playtest cards were likely printed in 2024",
+          "imageUrl": "https://efour.b-cdn.net/uploads/default/optimized/3X/9/d/9dc46977f44696c14a8056aee3cb3b70769819dd_2_990x1024.png"
+        },
+        {
+          "id": "https://github.com/ferrislucas/iterm-mcp",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ferrislucas/iterm-mcp",
+          "publishedOn": "2025-01-30T18:14:46.000Z",
+          "wordCount": 2695,
+          "title": "Show HN: Iterm-Mcp – AI Terminal/REPL Control for iTerm2",
+          "imageUrl": "https://opengraph.githubassets.com/58ff8188a12a70eed5a7b630284d74cbb9bf82b61629429cd40d23320bbe490a/ferrislucas/iterm-mcp"
+        },
+        {
+          "id": "https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/",
+          "publishedOn": "2025-01-30T17:57:46.000Z",
+          "wordCount": 7208,
+          "title": "Quaternions and spherical trigonometry",
+          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1738287121"
+        },
+        {
+          "id": "https://www.workflow86.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.workflow86.com/",
+          "publishedOn": "2025-01-30T17:05:54.000Z",
+          "wordCount": 7097,
+          "title": "Show HN: Workflow86 - An AI business analyst and automation engineer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42879661",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42879661",
+          "publishedOn": "2025-01-30T16:59:38.000Z",
+          "wordCount": 7303,
+          "title": "Launch HN: Karsa (YC W25) – Buy and save stablecoins internationally",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html",
+          "publishedOn": "2025-01-30T14:01:27.000Z",
+          "wordCount": 21066,
+          "title": "Antiqua et Nova: Note on the relationship between AI and human intelligence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dl.acm.org/doi/10.1145/130647.130656",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dl.acm.org/doi/10.1145/130647.130656",
+          "publishedOn": "2025-01-30T13:18:49.000Z",
+          "wordCount": 1220,
+          "title": "A history of APL in the USSR (1991)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.audiocube.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.audiocube.app/",
+          "publishedOn": "2025-01-30T13:12:34.000Z",
+          "wordCount": 7038,
+          "title": "Show HN: Audiocube – A 3D DAW for Spatial Audio",
+          "imageUrl": "http://static1.squarespace.com/static/65b3b3cd8a8cd17472028226/t/6758798838242c2dc9599d6d/1733851531364/audiocube+cover+image.jpg?format=1500w"
+        },
+        {
+          "id": "https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/",
+          "publishedOn": "2025-01-30T11:28:31.000Z",
+          "wordCount": 2578,
+          "title": "JavaScript Temporal is coming",
+          "imageUrl": "https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/featured.png"
+        },
+        {
+          "id": "https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you",
+          "publishedOn": "2025-01-30T04:33:25.000Z",
           "wordCount": null,
-          "title": "Meta Reports Fourth Quarter and Full Year 2024 Results",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak",
-          "publishedOn": "2025-01-29T21:25:36.000Z",
-          "wordCount": 8711,
-          "title": "Exposed DeepSeek database leaking sensitive information, including chat history",
-          "imageUrl": "https://www.datocms-assets.com/75231/1738180897-ds-2x.png?fm=webp"
-        },
-        {
-          "id": "https://www.chriis.dev/opinion/parsing-pdfs-in-elixir-using-rust",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.chriis.dev/opinion/parsing-pdfs-in-elixir-using-rust",
-          "publishedOn": "2025-01-29T21:05:28.000Z",
-          "wordCount": 12509,
-          "title": "Parsing PDFs (and more) in Elixir using Rust",
-          "imageUrl": "https://www.chriis.dev/api/og-image?title=Parsing%20PDFs%20(and%20more)%20in%20Elixir%20using%20Rust&slug=parsing-pdfs-in-elixir-using-rust&readTime=13&publishedDate=2025-01-29T18:18:34Z"
-        },
-        {
-          "id": "https://github.com/houmain/keymapper",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/houmain/keymapper",
-          "publishedOn": "2025-01-29T20:55:49.000Z",
-          "wordCount": 11122,
-          "title": "Keymapper: A cross-platform context-aware key remapper",
-          "imageUrl": "https://opengraph.githubassets.com/7219232f746367b5da14b309633308f076dfaa10db8bfd35d53c93aab2080b22/houmain/keymapper"
-        },
-        {
-          "id": "https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz",
-          "author": null,
-          "description": "Comments",
-          "link": "https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz",
-          "publishedOn": "2025-01-29T20:50:53.000Z",
-          "wordCount": null,
-          "title": "Making the video that made Gorillaz",
-          "imageUrl": null
-        },
-        {
-          "id": "https://wiki.c2.com/?SovietShoeFactoryPrinciple",
-          "author": null,
-          "description": "Comments",
-          "link": "https://wiki.c2.com/?SovietShoeFactoryPrinciple",
-          "publishedOn": "2025-01-29T20:26:01.000Z",
-          "wordCount": 780,
-          "title": "Soviet Shoe Factory Principle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://garry.net/posts/dead-games",
-          "author": null,
-          "description": "Comments",
-          "link": "https://garry.net/posts/dead-games",
-          "publishedOn": "2025-01-29T19:52:27.000Z",
-          "wordCount": 1499,
-          "title": "Dead Games",
-          "imageUrl": null
-        },
-        {
-          "id": "https://airflow.app/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://airflow.app/",
-          "publishedOn": "2025-01-29T19:47:51.000Z",
-          "wordCount": 863,
-          "title": "Airflow – Stream media files directly from macOS to AirPlay devices",
+          "title": "PCBs, copper pours, ground planes, and you",
           "imageUrl": null
         },
         {
@@ -161,19 +191,19 @@
           "description": "Comments",
           "link": "https://github.com/Om-Alve/smolGPT",
           "publishedOn": "2025-01-29T18:09:19.000Z",
-          "wordCount": 4046,
+          "wordCount": 4220,
           "title": "SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch",
-          "imageUrl": "https://opengraph.githubassets.com/6eb93673a3c3a8c7bd3f08f08242b6c7dfda59047c4c0aac1523c598908ee3ea/Om-Alve/smolGPT"
+          "imageUrl": "https://opengraph.githubassets.com/b9a82db4d99ee307b57993e96565e967791ada03f913d4b27e1a26d13e763beb/Om-Alve/smolGPT"
         },
         {
-          "id": "https://vetmed.illinois.edu/i-tick/2019/08/09/iceman-lyme-mummy-tattle-the-tick-blog/",
+          "id": "https://globalfinancialdata.com/rca-and-the-roaring-twenties",
           "author": null,
           "description": "Comments",
-          "link": "https://vetmed.illinois.edu/i-tick/2019/08/09/iceman-lyme-mummy-tattle-the-tick-blog/",
-          "publishedOn": "2025-01-29T17:49:16.000Z",
-          "wordCount": 1373,
-          "title": "Ötzi the Lyme Mummy (2019)",
-          "imageUrl": "https://vetmed.illinois.edu/i-tick/wp-content/uploads/sites/69/2019/07/iceman-lyme-disease-1.png"
+          "link": "https://globalfinancialdata.com/rca-and-the-roaring-twenties",
+          "publishedOn": "2025-01-29T17:50:11.000Z",
+          "wordCount": 2131,
+          "title": "RCA and the Roaring Twenties",
+          "imageUrl": null
         },
         {
           "id": "https://arcprize.org/blog/r1-zero-r1-results-analysis",
@@ -186,84 +216,14 @@
           "imageUrl": "https://arcprize.org/media/images/og-image-default.jpg"
         },
         {
-          "id": "https://www.instantdb.com/essays/pg_upgrade",
+          "id": "https://github.com/glasskube/distr",
           "author": null,
           "description": "Comments",
-          "link": "https://www.instantdb.com/essays/pg_upgrade",
-          "publishedOn": "2025-01-29T16:57:59.000Z",
-          "wordCount": 7916,
-          "title": "A major Postgres upgrade with zero downtime",
-          "imageUrl": "https://www.instantdb.com/img/og_preview.png"
-        },
-        {
-          "id": "https://www.stc.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.stc.org/",
-          "publishedOn": "2025-01-29T16:40:19.000Z",
-          "wordCount": 1975,
-          "title": "Society for Technical Communication to permanently close its doors",
-          "imageUrl": "https://www.stc.org/wp-content/uploads/2016/09/PNG3-Logo-Type-Vert.png"
-        },
-        {
-          "id": "https://ebpf.foundation/case-study-bytedance-uses-ebpf-to-enhance-networking-performance/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ebpf.foundation/case-study-bytedance-uses-ebpf-to-enhance-networking-performance/",
-          "publishedOn": "2025-01-29T15:58:20.000Z",
-          "wordCount": 10855,
-          "title": "Case Study: ByteDance Uses eBPF to Enhance Networking Performance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4",
-          "publishedOn": "2025-01-29T12:47:17.000Z",
-          "wordCount": 999,
-          "title": "Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.science.org/content/blog-post/bacteria-and-their-metabolites-and-depression",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.science.org/content/blog-post/bacteria-and-their-metabolites-and-depression",
-          "publishedOn": "2025-01-29T09:54:33.000Z",
-          "wordCount": null,
-          "title": "Bacteria (and their metabolites) and depression",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/",
-          "publishedOn": "2025-01-29T06:43:43.000Z",
-          "wordCount": 3962,
-          "title": "I still like Sublime Text",
-          "imageUrl": "/icons/logo.png"
-        },
-        {
-          "id": "https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6",
-          "publishedOn": "2025-01-29T04:21:20.000Z",
-          "wordCount": 1473,
-          "title": "OpenAI says it has evidence DeepSeek used its model to train competitor",
-          "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fada4bd99-8ac4-4056-b48a-dfe72e06f73d.jpg?source=next-barrier-page"
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Cardan_grille",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Cardan_grille",
-          "publishedOn": "2025-01-28T19:48:22.000Z",
-          "wordCount": 1697,
-          "title": "Cardan grille",
-          "imageUrl": null
+          "link": "https://github.com/glasskube/distr",
+          "publishedOn": "2025-01-29T16:21:55.000Z",
+          "wordCount": 2597,
+          "title": "Show HN: Distr – open-source distribution platform for on-prem deployments",
+          "imageUrl": "https://opengraph.githubassets.com/23d5e8f650d453e5ad3cd72c0e56c207acce991864cb5f3fb706c4a2a0e4cafe/glasskube/distr"
         },
         {
           "id": "https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch",
@@ -271,38 +231,78 @@
           "description": "Comments",
           "link": "https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch",
           "publishedOn": "2025-01-28T16:33:32.000Z",
-          "wordCount": 4632,
+          "wordCount": 4639,
           "title": "Building a T1D smartwatch for my son from scratch",
           "imageUrl": "https://andrewchilds.com/images/smartwatch/backyard.jpg"
         },
         {
-          "id": "https://cubiclenate.com/2025/01/26/showkey-examine-keyboard-codes/",
+          "id": "https://www.themodernnovel.org/",
           "author": null,
           "description": "Comments",
-          "link": "https://cubiclenate.com/2025/01/26/showkey-examine-keyboard-codes/",
-          "publishedOn": "2025-01-27T03:42:16.000Z",
-          "wordCount": 12293,
-          "title": "Showkey: Examine Keyboard Codes",
-          "imageUrl": "https://i0.wp.com/cubiclenate.com/wp-content/uploads/2025/01/showkey-title.webp?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://teara.govt.nz/en/inventions-patents-and-trademarks/page-1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://teara.govt.nz/en/inventions-patents-and-trademarks/page-1",
-          "publishedOn": "2025-01-26T22:45:24.000Z",
-          "wordCount": null,
-          "title": "The 'no. 8 wire' tradition in New Zealand",
+          "link": "https://www.themodernnovel.org/",
+          "publishedOn": "2025-01-28T03:51:37.000Z",
+          "wordCount": 1286,
+          "title": "The Modern Novel: The world-wide literary novel from early 20th Century onwards",
           "imageUrl": null
         },
         {
-          "id": "https://jdsemrau.substack.com/p/cognitive-reasoning-agents-and-the",
+          "id": "https://www.theparisreview.org/blog/2025/01/20/my-cat-mii/",
           "author": null,
           "description": "Comments",
-          "link": "https://jdsemrau.substack.com/p/cognitive-reasoning-agents-and-the",
-          "publishedOn": "2025-01-26T15:47:19.000Z",
+          "link": "https://www.theparisreview.org/blog/2025/01/20/my-cat-mii/",
+          "publishedOn": "2025-01-27T20:15:01.000Z",
           "wordCount": null,
-          "title": "Cognitive Reasoning Agents and the Extended Information Filter",
+          "title": "My Cat Mii",
+          "imageUrl": null
+        },
+        {
+          "id": "https://taylor.town/bang-bang",
+          "author": null,
+          "description": "Comments",
+          "link": "https://taylor.town/bang-bang",
+          "publishedOn": "2025-01-27T02:57:10.000Z",
+          "wordCount": 1753,
+          "title": "Bang bang! He murdered math! [video]",
+          "imageUrl": "https://taylor.town/bang-bang.png"
+        },
+        {
+          "id": "http://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html",
+          "publishedOn": "2025-01-27T01:24:10.000Z",
+          "wordCount": 8575,
+          "title": "Scalable OLTP in the Cloud: What's the Big Deal?",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEixuW5RhqakvtCihi8JM91NYzNa7Ud6z3G2SM7D2fS4z1B60hF8w8pZOtnL7TW6n5HJHu9Uap4RNJO9lBCCy5LlXR2FaLterr1EOyZo7cNy7G2hvI0Z82BNQFdPywPLidWFFa76aPyaiVGg5G7ZdpneCtiDASM2uDZZZcLYmMhOW-tlJJVi4FdTMs7tMBI=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://blogs.bl.uk/digitisedmanuscripts/2025/01/permission-to-practise-medicine.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blogs.bl.uk/digitisedmanuscripts/2025/01/permission-to-practise-medicine.html",
+          "publishedOn": "2025-01-26T17:57:50.000Z",
+          "wordCount": null,
+          "title": "Permission to Practise Medicine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sentex.ca/~mwandel/organ/organ.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sentex.ca/~mwandel/organ/organ.html",
+          "publishedOn": "2025-01-26T17:44:54.000Z",
+          "wordCount": 2645,
+          "title": "The story of my home made pipe organ (2000)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://components.one/posts/gamer-and-nihilist-product-hunt",
+          "author": null,
+          "description": "Comments",
+          "link": "https://components.one/posts/gamer-and-nihilist-product-hunt",
+          "publishedOn": "2025-01-26T14:59:26.000Z",
+          "wordCount": 99427,
+          "title": "Analysis of Product Hunt products from 2014 to 2021",
           "imageUrl": null
         }
       ]
