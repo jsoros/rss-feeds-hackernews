@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsoros.github.io/rss-feeds-hackernews/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-01T20:18:32.279Z</updated>
+    <updated>2025-02-01T20:23:18.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jsoros.github.io/rss-feeds-hackernews/index.html"/>
     <link rel="self" href="https://jsoros.github.io/rss-feeds-hackernews/feed.atom"/>
@@ -6997,6 +6997,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google Maps reclassifies the U.S. as a 'sensitive country']]></title>
+        <id>https://www.themarysue.com/for-states-with-strict-governments-google-maps-reclassifies-the-u-s-as-a-sensitive-country-alongside-china-and-russia/</id>
+        <link href="https://www.themarysue.com/for-states-with-strict-governments-google-maps-reclassifies-the-u-s-as-a-sensitive-country-alongside-china-and-russia/"/>
+        <updated>2025-02-01T18:56:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Delaware faces exodus of tech companies]]></title>
         <id>https://www.newsweek.com/delaware-exodus-tech-meta-dropbox-elon-musk-2024596</id>
         <link href="https://www.newsweek.com/delaware-exodus-tech-meta-dropbox-elon-musk-2024596"/>
@@ -7154,6 +7164,45 @@ So, what will you write today?]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I Miss Vim]]></title>
+        <id>https://news.ycombinator.com/item?id=42896131</id>
+        <link href="https://leblancfg.com/i-miss-vim.html"/>
+        <updated>2025-02-01T06:12:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://leblancfg.com/i-miss-vim.html
+Comments URL: https://news.ycombinator.com/item?id=42896131
+Points: 5
+# Comments: 2]]></summary>
+        <author>
+            <name>thunderbong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hell Is Overconfident Developers Writing Encryption Code]]></title>
+        <id>https://news.ycombinator.com/item?id=42895332</id>
+        <link href="https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/"/>
+        <updated>2025-02-01T03:21:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/
+Comments URL: https://news.ycombinator.com/item?id=42895332
+Points: 90
+# Comments: 83]]></summary>
+        <author>
+            <name>zdw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The government information crisis is bigger than you think it is]]></title>
+        <id>https://news.ycombinator.com/item?id=42895331</id>
+        <link href="https://freegovinfo.info/node/14747/"/>
+        <updated>2025-02-01T03:21:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://freegovinfo.info/node/14747/
+Comments URL: https://news.ycombinator.com/item?id=42895331
+Points: 220
+# Comments: 109]]></summary>
+        <author>
+            <name>ChrisArchitect</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A new supergiant Bathynomus species discovered in Vietnam]]></title>
         <id>https://zookeys.pensoft.net/article/139335/</id>
         <link href="https://zookeys.pensoft.net/article/139335/"/>
@@ -7161,6 +7210,32 @@ So, what will you write today?]]></summary>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open source alternative to Postman / Insomnia]]></title>
+        <id>https://news.ycombinator.com/item?id=42895108</id>
+        <link href="https://github.com/hoppscotch/hoppscotch"/>
+        <updated>2025-02-01T02:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/hoppscotch/hoppscotch
+Comments URL: https://news.ycombinator.com/item?id=42895108
+Points: 22
+# Comments: 11]]></summary>
+        <author>
+            <name>the_arun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decision to dump water from Tulare County lakes altered after confusing locals]]></title>
+        <id>https://news.ycombinator.com/item?id=42894708</id>
+        <link href="https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/"/>
+        <updated>2025-02-01T01:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/
+Comments URL: https://news.ycombinator.com/item?id=42894708
+Points: 151
+# Comments: 62]]></summary>
+        <author>
+            <name>awnird</name>
         </author>
     </entry>
     <entry>
@@ -7175,12 +7250,42 @@ So, what will you write today?]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: Simple to build MCP servers that easily connect with custom LLM calls]]></title>
+        <id>https://news.ycombinator.com/item?id=42894425</id>
+        <link href="https://mirascope.com/learn/mcp/server/"/>
+        <updated>2025-02-01T00:50:40.000Z</updated>
+        <summary type="html"><![CDATA[Hi!
+After learning about MCP, I'm really excited about the future of provider-agnostic, re-usable tooling.
+Unfortunately I've found that while it's easy to implement an MCP server for use with tools that support it (such as Claude Desktop), it's not as easy to implement your own support (such as integrating an MCP server into your own LLM application).
+We implemented a thin MCP wrapper that easily integrates with Mirascope calls so that you can hook up an MCP server and client super easily to any supported LLM provider.
+Excited to see what people build with this!
+Comments URL: https://news.ycombinator.com/item?id=42894425
+Points: 26
+# Comments: 15]]></summary>
+        <author>
+            <name>wbakst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Simple to build MCP servers that easily connect with custom LLM calls]]></title>
         <id>https://mirascope.com/learn/mcp/server/</id>
         <link href="https://mirascope.com/learn/mcp/server/"/>
         <updated>2025-02-01T00:50:40.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falsehoods programmers believe about null pointers]]></title>
+        <id>https://news.ycombinator.com/item?id=42894220</id>
+        <link href="https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/"/>
+        <updated>2025-02-01T00:25:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/
+Comments URL: https://news.ycombinator.com/item?id=42894220
+Points: 58
+# Comments: 49]]></summary>
+        <author>
+            <name>HeliumHydride</name>
         </author>
     </entry>
     <entry>
@@ -7195,12 +7300,38 @@ So, what will you write today?]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notes on OpenAI O3-Mini]]></title>
+        <id>https://news.ycombinator.com/item?id=42894215</id>
+        <link href="https://simonwillison.net/2025/Jan/31/o3-mini/"/>
+        <updated>2025-02-01T00:24:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2025/Jan/31/o3-mini/
+Comments URL: https://news.ycombinator.com/item?id=42894215
+Points: 117
+# Comments: 42]]></summary>
+        <author>
+            <name>dtquad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes on OpenAI O3-Mini]]></title>
         <id>https://simonwillison.net/2025/Jan/31/o3-mini/</id>
         <link href="https://simonwillison.net/2025/Jan/31/o3-mini/"/>
         <updated>2025-02-01T00:24:42.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Earthstar – A database for private, distributed, offline-first applications]]></title>
+        <id>https://news.ycombinator.com/item?id=42894200</id>
+        <link href="https://earthstar-project.org/"/>
+        <updated>2025-02-01T00:22:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://earthstar-project.org/
+Comments URL: https://news.ycombinator.com/item?id=42894200
+Points: 110
+# Comments: 11]]></summary>
+        <author>
+            <name>kristianpaul</name>
         </author>
     </entry>
     <entry>
@@ -7215,12 +7346,38 @@ So, what will you write today?]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sparrow, a Modern C++ Implementation of the Apache Arrow Columnar Format]]></title>
+        <id>https://news.ycombinator.com/item?id=42893844</id>
+        <link href="https://johan-mabille.medium.com/sparrow-1f23817f6696"/>
+        <updated>2025-01-31T23:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://johan-mabille.medium.com/sparrow-1f23817f6696
+Comments URL: https://news.ycombinator.com/item?id=42893844
+Points: 58
+# Comments: 9]]></summary>
+        <author>
+            <name>SylvainCorlay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sparrow, a Modern C++ Implementation of the Apache Arrow Columnar Format]]></title>
         <id>https://johan-mabille.medium.com/sparrow-1f23817f6696</id>
         <link href="https://johan-mabille.medium.com/sparrow-1f23817f6696"/>
         <updated>2025-01-31T23:44:00.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists find links between Alzheimer's, herpes, and head trauma]]></title>
+        <id>https://news.ycombinator.com/item?id=42893627</id>
+        <link href="https://www.statnews.com/2025/01/07/alzheimers-disease-research-link-between-herpes-virus-head-trauma-dementia/"/>
+        <updated>2025-01-31T23:23:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.statnews.com/2025/01/07/alzheimers-disease-research-link-between-herpes-virus-head-trauma-dementia/
+Comments URL: https://news.ycombinator.com/item?id=42893627
+Points: 98
+# Comments: 29]]></summary>
+        <author>
+            <name>wglb</name>
         </author>
     </entry>
     <entry>
@@ -7241,6 +7398,19 @@ So, what will you write today?]]></summary>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Great Watchdog Timers for Embedded Systems]]></title>
+        <id>https://news.ycombinator.com/item?id=42893393</id>
+        <link href="https://www.ganssle.com/watchdogs.htm"/>
+        <updated>2025-01-31T23:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ganssle.com/watchdogs.htm
+Comments URL: https://news.ycombinator.com/item?id=42893393
+Points: 39
+# Comments: 8]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -7402,12 +7572,38 @@ All done! ✨ 🍰 ✨
     </entry>
     <entry>
         <title type="html"><![CDATA[Add "fucking" to your Google searches to neutralize AI summaries]]></title>
+        <id>https://news.ycombinator.com/item?id=42892191</id>
+        <link href="https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710"/>
+        <updated>2025-01-31T21:20:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710
+Comments URL: https://news.ycombinator.com/item?id=42892191
+Points: 645
+# Comments: 298]]></summary>
+        <author>
+            <name>jsheard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add "fucking" to your Google searches to neutralize AI summaries]]></title>
         <id>https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710</id>
         <link href="https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710"/>
         <updated>2025-01-31T21:20:40.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LinuxPDF]]></title>
+        <id>https://news.ycombinator.com/item?id=42891937</id>
+        <link href="https://github.com/ading2210/linuxpdf"/>
+        <updated>2025-01-31T21:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ading2210/linuxpdf
+Comments URL: https://news.ycombinator.com/item?id=42891937
+Points: 107
+# Comments: 20]]></summary>
+        <author>
+            <name>shantara</name>
         </author>
     </entry>
     <entry>
@@ -7422,12 +7618,38 @@ All done! ✨ 🍰 ✨
     </entry>
     <entry>
         <title type="html"><![CDATA[FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents]]></title>
+        <id>https://news.ycombinator.com/item?id=42891909</id>
+        <link href="https://www.ycombinator.com/companies/furtherai/jobs"/>
+        <updated>2025-01-31T21:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/furtherai/jobs
+Comments URL: https://news.ycombinator.com/item?id=42891909
+Points: 0
+# Comments: 0]]></summary>
+        <author>
+            <name>sgondala_ycapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents]]></title>
         <id>https://www.ycombinator.com/companies/furtherai/jobs</id>
         <link href="https://www.ycombinator.com/companies/furtherai/jobs"/>
         <updated>2025-01-31T21:00:11.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elite on the 6502: The original 6502 assembly source, heavily commented]]></title>
+        <id>https://news.ycombinator.com/item?id=42891200</id>
+        <link href="https://elite.bbcelite.com/"/>
+        <updated>2025-01-31T19:55:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://elite.bbcelite.com/
+Comments URL: https://news.ycombinator.com/item?id=42891200
+Points: 143
+# Comments: 28]]></summary>
+        <author>
+            <name>CharlesW</name>
         </author>
     </entry>
     <entry>
@@ -7448,6 +7670,19 @@ All done! ✨ 🍰 ✨
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypass DeepSeek censorship by speaking in hex]]></title>
+        <id>https://news.ycombinator.com/item?id=42891042</id>
+        <link href="https://substack.com/home/post/p-156004330"/>
+        <updated>2025-01-31T19:41:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://substack.com/home/post/p-156004330
+Comments URL: https://news.ycombinator.com/item?id=42891042
+Points: 412
+# Comments: 229]]></summary>
+        <author>
+            <name>MedadNewman</name>
         </author>
     </entry>
     <entry>
@@ -7486,12 +7721,38 @@ OPENAI_API_KEY="$(llm keys get openai)" npm run dev
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI O3-Mini]]></title>
+        <id>https://news.ycombinator.com/item?id=42890627</id>
+        <link href="https://openai.com/index/openai-o3-mini/"/>
+        <updated>2025-01-31T19:08:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/index/openai-o3-mini/
+Comments URL: https://news.ycombinator.com/item?id=42890627
+Points: 671
+# Comments: 625]]></summary>
+        <author>
+            <name>johnneville</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI O3-Mini]]></title>
         <id>https://openai.com/index/openai-o3-mini/</id>
         <link href="https://openai.com/index/openai-o3-mini/"/>
         <updated>2025-01-31T19:08:15.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Tensor Cookbook]]></title>
+        <id>https://news.ycombinator.com/item?id=42890389</id>
+        <link href="https://tensorcookbook.com/"/>
+        <updated>2025-01-31T18:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tensorcookbook.com/
+Comments URL: https://news.ycombinator.com/item?id=42890389
+Points: 127
+# Comments: 15]]></summary>
+        <author>
+            <name>t55</name>
         </author>
     </entry>
     <entry>
@@ -7514,6 +7775,19 @@ OPENAI_API_KEY="$(llm keys get openai)" npm run dev
   This new resource-level permission model is available in all AWS Regions where EBS volumes are available. To learn more about using resource-level permissions to create EBS volume, or transitioning to the new resource-level permission model from previous permission model, please visit the launch blog. For more information about Amazon EBS, please visit the product page.]]></summary>
         <author>
             <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI, Dutch police disrupt 'Manipulaters' phishing gang]]></title>
+        <id>https://news.ycombinator.com/item?id=42890290</id>
+        <link href="https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/"/>
+        <updated>2025-01-31T18:36:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/
+Comments URL: https://news.ycombinator.com/item?id=42890290
+Points: 125
+# Comments: 38]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -7874,6 +8148,28 @@ Itamar Turner-Trauring explains that if you have a <code>BytesIO</code> object i
   Read #001 - A musical prelude to new year.]]></summary>
         <author>
             <name>Juha-Matti Santala - Community Builder. Dreamer. Adventurer.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 2025]]></title>
+        <id>https://timharek.no/blog/2025-january-recently</id>
+        <link href="https://timharek.no/blog/2025-january-recently"/>
+        <updated>2025-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's the end of the month again, and that wraps the first month of 2025!
+🍀 Life
+I started off the year with a new job title, I'm now officially the Tech lead at
+Value Technology. And work has been keeping me busy, I have been pretty tired
+after work a few days this past month.
+Our daughter is growing strong! She always wants be outside, whatever weather,
+and that's how it should be! She's really enjoying kindergarten and we couldn't
+be more happy. As I'm writing this the kindergarten is having a "planning-day",
+so my daughter and I have been at home all day, or we have been hanging out the
+whole weekday having a blast. She has taken a real liking towards animals,
+especially our dog and cat, she yells their names most of the time and follows
+them around the house.
+And I started buying phys…]]></summary>
+        <author>
+            <name>Tim Hårek</name>
         </author>
     </entry>
     <entry>
@@ -8246,6 +8542,16 @@ llm -m mistral-small:24b "say hi"
     <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/ethics">ethics</a></p>]]></summary>
         <author>
             <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[String of recent killings linked to Bay Area rationalist 'death cult']]></title>
+        <id>https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php</id>
+        <link href="https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php"/>
+        <updated>2025-01-30T14:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
