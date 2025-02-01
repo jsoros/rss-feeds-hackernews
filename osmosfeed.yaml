@@ -5,6 +5,7 @@
 
 cacheUrl: https://jsoros.github.io/rss-feeds-hackernews/cache.json
 sources:
+  - href: https://hnrss.org/frontpage
   - href: https://adactio.com/articles/rss
   - href: https://alexwlchan.net/atom.xml
   - href: https://apenwarr.ca/log/rss.php
