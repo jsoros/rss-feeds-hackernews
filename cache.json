@@ -6,6 +6,206 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42904351",
+          "author": "mooreds",
+          "description": "Article URL: https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act\nComments URL: https://news.ycombinator.com/item?id=42904351\nPoints: 11\n# Comments: 0",
+          "link": "https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act",
+          "publishedOn": "2025-02-02T00:55:03.000Z",
+          "wordCount": 5426,
+          "title": "Smoot–Hawley Tariff Act",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/1200px-Great_Seal_of_the_United_States_%28obverse%29.svg.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42904244",
+          "author": "guiambros",
+          "description": "Article URL: https://www.bleepingcomputer.com/news/security/medical-billing-firm-medusind-discloses-breach-affecting-360-000-people/\nComments URL: https://news.ycombinator.com/item?id=42904244\nPoints: 6\n# Comments: 0",
+          "link": "https://www.bleepingcomputer.com/news/security/medical-billing-firm-medusind-discloses-breach-affecting-360-000-people/",
+          "publishedOn": "2025-02-02T00:42:27.000Z",
+          "wordCount": 2309,
+          "title": "Medical billing firm Medusind discloses breach affecting 360k people",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2025/01/08/Medusind.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42904116",
+          "author": "waltercool",
+          "description": "Article URL: https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/\nComments URL: https://news.ycombinator.com/item?id=42904116\nPoints: 23\n# Comments: 4",
+          "link": "https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/",
+          "publishedOn": "2025-02-02T00:27:05.000Z",
+          "wordCount": 1002,
+          "title": "How to Run DeepSeek R1 Distilled Reasoning Models on RyzenAI and Radeon GPUs",
+          "imageUrl": "https://www.guru3d.com/data/themes/Guru3D/images/logo_large.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42903803",
+          "author": "domofutu",
+          "description": "Article URL: https://domofutu.substack.com/p/the-power-of-poetry\nComments URL: https://news.ycombinator.com/item?id=42903803\nPoints: 8\n# Comments: 0",
+          "link": "https://domofutu.substack.com/p/the-power-of-poetry",
+          "publishedOn": "2025-02-01T23:45:48.000Z",
+          "wordCount": null,
+          "title": "The Power of Poetry: Why Everyone Should Write",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42903576",
+          "author": "dp-hackernews",
+          "description": "Article URL: https://routersecurity.org/ISProuters.php\nComments URL: https://news.ycombinator.com/item?id=42903576\nPoints: 140\n# Comments: 59",
+          "link": "https://routersecurity.org/ISProuters.php",
+          "publishedOn": "2025-02-01T23:17:36.000Z",
+          "wordCount": 3887,
+          "title": "Avoid ISP Routers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42902936",
+          "author": "jxmorris12",
+          "description": "Article URL: https://rlhfbook.com/\nComments URL: https://news.ycombinator.com/item?id=42902936\nPoints: 53\n# Comments: 5",
+          "link": "https://rlhfbook.com/",
+          "publishedOn": "2025-02-01T22:11:45.000Z",
+          "wordCount": 1971,
+          "title": "RLHF Book",
+          "imageUrl": "https://github.com/natolambert/rlhf-book/blob/main/images/rlhf-book-share"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42902691",
+          "author": "gaws",
+          "description": "Article URL: https://lumon-industries.com/\nComments URL: https://news.ycombinator.com/item?id=42902691\nPoints: 230\n# Comments: 130",
+          "link": "https://lumon-industries.com/",
+          "publishedOn": "2025-02-01T21:46:16.000Z",
+          "wordCount": 8,
+          "title": "Macrodata Refinement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42902624",
+          "author": "westurner",
+          "description": "Article URL: https://cosmosmagazine.com/science/chemistry/improved-fridge-technology/\nComments URL: https://news.ycombinator.com/item?id=42902624\nPoints: 52\n# Comments: 15",
+          "link": "https://cosmosmagazine.com/science/chemistry/improved-fridge-technology/",
+          "publishedOn": "2025-02-01T21:39:03.000Z",
+          "wordCount": 2082,
+          "title": "New thermogalvanic tech paves way for more efficient fridges",
+          "imageUrl": "https://cosmosmagazine.com/wp-content/uploads/2023/07/1200-16-Prototype-thermogalvanic-refrigerator-CREDIT-Yilin-Zeng1.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42902395",
+          "author": "clockworksoul",
+          "description": "Article URL: https://alisdair.mcdiarmid.org/kill-sticky-headers/\nComments URL: https://news.ycombinator.com/item?id=42902395\nPoints: 83\n# Comments: 31",
+          "link": "https://alisdair.mcdiarmid.org/kill-sticky-headers/",
+          "publishedOn": "2025-02-01T21:12:37.000Z",
+          "wordCount": 386,
+          "title": "A bookmarklet to kill sticky headers (2013)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42902385",
+          "author": "artninja1988",
+          "description": "Article URL: https://annas-archive.org/blog/ai-copyright.html\nComments URL: https://news.ycombinator.com/item?id=42902385\nPoints: 56\n# Comments: 60",
+          "link": "https://annas-archive.org/blog/ai-copyright.html",
+          "publishedOn": "2025-02-01T21:11:50.000Z",
+          "wordCount": 884,
+          "title": "Copyright reform is necessary for national security",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42901616",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/\nComments URL: https://news.ycombinator.com/item?id=42901616\nPoints: 83\n# Comments: 15",
+          "link": "https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/",
+          "publishedOn": "2025-02-01T19:57:37.000Z",
+          "wordCount": 1028,
+          "title": "Python 3, Pygame, and Debian Bookworm on the Miyoo A30",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42901184",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://www.righto.com/2025/02/origin-of-mainframe-term.html\nComments URL: https://news.ycombinator.com/item?id=42901184\nPoints: 42\n# Comments: 4",
+          "link": "https://www.righto.com/2025/02/origin-of-mainframe-term.html",
+          "publishedOn": "2025-02-01T19:11:26.000Z",
+          "wordCount": 12327,
+          "title": "The origin and unexpected evolution of the word \"mainframe\"",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sOxZl0TEmEkT6wL55Pu6FdhdtiQf-PqdxTjhkp6TFXY8F5ttV1Oi7rTf7vK0C0iAWt3PesRM-RTDGqv63Il6iFs3ClNLTKFDQDRuCWCLiab79LtxP1agpkxNzik370IZ9_bA=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42901182",
+          "author": "fhinson",
+          "description": "Article URL: https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html\nComments URL: https://news.ycombinator.com/item?id=42901182\nPoints: 83\n# Comments: 49",
+          "link": "https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html",
+          "publishedOn": "2025-02-01T19:11:12.000Z",
+          "wordCount": 3242,
+          "title": "YouTube audio quality – How good does it get? (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42899713",
+          "author": "tosh",
+          "description": "Article URL: https://github.com/kspalaiologos/bzip3\nComments URL: https://news.ycombinator.com/item?id=42899713\nPoints: 195\n# Comments: 112",
+          "link": "https://github.com/kspalaiologos/bzip3",
+          "publishedOn": "2025-02-01T16:46:01.000Z",
+          "wordCount": 3399,
+          "title": "Bzip3: A spiritual successor to BZip2",
+          "imageUrl": "https://opengraph.githubassets.com/5b86e6f4849fa19722b3548782dc5dda4304e4010bbba8c05f5fbecda2301912/kspalaiologos/bzip3"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42899703",
+          "author": "dayanruben",
+          "description": "Article URL: https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/\nComments URL: https://news.ycombinator.com/item?id=42899703\nPoints: 424\n# Comments: 165",
+          "link": "https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/",
+          "publishedOn": "2025-02-01T16:44:53.000Z",
+          "wordCount": 838,
+          "title": "Apple is open sourcing Swift Build",
+          "imageUrl": "https://swift.org/apple-touch-icon-180x180.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42899679",
+          "author": "gnabgib",
+          "description": "Article URL: https://uwaterloo.ca/news/media/smart-fabric-heats-under-sun\nComments URL: https://news.ycombinator.com/item?id=42899679\nPoints: 23\n# Comments: 35",
+          "link": "https://uwaterloo.ca/news/media/smart-fabric-heats-under-sun",
+          "publishedOn": "2025-02-01T16:41:53.000Z",
+          "wordCount": 1028,
+          "title": "Smart fabric heats up under the sun",
+          "imageUrl": "https://uwaterloo.ca/news/sites/ca.news/files/eng_smart_fabric_pic._2.jpeg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42899400",
+          "author": "hadat",
+          "description": "Article URL: https://github.com/suwi-lanji/auto-commit\nComments URL: https://news.ycombinator.com/item?id=42899400\nPoints: 25\n# Comments: 35",
+          "link": "https://github.com/suwi-lanji/auto-commit",
+          "publishedOn": "2025-02-01T16:06:33.000Z",
+          "wordCount": 3806,
+          "title": "Have Gemini stage and write commit messages for you",
+          "imageUrl": "https://opengraph.githubassets.com/77ff9748b6ef1592f987436dbb08834f6a6b95ec753f97aa2e67486792600fc9/suwi-lanji/auto-commit"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42898201",
+          "author": "jawerty",
+          "description": "What's up HN!\nThis is Jared and Art. We met on HN and started building together.\nOver the last few months we've been thinking a lot about how AI agents are going to impact the future. We want agents to be something that's actually useful for normal people as well as the 10x'ers. This lead us to building Meha over the last few months, our first swing at our vision! We saw OpenAI release Operators then we said f*k it let's post.\nMeha is a desktop app that uses your Chrome browser to execute tasks in the background. It controls your installed Chrome browser and uses LLMs with playwright to plan and execute actions to accomplish your task. You get to see each planning step the bot is doing and have access to its long term memory.\nMeha also uses its own file system and can export files for download. Another thing we've been focused on in multi-agent workflows and Meha can run many bots at the same time. One of the reasons why we can ship this for free in the mean time is because of how cheap the agents are. But we are planning to have a Pro version for power users. We prefer not to raise since we're against VC funding.\nWe have been influenced by a lot of concepts in probabilistic robotics and RL to develop a fairly robust 'agentic' framework. As well as an algorithm for efficiently converting/compressing large html pages into a semantic format. If you're interested we will open source this asap in an SDK (will work with all OpenAI API spec LLMs and with llama.cpp) let us know.\nWe're currently in beta and working on figuring out what this product will become and super stoked! Let us know what you think. To get access to Meha we have links on our discord to download (Both MacOS and Windows is available). Please give us all the feedback/criticism (even if you hate AI).\nLink to Meha: https://meha.ai\nComments URL: https://news.ycombinator.com/item?id=42898201\nPoints: 41\n# Comments: 35",
+          "link": "https://meha.ai/",
+          "publishedOn": "2025-02-01T13:41:19.000Z",
+          "wordCount": 23,
+          "title": "Show HN: We're building a desktop app for browser agents",
+          "imageUrl": "https://meha.ai/meha-meta-img.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42897746",
+          "author": "weinzierl",
+          "description": "Article URL: https://orhun.dev/ratzilla/demo/\nComments URL: https://news.ycombinator.com/item?id=42897746\nPoints: 95\n# Comments: 24",
+          "link": "https://orhun.dev/ratzilla/demo/",
+          "publishedOn": "2025-02-01T12:03:51.000Z",
+          "wordCount": 59,
+          "title": "Ratzilla",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42897696",
+          "author": "doener",
+          "description": "Article URL: https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/\nComments URL: https://news.ycombinator.com/item?id=42897696\nPoints: 488\n# Comments: 366",
+          "link": "https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/",
+          "publishedOn": "2025-02-01T11:52:18.000Z",
+          "wordCount": 2645,
+          "title": "CDC data are disappearing",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/rjHp9FwJxrw_GVbADInsfy5Redc=/0x108:5072x2750/1200x625/media/img/mt/2025/01/GettyImages_944677862/original.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42896131",
           "author": "thunderbong",
           "description": "Article URL: https://leblancfg.com/i-miss-vim.html\nComments URL: https://news.ycombinator.com/item?id=42896131\nPoints: 5\n# Comments: 2",
@@ -218,6 +418,16 @@
       "feedUrl": "https://alexwlchan.net/atom.xml",
       "siteUrl": "https://alexwlchan.net/",
       "articles": [
+        {
+          "id": "https://alexwlchan.net/2025/ao3-epub-covers/?utm_source=rss",
+          "author": null,
+          "description": "I built a handy tool to generate cover images for stories downloaded from AO3, making them easier to browse. Along the way, I learnt about how EPUBs work, the power of static sites, and some gotchas of async JavaScript.",
+          "link": "https://alexwlchan.net/2025/ao3-epub-covers/?utm_source=rss",
+          "publishedOn": "2025-02-01T22:28:59.000Z",
+          "wordCount": 2365,
+          "title": "Adding auto-generated cover images to EPUBs downloaded from AO3",
+          "imageUrl": "https://alexwlchan.net/images/profile_green_square.jpg"
+        },
         {
           "id": "https://alexwlchan.net/2025/images-and-spreadsheets/?utm_source=rss",
           "author": null,
@@ -2799,16 +3009,6 @@
           "wordCount": null,
           "title": "On Virtue Signalling",
           "imageUrl": null
-        },
-        {
-          "id": "blog/sqlite-facts",
-          "author": null,
-          "description": "SQLite Facts\nby V\n              \nV shares some cool facts about SQLite. They talk about how it’s maintained by just three people, has insane testing standards, and even has a Code of Ethics inspired by monks. V also dives into its crazy-fast performance.\nRead Post →\nI saw this post on the Fedi after Paolo posted it. Such an interesting read; I didn't know SQLite was so widely used.\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
-          "link": "https://kevquirk.com/blog/sqlite-facts",
-          "publishedOn": "2025-01-03T09:35:00.000Z",
-          "wordCount": null,
-          "title": "SQLite Facts",
-          "imageUrl": null
         }
       ]
     },
@@ -3210,6 +3410,136 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act",
+          "publishedOn": "2025-02-02T00:55:03.000Z",
+          "wordCount": 5426,
+          "title": "Smoot–Hawley Tariff Act",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/1200px-Great_Seal_of_the_United_States_%28obverse%29.svg.png"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/medical-billing-firm-medusind-discloses-breach-affecting-360-000-people/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bleepingcomputer.com/news/security/medical-billing-firm-medusind-discloses-breach-affecting-360-000-people/",
+          "publishedOn": "2025-02-02T00:42:27.000Z",
+          "wordCount": 2309,
+          "title": "Medical billing firm Medusind discloses breach affecting 360k people",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2025/01/08/Medusind.jpg"
+        },
+        {
+          "id": "https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/",
+          "publishedOn": "2025-02-02T00:27:05.000Z",
+          "wordCount": 1002,
+          "title": "How to Run DeepSeek R1 Distilled Reasoning Models on RyzenAI and Radeon GPUs",
+          "imageUrl": "https://www.guru3d.com/data/themes/Guru3D/images/logo_large.png"
+        },
+        {
+          "id": "https://domofutu.substack.com/p/the-power-of-poetry",
+          "author": null,
+          "description": "Comments",
+          "link": "https://domofutu.substack.com/p/the-power-of-poetry",
+          "publishedOn": "2025-02-01T23:45:48.000Z",
+          "wordCount": null,
+          "title": "The Power of Poetry: Why Everyone Should Write",
+          "imageUrl": null
+        },
+        {
+          "id": "https://routersecurity.org/ISProuters.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://routersecurity.org/ISProuters.php",
+          "publishedOn": "2025-02-01T23:17:36.000Z",
+          "wordCount": 3887,
+          "title": "Avoid ISP Routers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://rlhfbook.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rlhfbook.com/",
+          "publishedOn": "2025-02-01T22:11:45.000Z",
+          "wordCount": 1971,
+          "title": "RLHF Book",
+          "imageUrl": "https://github.com/natolambert/rlhf-book/blob/main/images/rlhf-book-share"
+        },
+        {
+          "id": "https://lumon-industries.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lumon-industries.com/",
+          "publishedOn": "2025-02-01T21:46:16.000Z",
+          "wordCount": 8,
+          "title": "Macrodata Refinement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cosmosmagazine.com/science/chemistry/improved-fridge-technology/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cosmosmagazine.com/science/chemistry/improved-fridge-technology/",
+          "publishedOn": "2025-02-01T21:39:03.000Z",
+          "wordCount": 2082,
+          "title": "New thermogalvanic tech paves way for more efficient fridges",
+          "imageUrl": "https://cosmosmagazine.com/wp-content/uploads/2023/07/1200-16-Prototype-thermogalvanic-refrigerator-CREDIT-Yilin-Zeng1.jpg"
+        },
+        {
+          "id": "https://alisdair.mcdiarmid.org/kill-sticky-headers/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://alisdair.mcdiarmid.org/kill-sticky-headers/",
+          "publishedOn": "2025-02-01T21:12:37.000Z",
+          "wordCount": 386,
+          "title": "A bookmarklet to kill sticky headers (2013)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://annas-archive.org/blog/ai-copyright.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://annas-archive.org/blog/ai-copyright.html",
+          "publishedOn": "2025-02-01T21:11:50.000Z",
+          "wordCount": 884,
+          "title": "Copyright reform is necessary for national security",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://grnh.se/83c3fffa7us",
+          "author": null,
+          "description": "Comments",
+          "link": "https://grnh.se/83c3fffa7us",
+          "publishedOn": "2025-02-01T21:00:34.000Z",
+          "wordCount": 1971,
+          "title": "MindsDB (YC W20) Is Hiring an Office Manager in SF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/",
+          "publishedOn": "2025-02-01T19:57:37.000Z",
+          "wordCount": 1028,
+          "title": "Python 3, Pygame, and Debian Bookworm on the Miyoo A30",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.righto.com/2025/02/origin-of-mainframe-term.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.righto.com/2025/02/origin-of-mainframe-term.html",
+          "publishedOn": "2025-02-01T19:11:26.000Z",
+          "wordCount": 12327,
+          "title": "The origin and unexpected evolution of the word \"mainframe\"",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sOxZl0TEmEkT6wL55Pu6FdhdtiQf-PqdxTjhkp6TFXY8F5ttV1Oi7rTf7vK0C0iAWt3PesRM-RTDGqv63Il6iFs3ClNLTKFDQDRuCWCLiab79LtxP1agpkxNzik370IZ9_bA=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html",
           "author": null,
           "description": "Comments",
@@ -3300,6 +3630,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://github.com/suwi-lanji/auto-commit",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/suwi-lanji/auto-commit",
+          "publishedOn": "2025-02-01T16:06:33.000Z",
+          "wordCount": 3806,
+          "title": "Have Gemini stage and write commit messages for you",
+          "imageUrl": "https://opengraph.githubassets.com/77ff9748b6ef1592f987436dbb08834f6a6b95ec753f97aa2e67486792600fc9/suwi-lanji/auto-commit"
+        },
+        {
+          "id": "https://meha.ai/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://meha.ai/",
+          "publishedOn": "2025-02-01T13:41:19.000Z",
+          "wordCount": 23,
+          "title": "Show HN: We're building a desktop app for browser agents",
+          "imageUrl": "https://meha.ai/meha-meta-img.png"
+        },
+        {
           "id": "https://maxread.substack.com/p/the-zizians-and-the-rationalist-death",
           "author": null,
           "description": "Comments",
@@ -3318,6 +3668,16 @@
           "wordCount": null,
           "title": "Ratzilla",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/",
+          "publishedOn": "2025-02-01T11:52:18.000Z",
+          "wordCount": 2645,
+          "title": "CDC data are disappearing",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/rjHp9FwJxrw_GVbADInsfy5Redc=/0x108:5072x2750/1200x625/media/img/mt/2025/01/GettyImages_944677862/original.jpg"
         },
         {
           "id": "https://www.talknotes.tech/",
@@ -3660,6 +4020,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://lwn.net/Articles/1005332/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/Articles/1005332/",
+          "publishedOn": "2025-01-31T02:04:14.000Z",
+          "wordCount": 5233,
+          "title": "A mouseless tale: trying for a keyboard-driven desktop",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.colorado.edu/today/2025/01/27/how-tiny-algae-shaped-evolution-giant-clams",
           "author": null,
           "description": "Comments",
@@ -3688,6 +4058,26 @@
           "wordCount": null,
           "title": "String of recent killings linked to Bay Area rationalist 'death cult'",
           "imageUrl": null
+        },
+        {
+          "id": "https://fuzzix.org/enhancing-midi-hardware-with-perl",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fuzzix.org/enhancing-midi-hardware-with-perl",
+          "publishedOn": "2025-01-29T14:59:23.000Z",
+          "wordCount": 3002,
+          "title": "Enhancing your MIDI devices with Perl",
+          "imageUrl": "https://fuzzix.org/files/midicamel.png"
+        },
+        {
+          "id": "https://www.core77.com/posts/135194/LMD-A-New-Less-Wasteful-Metal-3D-Printing-Technique",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.core77.com/posts/135194/LMD-A-New-Less-Wasteful-Metal-3D-Printing-Technique",
+          "publishedOn": "2025-01-29T01:00:03.000Z",
+          "wordCount": 1852,
+          "title": "LMD: A New, Less Wasteful Metal 3D Printing Technique",
+          "imageUrl": "https://s3files.core77.com/blog/images/lead_n_spotlight/1629955_lead_400_135194_.jpg"
         },
         {
           "id": "https://conroy.org/blogging-on-paper",
@@ -10429,6 +10819,26 @@
       "feedUrl": "https://simonwillison.net/atom/everything/",
       "siteUrl": "http://simonwillison.net/",
       "articles": [
+        {
+          "id": "https://simonwillison.net/2025/Feb/2/feature-flags/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://news.ycombinator.com/item?id=42899778#42900221\">Hacker News conversation on feature flags</a></strong></p>\nI posted the following comment in a thread on Hacker News about feature flags, in response to this article <a href=\"https://code.mendhak.com/hardcode-feature-flags/\">It’s OK to hardcode feature flags</a>. This kicked off a <em>very</em> high quality conversation on build-vs-buy and running feature flags at scale involving a bunch of very experienced and knowledgeable people. I recommend reading the comments.</p>\n<blockquote>\n<p>The single biggest value add of feature flags is that they de-risk deployment. They make it less frightening and difficult to turn features on and off, which means you'll do it more often. This means you can build more confidently and learn faster from what you build. That's worth a lot.</p>\n<p>I think there's a reasonable middle ground-point between having feature flags in a JSON file that you have to redeploy to change and using an (often expensive) feature flags as a service platform: roll your own simple system.</p>\n<p>A relational database lookup against primary keys in a table with a dozen records is effectively free. Heck, load the entire collection at the start of each request - through a short lived cache if your profiling says that would help.</p>\n<p>Once you start getting more complicated (flags enabled for specific users etc) you should consider build-vs-buy more seriously, but for the most basic version you really can have no-deploy-changes at minimal cost with minimal effort.</p>\n<p>There are probably good open source libraries you can use here too, though I haven't gone looking for any in the last five years.</p>\n</blockquote>\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/hacker-news\">hacker-news</a>, <a href=\"https://simonwillison.net/tags/feature-flags\">feature-flags</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/2/feature-flags/#atom-everything",
+          "publishedOn": "2025-02-02T01:18:44.000Z",
+          "wordCount": 429,
+          "title": "Hacker News conversation on feature flags",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/1/daniel-litt/#atom-everything",
+          "author": null,
+          "description": "<blockquote cite=\"https://twitter.com/littmath/status/1885716052304077088\"><p>Basically any resource on a difficult subject—a colleague, Google, a published paper—will be wrong or incomplete in various ways. Usefulness isn’t only a matter of correctness.</p>\n<p>For example, suppose a colleague has a question she thinks I might know the answer to. Good news: I have some intuition and say something. Then we realize it doesn’t quite make sense, and go back and forth until we converge on something correct.</p>\n<p>Such a conversation is full of BS but crucially we can interrogate it and get something useful out of it in the end. Moreover this kind of back and forth allows us to get to the key point in a way that might be difficult when reading a difficult ~50-page paper.</p>\n<p>To be clear o3-mini-high is orders of magnitude less useful for this sort of thing than talking to an expert colleague. But still useful along similar dimensions (and with a much broader knowledge base).</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://twitter.com/littmath/status/1885716052304077088\">Daniel Litt</a></p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/mathematics\">mathematics</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/o3\">o3</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/1/daniel-litt/#atom-everything",
+          "publishedOn": "2025-02-01T21:46:52.000Z",
+          "wordCount": 342,
+          "title": "Quoting Daniel Litt",
+          "imageUrl": null
+        },
         {
           "id": "https://simonwillison.net/2025/Jan/31/o3-mini/#atom-everything",
           "author": null,
