@@ -6,6 +6,206 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42913251",
+          "author": "mfiguiere",
+          "description": "Article URL: https://openai.com/index/introducing-deep-research/\nComments URL: https://news.ycombinator.com/item?id=42913251\nPoints: 123\n# Comments: 116",
+          "link": "https://openai.com/index/introducing-deep-research/",
+          "publishedOn": "2025-02-03T00:06:10.000Z",
+          "wordCount": null,
+          "title": "Deep Research",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42913104",
+          "author": "walterbell",
+          "description": "Article URL: https://www.sciencealert.com/this-solar-plant-accidentally-incinerates-up-to-6-000-birds-a-year\nComments URL: https://news.ycombinator.com/item?id=42913104\nPoints: 23\n# Comments: 22",
+          "link": "https://www.sciencealert.com/this-solar-plant-accidentally-incinerates-up-to-6-000-birds-a-year",
+          "publishedOn": "2025-02-02T23:45:14.000Z",
+          "wordCount": 4316,
+          "title": "Nevada Ivanpah Solar Plant Accidentally Incinerates Up to 6k Birds a Year (2016)",
+          "imageUrl": "https://www.sciencealert.com/images/2016-09/processed/IvanpahRunningHeader_1024.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42912911",
+          "author": "mlerner",
+          "description": "Article URL: https://www.usenix.org/conference/nsdi24/presentation/wang-zibo\nComments URL: https://news.ycombinator.com/item?id=42912911\nPoints: 8\n# Comments: 0",
+          "link": "https://www.usenix.org/conference/nsdi24/presentation/wang-zibo",
+          "publishedOn": "2025-02-02T23:17:38.000Z",
+          "wordCount": 1181,
+          "title": "Autothrottle: Resource Management for SLO-Targeted Microservices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42912875",
+          "author": "dabinat",
+          "description": "Article URL: https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/\nComments URL: https://news.ycombinator.com/item?id=42912875\nPoints: 22\n# Comments: 9",
+          "link": "https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/",
+          "publishedOn": "2025-02-02T23:13:13.000Z",
+          "wordCount": 4820,
+          "title": "Tiny vanes glued to planes promise big savings for US Air Force",
+          "imageUrl": "https://assets.newatlas.com/dims4/default/97df4f3/2147483647/strip/true/crop/1200x630+0+135/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff1%2F33%2F929c9003428b980a4b72fa9552ee%2Fm1.jpg&na.image_optimisation=0"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42912515",
+          "author": "haltcatchfire",
+          "description": "Article URL: https://github.com/tcgoetz/GarminDB\nComments URL: https://news.ycombinator.com/item?id=42912515\nPoints: 62\n# Comments: 6",
+          "link": "https://github.com/tcgoetz/GarminDB",
+          "publishedOn": "2025-02-02T22:27:54.000Z",
+          "wordCount": 3923,
+          "title": "GarminDB",
+          "imageUrl": "https://opengraph.githubassets.com/fb40a77b3ed738fc1426baaa08c2ce9eab9202b7f387f521e9b33d42bb126b2b/tcgoetz/GarminDB"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42912438",
+          "author": "HeliumHydride",
+          "description": "Article URL: https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf\nComments URL: https://news.ycombinator.com/item?id=42912438\nPoints: 43\n# Comments: 23",
+          "link": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf",
+          "publishedOn": "2025-02-02T22:19:10.000Z",
+          "wordCount": 2260,
+          "title": "F-strings for C++26 proposal [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42912412",
+          "author": "westurner",
+          "description": "Article URL: https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309\nComments URL: https://news.ycombinator.com/item?id=42912412\nPoints: 47\n# Comments: 6",
+          "link": "https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309",
+          "publishedOn": "2025-02-02T22:15:30.000Z",
+          "wordCount": null,
+          "title": "Emergence of a second law of thermodynamics in isolated quantum systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42912133",
+          "author": "fanf2",
+          "description": "Article URL: https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/\nComments URL: https://news.ycombinator.com/item?id=42912133\nPoints: 79\n# Comments: 55",
+          "link": "https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/",
+          "publishedOn": "2025-02-02T21:42:02.000Z",
+          "wordCount": 5276,
+          "title": "Don't make fun of renowned author Dan Brown (2013)",
+          "imageUrl": "https://onehundredpages.wordpress.com/wp-content/uploads/2013/06/dan-brown.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42911842",
+          "author": "type0",
+          "description": "Article URL: https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court\nComments URL: https://news.ycombinator.com/item?id=42911842\nPoints: 102\n# Comments: 29",
+          "link": "https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court",
+          "publishedOn": "2025-02-02T21:07:48.000Z",
+          "wordCount": 7232,
+          "title": "Costa rican supermarket wins trademark battle against Nintendo",
+          "imageUrl": "https://ticotimes.net/wp-content/uploads/2025/01/super-mario-1.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42911162",
+          "author": "tux3",
+          "description": "Article URL: https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator\nComments URL: https://news.ycombinator.com/item?id=42911162\nPoints: 60\n# Comments: 7",
+          "link": "https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator",
+          "publishedOn": "2025-02-02T19:46:12.000Z",
+          "wordCount": 27890,
+          "title": "ScatterBrain: Unmasking the shadow of PoisonPlug's obfuscator",
+          "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42911042",
+          "author": "birdculture",
+          "description": "Article URL: https://waydro.id/\nComments URL: https://news.ycombinator.com/item?id=42911042\nPoints: 203\n# Comments: 32",
+          "link": "https://waydro.id/",
+          "publishedOn": "2025-02-02T19:29:45.000Z",
+          "wordCount": 996,
+          "title": "Waydroid – Android in a Linux container",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42910829",
+          "author": "apsec112",
+          "description": "Article URL: https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html\nComments URL: https://news.ycombinator.com/item?id=42910829\nPoints: 92\n# Comments: 41",
+          "link": "https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html",
+          "publishedOn": "2025-02-02T19:00:10.000Z",
+          "wordCount": null,
+          "title": "The Legacy of Lies in Alzheimer's Science",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42909921",
+          "author": "apokryptein",
+          "description": "Article URL: https://timsh.org/tracking-myself-down-through-in-app-ads/\nComments URL: https://news.ycombinator.com/item?id=42909921\nPoints: 895\n# Comments: 287",
+          "link": "https://timsh.org/tracking-myself-down-through-in-app-ads/",
+          "publishedOn": "2025-02-02T17:07:31.000Z",
+          "wordCount": 3163,
+          "title": "Everyone knows your location: tracking myself down through in-app ads",
+          "imageUrl": "https://timsh.org/content/images/2025/02/dataflow_upd.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42909530",
+          "author": "Brajeshwar",
+          "description": "Article URL: https://github.com/GyulyVGC/sniffnet\nComments URL: https://news.ycombinator.com/item?id=42909530\nPoints: 181\n# Comments: 73",
+          "link": "https://github.com/GyulyVGC/sniffnet",
+          "publishedOn": "2025-02-02T16:14:49.000Z",
+          "wordCount": 3670,
+          "title": "Sniffnet – monitor your Internet traffic",
+          "imageUrl": "https://repository-images.githubusercontent.com/519895363/01578d9c-9529-4b5a-b675-2bfbf3fc82f5"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42909166",
+          "author": "ramesh31",
+          "description": "Have you gone back to in-person whiteboards? More focus on practical problems? I really have no idea how the traditional tech interview is supposed to work now when problems are trivially solvable by GPT.\nComments URL: https://news.ycombinator.com/item?id=42909166\nPoints: 170\n# Comments: 218",
+          "link": "https://news.ycombinator.com/item?id=42909166",
+          "publishedOn": "2025-02-02T15:19:32.000Z",
+          "wordCount": 16758,
+          "title": "Ask HN: What is interviewing like now with everyone using AI?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42908061",
+          "author": "sandropuppo",
+          "description": "We just open-sourced Lume - a tool we built after hitting walls with existing virtualization options on Apple Silicon. No GUI, no complex stacks - just a single binary that lets you spin up macOS or Linux VMs via CLI or API.\nWhy we built Lume:\n- Run native macOS VMs in 1 command, using Apple Virtualization.Framework: `lume run macos-sequoia-vanilla:latest`\n- Prebuilt images on https://ghcr.io/trycua (macOS, Ubuntu on ARM)\n- API server to manage VMs programmatically `POST /lume/vms`\n- A python SDK on github.com/trycua/pylume\nRun prebuilt macOS images in just 1 step:\nlume run macos-sequoia-vanilla:latest\nHow to Install:\nbrew tap trycua/lume\nbrew install lume\nYou can also download the `lume.pkg.tar.gz` archive from the latest release https://github.com/trycua/lume/releases, extract it, and install the package manually.\nLocal API Server:\n`lume` exposes a local HTTP API server that listens on `http://localhost:3000/lume`, enabling automated management of VMs.\nlume serve\nFor detailed API documentation, please refer to API Reference(https://github.com/trycua/lume/blob/main/docs/API-Reference....).\nHN devs - would love raw feedback on the API design and whether this solves your Apple Silicon VM pain points. What would make you replace UTM/Multipass/Docker Desktop with this?\nRepo: https://github.com/trycua/lume\nPython SDK: github.com/trycua/pylume\nDiscord for direct feedback: https://discord.gg/8p56E2KJ\nComments URL: https://news.ycombinator.com/item?id=42908061\nPoints: 235\n# Comments: 65",
+          "link": "https://github.com/trycua/lume",
+          "publishedOn": "2025-02-02T11:46:22.000Z",
+          "wordCount": 3528,
+          "title": "Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon",
+          "imageUrl": "https://opengraph.githubassets.com/616a57d5846435f06f60e30012edc3aea67f761b0677ac92779ca5dd5f5562b4/trycua/lume"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42908041",
+          "author": "yamrzou",
+          "description": "Article URL: https://www.efavdb.com/memory%20recall\nComments URL: https://news.ycombinator.com/item?id=42908041\nPoints: 142\n# Comments: 156",
+          "link": "https://www.efavdb.com/memory%20recall",
+          "publishedOn": "2025-02-02T11:42:06.000Z",
+          "wordCount": 1177,
+          "title": "Spaced repetition can allow for infinite recall (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42907766",
+          "author": "userbinator",
+          "description": "Article URL: https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/\nComments URL: https://news.ycombinator.com/item?id=42907766\nPoints: 225\n# Comments: 98",
+          "link": "https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/",
+          "publishedOn": "2025-02-02T10:32:40.000Z",
+          "wordCount": 11221,
+          "title": "Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)",
+          "imageUrl": "https://ripitapart.com/wp-content/uploads/2020/07/20200716_041443-e1594947616196.jpg?w=1200"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42907488",
+          "author": "synthc",
+          "description": "Article URL: https://adriacabeza.github.io/2024/07/12/caffeine-cache.html\nComments URL: https://news.ycombinator.com/item?id=42907488\nPoints: 194\n# Comments: 38",
+          "link": "https://adriacabeza.github.io/2024/07/12/caffeine-cache.html",
+          "publishedOn": "2025-02-02T09:37:05.000Z",
+          "wordCount": 4165,
+          "title": "Analyzing the codebase of Caffeine, a high performance caching library",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42907268",
+          "author": "biomene",
+          "description": "Article URL: https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/\nComments URL: https://news.ycombinator.com/item?id=42907268\nPoints: 313\n# Comments: 195",
+          "link": "https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/",
+          "publishedOn": "2025-02-02T08:53:58.000Z",
+          "wordCount": null,
+          "title": "Life is more than an engineering problem",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42904351",
           "author": "mooreds",
           "description": "Article URL: https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act\nComments URL: https://news.ycombinator.com/item?id=42904351\nPoints: 11\n# Comments: 0",
@@ -456,16 +656,6 @@
           "publishedOn": "2025-01-07T21:30:31.000Z",
           "wordCount": 1050,
           "title": "How I test Rust command-line apps with `assert_cmd`",
-          "imageUrl": "https://alexwlchan.net/images/profile_green_square.jpg"
-        },
-        {
-          "id": "https://alexwlchan.net/2025/password-notes/?utm_source=rss",
-          "author": null,
-          "description": "I use notes as a mini-changelog to track the context and history of my online accounts. I write down why I created accounts, made changes, or chose particular settings.",
-          "link": "https://alexwlchan.net/2025/password-notes/?utm_source=rss",
-          "publishedOn": "2025-01-04T11:02:13.000Z",
-          "wordCount": 1199,
-          "title": "How I use the notes field in my password manager",
           "imageUrl": "https://alexwlchan.net/images/profile_green_square.jpg"
         }
       ]
@@ -2098,6 +2288,16 @@
       "siteUrl": "https://birming.com/",
       "articles": [
         {
+          "id": "https://birming.com/bearphot-bear-gallery/",
+          "author": null,
+          "description": "As my loyal readers know, I love Bear. However, the platform's image handling isn't ideal. The options are limited, and creating a visually appealing layout for photos requires quite some effort.\nWith this in mind, I began exploring ways to improve the Image Gallery Add-on for the Bearming Theme. Initially, I considered developing a separate theme altogether, but ultimately decided against it. For my needs and workflow, an Apple Shortcut proved to be the best solution. I call it BearPhot.\nBearPhot\nThe setup might sound a bit complicated at first, but I've found it to be quite effective. It relies on a Photos page with yearly subcategories, mirroring the structure of my blog archive (the code for which is also available as a Bearming add-on).\nWhen I want to publish a photo, I simply run the…",
+          "link": "https://birming.com/bearphot-bear-gallery/",
+          "publishedOn": "2025-02-02T13:52:00.000Z",
+          "wordCount": 2438,
+          "title": "BearPhot: my Bear gallery setup",
+          "imageUrl": "https://cdn-icons-png.flaticon.com/128/6955/6955628.png"
+        },
+        {
           "id": "https://birming.com/yoga-writing/",
           "author": null,
           "description": "My yoga teacher wrote in his latest newsletter:\nA good yoga practice is one that you do.\nA better yoga practice is one that you do regularly.\nThe least effective yoga practice is no practice at all.\nThe word yoga can, for example, be replaced with the word writing.\nSomething written is better than nothing. It doesn't have to be difficult.\nIt can be something short and simple, like the text you just read.\nSo, what will you write today?",
@@ -2302,6 +2502,16 @@
       "siteUrl": "https://brainbaking.com/",
       "articles": [
         {
+          "id": "https://brainbaking.com/post/2025/02/january-2025/",
+          "author": "Wouter Groeneveld",
+          "description": "One more miserable month to go. Hopefully March will bring end to all the mire and misery which was noticeably more bad than previous years—both when it came to the weather and the world news… But hey, today was a rare beautiful albeit cold day! January signified the end of the holiday festivities (thank God) and the start of a new project at another client (goodbye Go, hello again old acquaintance Java, not yet sure whether we should become friends). I’m pretty positive about the effects on my mood for both changes. For the idiot Hacker News people out there reading this: that had nothing to do with the language, and everything with the people involved—as always.\nPrevious month: December 2024.\nBooks I’ve read\nMy philosophy research continues as I’m eyeing on writing another book this year…",
+          "link": "https://brainbaking.com/post/2025/02/january-2025/",
+          "publishedOn": "2025-02-02T07:25:00.000Z",
+          "wordCount": 1381,
+          "title": "Favourites of January 2025",
+          "imageUrl": "https://brainbaking.com/post/2025/02/january-2025/yt-1I0zmdZqTN0.jpg"
+        },
+        {
           "id": "https://brainbaking.com/post/2025/01/2024-in-books/",
           "author": "Wouter Groeneveld",
           "description": "It’s still January so hopefully I’m still permitted to put out these kinds of year overview notes from 2024. I did not forget to create the book overview post—I actively avoided doing so, as I haven’t read a lot and didn’t think it would be worth wasting words on. I still don’t, but I want to save the collage for my future self as I stopped tracking my reading habits in centralized platforms a few years ago, so feel free to simply mark this post as read in your RSS reader. Carry on, nothing to see here!\nPrevious year: 2023 In Books.\nThe collage for 2024, only 14 entries this year compared to last year’s 22:\n\n\t\t\n\t\n\t\n\t\tThe Books of 2024.\n\n\n4000 Weeks: Time Management for Mortals by Oliver Burkeman\nDe Mallorea (The Malloreon) series 3 by David Eddings (The first 2 were in the 2023 list). I th…",
@@ -2501,16 +2711,6 @@
           "wordCount": 777,
           "title": "New resources",
           "imageUrl": null
-        },
-        {
-          "id": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/#Updated_resources_2025-01-03",
-          "author": null,
-          "description": "The following resource was updated: AWS::ImageBuilder::InfrastructureConfiguration",
-          "link": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html",
-          "publishedOn": "2025-01-03T19:00:00.000Z",
-          "wordCount": 777,
-          "title": "Updated resources",
-          "imageUrl": null
         }
       ]
     },
@@ -2696,16 +2896,6 @@
           "wordCount": null,
           "title": "The ability to code sometimes feels like magic to me",
           "imageUrl": null
-        },
-        {
-          "id": "https://hamatti.org/posts/say-hello-to-garden-of-learning/",
-          "author": null,
-          "description": "digital gardens\n  for quite a while now. I love writing and reading blog posts but sometimes the\n  chronological publishing format is not the best for every problem. I’ve always\n  been into taking notes and I find note taking one of my strengths in the\n  industry.\n\n\n\n  During last month’s Advent of Code, I did\n  an experiment where I wrote notes about my solutions and technical concepts\n    I learned during the month\n  and\n  published them as a digital garden. I’ll share more about that experiment next week in a retrospective post.\n\n\n\n  That experiment helped me find proper tools and configuration as well as\n  figuring out how to best organise the garden in an Obsidian vault.\n\n\n\n  Thus, today I’m happy to let the world into my notes that I’ve planted in the\n  Garden of Learning. It’s the next stage of my experiment in sharing my notes with the world. I\n  won’t stop writing blog posts but in addition I’ll keep a subset of my\n  personal notes available at the Garden.\n\n\n\n  It will no doubt evolve over time but in the ethos of\n  learning in public, I decided to start publishing them once I got the first two hundred or so\n  notes reorganised and I’ll keep working on reorganising the rest as I work\n  with my notes.",
-          "link": "https://hamatti.org/posts/say-hello-to-garden-of-learning/",
-          "publishedOn": "2025-01-04T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Say hello to Garden of Learning",
-          "imageUrl": null
         }
       ]
     },
@@ -2720,6 +2910,26 @@
       "feedUrl": "https://kevquirk.com/feed",
       "siteUrl": "https://kevquirk.com",
       "articles": [
+        {
+          "id": "notes/20250202-2123",
+          "author": null,
+          "description": "Do people find “month in review” posts interesting? I’ve thought about doing them myself, but very rarely read them so haven’t bothered.\nAlthough when I do read them, they’re usually quite interesting…\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
+          "link": "https://kevquirk.com/notes/20250202-2123",
+          "publishedOn": "2025-02-02T21:25:00.000Z",
+          "wordCount": 117,
+          "title": "📝 2 February 2025 at 21:23 - Do people find month in review posts interesting I ve...",
+          "imageUrl": "https://cdn.kevquirk.com/feature-image.webp"
+        },
+        {
+          "id": "notes/20250202-1708",
+          "author": null,
+          "description": "Last Friday I posted about taking a break from Mastodon and since then I've checked Masto maybe 3 time and only really looked at my notifications.\nIt's actually been very pleasant. No politics, no moaning, no negativity, and no drama. I checked the timeline just now and all 4 of those things came flooding in.\nThink I'm going to continue just checking my notifications. It's nice.\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
+          "link": "https://kevquirk.com/notes/20250202-1708",
+          "publishedOn": "2025-02-02T17:10:00.000Z",
+          "wordCount": 151,
+          "title": "📝 2 February 2025 at 17:08 - Last Friday I posted about taking a break from Mastodon...",
+          "imageUrl": "https://cdn.kevquirk.com/feature-image.webp"
+        },
         {
           "id": "notes/20250130-1003",
           "author": null,
@@ -2998,16 +3208,6 @@
           "publishedOn": "2025-01-05T07:40:00.000Z",
           "wordCount": null,
           "title": "📝 5 January 2025 at 07:36 - First day back to school work tomorrow The kids did...",
-          "imageUrl": null
-        },
-        {
-          "id": "blog/on-virtue-signalling",
-          "author": null,
-          "description": "Some thoughts from me about virtue signalling and why I think it's a pointless exercise.\nThere's been a bit of confusion about this post, maybe it wasn't clear because it was written in haste, but this post is about people who choose not to use a product for whatever reason, trying to impose that decision on others.\nI think it's right that folk boycott services if they feel strongly about the social or political opinions of the people involved, but I also think that attempting to impose those opinions on others is bad.\nFor example, saying \"I would never buy a Tesla because Musk is a dick\" vs \"you shouldn't buy a Tesla because Musk is a dick.\"\nFor the record, Musk is a dick and I'd never buy a Tesla. 🙃\nI've had this one in my drafts for a few months now, but I haven't got around to writing…",
-          "link": "https://kevquirk.com/blog/on-virtue-signalling",
-          "publishedOn": "2025-01-03T14:30:00.000Z",
-          "wordCount": null,
-          "title": "On Virtue Signalling",
           "imageUrl": null
         }
       ]
@@ -3410,6 +3610,216 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://openai.com/index/introducing-deep-research/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openai.com/index/introducing-deep-research/",
+          "publishedOn": "2025-02-03T00:06:10.000Z",
+          "wordCount": null,
+          "title": "Deep Research",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sciencealert.com/this-solar-plant-accidentally-incinerates-up-to-6-000-birds-a-year",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sciencealert.com/this-solar-plant-accidentally-incinerates-up-to-6-000-birds-a-year",
+          "publishedOn": "2025-02-02T23:45:14.000Z",
+          "wordCount": 4316,
+          "title": "Nevada Ivanpah Solar Plant Accidentally Incinerates Up to 6k Birds a Year (2016)",
+          "imageUrl": "https://www.sciencealert.com/images/2016-09/processed/IvanpahRunningHeader_1024.jpg"
+        },
+        {
+          "id": "https://www.usenix.org/conference/nsdi24/presentation/wang-zibo",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.usenix.org/conference/nsdi24/presentation/wang-zibo",
+          "publishedOn": "2025-02-02T23:17:38.000Z",
+          "wordCount": 1181,
+          "title": "Autothrottle: Resource Management for SLO-Targeted Microservices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/",
+          "publishedOn": "2025-02-02T23:13:13.000Z",
+          "wordCount": 4820,
+          "title": "Tiny vanes glued to planes promise big savings for US Air Force",
+          "imageUrl": "https://assets.newatlas.com/dims4/default/97df4f3/2147483647/strip/true/crop/1200x630+0+135/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff1%2F33%2F929c9003428b980a4b72fa9552ee%2Fm1.jpg&na.image_optimisation=0"
+        },
+        {
+          "id": "https://github.com/tcgoetz/GarminDB",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/tcgoetz/GarminDB",
+          "publishedOn": "2025-02-02T22:27:54.000Z",
+          "wordCount": 3923,
+          "title": "GarminDB",
+          "imageUrl": "https://opengraph.githubassets.com/fb40a77b3ed738fc1426baaa08c2ce9eab9202b7f387f521e9b33d42bb126b2b/tcgoetz/GarminDB"
+        },
+        {
+          "id": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf",
+          "publishedOn": "2025-02-02T22:19:10.000Z",
+          "wordCount": 2260,
+          "title": "F-strings for C++26 proposal [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309",
+          "author": null,
+          "description": "Comments",
+          "link": "https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309",
+          "publishedOn": "2025-02-02T22:15:30.000Z",
+          "wordCount": null,
+          "title": "Emergence of a second law of thermodynamics in isolated quantum systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/",
+          "publishedOn": "2025-02-02T21:42:02.000Z",
+          "wordCount": 5276,
+          "title": "Don't make fun of renowned author Dan Brown (2013)",
+          "imageUrl": "https://onehundredpages.wordpress.com/wp-content/uploads/2013/06/dan-brown.jpg"
+        },
+        {
+          "id": "https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court",
+          "publishedOn": "2025-02-02T21:07:48.000Z",
+          "wordCount": 7232,
+          "title": "Costa rican supermarket wins trademark battle against Nintendo",
+          "imageUrl": "https://ticotimes.net/wp-content/uploads/2025/01/super-mario-1.jpg"
+        },
+        {
+          "id": "https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1",
+          "publishedOn": "2025-02-02T20:31:53.000Z",
+          "wordCount": 6174,
+          "title": "A loophole used by Shein/Temu to ship packages to US tax-free (2024)",
+          "imageUrl": "https://i.insider.com/64befa1cbea344001960819f?width=1200&format=jpeg"
+        },
+        {
+          "id": "https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator",
+          "publishedOn": "2025-02-02T19:46:12.000Z",
+          "wordCount": 27890,
+          "title": "ScatterBrain: Unmasking the shadow of PoisonPlug's obfuscator",
+          "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png"
+        },
+        {
+          "id": "https://waydro.id/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://waydro.id/",
+          "publishedOn": "2025-02-02T19:29:45.000Z",
+          "wordCount": 996,
+          "title": "Waydroid – Android in a Linux container",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html",
+          "publishedOn": "2025-02-02T19:00:10.000Z",
+          "wordCount": null,
+          "title": "The Legacy of Lies in Alzheimer's Science",
+          "imageUrl": null
+        },
+        {
+          "id": "https://timsh.org/tracking-myself-down-through-in-app-ads/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://timsh.org/tracking-myself-down-through-in-app-ads/",
+          "publishedOn": "2025-02-02T17:07:31.000Z",
+          "wordCount": 3163,
+          "title": "Everyone knows your location: tracking myself down through in-app ads",
+          "imageUrl": "https://timsh.org/content/images/2025/02/dataflow_upd.png"
+        },
+        {
+          "id": "https://github.com/GyulyVGC/sniffnet",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/GyulyVGC/sniffnet",
+          "publishedOn": "2025-02-02T16:14:49.000Z",
+          "wordCount": 3670,
+          "title": "Sniffnet – monitor your Internet traffic",
+          "imageUrl": "https://repository-images.githubusercontent.com/519895363/01578d9c-9529-4b5a-b675-2bfbf3fc82f5"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42909166",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42909166",
+          "publishedOn": "2025-02-02T15:19:32.000Z",
+          "wordCount": 16758,
+          "title": "Ask HN: What is interviewing like now with everyone using AI?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/trycua/lume",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/trycua/lume",
+          "publishedOn": "2025-02-02T11:46:22.000Z",
+          "wordCount": 3528,
+          "title": "Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon",
+          "imageUrl": "https://opengraph.githubassets.com/616a57d5846435f06f60e30012edc3aea67f761b0677ac92779ca5dd5f5562b4/trycua/lume"
+        },
+        {
+          "id": "https://www.efavdb.com/memory%20recall",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.efavdb.com/memory%20recall",
+          "publishedOn": "2025-02-02T11:42:06.000Z",
+          "wordCount": 1177,
+          "title": "Spaced repetition can allow for infinite recall (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/",
+          "publishedOn": "2025-02-02T10:32:40.000Z",
+          "wordCount": 11221,
+          "title": "Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)",
+          "imageUrl": "https://ripitapart.com/wp-content/uploads/2020/07/20200716_041443-e1594947616196.jpg?w=1200"
+        },
+        {
+          "id": "https://adriacabeza.github.io/2024/07/12/caffeine-cache.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://adriacabeza.github.io/2024/07/12/caffeine-cache.html",
+          "publishedOn": "2025-02-02T09:37:05.000Z",
+          "wordCount": 4165,
+          "title": "Analyzing the codebase of Caffeine, a high performance caching library",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/",
+          "publishedOn": "2025-02-02T08:53:58.000Z",
+          "wordCount": 10724,
+          "title": "Life is more than an engineering problem",
+          "imageUrl": "https://cdn.lareviewofbooks.org/unsafe/800x0/filters:format(jpeg):quality(75)/https%3A%2F%2Fassets.lareviewofbooks.org%2Fuploads%2Flifecycle-softwareobjects-web__85640.jpg"
+        },
+        {
           "id": "https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act",
           "author": null,
           "description": "Comments",
@@ -3558,6 +3968,16 @@
           "wordCount": 12944,
           "title": "Google Maps reclassifies the U.S. as a 'sensitive country'",
           "imageUrl": "https://www.themarysue.com/wp-content/uploads/2025/01/US-Capitol-Cloudy.jpg"
+        },
+        {
+          "id": "https://github.com/mattsroufe/esp32_rc_cars",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/mattsroufe/esp32_rc_cars",
+          "publishedOn": "2025-02-01T18:51:31.000Z",
+          "wordCount": 4551,
+          "title": "Show HN: ESP32 RC Cars",
+          "imageUrl": "https://opengraph.githubassets.com/97d75c9ba16ef293e62b0ac8aea8f71de439159201f57a6596d66ace90553e5b/mattsroufe/esp32_rc_cars"
         },
         {
           "id": "https://www.newsweek.com/delaware-exodus-tech-meta-dropbox-elon-musk-2024596",
@@ -3730,6 +4150,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.hytradboi.com/2025/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.hytradboi.com/2025/",
+          "publishedOn": "2025-02-01T03:07:35.000Z",
+          "wordCount": 835,
+          "title": "Hytradboi 2025 Program",
+          "imageUrl": null
+        },
+        {
           "id": "https://zookeys.pensoft.net/article/139335/",
           "author": null,
           "description": "Comments",
@@ -3878,6 +4308,16 @@
           "wordCount": 506,
           "title": "FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents",
           "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/7495a08289324c3b287ab2d555a0f2eab00fbb52.png?1699573364"
+        },
+        {
+          "id": "https://codestyleandtaste.com/globals-are-not-the-problem.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://codestyleandtaste.com/globals-are-not-the-problem.html",
+          "publishedOn": "2025-01-31T20:04:30.000Z",
+          "wordCount": 1192,
+          "title": "Global Variables Are Not the Problem",
+          "imageUrl": null
         },
         {
           "id": "https://elite.bbcelite.com/",
@@ -4040,6 +4480,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=tyo8vLorpZo",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=tyo8vLorpZo",
+          "publishedOn": "2025-01-30T23:12:08.000Z",
+          "wordCount": null,
+          "title": "The PETG adhesive test [video]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/",
           "author": null,
           "description": "Comments",
@@ -4050,6 +4500,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://block.github.io/goose/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://block.github.io/goose/",
+          "publishedOn": "2025-01-30T16:27:15.000Z",
+          "wordCount": 516,
+          "title": "An open-source, extensible AI agent that goes beyond code suggestions",
+          "imageUrl": "https://block.github.io/goose/img/home-banner.png"
+        },
+        {
           "id": "https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php",
           "author": null,
           "description": "Comments",
@@ -4058,6 +4518,26 @@
           "wordCount": null,
           "title": "String of recent killings linked to Bay Area rationalist 'death cult'",
           "imageUrl": null
+        },
+        {
+          "id": "https://geyer.dev/blog/windows-flag-emojis/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://geyer.dev/blog/windows-flag-emojis/",
+          "publishedOn": "2025-01-29T23:44:35.000Z",
+          "wordCount": null,
+          "title": "The dumb reason why flag emojis aren't working on Chrome on Windows",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/",
+          "publishedOn": "2025-01-29T19:16:42.000Z",
+          "wordCount": 2112,
+          "title": "AstroForge selects target for \"high risk, seat of the pants\" asteroid mission",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/August-2024-Odin-4-1152x648.jpg"
         },
         {
           "id": "https://fuzzix.org/enhancing-midi-hardware-with-perl",
@@ -4322,6 +4802,16 @@
       "siteUrl": "https://rknight.me",
       "articles": [
         {
+          "id": "https://rknight.me/blog/music-questions-challenge/",
+          "author": "Robb Knight",
+          "description": "I was tagged by Flamed and someone else in the omg.lol Signal chat (but there's too many messages to check who it was).\nWhat are five of your favourite albums?\nI already wrote about this in a post entitled \"The Perfect Album\" so I shall refer you there. Although I'd definitely add From Zero to the list of perfect albums.\nWhat are five of your favourite songs?\nFaint - Linkin Park\nLetters to You - Finch\nCute Without the 'E' (Cut From the Team) - Taking Back Sunday\nWhere I Belong - Simple Plan & State Champs\nCrashed the Wedding - Busted\nFavourite instrument(s)?\nGuitar.\nWhat song or album are you currently listening to?\nBring Me the Horizon's cover of Wonderwall is a fucking banger and I've listened to The Bootstrap Paradox at least once a week since I discovered it.\nDo you listen to the radio? If so, how often?\nI deeply dislike the radio so much so that I keep it on mute in my car so I don't have to hear it even for the 5 seconds it takes for my phone to connect.\nHow often do you listen to music?\nEvery day.\nHow often do you discover music? And how do you discover music?\nI check out the Apple Music home page for recommendations once or twice a week mostly.\nWhat’s a song or album that you enjoy that you wish had more recognition?\nPalm Trees and Power Lines by Sugarcult.\nWhat’s your favourite song of all time?\nThis is a near-impossible question but maybe Faint by Linkin Park.\nHas your taste in music evolved over the years?\nNot since I was 16. I'm better at listening to albums now even if I don't know any of the songs to start with.",
+          "link": "https://rknight.me/blog/music-questions-challenge/",
+          "publishedOn": "2025-02-02T23:24:30.000Z",
+          "wordCount": 555,
+          "title": "Music Questions Challenge",
+          "imageUrl": "https://v1.screenshot.11ty.dev/https%3A%2F%2Frknight.me%2Fopengraph%2Fblog%2Fmusic-questions-challenge%2F/opengraph/_123"
+        },
+        {
           "id": "https://rknight.me/blog/my-pebble-steel-is-mostly-dead/",
           "author": "Robb Knight",
           "description": "With the news that Pebble is coming back I dug out my Pebble Steel to see if it still worked.\nAfter fiddling around with the terrible charging cable, getting stuck in a loop for a while, it finally booted and I was able to set the watch face to the Relay one I made a decade ago.\n\nSadly when I disconnect the charger, it turns off. I guess it needs a new battery but I don't have the energy or the time to do that so back into storage it goes.",
@@ -4398,6 +4888,36 @@
       "feedUrl": "https://seclists.org/rss/fulldisclosure.rss",
       "siteUrl": "https://seclists.org/#fulldisclosure",
       "articles": [
+        {
+          "id": "https://seclists.org/fulldisclosure/2025/Feb/2",
+          "author": null,
+          "description": "Posted by Apple Product Security via Fulldisclosure on Feb 01\nAPPLE-SA-01-30-2025-1 GarageBand 10.4.12\nhttps://support.apple.com/121866.\nhttps://support.apple.com/100100 which lists recent\nsoftware updates with security advisories.\n\nGarageBand\nAvailable for: macOS Sonoma 14.4 and later\nImpact: Processing a maliciously crafted image may lead to arbitrary...",
+          "link": "https://seclists.org/fulldisclosure/2025/Feb/2",
+          "publishedOn": "2025-02-02T07:33:31.000Z",
+          "wordCount": 265,
+          "title": "APPLE-SA-01-30-2025-1 GarageBand 10.4.12",
+          "imageUrl": "https://seclists.org/images/fulldisclosure-img.png"
+        },
+        {
+          "id": "https://seclists.org/fulldisclosure/2025/Feb/1",
+          "author": null,
+          "description": "Posted by David Fifield on Feb 01\nI tested a few more times, and it appears the text injection has\nhttps://archive.is/DD9xB)\n+14h    2025-01-28 17:31        ?q=EgtoZWxsbyB3b3JsZA works\n                                (no archive)\n+45h...",
+          "link": "https://seclists.org/fulldisclosure/2025/Feb/1",
+          "publishedOn": "2025-02-02T07:33:16.000Z",
+          "wordCount": 1098,
+          "title": "Re: Text injection on https://www.google.com/sorry/index via ?q parameter (no XSS)",
+          "imageUrl": "https://seclists.org/images/fulldisclosure-img.png"
+        },
+        {
+          "id": "https://seclists.org/fulldisclosure/2025/Feb/0",
+          "author": null,
+          "description": "Posted by hyp3rlinx on Feb 01\nUpdated SQL Injection CVE-2019-19245 exploit for Python3.\n\nimport requests,time,re,sys,argparse\n\n#NAPC Xinet Elegant 6 Asset Library v6.1.655\n#Pre-Auth SQL Injection 0day Exploit\n#By hyp3rlinx\n#ApparitionSec\n#UPDATED: Jan 2024 for python3\n#TODO: add SSL support\n#===============================\n#This will dump tables, usernames and passwords in vulnerable versions\n#REQUIRE PARAMS:...",
+          "link": "https://seclists.org/fulldisclosure/2025/Feb/0",
+          "publishedOn": "2025-02-02T07:32:34.000Z",
+          "wordCount": 635,
+          "title": "Xinet Elegant 6 Asset Lib Web UI 6.1.655 / SQL Injection / Exploit Update Python3",
+          "imageUrl": "https://seclists.org/images/fulldisclosure-img.png"
+        },
         {
           "id": "https://seclists.org/fulldisclosure/2025/Jan/23",
           "author": null,
@@ -10820,6 +11340,66 @@
       "siteUrl": "http://simonwillison.net/",
       "articles": [
         {
+          "id": "https://simonwillison.net/2025/Feb/2/anthropic/#atom-everything",
+          "author": null,
+          "description": "<blockquote cite=\"https://boards.greenhouse.io/anthropic\"><p><em>While we encourage people to use AI systems during their role to help them work faster and more effectively, please do not use AI assistants during the application process. We want to understand your personal interest in Anthropic without mediation through an AI system, and we also want to evaluate your non-AI-assisted communication skills. Please indicate 'Yes' if you have read and agree.</em></p>\n<p>Why do you want to work at Anthropic? (We value this response highly - great answers are often 200-400 words.)</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://boards.greenhouse.io/anthropic\">Anthropic</a>, online job application form</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/anthropic\">anthropic</a>, <a href=\"https://simonwillison.net/tags/ethics\">ethics</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/2/anthropic/#atom-everything",
+          "publishedOn": "2025-02-02T21:38:25.000Z",
+          "wordCount": 272,
+          "title": "Quoting Anthropic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/2/openai-reasoning-models-advice-on-prompting/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://platform.openai.com/docs/guides/reasoning#advice-on-prompting\">OpenAI reasoning models: Advice on prompting</a></strong></p>\nOpenAI's documentation for their o1 and o3 \"reasoning models\" includes some interesting tips on how to best prompt them:</p>\n<blockquote>\n<ul>\n<li><strong>Developer messages are the new system messages:</strong> Starting with <code>o1-2024-12-17</code>, reasoning models support <code>developer</code> messages rather than <code>system</code> messages, to align with the <a href=\"https://cdn.openai.com/spec/model-spec-2024-05-08.html#follow-the-chain-of-command\">chain of command behavior described in the model spec</a>.</li>\n</ul>\n</blockquote>\n<p>This appears to be a purely aesthetic change made for consistency with their <a href=\"https://simonwillison.net/2024/Apr/23/the-instruction-hierarchy/\">instruction hierarchy</a> concept. As far as I can tell the old <code>system</code> prompts continue to work exactly as before - you're encouraged to use the new <code>developer</code> message type but it has no impact on what actually happens.</p>\n<p>Since my <a href=\"https://llm.datasette.io/\">LLM</a> tool already bakes in a <code>llm --system \"system prompt\"</code> option which works across multiple different models from different providers I'm not going to rush to adopt this new language!</p>\n<blockquote>\n<ul>\n<li><strong>Use delimiters for clarity:</strong> Use delimiters like markdown, XML tags, and section titles to clearly indicate distinct parts of the input, helping the model interpret different sections appropriately.</li>\n</ul>\n</blockquote>\n<p>Anthropic have been encouraging <a href=\"https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags\">XML-ish delimiters</a> for a while (I say -ish because there's no requirement that the resulting prompt is valid XML). My <a href=\"https://github.com/simonw/files-to-prompt\">files-to-prompt</a> tool has a <code>-c</code> option which outputs Claude-style XML, and in my experiments this same option works great with o1 and o3 too:</p>\n<div class=\"highlight highlight-source-shell\"><pre>git clone https://github.com/tursodatabase/limbo\n<span class=\"pl-c1\">cd</span> limbo/bindings/python\n\nfiles-to-prompt <span class=\"pl-c1\">.</span> -c <span class=\"pl-k\">|</span> llm -m o3-mini \\\n  -o reasoning_effort high \\\n  --system <span class=\"pl-s\"><span class=\"pl-pds\">'</span>Write a detailed README with extensive usage examples<span class=\"pl-pds\">'</span></span></pre></div>\n\n<blockquote>\n<ul>\n<li><strong>Limit additional context in retrieval-augmented generation (RAG):</strong> When providing additional context or documents, include only the most relevant information to prevent the model from overcomplicating its response.</li>\n</ul>\n</blockquote>\n<p>This makes me thing that o1/o3 are not good models to implement RAG on at all - with RAG I like to be able to dump as much extra context into the prompt as possible and leave it to the models to figure out what's relevant.</p>\n<blockquote>\n<ul>\n<li><strong>Try zero shot first, then few shot if needed:</strong> Reasoning models often don't need few-shot examples to produce good results, so try to write prompts without examples first. If you have more complex requirements for your desired output, it may help to include a few examples of inputs and desired outputs in your prompt. Just ensure that the examples align very closely with your prompt instructions, as discrepancies between the two may produce poor results.</li>\n</ul>\n</blockquote>\n<p>Providing examples remains the single most powerful prompting tip I know, so it's interesting to see advice here to only switch to examples if zero-shot doesn't work out.</p>\n<blockquote>\n<ul>\n<li><strong>Be very specific about your end goal:</strong> In your instructions, try to give very specific parameters for a successful response, and encourage the model to keep reasoning and iterating until it matches your success criteria.</li>\n</ul>\n</blockquote>\n<p>This makes sense: reasoning models \"think\" until they reach a conclusion, so making the goal as unambiguous as possible leads to better results.</p>\n<blockquote>\n<ul>\n<li><strong>Markdown formatting:</strong> Starting with <code>o1-2024-12-17</code>, reasoning models in the API will avoid generating responses with markdown formatting. To signal to the model when you <strong>do</strong> want markdown formatting in the response, include the string <code>Formatting re-enabled</code> on the first line of your <code>developer</code> message.</li>\n</ul>\n</blockquote>\n<p>This one was a <em>real shock</em> to me! I noticed that o3-mini was outputting <code>•</code> characters instead of Markdown <code>*</code> bullets and initially thought <a href=\"https://twitter.com/simonw/status/1886121477822648441\">that was a bug</a>.</p>\n<p>I first saw this while running this prompt against <a href=\"https://github.com/tursodatabase/limbo/tree/main/bindings/python\">limbo/bindings/python</a> using <a href=\"https://github.com/simonw/files-to-prompt\">files-to-prompt</a>:</p>\n<div class=\"highlight highlight-source-shell\"><pre>git clone https://github.com/tursodatabase/limbo\n<span class=\"pl-c1\">cd</span> limbo/bindings/python\n\nfiles-to-prompt <span class=\"pl-c1\">.</span> -c <span class=\"pl-k\">|</span> llm -m o3-mini \\\n  -o reasoning_effort high \\\n  --system <span class=\"pl-s\"><span class=\"pl-pds\">'</span>Write a detailed README with extensive usage examples<span class=\"pl-pds\">'</span></span></pre></div>\n<p>Here's the <a href=\"https://gist.github.com/simonw/f8283d68e9bd7ad3f140d52cad6874a7\">full result</a>, which includes text like this (note the weird bullets):</p>\n<pre><code>Features\n--------\n• High‑performance, in‑process database engine written in Rust  \n• SQLite‑compatible SQL interface  \n• Standard Python DB‑API 2.0–style connection and cursor objects\n</code></pre>\n\n<p>I ran it again with this modified prompt:</p>\n<blockquote>\n<p><code>Formatting re-enabled. Write a detailed README with extensive usage examples.</code></p>\n</blockquote>\n<p>And this time got back <a href=\"https://gist.github.com/simonw/adf64108d65cd5c10ac9fce953ab437e\">proper Markdown, rendered in this Gist</a>. That did a really good job, and included bulleted lists using this valid Markdown syntax instead:</p>\n<div class=\"highlight highlight-text-md\"><pre><span class=\"pl-v\">-</span> <span class=\"pl-s\">**</span><span class=\"pl-s\">`</span><span class=\"pl-c1\">make test</span><span class=\"pl-s\">`</span><span class=\"pl-s\">**</span>: Run tests using pytest.\n<span class=\"pl-v\">-</span> <span class=\"pl-s\">**</span><span class=\"pl-s\">`</span><span class=\"pl-c1\">make lint</span><span class=\"pl-s\">`</span><span class=\"pl-s\">**</span>: Run linters (via <span class=\"pl-s\">[</span>ruff<span class=\"pl-s\">]</span><span class=\"pl-s\">(</span><span class=\"pl-corl\">https://github.com/astral-sh/ruff</span><span class=\"pl-s\">)</span>).\n<span class=\"pl-v\">-</span> <span class=\"pl-s\">**</span><span class=\"pl-s\">`</span><span class=\"pl-c1\">make check-requirements</span><span class=\"pl-s\">`</span><span class=\"pl-s\">**</span>: Validate that the <span class=\"pl-s\">`</span><span class=\"pl-c1\">requirements.txt</span><span class=\"pl-s\">`</span> files are in sync with <span class=\"pl-s\">`</span><span class=\"pl-c1\">pyproject.toml</span><span class=\"pl-s\">`</span>.\n<span class=\"pl-v\">-</span> <span class=\"pl-s\">**</span><span class=\"pl-s\">`</span><span class=\"pl-c1\">make compile-requirements</span><span class=\"pl-s\">`</span><span class=\"pl-s\">**</span>: Compile the <span class=\"pl-s\">`</span><span class=\"pl-c1\">requirements.txt</span><span class=\"pl-s\">`</span> files using pip-tools.</pre></div>\n\n<p><img alt=\"Py-Limbo. Py-Limbo is a lightweight, in-process, OLTP (Online Transaction Processing) database management system built as a Python extension module on top of Rust. It is designed to be compatible with SQLite in both usage and API, while offering an opportunity to experiment with Rust-backed database functionality. Note: Py-Limbo is a work-in-progress (Alpha stage) project. Some features (e.g. transactions, executemany, fetchmany) are not yet supported. Table of Contents - then a hierarchical nested table of contents.\" src=\"https://static.simonwillison.net/static/2025/pylimbo-docs.jpg\" /></p>\n<p>(Using LLMs like this to get me off the ground with under-documented libraries is a trick I use several times a month.)</p>\n<p><strong>Update</strong>: <a href=\"https://twitter.com/nikunjhanda/status/1886169547197264226\">OpenAI's Nikunj Handa</a>:</p>\n<blockquote>\n<p>we agree this is weird! fwiw, it’s a temporary thing we had to do for the existing o-series models. we’ll fix this in future releases so that you can go back to naturally prompting for markdown or no-markdown.</p>\n</blockquote>\n\n    <p><small></small>Via <a href=\"https://twitter.com/harjotsgill/status/1886122316767379540\">@harjotsgill</a></small></p>\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/o1\">o1</a>, <a href=\"https://simonwillison.net/tags/openai\">openai</a>, <a href=\"https://simonwillison.net/tags/o3\">o3</a>, <a href=\"https://simonwillison.net/tags/markdown\">markdown</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/prompt-engineering\">prompt-engineering</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/inference-scaling\">inference-scaling</a>, <a href=\"https://simonwillison.net/tags/rag\">rag</a>, <a href=\"https://simonwillison.net/tags/ai-assisted-programming\">ai-assisted-programming</a>, <a href=\"https://simonwillison.net/tags/documentation\">documentation</a>, <a href=\"https://simonwillison.net/tags/limbo\">limbo</a>, <a href=\"https://simonwillison.net/tags/llm\">llm</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/2/openai-reasoning-models-advice-on-prompting/#atom-everything",
+          "publishedOn": "2025-02-02T20:56:27.000Z",
+          "wordCount": 971,
+          "title": "OpenAI reasoning models: Advice on prompting",
+          "imageUrl": "https://static.simonwillison.net/static/2025/pylimbo-docs-card.jpg"
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/2/benedict-evans/#atom-everything",
+          "author": null,
+          "description": "<blockquote cite=\"https://www.ben-evans.com/benedictevans/2025/1/the-problem-with-better-models\"><p>Part of the concept of ‘Disruption’ is that important new technologies tend to be bad at the things that matter to the previous generation of technology, but they do something else important instead. Asking if an LLM can do very specific and precise information retrieval might be like asking if an Apple II can match the uptime of a mainframe, or asking if you can build Photoshop inside Netscape. No, they can’t really do that, but that’s not the point and doesn’t mean they’re useless. They do something else, and that ‘something else’ matters more and pulls in all of the investment, innovation and company creation. Maybe, 20 years later, they can do the old thing too - maybe you can run a bank on PCs and build graphics software in a browser, eventually - but that’s not what matters at the beginning. They unlock something else. </p>\n<p>What is that ‘something else’ for generative AI, though? How do you think conceptually about places where that error rate is a feature, not a bug?</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://www.ben-evans.com/benedictevans/2025/1/the-problem-with-better-models\">Benedict Evans</a>, Are better models better?</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/benedict-evans\">benedict-evans</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/2/benedict-evans/#atom-everything",
+          "publishedOn": "2025-02-02T14:37:54.000Z",
+          "wordCount": 362,
+          "title": "Quoting Benedict Evans",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/2/sam-altman/#atom-everything",
+          "author": null,
+          "description": "<blockquote cite=\"https://www.reddit.com/r/OpenAI/comments/1ieonxv/comment/maa0dcx/\"><p>[In response to a question about releasing model weights]</p>\n<p>Yes, we are discussing. I personally think we have been on the wrong side of history here and need to figure out a different open source strategy; not everyone at OpenAI shares this view, and it's also not our current highest priority.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://www.reddit.com/r/OpenAI/comments/1ieonxv/comment/maa0dcx/\">Sam Altman</a>, in a Reddit AMA</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/openai\">openai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/open-source\">open-source</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/2/sam-altman/#atom-everything",
+          "publishedOn": "2025-02-02T08:11:07.000Z",
+          "wordCount": 242,
+          "title": "Quoting Sam Altman",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/2/llm-anthropic/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://github.com/simonw/llm-anthropic\">llm-anthropic</a></strong></p>\nI've renamed my <a href=\"https://github.com/simonw/llm-claude-3\">llm-claude-3</a> plugin to <code>llm-anthropic</code>, on the basis that Claude 4 will probably happen at some point so this is a better name for the plugin.</p>\n<p>If you're a previous user of <code>llm-claude-3</code> you can upgrade to the new plugin like this:</p>\n<pre><code>llm install -U llm-claude-3\n</code></pre>\n<p>This should remove the old plugin and install the new one, because the latest <code>llm-claude-3</code> depends on <code>llm-anthropic</code>. Just installing <code>llm-anthropic</code> may leave you with both plugins installed at once.</p>\n<p>There is one extra manual step you'll need to take during this upgrade: creating a new <code>anthropic</code> stored key with the same API token you previously stored under <code>claude</code>. You can do that like so:</p>\n<pre><code>llm keys set anthropic --value \"$(llm keys get claude)\"\n</code></pre>\n<p>I released <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.12\">llm-anthropic 0.12</a> yesterday with new features not previously included in <code>llm-claude-3</code>:</p>\n<blockquote>\n<ul>\n<li>Support for Claude's <a href=\"https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prefill-claudes-response\">prefill</a> feature, using the new <code>-o prefill '{'</code> option and the accompanying <code>-o hide_prefill 1</code> option to prevent the prefill from being included in the output text. <a href=\"https://github.com/simonw/llm-anthropic/issues/2\">#2</a></li>\n<li>New <code>-o stop_sequences '```'</code> option for specifying one or more stop sequences. To specify multiple stop sequences pass a JSON array of strings :<code>-o stop_sequences '[\"end\", \"stop\"]</code>.</li>\n<li>Model options are now documented in the README.</li>\n</ul>\n</blockquote>\n<p>If you install or upgrade <code>llm-claude-3</code> you will now get <code>llm-anthropic</code> instead, thanks to a tiny package on PyPI which depends on the new plugin name. I created that with my <a href=\"https://github.com/simonw/pypi-rename\">pypi-rename</a> cookiecutter template.</p>\n<p>Here's the <a href=\"https://github.com/simonw/llm-claude-3/issues/31\">issue for the rename</a>. I archived the <a href=\"https://github.com/simonw/llm-claude-3\">llm-claude-3 repository on GitHub</a>, and got to use the brand new <a href=\"https://simonwillison.net/2025/Jan/30/pypi-now-supports-project-archival/\">PyPI archiving feature</a> to archive the <a href=\"https://pypi.org/project/llm-claude-3/\">llm-claude-3 project on PyPI</a> as well.\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/anthropic\">anthropic</a>, <a href=\"https://simonwillison.net/tags/claude\">claude</a>, <a href=\"https://simonwillison.net/tags/plugins\">plugins</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/pypi\">pypi</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/python\">python</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/2/llm-anthropic/#atom-everything",
+          "publishedOn": "2025-02-02T06:17:53.000Z",
+          "wordCount": 456,
+          "title": "llm-anthropic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/2/workflow-for-translation/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://news.ycombinator.com/item?id=42897856\">A professional workflow for translation using LLMs</a></strong></p>\nTom Gally is a <a href=\"https://gally.net/translation.html\">professional translator</a> who has been exploring the use of LLMs since the release of GPT-4. In this Hacker News comment he shares a detailed workflow for how he uses them to assist in that process.</p>\n<p>Tom starts with the source text and custom instructions, including context for how the translation will be used. <a href=\"https://www.gally.net/temp/20250201sampletranslationprompt.html\">Here's an imaginary example prompt</a>, which starts:</p>\n<blockquote>\n<p><code>The text below in Japanese is a product launch presentation for Sony's new gaming console, to be delivered by the CEO at Tokyo Game Show 2025. Please translate it into English. Your translation will be used in the official press kit and live interpretation feed. When translating this presentation, please follow these guidelines to create an accurate and engaging English version that preserves both the meaning and energy of the original: [...]</code></p>\n</blockquote>\n<p>It then lists some tone, style and content guidelines custom to that text.</p>\n<p>Tom runs that prompt through several different LLMs and starts by picking sentences and paragraphs from those that form a good basis for the translation.</p>\n<p>As he works on the full translation he uses Claude to help brainstorm alternatives for tricky sentences:</p>\n<blockquote>\n<p>When I am unable to think of a good English version for a particular sentence, I give the Japanese and English versions of the paragraph it is contained in to an LLM (usually, these days, Claude) and ask for ten suggestions for translations of the problematic sentence. Usually one or two of the suggestions work fine; if not, I ask for ten more. (Using an LLM as a sentence-level thesaurus on steroids is particularly wonderful.)</p>\n</blockquote>\n<p>He uses another LLM and prompt to check his translation against the original and provide further suggestions, which he occasionally acts on. Then as a final step he runs the finished document through a text-to-speech engine to try and catch any \"minor awkwardnesses\" in the result.</p>\n<p>I <em>love</em> this as an example of an expert using LLMs as tools to help further elevate their work. I'd love to read more examples <a href=\"https://news.ycombinator.com/item?id=42897856\">like this one</a> from experts in other fields.\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/translation\">translation</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/hacker-news\">hacker-news</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/2/workflow-for-translation/#atom-everything",
+          "publishedOn": "2025-02-02T04:23:19.000Z",
+          "wordCount": 538,
+          "title": "A professional workflow for translation using LLMs",
+          "imageUrl": null
+        },
+        {
           "id": "https://simonwillison.net/2025/Feb/2/feature-flags/#atom-everything",
           "author": null,
           "description": "<p><strong><a href=\"https://news.ycombinator.com/item?id=42899778#42900221\">Hacker News conversation on feature flags</a></strong></p>\nI posted the following comment in a thread on Hacker News about feature flags, in response to this article <a href=\"https://code.mendhak.com/hardcode-feature-flags/\">It’s OK to hardcode feature flags</a>. This kicked off a <em>very</em> high quality conversation on build-vs-buy and running feature flags at scale involving a bunch of very experienced and knowledgeable people. I recommend reading the comments.</p>\n<blockquote>\n<p>The single biggest value add of feature flags is that they de-risk deployment. They make it less frightening and difficult to turn features on and off, which means you'll do it more often. This means you can build more confidently and learn faster from what you build. That's worth a lot.</p>\n<p>I think there's a reasonable middle ground-point between having feature flags in a JSON file that you have to redeploy to change and using an (often expensive) feature flags as a service platform: roll your own simple system.</p>\n<p>A relational database lookup against primary keys in a table with a dozen records is effectively free. Heck, load the entire collection at the start of each request - through a short lived cache if your profiling says that would help.</p>\n<p>Once you start getting more complicated (flags enabled for specific users etc) you should consider build-vs-buy more seriously, but for the most basic version you really can have no-deploy-changes at minimal cost with minimal effort.</p>\n<p>There are probably good open source libraries you can use here too, though I haven't gone looking for any in the last five years.</p>\n</blockquote>\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/hacker-news\">hacker-news</a>, <a href=\"https://simonwillison.net/tags/feature-flags\">feature-flags</a></p>",
@@ -11146,6 +11726,16 @@
       "feedUrl": "https://slimemoldtimemold.com/feed/",
       "siteUrl": "https://slimemoldtimemold.com",
       "articles": [
+        {
+          "id": "http://slimemoldtimemold.com/?p=4195",
+          "author": "slimemoldtimemold",
+          "description": "Background Just over a year ago we launched the Potato Diet Riff Trial, the first of its kind. The riff trial is a new type of study design. In most studies, all participants sign up for the same protocol, or for a small number of similar conditions. But in a riff trial, you start with […]",
+          "link": "https://slimemoldtimemold.com/2025/02/02/potato-riffs-retrospective/",
+          "publishedOn": "2025-02-02T21:56:25.000Z",
+          "wordCount": 6397,
+          "title": "Potato Riffs Retrospective",
+          "imageUrl": "https://slimemoldtimemold.com/wp-content/uploads/2025/02/mr-potato-head-962x600.jpg.webp"
+        },
         {
           "id": "http://slimemoldtimemold.com/?p=4183",
           "author": "slimemoldtimemold",
