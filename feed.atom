@@ -2,10 +2,689 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsoros.github.io/rss-feeds-hackernews/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-04T01:36:14.628Z</updated>
+    <updated>2025-02-05T01:37:51.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jsoros.github.io/rss-feeds-hackernews/index.html"/>
     <link rel="self" href="https://jsoros.github.io/rss-feeds-hackernews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Serverless Container Framework]]></title>
+        <id>https://www.serverless.com/blog/introducing-serverless-container-framework</id>
+        <link href="https://www.serverless.com/blog/introducing-serverless-container-framework"/>
+        <updated>2025-02-05T01:37:34.021Z</updated>
+        <summary type="html"><![CDATA[A rich development and deployment experience for deploying containers to AWS Lambda and AWS Fargate, without rearchitecting. Serverless Container Framework gives you total flexibility.]]></summary>
+        <author>
+            <name>Serverless Blog: News, Tutorials &amp; Releases On Serverless Architectures</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changes in schizophrenia diagnoses associated with cannabis use disorder]]></title>
+        <id>https://news.ycombinator.com/item?id=42942061</id>
+        <link href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840"/>
+        <updated>2025-02-05T01:13:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840
+Comments URL: https://news.ycombinator.com/item?id=42942061
+Points: 16
+# Comments: 6]]></summary>
+        <author>
+            <name>Cyclone_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changes in schizophrenia diagnoses associated with cannabis use disorder]]></title>
+        <id>https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840</id>
+        <link href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840"/>
+        <updated>2025-02-05T01:13:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodeCrafters (YC S22) is hiring a software engineer to change how devs learn]]></title>
+        <id>https://news.ycombinator.com/item?id=42941916</id>
+        <link href="https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention"/>
+        <updated>2025-02-05T01:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention
+Comments URL: https://news.ycombinator.com/item?id=42941916
+Points: 0
+# Comments: 0]]></summary>
+        <author>
+            <name>rohitpaulk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodeCrafters (YC S22) is hiring a software engineer to change how devs learn]]></title>
+        <id>https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention</id>
+        <link href="https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention"/>
+        <updated>2025-02-05T01:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beej's Guide to Git]]></title>
+        <id>https://news.ycombinator.com/item?id=42941283</id>
+        <link href="https://beej.us/guide/bggit/"/>
+        <updated>2025-02-05T00:07:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://beej.us/guide/bggit/
+Comments URL: https://news.ycombinator.com/item?id=42941283
+Points: 109
+# Comments: 13]]></summary>
+        <author>
+            <name>mixto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beej's Guide to Git]]></title>
+        <id>https://beej.us/guide/bggit/</id>
+        <link href="https://beej.us/guide/bggit/"/>
+        <updated>2025-02-05T00:07:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambsheets: Spreadsheets for Exploring Scenarios]]></title>
+        <id>https://news.ycombinator.com/item?id=42941143</id>
+        <link href="https://www.inkandswitch.com/ambsheets/"/>
+        <updated>2025-02-04T23:56:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.inkandswitch.com/ambsheets/
+Comments URL: https://news.ycombinator.com/item?id=42941143
+Points: 25
+# Comments: 4]]></summary>
+        <author>
+            <name>azhenley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambsheets: Spreadsheets for Exploring Scenarios]]></title>
+        <id>https://www.inkandswitch.com/ambsheets/</id>
+        <link href="https://www.inkandswitch.com/ambsheets/"/>
+        <updated>2025-02-04T23:56:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing edge device systems, including firewalls, routers, and VPN gateways]]></title>
+        <id>https://news.ycombinator.com/item?id=42940999</id>
+        <link href="https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/"/>
+        <updated>2025-02-04T23:43:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/
+Comments URL: https://news.ycombinator.com/item?id=42940999
+Points: 14
+# Comments: 5]]></summary>
+        <author>
+            <name>transpute</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing edge device systems, including firewalls, routers, and VPN gateways]]></title>
+        <id>https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/</id>
+        <link href="https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/"/>
+        <updated>2025-02-04T23:43:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nine – seemingly impossible C64 demo]]></title>
+        <id>https://news.ycombinator.com/item?id=42940553</id>
+        <link href="https://linusakesson.net/scene/nine/index.php"/>
+        <updated>2025-02-04T23:11:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://linusakesson.net/scene/nine/index.php
+Comments URL: https://news.ycombinator.com/item?id=42940553
+Points: 30
+# Comments: 11]]></summary>
+        <author>
+            <name>appleorchard46</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nine – seemingly impossible C64 demo]]></title>
+        <id>https://linusakesson.net/scene/nine/index.php</id>
+        <link href="https://linusakesson.net/scene/nine/index.php"/>
+        <updated>2025-02-04T23:11:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect Contact Lens can now automatically email agents about completed performance evaluations]]></title>
+        <id>6b6d43e4204ea19d325bd80dedba4da2f67cf6d0</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-automatically-email-agents-completed-performance-evaluations"/>
+        <updated>2025-02-04T22:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Contact Lens now enables businesses to send automatic email notifications to agents when their contacts are evaluated, so they can review the evaluations and improve their performance. Managers can create rules to send emails based on specific evaluation criteria. For example, you can set up automatic notifications for agents who receive evaluation scores below 50%, ensuring prompt attention to performance opportunities. Managers can also personalize email content based on performance levels — whether recognizing top performers or providing constructive guidance for improvement areas.
+  This feature is available in all regions where Contact Lens performance evaluations are already available. To learn more, please visit our documentation and our webpage. For information about Contact Lens pricing, please visit our pricing page.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google removes pledge to not use AI for weapons from website]]></title>
+        <id>https://news.ycombinator.com/item?id=42940284</id>
+        <link href="https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/"/>
+        <updated>2025-02-04T22:53:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/
+Comments URL: https://news.ycombinator.com/item?id=42940284
+Points: 229
+# Comments: 183]]></summary>
+        <author>
+            <name>filoeleven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's happening inside the nih and nsf]]></title>
+        <id>https://news.ycombinator.com/item?id=42940257</id>
+        <link href="https://www.science.org/content/blog-post/what-s-happening-inside-nih"/>
+        <updated>2025-02-04T22:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.science.org/content/blog-post/what-s-happening-inside-nih
+Comments URL: https://news.ycombinator.com/item?id=42940257
+Points: 251
+# Comments: 222]]></summary>
+        <author>
+            <name>rrock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's happening inside the NIH and NSF]]></title>
+        <id>https://www.science.org/content/blog-post/what-s-happening-inside-nih</id>
+        <link href="https://www.science.org/content/blog-post/what-s-happening-inside-nih"/>
+        <updated>2025-02-04T22:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle justified its JavaScript trademark with Node.js–now it wants that ignored]]></title>
+        <id>https://news.ycombinator.com/item?id=42939940</id>
+        <link href="https://deno.com/blog/deno-v-oracle2"/>
+        <updated>2025-02-04T22:29:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://deno.com/blog/deno-v-oracle2
+Comments URL: https://news.ycombinator.com/item?id=42939940
+Points: 335
+# Comments: 72]]></summary>
+        <author>
+            <name>healsdata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle justified its JavaScript trademark with Node.js–now it wants that ignored]]></title>
+        <id>https://deno.com/blog/deno-v-oracle2</id>
+        <link href="https://deno.com/blog/deno-v-oracle2"/>
+        <updated>2025-02-04T22:29:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infosec 101 for Activists]]></title>
+        <id>https://news.ycombinator.com/item?id=42939862</id>
+        <link href="https://infosecforactivists.org/"/>
+        <updated>2025-02-04T22:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://infosecforactivists.org
+Comments URL: https://news.ycombinator.com/item?id=42939862
+Points: 57
+# Comments: 10]]></summary>
+        <author>
+            <name>greenie_beans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infosec 101 for Activists]]></title>
+        <id>https://infosecforactivists.org/</id>
+        <link href="https://infosecforactivists.org/"/>
+        <updated>2025-02-04T22:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 C6in instances are now available in Asia Pacific (Malaysia)]]></title>
+        <id>d9970669882914b22c091c241d6e18e48784a5fd</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c6in-instances-asia-pacific-malaysia"/>
+        <updated>2025-02-04T22:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C6in instances are available in AWS Region Asia Pacific (Malaysia). These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Scalable processors and built on the AWS Nitro System, deliver up to 200Gbps network bandwidth, for 2x more network bandwidth over comparable fifth-generation instances.
+  Customers can use C6in instances to scale the performance of applications such as network virtual appliances (firewalls, virtual routers, load balancers), Telco 5G User Plane Function (UPF), data analytics, high performance computing (HPC), and CPU based AI/ML workloads. C6in instances are available in 10 different sizes with up to 128 vCPUs, including bare metal size. Amazon EC2 sixth-generation x86-based network optimized EC2 instances deliver up to 100Gbps of Amazon Elastic Block Store (Amazon EBS) bandwidth, and up to 400K IOPS. C6in instances offer Elastic Fabric Adapter (EFA) networking support on 32xlarge and metal sizes.
+  C6in instances are available in these AWS Regions: US East (Ohio, N. Virginia), US West (N. California, Oregon), Europe (Frankfurt, Ireland, London, Milan, Paris, Spain, Stockholm, Zurich), Middle East (Bahrain, UAE), Israel (Tel Aviv), Asia Pacific (Hong Kong, Hyderabad, Jakarta, Malaysia, Melbourne, Mumbai, Seoul, Singapore, Sydney, Tokyo), Africa (Cape Town), South America (São Paulo), Canada (Central), and AWS GovCloud (US-West, US-East). To learn more, see the Amazon EC2 C6in instances. To get started, see the AWS Management Console, AWS Command Line Interface (AWS CLI), and AWS SDKs.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KL-001-2025-002: Checkmk NagVis Remote Code Execution]]></title>
+        <id>https://seclists.org/fulldisclosure/2025/Feb/4</id>
+        <link href="https://seclists.org/fulldisclosure/2025/Feb/4"/>
+        <updated>2025-02-04T22:11:09.000Z</updated>
+        <summary type="html"><![CDATA[Posted by KoreLogic Disclosures via Fulldisclosure on Feb 04
+KL-001-2025-002: Checkmk NagVis Remote Code Execution
+https://korelogic.com/Resources/Advisories/KL-001-2025-002.txt
+
+1. Vulnerability Details
+
+      Affected Vendor: Checkmk
+      Affected Product: Checkmk/NagVis
+      Affected Version: Checkmk 2.3.0p2, NagVis 1.9.40
+      Platform: GNU/Linux
+      CWE...]]></summary>
+        <author>
+            <name>Full Disclosure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KL-001-2025-001: Checkmk NagVis Reflected Cross-site Scripting]]></title>
+        <id>https://seclists.org/fulldisclosure/2025/Feb/3</id>
+        <link href="https://seclists.org/fulldisclosure/2025/Feb/3"/>
+        <updated>2025-02-04T22:08:34.000Z</updated>
+        <summary type="html"><![CDATA[Posted by KoreLogic Disclosures via Fulldisclosure on Feb 04
+KL-001-2025-001: Checkmk NagVis Reflected Cross-site Scripting
+https://korelogic.com/Resources/Advisories/KL-001-2025-001.txt
+
+1. Vulnerability Details
+
+      Affected Vendor: Checkmk
+      Affected Product: Checkmk/NagVis
+      Affected Version: Checkmk 2.3.0p2, NagVis 1.9.40
+      Platform: GNU/Linux...]]></summary>
+        <author>
+            <name>Full Disclosure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The APL Challenge]]></title>
+        <id>https://news.ycombinator.com/item?id=42939562</id>
+        <link href="https://challenge.dyalog.com/"/>
+        <updated>2025-02-04T22:02:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://challenge.dyalog.com/
+Comments URL: https://news.ycombinator.com/item?id=42939562
+Points: 25
+# Comments: 2]]></summary>
+        <author>
+            <name>bjarteaarmolund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The APL Challenge]]></title>
+        <id>https://challenge.dyalog.com/</id>
+        <link href="https://challenge.dyalog.com/"/>
+        <updated>2025-02-04T22:02:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government planned it 7 years, beavers built a dam in 2 days and saved $1M]]></title>
+        <id>https://news.ycombinator.com/item?id=42938802</id>
+        <link href="https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652"/>
+        <updated>2025-02-04T21:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652
+Comments URL: https://news.ycombinator.com/item?id=42938802
+Points: 126
+# Comments: 57]]></summary>
+        <author>
+            <name>croes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government planned it 7 years, beavers built a dam in 2 days and saved $1M]]></title>
+        <id>https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652</id>
+        <link href="https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652"/>
+        <updated>2025-02-04T21:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animating Rick and Morty One Pixel at a Time]]></title>
+        <id>https://simonwillison.net/2025/Feb/4/animating-rick-and-morty-one-pixel-at-a-time/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/4/animating-rick-and-morty-one-pixel-at-a-time/#atom-everything"/>
+        <updated>2025-02-04T20:53:29.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong><a href="https://danielchasehooper.com/posts/code-animated-rick/">Animating Rick and Morty One Pixel at a Time</a></strong></p>
+Daniel Hooper says he spent 8 months working on the post, the culmination of which is an animation of Rick from Rick and Morty, implemented in 240 lines of GLSL - the OpenGL Shading Language which apparently has been directly supported by browsers for many years.</p>
+<p>The result is a comprehensive GLSL tutorial, complete with interactive examples of each of the steps used to generate the final animation which you can tinker with directly on the page. It feels a bit like Logo!</p>
+<p><img alt="Animated demo - as I edit the shader code Rick's half-drawn eye pupils move from side to side live with my edits" src="https://static.simonwillison.net/static/2025/rick-edit.gif" /></p>
+<p>Shaders work by running code for each pixel to return that pixel's color - in this case the <code>color_for_pixel()</code> function is wired up as the core logic of the shader.</p>
+<p>Here's <a href="https://gist.github.com/danielchasehooper/72da5d9c286e5e94fdfb8e82bea288cc">Daniel's code for the live shader editor</a> he built for this post. It looks like <a href="https://gist.github.com/danielchasehooper/72da5d9c286e5e94fdfb8e82bea288cc#file-inline_shader-js-L47-L60">this</a> is the function that does the most important work:</p>
+<div class="highlight highlight-source-js"><pre><span class="pl-k">function</span> <span class="pl-en">loadShader</span><span class="pl-kos">(</span><span class="pl-s1">shaderSource</span><span class="pl-kos">,</span> <span class="pl-s1">shaderType</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+    <span class="pl-k">const</span> <span class="pl-s1">shader</span> <span class="pl-c1">=</span> <span class="pl-s1">gl</span><span class="pl-kos">.</span><span class="pl-en">createShader</span><span class="pl-kos">(</span><span class="pl-s1">shaderType</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-s1">gl</span><span class="pl-kos">.</span><span class="pl-en">shaderSource</span><span class="pl-kos">(</span><span class="pl-s1">shader</span><span class="pl-kos">,</span> <span class="pl-s1">shaderSource</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-s1">gl</span><span class="pl-kos">.</span><span class="pl-en">compileShader</span><span class="pl-kos">(</span><span class="pl-s1">shader</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-k">const</span> <span class="pl-s1">compiled</span> <span class="pl-c1">=</span> <span class="pl-s1">gl</span><span class="pl-kos">.</span><span class="pl-en">getShaderParameter</span><span class="pl-kos">(</span><span class="pl-s1">shader</span><span class="pl-kos">,</span> <span class="pl-s1">gl</span><span class="pl-kos">.</span><span class="pl-c1">COMPILE_STATUS</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-k">if</span> <span class="pl-kos">(</span><span class="pl-c1">!</span><span class="pl-s1">compiled</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+        <span class="pl-k">const</span> <span class="pl-s1">lastError</span> <span class="pl-c1">=</span> <span class="pl-s1">gl</span><span class="pl-kos">.</span><span class="pl-en">getShaderInfoLog</span><span class="pl-kos">(</span><span class="pl-s1">shader</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+        <span class="pl-s1">gl</span><span class="pl-kos">.</span><span class="pl-en">deleteShader</span><span class="pl-kos">(</span><span class="pl-s1">shader</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+        <span class="pl-k">return</span> <span class="pl-s1">lastError</span><span class="pl-kos">;</span>
+    <span class="pl-kos">}</span>
+    <span class="pl-k">return</span> <span class="pl-s1">shader</span><span class="pl-kos">;</span>
+<span class="pl-kos">}</span></pre></div>
+
+<p>Where <code>gl</code> is a <code>canvas.getContext("webgl2")</code> <code>WebGL2RenderingContext</code> object, <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL2RenderingContext">described by MDN here</a>.
+
+    <p><small></small>Via <a href="https://lobste.rs/s/ycbpnz/animating_rick_morty_one_pixel_at_time">lobste.rs</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/webgl">webgl</a>, <a href="https://simonwillison.net/tags/animation">animation</a>, <a href="https://simonwillison.net/tags/canvas">canvas</a>, <a href="https://simonwillison.net/tags/javascript">javascript</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I use LLMs as a staff engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=42938409</id>
+        <link href="https://www.seangoedecke.com/how-i-use-llms/"/>
+        <updated>2025-02-04T20:49:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.seangoedecke.com/how-i-use-llms/
+Comments URL: https://news.ycombinator.com/item?id=42938409
+Points: 186
+# Comments: 147]]></summary>
+        <author>
+            <name>gfysfm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google drops pledge not to use AI for weapons or surveillance]]></title>
+        <id>https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm</id>
+        <link href="https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm"/>
+        <updated>2025-02-04T20:28:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Deep Research]]></title>
+        <id>https://news.ycombinator.com/item?id=42937701</id>
+        <link href="https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research"/>
+        <updated>2025-02-04T19:55:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research
+Comments URL: https://news.ycombinator.com/item?id=42937701
+Points: 193
+# Comments: 38]]></summary>
+        <author>
+            <name>transpute</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Deep Research]]></title>
+        <id>https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research</id>
+        <link href="https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research"/>
+        <updated>2025-02-04T19:55:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zebra Big 30 Pack of Pens]]></title>
+        <id>https://rknight.me/blog/zebra-big-30-pack-of-pens/</id>
+        <link href="https://rknight.me/blog/zebra-big-30-pack-of-pens/"/>
+        <updated>2025-02-04T19:46:17.000Z</updated>
+        <summary type="html"><![CDATA[I wanted to buy a pack of mildliners to add some colour to my bullet journal and they mostly come in packs of five which is plenty for one person. When I googled to see who stocked them I saw this 30 pack that comes with 15 mildliners, 15 pens, and a natty pen holder and it was only £10 so if I'd be losing money if I didn't buy it[1].
+
+All the cool kids do little test pages so here you go, I did one at the back of my notebook. I really like the vermilion and the smoke blue.
+
+I'm not an economist, leave me alone ⤾]]></summary>
+        <author>
+            <name>Robb Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to scale your model: A systems view of LLMs on TPUs]]></title>
+        <id>https://news.ycombinator.com/item?id=42936910</id>
+        <link href="https://jax-ml.github.io/scaling-book/"/>
+        <updated>2025-02-04T18:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jax-ml.github.io/scaling-book/
+Comments URL: https://news.ycombinator.com/item?id=42936910
+Points: 144
+# Comments: 17]]></summary>
+        <author>
+            <name>mattjjatgoogle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to scale your model: A systems view of LLMs on TPUs]]></title>
+        <id>https://jax-ml.github.io/scaling-book/</id>
+        <link href="https://jax-ml.github.io/scaling-book/"/>
+        <updated>2025-02-04T18:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WikiTok]]></title>
+        <id>https://news.ycombinator.com/item?id=42936723</id>
+        <link href="https://wikitok.vercel.app/"/>
+        <updated>2025-02-04T18:40:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wikitok.vercel.app/
+Comments URL: https://news.ycombinator.com/item?id=42936723
+Points: 819
+# Comments: 147]]></summary>
+        <author>
+            <name>Group_B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WikiTok]]></title>
+        <id>https://wikitok.vercel.app/</id>
+        <link href="https://wikitok.vercel.app/"/>
+        <updated>2025-02-04T18:40:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Q Developer now troubleshoots AWS Console errors in all AWS Commercial regions]]></title>
+        <id>9d31ddbc19bf027af128cd67dc87f62e87de7b77</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-console-errors-aws-commercial-regions"/>
+        <updated>2025-02-04T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Q Developer has expanded its AWS Console error coverage from US East (N. Virginia) and US West (Oregon) to AWS Commercial regions. Users can now troubleshoot AWS Console errors using Amazon Q Developer regardless of their console region, including locations like Europe (Frankfurt).
+  In the Amazon Web Services (AWS) Management Console, Amazon Q Developer diagnoses common errors you encounter while working with AWS services, such as insufficient permissions, incorrect configuration, and exceeding service limits. Q Developer troubleshoots errors arising from the following services in the AWS Management Console: Amazon Elastic Compute Cloud (Amazon EC2), Amazon Elastic Container Service (Amazon ECS), Amazon Simple Storage Service (Amazon S3), AWS Lambda and Amazon CloudFormation (Amazon CFn). In addition, Q Developer troubleshoots IAM Permission and Athena console errors across all AWS Console pages.
+  To learn more about using Amazon Q Developer to troubleshoot AWS Console errors, visit the AWS documentation. Amazon Q Developer is currently available in select regions, and you can review information about where your data is processed here. For pricing details, visit the Amazon Q Developer pricing page.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect Cases now supports conditionally required fields]]></title>
+        <id>0f4d320a87d8f98b0c1263dc512ceff779eb276c</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-cases-conditionally-required-fields/"/>
+        <updated>2025-02-04T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect Cases now supports conditionally required fields to streamline case field population for agents and reduce data entry errors. Administrators can now configure case templates that prompt agents to enter relevant information in specific situations, such as providing a “Close Reason” when a case moves to “Closed” status, “Product Serial Number” when the “Issue Type” is “Hardware Problem”, or “Disposition Code” when handling a system-generated case. Conditionally required fields help agents follow processes for capturing necessary information, improving data quality for reporting, resolution tracking, and compliance.
+  For region availability, please see the availability of Amazon Connect features by Region. To learn more and get started, visit the Amazon Connect Cases webpage and documentation.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roc rewrites the compiler in Zig]]></title>
+        <id>https://news.ycombinator.com/item?id=42935516</id>
+        <link href="https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f"/>
+        <updated>2025-02-04T17:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f
+Comments URL: https://news.ycombinator.com/item?id=42935516
+Points: 269
+# Comments: 156]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roc rewrites the compiler in Zig]]></title>
+        <id>https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f</id>
+        <link href="https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f"/>
+        <updated>2025-02-04T17:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Pinch (YC W25) – Video conferencing with immersive translation]]></title>
+        <id>https://news.ycombinator.com/item?id=42935355</id>
+        <link href="https://news.ycombinator.com/item?id=42935355"/>
+        <updated>2025-02-04T17:10:51.000Z</updated>
+        <summary type="html"><![CDATA[Hey HN! I'm Christian, and my co-founder Keyu and I are building Pinch (https://startpinch.com), a virtual conferencing platform with translation that mimics your voice and synchronizes your lips in real-time to make you sound and appear as a native speaker in over 15 languages.
+Here's a demo: https://youtu.be/Cu7KlbZ3gjw, but you can also try it for free on our website.
+Over the last three years, Keyu and I were working in a company where we had to lead engineering and research teams across the U.S., China, India, and Europe.   We felt the language barrier actively limiting our team's potential in terms of collaboration + productivity. The existing tools we tried operated in low-bandwidth mediums (mostly text), which 1) means they are slower because they need to convert audio to text before translation, and 2) lose all information of how something was said.
+At that point we knew there had to be a better way to connect across different languages and cultures, so we started building Pinch.  Shortly after, we found out how challenging translation truly was.  Balancing latency/accuracy for chunk-based audio translation, capturing inflection and tonality per statement, handling culturally specific phrasing, and making a seamless meeting experience are all unsolved problems we're taking on.
+So far, we've seen some really interesting use-cases (many we hadn't considered!), from personal connections like a first conversation with foreign in-laws, to more business-oriented usage in sales and meeting foreign clients.
+After a long experience building conversation AI video/audio, we're incredibly excited to see what these same technologies can unlock for humanhuman communication.
+You can try a demo or create a meeting for free: https://startpinch.com
+All feedback is appreciated, and we'd love to know how we're doing on the overall meeting UX and translation accuracy for your language. Thanks all!
+Comments URL: https://news.ycombinator.com/item?id=42935355
+Points: 60
+# Comments: 41]]></summary>
+        <author>
+            <name>christiansafka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Pinch (YC W25) – Video conferencing with immersive translation]]></title>
+        <id>https://news.ycombinator.com/item?id=42935355</id>
+        <link href="https://news.ycombinator.com/item?id=42935355"/>
+        <updated>2025-02-04T17:10:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who’s Behind the Seized Forums ‘Cracked’ & ‘Nulled’?]]></title>
+        <id>https://krebsonsecurity.com/?p=70279</id>
+        <link href="https://krebsonsecurity.com/2025/02/whos-behind-the-seized-forums-cracked-nulled/"/>
+        <updated>2025-02-04T17:09:16.000Z</updated>
+        <summary type="html"><![CDATA[The FBI joined authorities across Europe last week in seizing domain names for Cracked and Nulled, English-language cybercrime forums with millions of users that trafficked in stolen data, hacking tools and malware. An investigation into the history of these communities shows their apparent co-founders quite openly operate an Internet service provider and a pair of e-commerce platforms catering to buyers and sellers on both forums.]]></summary>
+        <author>
+            <name>BrianKrebs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jujutsu VCS: Introduction and patterns]]></title>
+        <id>https://news.ycombinator.com/item?id=42934427</id>
+        <link href="https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/"/>
+        <updated>2025-02-04T16:22:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/
+Comments URL: https://news.ycombinator.com/item?id=42934427
+Points: 188
+# Comments: 76]]></summary>
+        <author>
+            <name>cube2222</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jujutsu VCS: Introduction and patterns]]></title>
+        <id>https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/</id>
+        <link href="https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/"/>
+        <updated>2025-02-04T16:22:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Invites]]></title>
+        <id>https://news.ycombinator.com/item?id=42934422</id>
+        <link href="https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/"/>
+        <updated>2025-02-04T16:21:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/
+Comments URL: https://news.ycombinator.com/item?id=42934422
+Points: 332
+# Comments: 546]]></summary>
+        <author>
+            <name>openchampagne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Invites]]></title>
+        <id>https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/</id>
+        <link href="https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/"/>
+        <updated>2025-02-04T16:21:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a link blog]]></title>
+        <id>https://simonwillison.net/2025/Feb/4/build-a-link-blog/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/4/build-a-link-blog/#atom-everything"/>
+        <updated>2025-02-04T16:14:33.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong><a href="https://xuanwo.io/links/2025/01/link-blog/">Build a link blog</a></strong></p>
+Xuanwo started <a href="https://xuanwo.io/links/">a link blog</a> inspired by my article <a href="https://simonwillison.net/2024/Dec/22/link-blog/">My approach to running a link blog</a>, and in a delightful piece of recursion his first post is a link blog entry about my post about link blogging, following my tips on quoting liberally and including extra commentary.</p>
+<blockquote>
+<p>I decided to follow simon's approach to creating a link blog, where I can share interesting links I find on the internet along with my own comments and thoughts about them.</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=42933383">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/blogging">blogging</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chat is a bad UI pattern for development tools]]></title>
+        <id>https://danieldelaney.net/chat/</id>
+        <link href="https://danieldelaney.net/chat/"/>
+        <updated>2025-02-04T16:06:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America desperately needs more air traffic controllers]]></title>
+        <id>https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html</id>
+        <link href="https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html"/>
+        <updated>2025-02-04T15:44:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alan Turing's "Delilah" project]]></title>
+        <id>https://spectrum.ieee.org/alan-turings-delilah</id>
+        <link href="https://spectrum.ieee.org/alan-turings-delilah"/>
+        <updated>2025-02-04T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepRAG: Thinking to retrieval step by step for large language models]]></title>
+        <id>https://arxiv.org/abs/2502.01142</id>
+        <link href="https://arxiv.org/abs/2502.01142"/>
+        <updated>2025-02-04T14:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making inventory spreadsheets for my LEGO sets]]></title>
+        <id>https://alexwlchan.net/2025/lego-inventory-spreadsheets/?utm_source=rss</id>
+        <link href="https://alexwlchan.net/2025/lego-inventory-spreadsheets/?utm_source=rss"/>
+        <updated>2025-02-04T08:05:17.000Z</updated>
+        <summary type="html"><![CDATA[Using the Rebrickable database downloads and sqlite-utils, I can quickly create spreadsheets that let me tick off the parts in each set.]]></summary>
+        <author>
+            <name>alexwlchan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Video Game History Foundation Library Opens in Early Access]]></title>
         <id>https://news.ycombinator.com/item?id=42926076</id>
@@ -299,6 +978,16 @@ Points: 61
         <id>https://cantoscrolls.com/</id>
         <link href="https://cantoscrolls.com/"/>
         <updated>2025-02-03T19:48:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What really happens inside a dating app]]></title>
+        <id>https://blog.luap.info/what-really-happens-inside-a-dating-app.html</id>
+        <link href="https://blog.luap.info/what-really-happens-inside-a-dating-app.html"/>
+        <updated>2025-02-03T19:12:30.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1584,6 +2273,16 @@ My philosophy research continues as I’m eyeing on writing another book this ye
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: Language Learning from YouTube content]]></title>
+        <id>https://fluentsubs.com/</id>
+        <link href="https://fluentsubs.com/"/>
+        <updated>2025-02-02T06:53:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[llm-anthropic]]></title>
         <id>https://simonwillison.net/2025/Feb/2/llm-anthropic/#atom-everything</id>
         <link href="https://simonwillison.net/2025/Feb/2/llm-anthropic/#atom-everything"/>
@@ -1612,6 +2311,16 @@ I've renamed my <a href="https://github.com/simonw/llm-claude-3">llm-claude-3</a
     <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/pypi">pypi</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p>]]></summary>
         <author>
             <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splitting from Handmade Network]]></title>
+        <id>https://handmadecities.com/news/splitting-from-handmade-network/</id>
+        <link href="https://handmadecities.com/news/splitting-from-handmade-network/"/>
+        <updated>2025-02-02T04:29:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -1725,6 +2434,16 @@ Points: 23
         <id>https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/</id>
         <link href="https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/"/>
         <updated>2025-02-02T00:27:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI realtime mock interview tool]]></title>
+        <id>https://prepin.ai/</id>
+        <link href="https://prepin.ai/"/>
+        <updated>2025-02-02T00:23:15.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -9219,6 +9938,16 @@ Points: 95
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pyramid structure discovered near Caral Peru]]></title>
+        <id>https://omniletters.com/hidden-pyramid-structure-discovered-near-caral/</id>
+        <link href="https://omniletters.com/hidden-pyramid-structure-discovered-near-caral/"/>
+        <updated>2025-02-01T12:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CDC data are disappearing]]></title>
         <id>https://news.ycombinator.com/item?id=42897696</id>
         <link href="https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/"/>
@@ -9262,6 +9991,16 @@ Points: 488
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Push Notifications for Decentralized Services]]></title>
+        <id>https://unifiedpush.org/news/20250131_push_for_decentralized/</id>
+        <link href="https://unifiedpush.org/news/20250131_push_for_decentralized/"/>
+        <updated>2025-02-01T09:33:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Visualizing all books of the world in ISBN-Space]]></title>
         <id>https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/</id>
         <link href="https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/"/>
@@ -9276,6 +10015,16 @@ Points: 488
         <id>https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/</id>
         <link href="https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/"/>
         <updated>2025-02-01T09:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Natural fission reactors in the Franceville basin, Gabon]]></title>
+        <id>https://www.sciencedirect.com/science/article/abs/pii/S0016703796002451</id>
+        <link href="https://www.sciencedirect.com/science/article/abs/pii/S0016703796002451"/>
+        <updated>2025-02-01T08:21:45.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -15410,103 +16159,6 @@ Cold (c) and warm (m) start time in ms:
 Me…]]></summary>
         <author>
             <name>Vadym Kazulkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Only Hope]]></title>
-        <id>7C930EFC-0FC6-4143-813D-7B12CB762180</id>
-        <link href="https://lmnt.me/blog/our-only-hope.html"/>
-        <updated>2025-01-06T06:25:00.000Z</updated>
-        <summary type="html"><![CDATA[I don’t like how the viability of Star Wars is under constant threat from people who Star Wars can never appease. Some fans—primarily men—have gatekept Star Wars for too long.
-They like Star Wars, but not Return of the Jedi. They like Star Wars, but not the Special Edition. They like Star Wars, but not the prequels. They like Star Wars, but not the sequels. They like Star Wars, but not the animation.
-Many of these fans—again, primarily men—who claim to like Star Wars actually don’t like most of it.
-I don’t mind if people don’t like all of it. That’s fine. But some of the reasons for disliking the things they dislike continue to deeply trouble me.
-If a Star Wars film or TV show has an increased amount of visible queer people, people of color, or women on screen with actual dialogue, the res…]]></summary>
-        <author>
-            <name>Louie Mantia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ability to code sometimes feels like magic to me]]></title>
-        <id>https://hamatti.org/posts/the-ability-to-code-sometimes-feels-like-magic-to-me/</id>
-        <link href="https://hamatti.org/posts/the-ability-to-code-sometimes-feels-like-magic-to-me/"/>
-        <updated>2025-01-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[home-cooked, situated software
-  and just yesterday I was reading Robert Alexander’s
-  Designing Personal Software
-  and we both came to a conclusion that it’s awesome to build stuff for your own
-  needs.
-
-
-
-  While I was browsing the web today, I came across
-  SWU CUBES’ Youtube video about a 2-player Pokemon TCG Pocket cube that he
-    had designed. I love cubes, especially small 2-player ones that fit into a small 80 or
-  100 card deck boxes. He was kind enough to provide
-  the cube list as a Google spreadsheet
-  and I decided to build the cube for myself too. I’m not a big fan of Pocket’s
-  mobile experience and it’s “you need to open the app every N hours to advance”
-  paradigm but I think the format can be a great way to teach someone new to the
-  game or play some casual games while…]]></summary>
-        <author>
-            <name>Juha-Matti Santala - Community Builder. Dreamer. Adventurer.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brain Baking Is Also Baking]]></title>
-        <id>https://brainbaking.com/post/2025/01/brain-baking-is-also-baking/</id>
-        <link href="https://brainbaking.com/post/2025/01/brain-baking-is-also-baking/"/>
-        <updated>2025-01-05T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It seemed a good idea to start the year with a fresh and lively sourdough starter. Mine has been lingering in the fridge for the last few weeks, generating vinegar and slowly killing itself. A few days of throwing almost everything out and replacing it with new flour + water luckily does wonders.
-For those who don’t know the meaning of Brain Baking: it’s not just limited to baking my brain and serving you the crusty result. No, it’s also genuine bread baking! My archive tells me I have yet to share a proper “bread porn” post (don’t ask, it’s a The Fresh Loaf thing), so here are two pictures of last week’s bake:
-
-		
-	
-	
-		Bread Baking: success. Brain Baking: ongoing. (Four crusty looking loaves with ears)
-
-What you see are four loaves of 20% rye, 80% semola rimacinata di grano duro or finel…]]></summary>
-        <author>
-            <name>Wouter Groeneveld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📝 5 January 2025 at 16:29 - Thank you hooman for lighting the fire for me...]]></title>
-        <id>notes/20250105-1629</id>
-        <link href="https://kevquirk.com/notes/20250105-1629"/>
-        <updated>2025-01-05T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Thank you, hooman, for lighting the fire for me.
-Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️
-Reply to this post by email ● 
-              Sign my guestbook]]></summary>
-        <author>
-            <name>Kev Quirk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using HomeAssistant To Control Solis Inverter Charge Schedules]]></title>
-        <id>https://www.bentasker.co.uk/posts/blog/house-stuff/controlling-charge-schedules-with-homeassistant-and-soliscloud.html</id>
-        <link href="https://www.bentasker.co.uk/posts/blog/house-stuff/controlling-charge-schedules-with-homeassistant-and-soliscloud.html?utm_source=rss"/>
-        <updated>2025-01-05T14:16:00.000Z</updated>
-        <summary type="html"><![CDATA[In September 2023, I configured our solar inverter to periodically charge our battery from the grid. In order to try and ensure that charges are cheap on average, they run long and slow.
-Although I'd have liked to configure full automation, there wasn't a straightforward way to do so: Solis didn't expose any relevant API endpoints and the inverter's modbus port was taken up by the datastick. I didn't want to remove the stick and lose cloud connectivity, so the only alternative would have been to build custom hardware.
-Whilst I'm normally totally up for custom hardware builds, I never quite found the time and energy to get around to it.
-However, when I checked recently, I found that Solis now provide programmatic access to their control API, enabling me to hook Home Assistant up to the inve…]]></summary>
-        <author>
-            <name>Ben Tasker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📝 5 January 2025 at 14:13 - Just logging in to catch up on work emails ahead...]]></title>
-        <id>notes/20250105-1413</id>
-        <link href="https://kevquirk.com/notes/20250105-1413"/>
-        <updated>2025-01-05T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Just logging in to catch up on work emails ahead of going back tomorrow. I know I'm going to regret this...
-Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️
-Reply to this post by email ● 
-              Sign my guestbook]]></summary>
-        <author>
-            <name>Kev Quirk</name>
         </author>
     </entry>
 </feed>
