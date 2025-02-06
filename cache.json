@@ -6,6 +6,206 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42957726",
+          "author": "headclone",
+          "description": "Article URL: https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/\nComments URL: https://news.ycombinator.com/item?id=42957726\nPoints: 2\n# Comments: 1",
+          "link": "https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/",
+          "publishedOn": "2025-02-06T01:13:32.000Z",
+          "wordCount": 3078,
+          "title": "Human Brain May Contain as Much as a Spoon's Worth of Microplastics",
+          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/sltWKLRnJWtiiMxE9YsE_ePXYdU=/fit-in/1200x0/filters:focal(1920x1097:1921x1098)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2F3a%2F9d%2F3a9d4ead-68d3-4254-bbc5-ae88fb9ca70e%2Fmicroplastics-in-lab.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42957517",
+          "author": "foxfired",
+          "description": "Article URL: https://idiallo.com/blog/listen-mp3-is-free\nComments URL: https://news.ycombinator.com/item?id=42957517\nPoints: 69\n# Comments: 21",
+          "link": "https://idiallo.com/blog/listen-mp3-is-free",
+          "publishedOn": "2025-02-06T00:41:43.000Z",
+          "wordCount": 3714,
+          "title": "You Didn't Notice MP3 Is Now Free",
+          "imageUrl": "https://cdn.idiallo.com/images/assets/thumb/default-thumb.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42955613",
+          "author": "nickt",
+          "description": "Article URL: https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md\nComments URL: https://news.ycombinator.com/item?id=42955613\nPoints: 110\n# Comments: 36",
+          "link": "https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md",
+          "publishedOn": "2025-02-05T21:42:20.000Z",
+          "wordCount": 4317,
+          "title": "It's unlikely that there will be any further releases of mt32-pi",
+          "imageUrl": "https://repository-images.githubusercontent.com/79130283/11c9d380-4fd5-11eb-9351-ff88511bb688"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42955356",
+          "author": "diodorus",
+          "description": "Article URL: https://scrollprize.substack.com/p/exciting-news-from-scroll-5\nComments URL: https://news.ycombinator.com/item?id=42955356\nPoints: 22\n# Comments: 1",
+          "link": "https://scrollprize.substack.com/p/exciting-news-from-scroll-5",
+          "publishedOn": "2025-02-05T21:23:09.000Z",
+          "wordCount": null,
+          "title": "News from Scroll 5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42955176",
+          "author": "n0rdy",
+          "description": "Article URL: https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/\nComments URL: https://news.ycombinator.com/item?id=42955176\nPoints: 126\n# Comments: 57",
+          "link": "https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/",
+          "publishedOn": "2025-02-05T21:10:25.000Z",
+          "wordCount": 3620,
+          "title": "Okta Bcrypt incident lessons for designing better APIs",
+          "imageUrl": "https://n0rdy.foo/covers/drawings/20250122.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42954621",
+          "author": "Jimmc414",
+          "description": "Article URL: https://www.highergov.com/contract-opportunity/active-social-engineering-defense-ased-hr001117s0050-p-67f55/\nComments URL: https://news.ycombinator.com/item?id=42954621\nPoints: 39\n# Comments: 39",
+          "link": "https://www.highergov.com/contract-opportunity/active-social-engineering-defense-ased-hr001117s0050-p-67f55/",
+          "publishedOn": "2025-02-05T20:26:00.000Z",
+          "wordCount": 822,
+          "title": "DARPA solicitation for the Active Social Engineering Defense program (2017)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42953508",
+          "author": "Hold-And-Modify",
+          "description": "Hello.\nCloudflare's Browser Intergrity Check/Verification/Challenge feature used by many websites, is denying access to users of non-mainstream browsers like Pale Moon.\nUsers reports began on January 31:\nhttps://forum.palemoon.org/viewtopic.php?f=3&t=32045\nThis situation occurs at least once a year, and there is no easy way to contact Cloudflare. Their \"Submit feedback\" tool yields no results. A Cloudflare Community topic was flagged as \"spam\" by members of that community and was promptly locked with no real solution, and no official response from Cloudflare:\nhttps://community.cloudflare.com/t/access-denied-to-pale-moo...\nPartial list of other browsers that are being denied access:\nFalkon, SeaMonkey, IceCat, Basilisk.\nHacker News 2022 post about the same issue, which brought attention and had Cloudflare quickly patching the issue:\nhttps://news.ycombinator.com/item?id=31317886\nA Cloudflare product manager declared back then: \"...we do not want to be in the business of saying one browser is more legitimate than another.\"\nAs of now, there is no official response from Cloudflare. Internet access is still denied by their tool.\nComments URL: https://news.ycombinator.com/item?id=42953508\nPoints: 559\n# Comments: 194",
+          "link": "https://news.ycombinator.com/item?id=42953508",
+          "publishedOn": "2025-02-05T19:08:12.000Z",
+          "wordCount": 15183,
+          "title": "Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42953168",
+          "author": "prospero",
+          "description": "Article URL: https://explaining.software/archive/the-sudoku-affair/\nComments URL: https://news.ycombinator.com/item?id=42953168\nPoints: 107\n# Comments: 32",
+          "link": "https://explaining.software/archive/the-sudoku-affair/",
+          "publishedOn": "2025-02-05T18:43:28.000Z",
+          "wordCount": 3442,
+          "title": "The Sudoku Affair",
+          "imageUrl": "https://buttondown.com/static/images/icons/icon-square@400.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42952960",
+          "author": "leroman",
+          "description": "Article URL: https://www.youtube.com/watch?v=7xTGNNLPyMI\nComments URL: https://news.ycombinator.com/item?id=42952960\nPoints: 299\n# Comments: 22",
+          "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+          "publishedOn": "2025-02-05T18:29:30.000Z",
+          "wordCount": null,
+          "title": "Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42952605",
+          "author": "serjester",
+          "description": "Article URL: https://www.sergey.fyi/articles/gemini-flash-2\nComments URL: https://news.ycombinator.com/item?id=42952605\nPoints: 578\n# Comments: 202",
+          "link": "https://www.sergey.fyi/articles/gemini-flash-2",
+          "publishedOn": "2025-02-05T18:05:28.000Z",
+          "wordCount": 79,
+          "title": "Ingesting PDFs and why Gemini 2.0 changes everything",
+          "imageUrl": "https://sergey-filimonov.nyc3.cdn.digitaloceanspaces.com/personal-site/botmoji-peaking-out.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42952584",
+          "author": "gmemstr",
+          "description": "Article URL: https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes\nComments URL: https://news.ycombinator.com/item?id=42952584\nPoints: 65\n# Comments: 28",
+          "link": "https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes",
+          "publishedOn": "2025-02-05T18:04:20.000Z",
+          "wordCount": 693,
+          "title": "Running ArchiveTeam's Warrior in Kubernetes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42951511",
+          "author": "edublancas",
+          "description": "Article URL: https://www.ycombinator.com/companies/ploomber/jobs\nComments URL: https://news.ycombinator.com/item?id=42951511\nPoints: 0\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/ploomber/jobs",
+          "publishedOn": "2025-02-05T17:00:43.000Z",
+          "wordCount": 394,
+          "title": "Ploomber (YC W22) Is Hiring Engineers (Infra, Backend, Growth) and Ex-Founders",
+          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/a80c6b2e447bdd5f64d0d57fec5b827b2540c887.png?1701886253"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42950929",
+          "author": "throwaway5752",
+          "description": "Article URL: https://tradingeconomics.com/commodity/eggs-us\nComments URL: https://news.ycombinator.com/item?id=42950929\nPoints: 458\n# Comments: 632",
+          "link": "https://tradingeconomics.com/commodity/eggs-us",
+          "publishedOn": "2025-02-05T16:31:24.000Z",
+          "wordCount": null,
+          "title": "Eggs US – Price – Chart",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42950790",
+          "author": "djoldman",
+          "description": "Article URL: https://www.axios.com/2025/02/04/trump-buyout-federal-workers-20000\nComments URL: https://news.ycombinator.com/item?id=42950790\nPoints: 217\n# Comments: 353",
+          "link": "https://www.axios.com/2025/02/04/trump-buyout-federal-workers-20000",
+          "publishedOn": "2025-02-05T16:23:10.000Z",
+          "wordCount": 1543,
+          "title": "20k federal workers take \"buyout\" so far, official says",
+          "imageUrl": "https://images.axios.com/3ZvBqd72melFAc2kfhbtZL2xs0g=/0x0:1920x1080/1366x768/2025/02/04/1738674582385.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42950454",
+          "author": "meetpateltech",
+          "description": "Article URL: https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/\nComments URL: https://news.ycombinator.com/item?id=42950454\nPoints: 402\n# Comments: 179",
+          "link": "https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/",
+          "publishedOn": "2025-02-05T16:03:18.000Z",
+          "wordCount": 2006,
+          "title": "Gemini 2.0 is now available to everyone",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_28.01.25_keyword_social.width-1300.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42949390",
+          "author": "brson",
+          "description": "Article URL: https://servo.org/blog/2025/01/31/servo-in-2024/\nComments URL: https://news.ycombinator.com/item?id=42949390\nPoints: 306\n# Comments: 107",
+          "link": "https://servo.org/blog/2025/01/31/servo-in-2024/",
+          "publishedOn": "2025-02-05T15:03:09.000Z",
+          "wordCount": 818,
+          "title": "Servo's progress in 2024",
+          "imageUrl": "/img/servo-color-positive.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42949277",
+          "author": "headalgorithm",
+          "description": "Article URL: https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/\nComments URL: https://news.ycombinator.com/item?id=42949277\nPoints: 453\n# Comments: 441",
+          "link": "https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/",
+          "publishedOn": "2025-02-05T14:55:03.000Z",
+          "wordCount": 3599,
+          "title": "Avoiding outrage fatigue while staying informed",
+          "imageUrl": "https://static.scientificamerican.com/dam/m/225cfca2d98f2cb5/original/SQ-Wednesday-EP-Art.png?m=1716342177.955&w=1200"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42949232",
+          "author": "benbreen",
+          "description": "Article URL: https://resobscura.substack.com/p/the-familiar-loneliness-of-the-kinetoscope\nComments URL: https://news.ycombinator.com/item?id=42949232\nPoints: 13\n# Comments: 1",
+          "link": "https://resobscura.substack.com/p/the-familiar-loneliness-of-the-kinetoscope",
+          "publishedOn": "2025-02-05T14:51:53.000Z",
+          "wordCount": null,
+          "title": "The familiar loneliness of the Kinetoscope",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42949181",
+          "author": "shortformblog",
+          "description": "Article URL: https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/\nComments URL: https://news.ycombinator.com/item?id=42949181\nPoints: 424\n# Comments: 333",
+          "link": "https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/",
+          "publishedOn": "2025-02-05T14:47:32.000Z",
+          "wordCount": 3554,
+          "title": "Why is Warner Bros. Discovery putting old movies on YouTube?",
+          "imageUrl": "https://v1.screenshot.11ty.dev/https%3A%2F%2Ftedium.co%2Fog-images%2F2025%2F02%2F05%2Fwarner-bros-youtube-full-movie-releases%2F/opengraph/?v=1738778965"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42946854",
+          "author": "tkellogg",
+          "description": "Article URL: https://timkellogg.me/blog/2025/02/03/s1\nComments URL: https://news.ycombinator.com/item?id=42946854\nPoints: 590\n# Comments: 227",
+          "link": "https://timkellogg.me/blog/2025/02/03/s1",
+          "publishedOn": "2025-02-05T11:05:40.000Z",
+          "wordCount": 1303,
+          "title": "S1: A $6 R1 competitor?",
+          "imageUrl": "https://timkellogg.mehttps://cdn.pixabay.com/photo/2024/08/13/16/50/ai-generated-8966531_960_720.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42942061",
           "author": "Cyclone_",
           "description": "Article URL: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840\nComments URL: https://news.ycombinator.com/item?id=42942061\nPoints: 16\n# Comments: 6",
@@ -1088,6 +1288,116 @@
       "siteUrl": "https://aws.amazon.com/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "f80e998b7ac16a5fe0ed00d72ec82b2034f8ebbf",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Service (Amazon ECS) launches its networking capability called ECS Service Connect in the AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions.\n  Amazon ECS is a fully managed container orchestration service that makes it easier for you to deploy, manage, and scale containerized applications. With ECS Service Connect, customers can easily configure service discovery, connectivity, traffic observability, and encryption for services running in Amazon ECS. This enables more efficient application development by allowing you to focus on writing application code instead of managing complex networking infrastructure\n  To learn more about how to get started with Amazon ECS Service Connect and how it works, see our documentation.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-service-connect-aws-govcloud-regions",
+          "publishedOn": "2025-02-05T21:30:00.000Z",
+          "wordCount": 865,
+          "title": "Amazon ECS Service Connect is now available in the AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6ad4aa79401b45e6fbbe064b71b139873d0ef494",
+          "author": "aws@amazon.com",
+          "description": "Starting today, you can connect to your Amazon DocumentDB (with MongoDB compatibility) clusters with a single click through AWS CloudShell directly from the AWS Management Console. This new feature allows our customers to easily connect to their DocumentDB clusters directly from their browser, without requiring any local setup.\n  One-click connectivity with Cloudshell automatically configures VPCs, security groups, and MongoDB shell installation, eliminating the need for manual tasks like setting up security groups and ingress/egress rules. This streamlines the process for database administrators and developers, enabling them to connect quickly to their DocumentDB cluster to preview data or execute adhoc queries.\n  This feature is available in all AWS Regions where both Amazon DocumentDB and AWS CloudShell services are supported. For more information about region availability, see the AWS Region table. To get started, follow Get started with Amazon DocumentDB to create an Amazon DocumentDB cluster, then click the \"Connect to cluster\" button to connect via CloudShell.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-documentdb-one-click-connectivity-cloudshell",
+          "publishedOn": "2025-02-05T20:10:00.000Z",
+          "wordCount": 932,
+          "title": "Amazon DocumentDB now offers one-click connectivity with CloudShell",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "183cdcdce793ec8ffe45fe8cedacfe3cbac1f580",
+          "author": "aws@amazon.com",
+          "description": "Starting today, you can build, train, and deploy machine learning (ML) models in Asia Pacific (Malaysia).\n  Amazon SageMaker AI is a fully managed platform that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker AI removes the heavy lifting from each step of the machine learning process to make it easier to develop high quality models.\n  To learn more and get started, see SageMaker AI documentation and pricing page.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-sagemaker-ai-asia-pacific-malaysia",
+          "publishedOn": "2025-02-05T20:10:00.000Z",
+          "wordCount": 788,
+          "title": "Amazon SageMaker AI is now available in Asia Pacific (Malaysia)",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "27941661336464c03f81f72618cf243c1de9724b",
+          "author": "aws@amazon.com",
+          "description": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M6in and M6idn instances are available in AWS Europe (Zurich) region. These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Scalable processors and built on the AWS Nitro System, deliver up to 200Gbps network bandwidth, for 2x more network bandwidth over comparable fifth-generation instances. Customers can use M6in and M6idn instances to scale their performance and throughput of network-intensive workloads such as high-performance file systems, distributed web scale in-memory caches, caching fleets, real-time big data analytics, and Telco applications such as 5G User Plane Function.\n  M6in and M6idn instances are available in 10 different instance sizes including metal, offering up to 128 vCPUs and 512 GiB of memory. They deliver up to 100Gbps of Amazon Elastic Block Store (EBS) bandwidth, and up to 400K IOPS. M6in and M6idn instances offer Elastic Fabric Adapter (EFA) networking support on 32xlarge and metal sizes. M6idn instances offer up to 7.6 TB of high-speed, low-latency instance storage.\n  With this regional expansion, M6in and M6idn instances are available in the following AWS Regions: US East (Ohio, N. Virginia), US West (N. California, Oregon), Europe (Ireland, Frankfurt, Spain, Stockholm, Zurich), Asia Pacific (Mumbai, Singapore, Tokyo, Sydney), Canada (Central), and AWS GovCloud (US-West). Customers can purchase the new instances through Savings Plans, On-Demand, and Spot instances. To learn more, see M6in and M6idn instances page.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-m6in-m6idn-instances-europe-zurich",
+          "publishedOn": "2025-02-05T19:30:00.000Z",
+          "wordCount": 1094,
+          "title": "Amazon EC2 M6in and M6idn instances are now available in Europe (Zurich)",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "404314ec017613430a4fbff7b485af84460050bf",
+          "author": "aws@amazon.com",
+          "description": "Amazon Q Business, the generative AI-powered assistant for finding information, gaining insight, and taking action at work, introduced an intelligent orchestration feature that simplifies conversational experience by understanding user queries, and automatically directing the queries to the right data sources and plugins to generate relevant responses.\n  Earlier, users would need to manually switch between different work applications to complete their tasks and gain insights from data sources. Enabling orchestration simplifies the user conversational experience by automatically directing user queries to indexed enterprise data sources and plugins, eliminating the need for manual selection. Orchestration works with retrieval augmented generative (RAG) data for enterprise-specific knowledge, and with both built-in and custom plugins, allowing users to interact with popular business tools like Jira, Salesforce, ServiceNow, Smartsheet, and PagerDuty - all through a single conversation in Amazon Q Business.\n  The new orchestration feature is available in all AWS Regions where Amazon Q Business is available. To get started with the feature, customers can access the setting directly from the Amazon Q Business console. To learn more, please visit Using global controls in Amazon Q Business. To learn more about Amazon Q Business plugins and how they can enhance your organization's productivity, visit the Amazon Q Business webpage and explore the Amazon Q Business plugin documentation.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-business-orchestration-user-query-management",
+          "publishedOn": "2025-02-05T18:10:00.000Z",
+          "wordCount": 1049,
+          "title": "Amazon Q Business introduces orchestration for user query management",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9e91e5b810727f6bf91cd92b557531ee80d490eb",
+          "author": "aws@amazon.com",
+          "description": "Today, AWS Identity and Access Management (IAM) announced support for encrypted SAML assertions. SAML is an open standard that many identity providers (IdPs) use for federated single sign-on (SSO), enabling users or applications in your company to log into the AWS Management Console or call AWS API operations. You can now configure your identity provider to encrypt the SAML assertions that it sends to IAM. This ensures that your assertions are encrypted when passed through intermediaries (for example, the end user’s web browser).\n  You can use the AWS IAM console, APIs, or CLI to configure SAML encryption for your identity providers that support encryption. Please refer to IAM and your identity provider’s product documentation for detailed configuration steps.\n  This feature is available in all AWS commercial and AWS GovCloud (US) Regions. To learn more, please refer to IAM documentation.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iam-encrypted-saml-assertions/",
+          "publishedOn": "2025-02-05T18:00:00.000Z",
+          "wordCount": 902,
+          "title": "AWS IAM announces support for encrypted SAML assertions",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e401fa73f6bab68e5b57ade3b195dbd51e2575ed",
+          "author": "aws@amazon.com",
+          "description": "Today, AWS is announcing the general availability of a new smaller size of Amazon EC2 F2 instances, F2.6xlarge. Amazon EC2 F2 instances are the second-generation of FPGA-powered instances, purpose built for developing and deploying reconfigurable hardware in the cloud. The new F2.6xlarge instance size has 1 FPGA, compared to the currently available F2 sizes with 4 and 8 FPGAs.\n  Amazon EC2 F2 instances are ideal for FPGA-accelerated solutions in genomics, multimedia processing, big data, network acceleration, and more. AWS customers can use the new instance size, F2.6xlarge, for applications that are more cost-efficient or performant when running on a single FPGA. F2.6xlarge also provides a lower cost entry point to using F2 instances.\n  F2 instances are the first to feature an FPGA with 16 GB of high bandwidth memory (HBM). The new F2.6xlarge size features a 3rd generation AMD EPYC processor with 24 vCPUs, 256 GB of system memory, 950 GB of NVMe SSD local storage, and 12.5 Gbps of network bandwidth.\n  The F2.6xlarge size is now available in the US East (N. Virginia), Europe (London), and US West (Oregon) AWS Regions. To learn more, please visit the Amazon EC2 F2 Instances page.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-f2-6xlarge-new-f2-instance-size/",
+          "publishedOn": "2025-02-05T18:00:00.000Z",
+          "wordCount": 1024,
+          "title": "Announcing the general availability of Amazon EC2 F2.6xlarge, a new F2 instance size",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "dfcf9a0d66d0d8531062c61211886851673cdbd4",
+          "author": "aws@amazon.com",
+          "description": "AWS Wickr is excited to announce the launch of \"Wickr Files\" a dedicated space that allows you to access and manage files in conversations. Moderators of Wickr rooms and users in self-moderated group conversations can now upload and organize files in folders. Users can toggle between “Messages” and “Files” tabs to access relevant content and streamline collaboration.\n  AWS Wickr is a security-first messaging and collaboration service with features designed to help keep your internal and external communications secure, private, and compliant. AWS Wickr protects one-to-one and group messaging, voice and video calling, file sharing, screen sharing, and location sharing with end-to-end encryption. Customers have full administrative control over data, which includes addressing information governance polices, configuring ephemeral messaging options, and deleting credentials for lost or stolen devices. You can log both internal and external conversations in an AWS Wickr network to a private data store that you manage, for data retention and auditing purposes.\n  AWS Wickr is available in commercial AWS Regions that include US East (N. Virginia), AWS Canada (Central), AWS Asia Pacific (Malaysia, Singapore, Sydney, and Tokyo), and AWS Europe (London, Frankfurt, Stockholm, and Zurich). It is also available in AWS GovCloud (US-West) as Department of Defense Impact Level 5 (DoD IL5)-authorized AWS WickrGov.\n  To learn more and get started, see the following resources:\n \n \n \nAWS Wickr product detail page\n \n \nAWS Wickr user guide\n \n \nAWS Wickr administration guide",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-wickr-dedicated-space-organize-access-files",
+          "publishedOn": "2025-02-05T18:00:00.000Z",
+          "wordCount": 1092,
+          "title": "AWS Wickr now provides a dedicated space to organize and access files",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e14acbc7c3e97ecadf4fc26d1eb06a9c9660fca3",
+          "author": "aws@amazon.com",
+          "description": "AWS Database Migration Service Serverless (AWS DMSS) now supports files on S3 source endpoints. Using AWS DMSS, you can now migrate data in CSV or parquet format from S3 to any supported AWS DMSS target endpoint. AWS DMSS supports both full load and Change Data Capture (CDC) migration modes for CSV and Parquet files with S3 source endpoints using AWS DMS console, AWS CLI, or AWS SDKs in all regions where DMSS is available.\n  For information about AWS DMS S3 source endpoints see DMS S3. Visit AWS DMS to get started.\n  For AWS DMS regional availability, please refer to the AWS Region Table.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/general-availability-aws-database-migration-service-serverless-files-s3-source-endpoint",
+          "publishedOn": "2025-02-05T18:00:00.000Z",
+          "wordCount": 862,
+          "title": "Announcing the general availability of AWS Database Migration Service Serverless support for files with an S3 source endpoint",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9551c9d63f761514407129ffbaf7109671b804af",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift announces the general availability of Query Editor V2 with Amazon Redshift in the Asia Pacific (Malaysia) region. Amazon Redshift Query Editor V2 makes data in your Amazon Redshift data warehouse and data lake more accessible with a web-based tool for SQL users such as data analysts, data scientists, and database developers. With Amazon Redshift Query Editor V2, users can explore, analyze, and collaborate on data. It reduces the operational costs of managing query tools by providing a web-based application that allows you to focus on exploring your data without managing your infrastructure.\n  The Amazon Redshift Query Editor V2 is a separate web-based SQL client application that you use to author and run queries on your Amazon Redshift data warehouse. You can use it to edit and run queries, visualize results, and share your work with your team. With Amazon Redshift Query Editor V2, you can create databases, schemas, tables, and user-defined functions (UDFs). In a tree-view panel, for each of your databases, you can view its schemas. For each schema, you can view its tables, views, UDFs, and stored procedures. The Amazon Redshift Query Editor V2 comes with sample data and notebooks available for you to be loaded into a sample database and corresponding schema. You can use it to load data into a database in an Amazon Redshift cluster or workgroup.\n  To learn more, see the documentation or the demo.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-redshift-query-editor-v2-malaysia-region/",
+          "publishedOn": "2025-02-05T18:00:00.000Z",
+          "wordCount": 1104,
+          "title": "Amazon Redshift Query Editor V2 is now available in Asia Pacific (Malaysia) region",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "09a9287ed65d5a6857a6165db4419a7e5dade0ed",
+          "author": "aws@amazon.com",
+          "description": "AWS Step Functions has increased the default quota for the maximum number of registered state machines and activities from 10,000 to 100,000. This tenfold increase enables customers to create and manage significantly more workflows within a single AWS account, providing greater scalability and flexibility.\n  AWS Step Functions is a visual workflow service capable of orchestrating over 14,000+ API actions from over 220 AWS services to build distributed applications and orchestrate data processing workloads. With this quota increase, customers can now create up to 100,000 state machines and activities, unblocking use cases that require a large number of workflows such as applications that dynamically create new workflows. This new quota is automatically applied to all AWS accounts and requires no action on your part.\n  This quota increase is available in all AWS Regions where Step Functions is available. To learn more, see the AWS Step Functions Developer Guide.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-step-functions-100-000-state-machines-activities-account/",
+          "publishedOn": "2025-02-05T18:00:00.000Z",
+          "wordCount": 932,
+          "title": "AWS Step Functions now supports 100,000 state machines and activities per AWS account",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "6b6d43e4204ea19d325bd80dedba4da2f67cf6d0",
           "author": "aws@amazon.com",
           "description": "Contact Lens now enables businesses to send automatic email notifications to agents when their contacts are evaluated, so they can review the evaluations and improve their performance. Managers can create rules to send emails based on specific evaluation criteria. For example, you can set up automatic notifications for agents who receive evaluation scores below 50%, ensuring prompt attention to performance opportunities. Managers can also personalize email content based on performance levels — whether recognizing top performers or providing constructive guidance for improvement areas.\n  This feature is available in all regions where Contact Lens performance evaluations are already available. To learn more, please visit our documentation and our webpage. For information about Contact Lens pricing, please visit our pricing page.",
@@ -1095,6 +1405,16 @@
           "publishedOn": "2025-02-04T22:59:00.000Z",
           "wordCount": 876,
           "title": "Amazon Connect Contact Lens can now automatically email agents about completed performance evaluations",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6ab9c99ccc96fcecdf4c809159db08d32b4188de",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudWatch and OpenSearch Service integrated analytics experience is now available in 2 additional commercial regions: Asia Pacific (Hong Kong) and Europe (Stockholm).\n  With this integration, CloudWatch Logs customers have two more query languages for log analytics, in addition to CloudWatch Logs Insights QL. Customers can use SQL to analyze data, correlate logs using JOIN, sub-queries, and use SQL functions, namely, JSON, mathematical, datetime, and string functions for intuitive log analytics. They can also use the OpenSearch PPL to filter, aggregate and analyze their data. With a few clicks, CloudWatch Logs customers can create OpenSearch dashboards for VPC, WAF, and CloudTrail logs to monitor, analyze, and troubleshoot using visualizations derived from the logs. OpenSearch customers no longer have to copy logs from CloudWatch for analysis, or create ETL pipelines. Now, they can use OpenSearch Discover to analyze CloudWatch logs in-place, and build indexes and dashboards on CloudWatch Logs.\n  With this launch the integrated experience is now generally available in Asia Pacific (Hong Kong) and Europe (Stockholm) along with regions where OpenSearch Service direct query is available. Please read pricing and free tier details on Amazon CloudWatch Pricing, and OpenSearch Service Pricing. To get started, please refer to Amazon CloudWatch Logs vended dashboard and Amazon OpenSearch Service Developer Guide.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-cloudwatch-opensearch-service-expand-region-integrated-analytics-experience",
+          "publishedOn": "2025-02-04T22:55:00.000Z",
+          "wordCount": 1057,
+          "title": "Amazon CloudWatch and OpenSearch Service expand region support for integrated analytics experience",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
@@ -2185,6 +2505,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/aws/",
       "articles": [
         {
+          "id": "45df78d6e1541d0e1dafd59a8eab514e9f34e36a",
+          "author": "Sébastien Stormacq",
+          "description": "AWS CodeBuild now includes pre-installed Fastlane in macOS environments, streamlining mobile app development by providing built-in access to automated tools for code signing, testing, and app distribution, without manual setup requirements.",
+          "link": "https://aws.amazon.com/blogs/aws/codebuild-for-macos-adds-support-for-fastlane/",
+          "publishedOn": "2025-02-05T23:00:35.000Z",
+          "wordCount": 3550,
+          "title": "AWS CodeBuild for macOS adds support for Fastlane",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2025/01/31/CodeBuild-feat-img2.png"
+        },
+        {
           "id": "9767a7610b3a3be92918cae47f5c700e5dd0e86e",
           "author": "Donnie Prakoso",
           "description": "Last week, I had an amazing time attending AWS Community Day Thailand in Bangkok. This event came at an exciting time, following the recent launch of the AWS Asia Pacific (Bangkok) Region. We had over 300 attendees and featured 15 speakers from the community, including an AWS Hero and 4 AWS Community Builders who shared […]",
@@ -2268,16 +2598,6 @@
           "wordCount": 2083,
           "title": "Announcing the new AWS Asia Pacific (Thailand) Region",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2024/12/11/RL_Mango__Blog_Thumbnail_800x400.png"
-        },
-        {
-          "id": "4fa89b3af496404ca2ee8f7c6b9813035cee90e6",
-          "author": "Prasad Rao",
-          "description": "Happy New Year! We are witnessing technology augment human ingenuity in inspiring ways. In the coming years, using technology for positive impact will redefine the way we think about success. Amazon CTO, Dr. Werner Vogels, offers five forward-looking tech predictions for 2025, and beyond: The workforce of tomorrow is mission-driven A new era of energy […]",
-          "link": "https://aws.amazon.com/blogs/aws/happy-new-year-aws-weekly-roundup-2025-tech-predictions-llama-3-3-70b-stable-diffusion-3-5-large-custom-billing-view-and-more-january-6-2025/",
-          "publishedOn": "2025-01-06T18:12:56.000Z",
-          "wordCount": 1664,
-          "title": "Happy New Year! AWS Weekly Roundup: 2025 Tech Predictions, Llama 3.3 70B, Stable Diffusion 3.5 Large, custom billing view, and more (January 6, 2025)",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2023/08/13/AWS-WIR-default.png"
         }
       ]
     },
@@ -2415,16 +2735,6 @@
           "wordCount": 2395,
           "title": "Use CI/CD best practices to automate Amazon OpenSearch Service cluster management operations",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/07/featured-images-BDB-4523-1120x630.jpg"
-        },
-        {
-          "id": "8f15a53dd64c587182d5abdf7a628578dec36f03",
-          "author": "Ritesh Sinha",
-          "description": "Amazon AppFlow bridges the gap between Google applications and Amazon Redshift, empowering organizations to unlock deeper insights and drive data-informed decisions. In this post, we show you how to establish the data ingestion pipeline between Google Analytics 4, Google Sheets, and an Amazon Redshift Serverless workgroup.",
-          "link": "https://aws.amazon.com/blogs/big-data/ingest-data-from-google-analytics-4-and-google-sheets-to-amazon-redshift-using-amazon-appflow/",
-          "publishedOn": "2025-01-06T18:52:09.000Z",
-          "wordCount": 4156,
-          "title": "Ingest data from Google Analytics 4 and Google Sheets to Amazon Redshift using Amazon AppFlow",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/06/featured-images-BDB-4269-1120x630.jpg"
         }
       ]
     },
@@ -2551,6 +2861,26 @@
       "feedUrl": "https://aws.amazon.com/blogs/security/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/security/",
       "articles": [
+        {
+          "id": "ab0394202b9c22d7393dc13ee7adacf249e04617",
+          "author": "Joseph Goh",
+          "description": "Amazon Web Services (AWS) is pleased to announce the renewal of the Multi-Tier Cloud Security (MTCS) Level 3 certification under the SS584:2020 standard in December 2024 for the Asia Pacific (Singapore), Asia Pacific (Seoul), and United States AWS Regions, excluding AWS GovCloud (US) Regions. This achievement reaffirms our commitment to maintaining the highest security standards for our global […]",
+          "link": "https://aws.amazon.com/blogs/security/aws-renews-mtcs-level-3-certification-under-the-ss5842020-standard/",
+          "publishedOn": "2025-02-05T21:30:13.000Z",
+          "wordCount": 1283,
+          "title": "AWS renews MTCS Level 3 certification under the SS584:2020 standard",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/02/04/2024_MTCS.jpg"
+        },
+        {
+          "id": "0b8c5976b9aabf45a17680c40e9247f1d81d1d97",
+          "author": "Tushar Jagdale",
+          "description": "AWS Network Firewall is a managed, stateful network firewall and intrusion protection service that you can use to implement firewall rules for fine grained control over your network traffic. With Network Firewall, you can filter traffic at the perimeter of your virtual private cloud (VPC); including filtering traffic going to and coming from an internet […]",
+          "link": "https://aws.amazon.com/blogs/security/how-aws-network-firewall-session-state-replication-maximizes-high-availability-for-your-application-traffic/",
+          "publishedOn": "2025-02-05T17:01:59.000Z",
+          "wordCount": 1777,
+          "title": "How AWS Network Firewall session state replication maximizes high availability for your application traffic",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/02/04/2856-main.jpg"
+        },
         {
           "id": "502a9def16922d010160763a5431a1529b61b1d1",
           "author": "Riggs Goodman III",
@@ -2750,16 +3080,6 @@
           "wordCount": 2962,
           "title": "Customize the scope of IAM Access Analyzer unused access analysis",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2024/12/26/IA2_UnusedAccessScoping_5ibeg1g.jpg"
-        },
-        {
-          "id": "ba2dd849ee880621d59deaade872bab54ae3144c",
-          "author": "ZhiWei Huang",
-          "description": "Amazon Macie is a managed service that uses machine learning (ML) and deterministic pattern matching to help discover sensitive data that’s stored in Amazon Simple Storage Service (Amazon S3) buckets. Macie can detect sensitive data in many different formats, including commonly used compression and archive formats. However, Macie doesn’t support the discovery of sensitive data […]",
-          "link": "https://aws.amazon.com/blogs/security/how-to-enhance-amazon-macie-data-discovery-capabilities-using-amazon-textract/",
-          "publishedOn": "2025-01-06T17:02:27.000Z",
-          "wordCount": 3128,
-          "title": "How to enhance Amazon Macie data discovery capabilities using Amazon Textract",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2024/12/30/Amazon-Textract-image.jpg"
         }
       ]
     },
@@ -2799,7 +3119,7 @@
     {
       "title": "Be a Better Dev",
       "feedUrl": "https://beabetterdev.com/feed/",
-      "siteUrl": "https://www.beabetterdev.com/",
+      "siteUrl": "https://beabetterdev.com/",
       "articles": []
     },
     {
@@ -2916,6 +3236,16 @@
           "wordCount": null,
           "title": "Lost and Found",
           "imageUrl": null
+        },
+        {
+          "id": "https://birming.com/bear-blog-question-challenge/",
+          "author": null,
+          "description": "First of all, I want to take this opportunity to thank Ava for the mention and the lovely \"Bear blog question challenge\" initiative. Thank you!\nI've wanted to post a reply since I first saw the post, but I've (once again) had some serious blogging-in-English-doubts lately. But I won’t bore you with that. So without further ado, here are my answers:\nWhy did you make the blog in the first place?\nI have blogged on and off in my native language, Swedish, for over 20 years. With this blog, I wanted to make an honest attempt to blog in English (which, as mentioned, is going so-so). I want to keep the blog alive, but I don’t dare hope for too much. Regardless, I will definitely continue blogging in one way or another. In my opinion, blogging is the optimal way to write. It’s creative and inspirin…",
+          "link": "https://birming.com/bear-blog-question-challenge/",
+          "publishedOn": "2025-01-20T11:12:00.000Z",
+          "wordCount": 1075,
+          "title": "Bear Blog Question Challenge",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
         }
       ]
     },
@@ -3134,16 +3464,6 @@
           "wordCount": 3061,
           "title": "Becoming an AWS (Serverless) Hero",
           "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6tai529pr22svjl8o1pd.png"
-        },
-        {
-          "id": "https://dev.to/aws-heroes/spring-boot-3-application-on-aws-lambda-part-14-measuring-cold-and-warm-starts-with-graalvm-3ab6",
-          "author": "Vadym Kazulkin",
-          "description": "Introduction\n\n\nIn the article part 12 of our series we explored how to develop and deploy Lambda function with Custom Runtime containing GraalVM Native Image with GraalVM 22 runtime created from Spring Cloud Function AWS application. In the part 13 we measured performance (cold and warm starts) of such a Lambda function with 1024 MB of memory. \nIn this article, we'll measure the performance (cold and warm starts) of the Lambda function using this approach with different memory settings between 256 and 1536 MBs to explore the trade-off between cost and performance.\nWe'll re-use exact the same experiment described in the part 13 of this article series but with different memory settings between 256 and 1536 MBs.\nHere are results of the experiment:\nCold (c) and warm (m) start time in ms:\n\n\n\nMe…",
-          "link": "https://dev.to/aws-heroes/spring-boot-3-application-on-aws-lambda-part-14-measuring-cold-and-warm-starts-with-graalvm-3ab6",
-          "publishedOn": "2025-01-06T14:36:16.000Z",
-          "wordCount": 1915,
-          "title": "Spring Boot 3 application on AWS Lambda - Part 14 Measuring cold and warm starts with GraalVM Native Image and memory settings",
-          "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizh8cs69berfz9xlbvkf.png"
         }
       ]
     },
@@ -3327,6 +3647,16 @@
       "feedUrl": "https://hamatti.org/feed/feed.xml",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://hamatti.org/posts/on-mentorships/",
+          "author": null,
+          "description": "first episode of Three Rules podcast\n  and D’Avella and Holiday discussing what mentoring means to them and how to\n  get into a mentorship relationship, I started thinking about mentoring for a\n  few good days.\n\n\n\n  Both Ryan Holiday and\n  Simon Sinek\n  share the same story in these interviews: you don’t just walk to someone and\n  ask them to be your mentor. Similarly than you wouldn’t walk to a stranger and\n  ask if they’d wanna be your friend or get married to you. Mentorship is a\n  relationship between two people and the most effective ones have in my\n  experience too been the ones that form naturally.\n\n\n\n  That’s not to say that we can’t do anything to help form them. But making them\n  formal and following a “mentorship program” has led me to bad experiences\n  because there’s too much …",
+          "link": "https://hamatti.org/posts/on-mentorships/",
+          "publishedOn": "2025-02-05T00:00:00.000Z",
+          "wordCount": 1958,
+          "title": "Look for deep discussions, not a mentorship",
+          "imageUrl": "https://hamatti.org/assets/img/posts/on-mentorships/on-mentorships-cover.png"
+        },
         {
           "id": "https://hamatti.org/posts/external-from-juhis-with-love-001-musical-prelude/",
           "author": null,
@@ -3937,22 +4267,6 @@
             "length": "3037296"
           },
           "imageUrl": null
-        },
-        {
-          "id": "FFD6004E-8038-4B08-A9A5-822B60BAE42E",
-          "author": "Louie Mantia",
-          "description": "I don’t understand the value of AI summaries compared to traditional truncation. While some headlines are indeed long, summarizing them will always remove context the original publisher thought was necessary. (The same is true for personal messages, but that’s not what this is about.)\nHeadlines are already shortened versions of entire articles. It serves seemingly no purpose at all to summarize them. If Apple wants to—for some reason—further limit the amount of text visible in a stack of notifications to three lines, the better solution is to simply show three truncated headlines, not the Apple Intelligence semicolon-separated summarized headlines.\nAs it stands, a lot of Apple Intelligence is poorly designed. “Beta” or not, this is irresponsible, especially coming from a company with this much power and influence.\nOne of the reasons we have mobile screens that are the entire front face of a device (that is, without buttons) was so we wouldn’t be so limited to display all the necessary information alongside the UI for the visible content.\nWhy is Apple so averse to users just scrolling? What’s actually wrong with a scrolling list of notifications? If a headline needs the full size of a notification, so be it. Scrolling is effectively infinite. The Lock Screen serves almost no other purpose than to display notifications. What space are they actually saving?\nIf you like this, you can make a donation or buy something from my shop.",
-          "link": "https://lmnt.me/blog/ai-summaries.html",
-          "publishedOn": "2025-01-07T06:25:00.000Z",
-          "wordCount": null,
-          "title": "AI Summaries",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://lmnt.me/files/audio/ai-summaries.m4a",
-            "type": "audio/x-m4a",
-            "length": "2346290"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -4069,6 +4383,256 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/",
+          "publishedOn": "2025-02-06T01:13:32.000Z",
+          "wordCount": 3078,
+          "title": "Human Brain May Contain as Much as a Spoon's Worth of Microplastics",
+          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/sltWKLRnJWtiiMxE9YsE_ePXYdU=/fit-in/1200x0/filters:focal(1920x1097:1921x1098)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2F3a%2F9d%2F3a9d4ead-68d3-4254-bbc5-ae88fb9ca70e%2Fmicroplastics-in-lab.png"
+        },
+        {
+          "id": "https://idiallo.com/blog/listen-mp3-is-free",
+          "author": null,
+          "description": "Comments",
+          "link": "https://idiallo.com/blog/listen-mp3-is-free",
+          "publishedOn": "2025-02-06T00:41:43.000Z",
+          "wordCount": 3714,
+          "title": "You Didn't Notice MP3 Is Now Free",
+          "imageUrl": "https://cdn.idiallo.com/images/assets/thumb/default-thumb.jpg"
+        },
+        {
+          "id": "https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md",
+          "publishedOn": "2025-02-05T21:42:20.000Z",
+          "wordCount": 4317,
+          "title": "It's unlikely that there will be any further releases of mt32-pi",
+          "imageUrl": "https://repository-images.githubusercontent.com/79130283/11c9d380-4fd5-11eb-9351-ff88511bb688"
+        },
+        {
+          "id": "https://scrollprize.substack.com/p/exciting-news-from-scroll-5",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scrollprize.substack.com/p/exciting-news-from-scroll-5",
+          "publishedOn": "2025-02-05T21:23:09.000Z",
+          "wordCount": null,
+          "title": "News from Scroll 5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/",
+          "publishedOn": "2025-02-05T21:10:25.000Z",
+          "wordCount": 3620,
+          "title": "Okta Bcrypt incident lessons for designing better APIs",
+          "imageUrl": "https://n0rdy.foo/covers/drawings/20250122.webp"
+        },
+        {
+          "id": "https://www.highergov.com/contract-opportunity/active-social-engineering-defense-ased-hr001117s0050-p-67f55/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.highergov.com/contract-opportunity/active-social-engineering-defense-ased-hr001117s0050-p-67f55/",
+          "publishedOn": "2025-02-05T20:26:00.000Z",
+          "wordCount": 822,
+          "title": "DARPA solicitation for the Active Social Engineering Defense program (2017)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42953508",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42953508",
+          "publishedOn": "2025-02-05T19:08:12.000Z",
+          "wordCount": 15183,
+          "title": "Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://explaining.software/archive/the-sudoku-affair/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://explaining.software/archive/the-sudoku-affair/",
+          "publishedOn": "2025-02-05T18:43:28.000Z",
+          "wordCount": 3442,
+          "title": "The Sudoku Affair",
+          "imageUrl": "https://buttondown.com/static/images/icons/icon-square@400.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+          "publishedOn": "2025-02-05T18:29:30.000Z",
+          "wordCount": null,
+          "title": "Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sergey.fyi/articles/gemini-flash-2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sergey.fyi/articles/gemini-flash-2",
+          "publishedOn": "2025-02-05T18:05:28.000Z",
+          "wordCount": 79,
+          "title": "Ingesting PDFs and why Gemini 2.0 changes everything",
+          "imageUrl": "https://sergey-filimonov.nyc3.cdn.digitaloceanspaces.com/personal-site/botmoji-peaking-out.png"
+        },
+        {
+          "id": "https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes",
+          "publishedOn": "2025-02-05T18:04:20.000Z",
+          "wordCount": 693,
+          "title": "Running ArchiveTeam's Warrior in Kubernetes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/ploomber/jobs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/ploomber/jobs",
+          "publishedOn": "2025-02-05T17:00:43.000Z",
+          "wordCount": 394,
+          "title": "Ploomber (YC W22) Is Hiring Engineers (Infra, Backend, Growth) and Ex-Founders",
+          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/a80c6b2e447bdd5f64d0d57fec5b827b2540c887.png?1701886253"
+        },
+        {
+          "id": "https://tradingeconomics.com/commodity/eggs-us",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tradingeconomics.com/commodity/eggs-us",
+          "publishedOn": "2025-02-05T16:31:24.000Z",
+          "wordCount": null,
+          "title": "Eggs US – Price – Chart",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.axios.com/2025/02/04/trump-buyout-federal-workers-20000",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.axios.com/2025/02/04/trump-buyout-federal-workers-20000",
+          "publishedOn": "2025-02-05T16:23:10.000Z",
+          "wordCount": 1543,
+          "title": "20k federal workers take \"buyout\" so far, official says",
+          "imageUrl": "https://images.axios.com/3ZvBqd72melFAc2kfhbtZL2xs0g=/0x0:1920x1080/1366x768/2025/02/04/1738674582385.jpg"
+        },
+        {
+          "id": "https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/",
+          "publishedOn": "2025-02-05T16:03:18.000Z",
+          "wordCount": 2006,
+          "title": "Gemini 2.0 is now available to everyone",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_28.01.25_keyword_social.width-1300.png"
+        },
+        {
+          "id": "https://servo.org/blog/2025/01/31/servo-in-2024/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://servo.org/blog/2025/01/31/servo-in-2024/",
+          "publishedOn": "2025-02-05T15:03:09.000Z",
+          "wordCount": 818,
+          "title": "Servo's progress in 2024",
+          "imageUrl": "/img/servo-color-positive.png"
+        },
+        {
+          "id": "https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/",
+          "publishedOn": "2025-02-05T14:55:03.000Z",
+          "wordCount": 3599,
+          "title": "Avoiding outrage fatigue while staying informed",
+          "imageUrl": "https://static.scientificamerican.com/dam/m/225cfca2d98f2cb5/original/SQ-Wednesday-EP-Art.png?m=1716342177.955&w=1200"
+        },
+        {
+          "id": "https://resobscura.substack.com/p/the-familiar-loneliness-of-the-kinetoscope",
+          "author": null,
+          "description": "Comments",
+          "link": "https://resobscura.substack.com/p/the-familiar-loneliness-of-the-kinetoscope",
+          "publishedOn": "2025-02-05T14:51:53.000Z",
+          "wordCount": null,
+          "title": "The familiar loneliness of the Kinetoscope",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/",
+          "publishedOn": "2025-02-05T14:47:32.000Z",
+          "wordCount": 3554,
+          "title": "Why is Warner Bros. Discovery putting old movies on YouTube?",
+          "imageUrl": "https://v1.screenshot.11ty.dev/https%3A%2F%2Ftedium.co%2Fog-images%2F2025%2F02%2F05%2Fwarner-bros-youtube-full-movie-releases%2F/opengraph/?v=1738778965"
+        },
+        {
+          "id": "https://timkellogg.me/blog/2025/02/03/s1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://timkellogg.me/blog/2025/02/03/s1",
+          "publishedOn": "2025-02-05T11:05:40.000Z",
+          "wordCount": 1303,
+          "title": "S1: A $6 R1 competitor?",
+          "imageUrl": "https://timkellogg.mehttps://cdn.pixabay.com/photo/2024/08/13/16/50/ai-generated-8966531_960_720.png"
+        },
+        {
+          "id": "https://chromestatus.com/feature/5135990159835136",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chromestatus.com/feature/5135990159835136",
+          "publishedOn": "2025-02-05T10:49:12.000Z",
+          "wordCount": 37,
+          "title": "Chrome 133 Supports DOM State-Preserving Move with moveBefore()",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chriskiehl.com/article/thoughts-after-10-years",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chriskiehl.com/article/thoughts-after-10-years",
+          "publishedOn": "2025-02-05T09:50:30.000Z",
+          "wordCount": 502,
+          "title": "Software development topics I've changed my mind on",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gmsl.jgc.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gmsl.jgc.org/",
+          "publishedOn": "2025-02-05T07:30:59.000Z",
+          "wordCount": 2334,
+          "title": "GNU Make Standard Library",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tracingwoodgrains.com/p/the-full-story-of-the-faas-hiring",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tracingwoodgrains.com/p/the-full-story-of-the-faas-hiring",
+          "publishedOn": "2025-02-05T05:25:19.000Z",
+          "wordCount": 14195,
+          "title": "The FAA’s Hiring Scandal",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc92f502e-b4ef-48a0-8125-bfa49afe9efc_1024x1024.webp"
+        },
+        {
+          "id": "https://www.jordanroga.com/blog/introducing-a-hexagonal-tiled-cartogram-for-u-s-counties",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jordanroga.com/blog/introducing-a-hexagonal-tiled-cartogram-for-u-s-counties",
+          "publishedOn": "2025-02-05T03:18:22.000Z",
+          "wordCount": 1258,
+          "title": "A hexagonal-tiled cartogram for U.S. counties",
+          "imageUrl": null
+        },
         {
           "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840",
           "author": null,
@@ -4298,6 +4862,16 @@
           "wordCount": 671,
           "title": "DeepRAG: Thinking to retrieval step by step for large language models",
           "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42926359",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42926359",
+          "publishedOn": "2025-02-04T01:40:06.000Z",
+          "wordCount": 1485,
+          "title": "Ask HN: Do you know travel blogs that have animated SVG maps of their travels?",
+          "imageUrl": null
         },
         {
           "id": "https://gamehistory.org/vghf-library-launch/",
@@ -4538,6 +5112,26 @@
           "wordCount": 4780,
           "title": "Anything threatening to be a subculture is commodified before it can walk (2014)",
           "imageUrl": "https://static.dezeen.com/uploads/2014/12/sci-fi-city-justin-mcguirk-opinion_dezeen_sq01.jpg"
+        },
+        {
+          "id": "https://www.zompist.com/kit.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.zompist.com/kit.html",
+          "publishedOn": "2025-02-03T12:31:15.000Z",
+          "wordCount": 606,
+          "title": "The Language Construction Kit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/DiscordMessenger/dm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/DiscordMessenger/dm",
+          "publishedOn": "2025-02-03T11:49:49.000Z",
+          "wordCount": 4799,
+          "title": "Discord client that works on Win95*, Win98 and above",
+          "imageUrl": "https://opengraph.githubassets.com/7a976dde29517e34ed29668d6d0dab571870d52688824a7b3147f19bc9f95ebe/DiscordMessenger/dm"
         },
         {
           "id": "https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/",
@@ -4790,6 +5384,16 @@
           "imageUrl": "https://app.fluentsubs.com/logo_og.webp"
         },
         {
+          "id": "https://winnielim.org/journal/minimum-effective-dose/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://winnielim.org/journal/minimum-effective-dose/",
+          "publishedOn": "2025-02-02T04:43:00.000Z",
+          "wordCount": 1463,
+          "title": "Minimum effective dose",
+          "imageUrl": "https://winnielim.org/wp-content/uploads/2025/02/20250201-IMG_5053.jpg"
+        },
+        {
           "id": "https://handmadecities.com/news/splitting-from-handmade-network/",
           "author": null,
           "description": "Comments",
@@ -4798,6 +5402,16 @@
           "wordCount": 860,
           "title": "Splitting from Handmade Network",
           "imageUrl": "/images/hmc/glass.jpg"
+        },
+        {
+          "id": "https://www.sfgate.com/bayarea/article/elusive-california-mammal-photographed-20040772.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sfgate.com/bayarea/article/elusive-california-mammal-photographed-20040772.php",
+          "publishedOn": "2025-02-02T01:32:33.000Z",
+          "wordCount": null,
+          "title": "A Mount Lyell shrew has just been photographed alive",
+          "imageUrl": null
         },
         {
           "id": "https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act",
@@ -5747,6 +6361,22 @@
       "siteUrl": "https://newsletter.pragmaticengineer.com",
       "articles": [
         {
+          "id": "https://newsletter.pragmaticengineer.com/p/ai-engineering-with-chip-huyen",
+          "author": "Gergely Orosz",
+          "description": "On today’s episode of The Pragmatic Engineer, I’m joined by Chip Huyen, a computer scientist, author of the freshly published O’Reilly book AI Engineering, and an expert in applied machine learning.",
+          "link": "https://newsletter.pragmaticengineer.com/p/ai-engineering-with-chip-huyen",
+          "publishedOn": "2025-02-05T17:06:23.000Z",
+          "wordCount": null,
+          "title": "AI Engineering with Chip Huyen",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/156423504/ffce485115291887100b32cc67e75967.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://newsletter.pragmaticengineer.com/p/thronefall",
           "author": "Gergely Orosz",
           "description": "In today’s episode of The Pragmatic Engineer, I’m joined by Jonas Tyroller, one of the developers behind Thronefall, a minimalist indie strategy game that blends tower defense and kingdom-building.",
@@ -5816,18 +6446,7 @@
       "title": "Nicola Iarocci",
       "feedUrl": "https://nicolaiarocci.com/index.xml",
       "siteUrl": "https://nicolaiarocci.com/",
-      "articles": [
-        {
-          "id": "https://nicolaiarocci.com/fattura-elettronica-v3.5.2/",
-          "author": null,
-          "description": "I just released FatturaElettronica .NET v3.5.2. It gets around a known CVE so you may want to update ASAP. The Fattura Elettronica open-source project allows for the validation and de/serialization of electronic invoices that adhere to the standard defined by the Italian Revenue Agency.",
-          "link": "https://nicolaiarocci.com/fattura-elettronica-v3.5.2/",
-          "publishedOn": "2025-01-07T10:38:52.000Z",
-          "wordCount": null,
-          "title": "Fattura Elettronica v3.5.2",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "passo.uno",
@@ -12263,6 +12882,16 @@
       "siteUrl": "https://shkspr.mobi/blog",
       "articles": [
         {
+          "id": "https://shkspr.mobi/blog/2025/02/fosdem-the-good-parts-and-the-not-so-good-parts/",
+          "author": null,
+          "description": "I&#039;m just back from my first ever FOSDEM - a megaconference dedicated to Free and Open Source technology and culture. It was epic.  I&#039;m still ruminating on the experience, but here are my first impressions of what did and didn&#039;t work.  The Good Bits  Really, it is a dozen conferences squeezed into one.  Over a thousand talks, on a seemingly infinite array of subjects, about a million people crammed into one tram from Brussels city centre, and a panoply of wonderful humans with crazy ideas on how …",
+          "link": "https://shkspr.mobi/blog/2025/02/fosdem-the-good-parts-and-the-not-so-good-parts/",
+          "publishedOn": "2025-02-05T12:34:31.000Z",
+          "wordCount": null,
+          "title": "FOSDEM - The Good Parts and the Not-So-Good Parts",
+          "imageUrl": null
+        },
+        {
           "id": "https://shkspr.mobi/blog/2025/01/book-review-queen-b-by-juno-dawson/",
           "author": null,
           "description": "I rather enjoyed HMRC (Her Majesty&#039;s Royal Coven) and The Shadow Cabinet by Juno Dawson. This is a sort-of prequel to the series. What if Anne Boleyn was a witch?!?!  It&#039;s a fun enough book, but doesn&#039;t really go anywhere. Part of the problem is that the stories chapters flip back and forth in time. It is a tired literary trick and robs us of the gradual build-up of the characters. There&#039;s no real dramatic tension and no chance to guess which witch is wickedest.  It also suffers from a lack of… …",
@@ -12439,6 +13068,56 @@
       "feedUrl": "https://simonwillison.net/atom/everything/",
       "siteUrl": "http://simonwillison.net/",
       "articles": [
+        {
+          "id": "https://simonwillison.net/2025/Feb/5/s1-the-6-r1-competitor/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://timkellogg.me/blog/2025/02/03/s1\">S1: The $6 R1 Competitor?</a></strong></p>\nTim Kellogg shares his notes on a new paper, <a href=\"https://arxiv.org/abs/2501.19393\">s1: Simple test-time scaling</a>, which describes an inference-scaling model fine-tuned on top of Qwen2.5-32B-Instruct for just $6 - the cost for 26 minutes on 16 NVIDIA H100 GPUs.</p>\n<p>Tim highlight the most exciting result:</p>\n<blockquote>\n<p>After sifting their dataset of 56K examples down to just the best 1K, they found that the core 1K is all that's needed to achieve o1-preview performance on a 32B model.</p>\n</blockquote>\n<p>The paper describes a technique called \"Budget forcing\":</p>\n<blockquote>\n<p>To enforce a minimum, we suppress the generation\nof the end-of-thinking token delimiter and optionally append\nthe string “Wait” to the model’s current reasoning trace to\nencourage the model to reflect on its current generation</p>\n</blockquote>\n<p>That's the same trick Theia Vogel described <a href=\"https://simonwillison.net/2025/Jan/22/r1py/\">a few weeks ago</a>.</p>\n<p>Here's the <code>s1-32B</code> model <a href=\"https://huggingface.co/simplescaling/s1-32B\">on Hugging Face</a>. I found a GGUF version of it at <a href=\"https://huggingface.co/brittlewis12/s1-32B-GGUF\">brittlewis12/s1-32B-GGUF</a>, which I ran using <a href=\"https://ollama.com/\">Ollama</a> like so:</p>\n<pre><code>ollama run hf.co/brittlewis12/s1-32B-GGUF:Q4_0\n</code></pre>\n<p>I also found those 1,000 samples on Hugging Face in the <a href=\"https://huggingface.co/datasets/simplescaling/s1K\">simplescaling/s1K</a> data repository there.</p>\n<p>I used DuckDB to convert the parquet file to CSV (and turn one <code>VARCHAR[]</code> column into JSON):</p>\n<pre><code>COPY (\n    SELECT \n      solution,\n      question,\n      cot_type,\n      source_type,\n      metadata,\n      cot,\n      json_array(thinking_trajectories) as thinking_trajectories,\n      attempt\n    FROM 's1k-00001.parquet'\n) TO 'output.csv' (HEADER, DELIMITER ',');\n</code></pre>\n<p>Then I loaded that CSV into <a href=\"https://sqlite-utils.datasette.io/\">sqlite-utils</a> so I could use the <code>convert</code> command to turn a Python data structure into JSON using <code>json.dumps()</code> and <code>eval()</code>:</p>\n<pre><code># Load into SQLite\nsqlite-utils insert s1k.db s1k output.csv --csv\n# Fix that column\nsqlite-utils convert s1k.db s1u metadata 'json.dumps(eval(value))' --import json\n# Dump that back out to CSV\nsqlite-utils rows s1k.db s1k --csv &gt; s1k.csv\n</code></pre>\n<p>Here's that CSV <a href=\"https://gist.github.com/simonw/048385f27e351c11b488bd9737452fa7\">in a Gist</a>, which means I can <a href=\"https://lite.datasette.io/?install=datasette-pretty-json&amp;csv=https://gist.githubusercontent.com/simonw/048385f27e351c11b488bd9737452fa7/raw/5270dacc5aa4a7385f9a6e3d691c81cf3595abc9/s1k.csv#/data/s1k?_facet=cot_type\">load it into Datasette Lite</a>.</p>\n<p><img alt=\"Screenshot of Datasette Lite showing cot_type 1, crossword 15, Link: 93, rowid: 93, solution: &quot;### Answer: INCIDENT ROOM ### Explanation: Definition: investigators' facility **Anagram of**(... changes) NOTICED MINOR. Defn: ... in a police station.&quot; Question text: &quot;Solve the crossword puzzle. You are presented with a clue as input and the number of letters in brackets.&quot; Clue: &quot;Noticed minor changes in investigators' facility (8,4)&quot; cot_type: crossword, source_type: 0xharib/xword1, metadata: { &quot;instruction&quot;: &quot;You are an expert level solver of cryptic crosswords. You are presented with a clue as input. Respond with the answer and explanation.&quot; }\" src=\"https://static.simonwillison.net/static/2025/s1k.jpg\" /></p>\n<p>It really is a tiny amount of training data. It's mostly math and science, but there are also <a href=\"https://lite.datasette.io/?install=datasette-pretty-json&amp;csv=https://gist.githubusercontent.com/simonw/048385f27e351c11b488bd9737452fa7/raw/5270dacc5aa4a7385f9a6e3d691c81cf3595abc9/s1k.csv#/data/s1k?_facet=cot_type&amp;cot_type=crossword\">15 cryptic crossword examples</a>.\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/duckdb\">duckdb</a>, <a href=\"https://simonwillison.net/tags/datasette-lite\">datasette-lite</a>, <a href=\"https://simonwillison.net/tags/inference-scaling\">inference-scaling</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/ollama\">ollama</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/qwen\">qwen</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/5/s1-the-6-r1-competitor/#atom-everything",
+          "publishedOn": "2025-02-05T20:00:26.000Z",
+          "wordCount": 503,
+          "title": "S1: The $6 R1 Competitor?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/5/gemini-2/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/\">Gemini 2.0 is now available to everyone</a></strong></p>\nBig new Gemini 2.0 releases today:</p>\n<ul>\n<li><strong>Gemini 2.0 Pro (Experimental)</strong> is Google's \"best model yet for coding performance and complex prompts\" - currently available as a free preview.</li>\n<li><strong>Gemini 2.0 Flash</strong> is now generally available.</li>\n<li>\n<p><strong>Gemini 2.0 Flash-Lite</strong> looks particularly interesting:</p>\n<blockquote>\n<p>We’ve gotten a lot of positive feedback on the price and speed of 1.5 Flash. We wanted to keep improving quality, while still maintaining cost and speed. So today, we’re introducing 2.0 Flash-Lite, a new model that has better quality than 1.5 Flash, at the same speed and cost. It outperforms 1.5 Flash on the majority of benchmarks.</p>\n</blockquote>\n</li>\n</ul>\n<p>That means Gemini 2.0 Flash-Lite is priced at 7.5c/million input tokens and 30c/million output tokens - half the price of OpenAI's GPT-4o mini (15c/60c).</p>\n<p>Gemini 2.0 Flash isn't <a href=\"https://ai.google.dev/pricing#2_0flash\">much more expensive</a>:  10c/million for text/image input, 70c/million for audio input, 40c/million for output. Again, cheaper than GPT-4o mini.</p>\n<p>I pushed a new <a href=\"https://llm.datasette.io/\">LLM</a> plugin release, <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.10\">llm-gemini 0.10</a>, adding support for the three new models:</p>\n<pre><code>llm install -U llm-gemini\nllm keys set gemini\n# paste API key here\nllm -m gemini-2.0-flash \"impress me\"\nllm -m gemini-2.0-flash-lite-preview-02-05 \"impress me\"\nllm -m gemini-2.0-pro-exp-02-05 \"impress me\"\n</code></pre>\n<p>Here's <a href=\"https://gist.github.com/simonw/411d032a84f02e8300b1f48df54913b7\">the output</a> for those three prompts.</p>\n<p>I ran <code>Generate an SVG of a pelican riding a bicycle</code> through the three new models. Here are the results, cheapest to most expensive:</p>\n<p><strong>gemini-2.0-flash-lite-preview-02-05</strong></p>\n<p><img alt=\"This is not great. The bicycle is a trapezoid. The pelican is very warped and has a orange diamond beak above its head.\" src=\"https://static.simonwillison.net/static/2025/gemini-2.0-flash-lite-preview-02-05.svg\" /></p>\n<p><strong>gemini-2.0-flash</strong></p>\n<p><img alt=\"The bicycle is better but the pelican is yellow and looks more like a baby chick. Its beak is squashed against the side of the image.\" src=\"https://static.simonwillison.net/static/2025/gemini-2.0-flash.svg\" /></p>\n<p><strong>gemini-2.0-pro-exp-02-05</strong></p>\n<p><img alt=\"This one is pleasingly avant-garde. The bicycle does at least have two wheels joined by a frame. The pelican is a fun shape, and it has a beak with a curved orange top and a curved yellow bottom.\" src=\"https://static.simonwillison.net/static/2025/gemini-2.0-pro-exp-02-05.svg\" /></p>\n<p><a href=\"https://gist.github.com/simonw/e50eea6d4f746fb3bc5543d106ffa8e7\">Full transcripts here</a>.\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/gemini\">gemini</a>, <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/google\">google</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/llm-pricing\">llm-pricing</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/pelican-riding-a-bicycle\">pelican-riding-a-bicycle</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/5/gemini-2/#atom-everything",
+          "publishedOn": "2025-02-05T16:37:29.000Z",
+          "wordCount": 426,
+          "title": "Gemini 2.0 is now available to everyone",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/5/o3-mini-documentation/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://gist.github.com/simonw/4a13c4b10176d7b8e3d1260f5dcc9de3\">o3-mini is really good at writing internal documentation</a></strong></p>\nI wanted to refresh my knowledge of how the Datasette permissions system works today. I already have <a href=\"https://docs.datasette.io/en/latest/authentication.html\">extensive hand-written documentation</a> for that, but I thought it would be interesting to see if I could derive any insights from running an LLM against the codebase.</p>\n<p>o3-mini has an input limit of 200,000 tokens. I used <a href=\"https://llm.datasette.io/\">LLM</a> and my <a href=\"https://github.com/simonw/files-to-prompt\">files-to-prompt</a> tool to generate the documentation like this:</p>\n<div class=\"highlight highlight-source-shell\"><pre><span class=\"pl-c1\">cd</span> /tmp\ngit clone https://github.com/simonw/datasette\n<span class=\"pl-c1\">cd</span> datasette\nfiles-to-prompt datasette -e py -c <span class=\"pl-k\">|</span> \\\n  llm -m o3-mini -s \\\n  <span class=\"pl-s\"><span class=\"pl-pds\">'</span>write extensive documentation for how the permissions system works, as markdown<span class=\"pl-pds\">'</span></span></pre></div>\n\n<p>The <code>files-to-prompt</code> command is fed the <a href=\"https://github.com/simonw/datasette/tree/main/datasette\">datasette</a> subdirectory, which contains just the source code for the application - omitting tests (in <code>tests/</code>) and documentation (in <code>docs/</code>).</p>\n<p>The <code>-e py</code> option causes it to only include files with a <code>.py</code> extension - skipping all of the HTML and JavaScript files in that hierarchy.</p>\n<p>The <code>-c</code> option causes it to output Claude's XML-ish format - a format that works great with other LLMs too.</p>\n<p>You can see the output of that command <a href=\"https://gist.github.com/simonw/1922544763b08c76f0b904e2ece364ea\">in this Gist</a>.</p>\n<p>Then I pipe that result into LLM, requesting the <code>o3-mini</code> OpenAI model and passing the following system prompt:</p>\n<blockquote>\n<p><code>write extensive documentation for how the permissions system works, as markdown</code></p>\n</blockquote>\n<p>Specifically requesting Markdown <a href=\"https://simonwillison.net/2025/Feb/2/openai-reasoning-models-advice-on-prompting/\">is important</a>.</p>\n<p>The prompt used 99,348 input tokens and produced 3,118 output tokens (320 of those were invisible reasoning tokens). That's <a href=\"https://tools.simonwillison.net/llm-prices\">a cost</a> of 12.3 cents.</p>\n<p>Honestly, <a href=\"https://gist.github.com/simonw/4a13c4b10176d7b8e3d1260f5dcc9de3\">the results</a> are fantastic. I had to double-check that I hadn't accidentally fed in the documentation by mistake.</p>\n<p>(It's possible that the model is picking up additional information about Datasette in its training set, but I've seen similar <a href=\"https://gist.github.com/simonw/adf64108d65cd5c10ac9fce953ab437e\">high quality results</a> from other, newer libraries so I don't think that's a significant factor.)</p>\n<p>In this case I already had extensive written documentation of my own, but this was still a useful refresher to help confirm that the code matched my mental model of how everything works.</p>\n<p>Documentation of project internals as a category is notorious for going out of date. Having tricks like this to derive usable how-it-works documentation from existing codebases in just a few seconds and at a cost of a few cents is wildly valuable.\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/openai\">openai</a>, <a href=\"https://simonwillison.net/tags/o3\">o3</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/documentation\">documentation</a>, <a href=\"https://simonwillison.net/tags/ai-assisted-programming\">ai-assisted-programming</a>, <a href=\"https://simonwillison.net/tags/inference-scaling\">inference-scaling</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/5/o3-mini-documentation/#atom-everything",
+          "publishedOn": "2025-02-05T06:07:40.000Z",
+          "wordCount": 570,
+          "title": "o3-mini is really good at writing internal documentation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/5/ambsheets/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://www.inkandswitch.com/ambsheets/\">Ambsheets: Spreadsheets for exploring scenarios</a></strong></p>\nDelightful UI experiment by Alex Warth and Geoffrey Litt at Ink &amp; Switch, exploring the idea of a spreadsheet with cells that can handle multiple values at once, which they call \"amb\" (for \"ambiguous\") values. A single sheet can then be used to model multiple scenarios.</p>\n<p>Here the cell for \"Car\" contains <code>{500, 1200}</code> and the cell for \"Apartment\"  contains <code>{2800, 3700, 5500}</code>, resulting in a \"Total\" cell with six different values. Hovering over a calculated highlights its source values and a side panel shows a table of calculated results against those different combinations.</p>\n<p><img alt=\"Spreadsheet showing budget items with values in cells: Column A shows Budget, Car, Apartment, Netflix, and TOTAL. Column B shows values including x̄ = 850 for Car with values 500 and 1,200; x̄ = 4,000 for Apartment with values 2,800, 3,700, and 5,500; Netflix shows 18; TOTAL row shows x̄ = 4,868 with values 3,318, 4,218, 6,018, 4,018, 4,918, and 6,718. Right side shows formula =sum(b3:b5), TABLE with aggregate avg dropdown, and STACKS visualization of the values.\" src=\"https://static.simonwillison.net/static/2025/amb-sheets.jpg\" /></p>\n<p>Always interesting to see neat ideas like this presented on top of UIs that haven't had a significant upgrade in a very long time.\n\n    <p><small></small>Via <a href=\"https://news.ycombinator.com/item?id=42941143\">Hacker News</a></small></p>\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/spreadsheets\">spreadsheets</a>, <a href=\"https://simonwillison.net/tags/geoffrey-litt\">geoffrey-litt</a>, <a href=\"https://simonwillison.net/tags/ui\">ui</a>, <a href=\"https://simonwillison.net/tags/ux\">ux</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/5/ambsheets/#atom-everything",
+          "publishedOn": "2025-02-05T02:50:22.000Z",
+          "wordCount": 306,
+          "title": "Ambsheets: Spreadsheets for exploring scenarios",
+          "imageUrl": "https://static.simonwillison.net/static/2025/amb-sheets.jpg"
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/5/ai-generated-slop-is-already-in-your-public-library/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://www.404media.co/ai-generated-slop-is-already-in-your-public-library-3/\">AI-generated slop is already in your public library</a></strong></p>\nUS libraries that use the <a href=\"https://www.hoopladigital.com/\">Hoopla</a> system to offer ebooks to their patrons sign agreements where they pay a license fee for anything selected by one of their members that's in the Hoopla catalog.</p>\n<p>The Hoopla catalog is increasingly filling up with junk AI slop ebooks like \"Fatty Liver Diet Cookbook: 2000 Days of Simple and Flavorful Recipes for a Revitalized Liver\", which then cost libraries money if someone checks them out.</p>\n<p>Apparently librarians already have a term for this kind of low-quality, low effort content that predates it being written by LLMs: vendor slurry.</p>\n<p>Libraries stand against censorship, making this a difficult issue to address through removing those listings. </p>\n<p>Sarah Lamdan, deputy director of the American Library Association says:</p>\n<blockquote>\n<p>If library visitors choose to read AI eBooks, they should do so with the knowledge that the books are AI-generated.</p>\n</blockquote>\n\n    <p><small></small>Via <a href=\"https://bsky.app/profile/emilybell.bsky.social/post/3lhenkvj4tt2i\">Emily Bell</a></small></p>\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/slop\">slop</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/ethics\">ethics</a>, <a href=\"https://simonwillison.net/tags/libraries\">libraries</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/5/ai-generated-slop-is-already-in-your-public-library/#atom-everything",
+          "publishedOn": "2025-02-05T01:50:01.000Z",
+          "wordCount": 334,
+          "title": "AI-generated slop is already in your public library",
+          "imageUrl": null
+        },
         {
           "id": "https://simonwillison.net/2025/Feb/4/animating-rick-and-morty-one-pixel-at-a-time/#atom-everything",
           "author": null,
@@ -12900,6 +13579,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://theburningmonk.com/?p=15603",
+          "author": "Yan Cui",
+          "description": "A common challenge in event-driven architectures is the potential for unintentionally triggering downstream consumers when running end-to-end tests.\nEphemeral environments can help, but not when you must publish events to a shared event bus.\nIn such cases, you can conditionally create a local copy of the event bus as part of the ephemeral environment so your test events will not trigger downstream event consumers.\nThe post Event-Driven Architectures: How to limit the scope of end-to-end tests appeared first on theburningmonk.com.",
+          "link": "https://theburningmonk.com/2025/02/event-driven-architectures-how-to-limit-the-scope-of-end-to-end-tests/",
+          "publishedOn": "2025-02-05T21:17:00.000Z",
+          "wordCount": 1909,
+          "title": "Event-Driven Architectures: How to limit the scope of end-to-end tests",
+          "imageUrl": "https://theburningmonk.com/wp-content/uploads/2025/02/limit-e2e-test-scope-title.png"
+        },
+        {
           "id": "https://theburningmonk.com/?p=15588",
           "author": "Yan Cui",
           "description": "Building Evolua, an AI-powered code reviewer, taught us a lot about balancing cost, performance, and developer experience.\nWhile selecting the right LLM and crafting prompts is important, the real challenge lies in handling large PRs, mitigating model limitations, and ensuring a smooth user experience.\nIn this post, we break down our architecture, why we chose Bedrock, and key lessons learned - like why the LLM is actually the easy part. If you're using AI to write code, Evolua can help catch bad code before it reaches production.\nThe post How we built an AI code reviewer with serverless and Bedrock appeared first on theburningmonk.com.",
@@ -12922,6 +13611,16 @@
       "feedUrl": "https://timharek.no/rss.xml",
       "siteUrl": "https://timharek.no/feed.json",
       "articles": [
+        {
+          "id": "https://timharek.no/blog/ai-saved-my-computer-from-water-damage",
+          "author": null,
+          "description": "Sorry for the clickbait title, but I couldn't help myself.\nToday I forgot to put a water-proof cover on my backpack on my way to work. When\nI got to work and took out my laptop, I saw water on the bottom. Weird...\nI used paper towels to wipe off the water. But when I switched on my laptop, I\nsaw that the laptop thought it had headphones in the audio-jack. Weird. Then I\nchecked the audio-jack and saw more water, and all the other ports on the laptop\nhad water in them as well. Oh fuck.\nI used more paper towels to try to wipe off the water. And it seemed successful,\nbut my laptop kept insisting that I had something in my audio-jack. Oh well. I\nstarted working.\nI have a desktop monitor connected to my laptop, where I use my laptop as a\nsecondary display. After working for about 10 minutes, my …",
+          "link": "https://timharek.no/blog/ai-saved-my-computer-from-water-damage",
+          "publishedOn": "2025-02-05T00:00:00.000Z",
+          "wordCount": null,
+          "title": "AI saved my computer from water damage",
+          "imageUrl": null
+        },
         {
           "id": "https://timharek.no/blog/2025-january-recently",
           "author": null,
