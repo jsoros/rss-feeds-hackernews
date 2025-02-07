@@ -6,6 +6,186 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42967474",
+          "author": "diggan",
+          "description": "Article URL: https://tillitis.se/products/tkey/\nComments URL: https://news.ycombinator.com/item?id=42967474\nPoints: 5\n# Comments: 0",
+          "link": "https://tillitis.se/products/tkey/",
+          "publishedOn": "2025-02-06T23:17:25.000Z",
+          "wordCount": 898,
+          "title": "TKey – Security for the New World",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42967247",
+          "author": "bitlad",
+          "description": "Recently, I was trying to a buy a domain for which we had bid in Godaddy. We bid the suggested price in Godaddy. Our bid was rejected buy the owner.\nThat peaked my curiosity to check who actually owned the website.\nWhen we ran whois on the domain. The name that pops up is Wild West Domains, LLC [http://www.wildwestdomains.com]\nWhen you look further, Godaddy's CEO is the CEO of Wild West Domains. Lot of the staff are part of this LLC.\nJust wondering what is it all about?\nComments URL: https://news.ycombinator.com/item?id=42967247\nPoints: 49\n# Comments: 37",
+          "link": "https://news.ycombinator.com/item?id=42967247",
+          "publishedOn": "2025-02-06T22:41:40.000Z",
+          "wordCount": 2101,
+          "title": "Ask HN: Is Godaddy Running a Scam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42967226",
+          "author": "nohide",
+          "description": "Article URL: https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper\nComments URL: https://news.ycombinator.com/item?id=42967226\nPoints: 104\n# Comments: 74",
+          "link": "https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper",
+          "publishedOn": "2025-02-06T22:39:22.000Z",
+          "wordCount": 1077,
+          "title": "Frank Lloyd Wright's mile high skyscraper proposal (2021)",
+          "imageUrl": "http://static1.squarespace.com/static/5e1e5ef4c84b953ac52564ba/5e1e630093fea070e53da8aa/5ff089870493bd28271993a7/1726076604486/960_epiteszforum-lakotornyok-chicago-varosepiteszete-02--benko-melinda-sorozata-3-230-2020-07-07-212257.jpeg?format=1500w"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42967146",
+          "author": "matthberg",
+          "description": "Article URL: https://trailsofwind.figures.cc/\nComments URL: https://news.ycombinator.com/item?id=42967146\nPoints: 9\n# Comments: 2",
+          "link": "https://trailsofwind.figures.cc/",
+          "publishedOn": "2025-02-06T22:27:22.000Z",
+          "wordCount": 11,
+          "title": "Trails of Wind (2019)",
+          "imageUrl": "https://trailsofwind.figures.cc/trailsOfWind_openGraph.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42966720",
+          "author": "sebg",
+          "description": "Article URL: https://magazine.sebastianraschka.com/p/understanding-reasoning-llms\nComments URL: https://news.ycombinator.com/item?id=42966720\nPoints: 129\n# Comments: 52",
+          "link": "https://magazine.sebastianraschka.com/p/understanding-reasoning-llms",
+          "publishedOn": "2025-02-06T21:34:12.000Z",
+          "wordCount": 12009,
+          "title": "Understanding Reasoning LLMs",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6ebc5c9-461f-4d3a-889b-b8ea4e14e5ba_1600x830.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42966455",
+          "author": "michelleyin",
+          "description": "Comments URL: https://news.ycombinator.com/item?id=42966455\nPoints: 0\n# Comments: 0",
+          "link": "https://news.ycombinator.com/item?id=42966455",
+          "publishedOn": "2025-02-06T21:00:23.000Z",
+          "wordCount": 175,
+          "title": "Verse (YC W22) Is Hiring",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42965267",
+          "author": "gkamer8",
+          "description": "Article URL: https://github.com/US-Artificial-Intelligence/scraper\nComments URL: https://news.ycombinator.com/item?id=42965267\nPoints: 114\n# Comments: 70",
+          "link": "https://github.com/US-Artificial-Intelligence/scraper",
+          "publishedOn": "2025-02-06T18:48:05.000Z",
+          "wordCount": 3129,
+          "title": "Show HN: An API that takes a URL and returns a file with browser screenshots",
+          "imageUrl": "https://opengraph.githubassets.com/ff5095eebad4ec7b6cdec1d8c5154b2e01dfa29ab8b4c45f12c92195e290ab65/US-Artificial-Intelligence/scraper"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42965198",
+          "author": "QuadrupleA",
+          "description": "Article URL: https://github.com/QuadrupleA/sqlite-page-explorer\nComments URL: https://news.ycombinator.com/item?id=42965198\nPoints: 166\n# Comments: 27",
+          "link": "https://github.com/QuadrupleA/sqlite-page-explorer",
+          "publishedOn": "2025-02-06T18:40:30.000Z",
+          "wordCount": 2462,
+          "title": "Show HN: SQLite disk page explorer",
+          "imageUrl": "https://opengraph.githubassets.com/180ad16abc8092470ba0e38daa5ea6d708d51e8c0427737c1f461b855a82639b/QuadrupleA/sqlite-page-explorer"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42964773",
+          "author": "AzzieElbab",
+          "description": "Article URL: https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field\nComments URL: https://news.ycombinator.com/item?id=42964773\nPoints: 134\n# Comments: 62",
+          "link": "https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field",
+          "publishedOn": "2025-02-06T17:54:50.000Z",
+          "wordCount": 31247,
+          "title": "Scala 3 Migration: Report from the field",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fstock%2Funsplash%2FV72Hk6LjjjI%2Fupload%2Faed1ed418548eeb647e5eef0a9f7f9d5.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42963501",
+          "author": "ColinWright",
+          "description": "Article URL: https://jdh.hamkins.org/transfinite-nim/\nComments URL: https://news.ycombinator.com/item?id=42963501\nPoints: 57\n# Comments: 17",
+          "link": "https://jdh.hamkins.org/transfinite-nim/",
+          "publishedOn": "2025-02-06T15:48:54.000Z",
+          "wordCount": 3108,
+          "title": "Transfinite NIM (the game, not the programming language)",
+          "imageUrl": "http://jdh.hamkins.org/wp-content/uploads/2015/05/Wooden-blocks-e1432818896971-300x169.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42963346",
+          "author": "noduerme",
+          "description": "So, I was about 11 years old and just got my first Mac, a IIsi, and of course everyone had AfterDark, but there was this other screensaver program called \"Dark Side of the Mac\". And within it was, I think now, the most beautiful screensaver ever written. It was called Kaos.\nKaos would take anywhere from 10 to 30 seconds to slowly iterate on a single image, starting with a few colored dots and growing into webs within webs of algorithmic beauty.\nI'm not sure how Tom Dowdy actually wrote the program. What I've done here is to try to reverse engineer how it might have worked, but to animate it at the same time.\nFreezing a frame (by clicking) seems to often yield something close to the original. My method is to cycle between 1 and 30 lines, with spaced out pixels, and then iterate the whole buffer to draw fainter and fainter points within a radius from any point that's already lit, while also amplifying the ones that were lit before and shifting their colors slightly at the same time.\nAnyway, I did this tonight but I've been thinking about it for weeks, so, I hope someone enjoys it. Cheers!\nComments URL: https://news.ycombinator.com/item?id=42963346\nPoints: 104\n# Comments: 53",
+          "link": "https://thestrikeagency.com/kaos/",
+          "publishedOn": "2025-02-06T15:35:32.000Z",
+          "wordCount": 3,
+          "title": "Show HN: An homage to Tom Dowdy's 1991 screensaver, \"Kaos\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42962508",
+          "author": "ibobev",
+          "description": "Article URL: https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html\nComments URL: https://news.ycombinator.com/item?id=42962508\nPoints: 248\n# Comments: 28",
+          "link": "https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html",
+          "publishedOn": "2025-02-06T14:15:28.000Z",
+          "wordCount": 5363,
+          "title": "Simulating water over terrain",
+          "imageUrl": "/blog/media/simulating-water-over-terrain/cover.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42961795",
+          "author": "PaulHoule",
+          "description": "Article URL: http://loki3.com/flex/explore/\nComments URL: https://news.ycombinator.com/item?id=42961795\nPoints: 33\n# Comments: 9",
+          "link": "http://loki3.com/flex/explore/",
+          "publishedOn": "2025-02-06T12:39:37.000Z",
+          "wordCount": 811,
+          "title": "Explorable Flexagons: Learn to create and flex flexagons (2020)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42960989",
+          "author": "Kye",
+          "description": "Article URL: https://arxiv.org/abs/2406.03445\nComments URL: https://news.ycombinator.com/item?id=42960989\nPoints: 113\n# Comments: 31",
+          "link": "https://arxiv.org/abs/2406.03445",
+          "publishedOn": "2025-02-06T10:31:06.000Z",
+          "wordCount": 707,
+          "title": "Pre-Trained Large Language Models Use Fourier Features for Addition (2024)",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42960907",
+          "author": "rbanffy",
+          "description": "Article URL: https://spectrum.ieee.org/aluminum-battery\nComments URL: https://news.ycombinator.com/item?id=42960907\nPoints: 147\n# Comments: 92",
+          "link": "https://spectrum.ieee.org/aluminum-battery",
+          "publishedOn": "2025-02-06T10:13:26.000Z",
+          "wordCount": 10307,
+          "title": "Aluminum Batteries Outlive Lithium-Ion with a Pinch of Salt",
+          "imageUrl": "https://spectrum.ieee.org/media-library/ends-of-batteries-neatly-stacked-together-with-one-battery-sticking-out.jpg?id=56186170&width=1200&height=600&coordinates=0%2C658%2C0%2C658"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42960144",
+          "author": "bluebirdfirewin",
+          "description": "Article URL: https://gladdendesign.com/collections/paper-apps\nComments URL: https://news.ycombinator.com/item?id=42960144\nPoints: 531\n# Comments: 85",
+          "link": "https://gladdendesign.com/collections/paper-apps",
+          "publishedOn": "2025-02-06T07:58:33.000Z",
+          "wordCount": 2161,
+          "title": "Paper Apps",
+          "imageUrl": "http://gladdendesign.com/cdn/shop/collections/IMG_7428.jpg?v=1733973949"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42959226",
+          "author": "bkallus",
+          "description": "I wrote a little LD_PRELOAD library that makes it easy to inspect and interact with a running program's glibc heap.\nIt's fun to pause processes, free a bunch of their allocations, then resume them. Most of the time, the processes continue as though nothing happened, but sometimes they do interesting things :)\nComments URL: https://news.ycombinator.com/item?id=42959226\nPoints: 42\n# Comments: 3",
+          "link": "https://github.com/heap-exploitation/heap-explorer",
+          "publishedOn": "2025-02-06T04:54:18.000Z",
+          "wordCount": 1949,
+          "title": "Show HN: Heap Explorer",
+          "imageUrl": "https://opengraph.githubassets.com/05f7d74d1fdea7bc0f3afc290ab96ff3392f1ffa732c6aae3308848fad04968d/heap-exploitation/heap-explorer"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42958696",
+          "author": "LordNibbler",
+          "description": "Article URL: https://danielchasehooper.com/posts/code-animated-rick/\nComments URL: https://news.ycombinator.com/item?id=42958696\nPoints: 429\n# Comments: 36",
+          "link": "https://danielchasehooper.com/posts/code-animated-rick/",
+          "publishedOn": "2025-02-06T03:30:34.000Z",
+          "wordCount": 12380,
+          "title": "Programming SDF animations of Rick and Morty",
+          "imageUrl": "https://danielchasehooper.com/images/rick-banner.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42957726",
           "author": "headclone",
           "description": "Article URL: https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/\nComments URL: https://news.ycombinator.com/item?id=42957726\nPoints: 2\n# Comments: 1",
@@ -194,6 +374,26 @@
           "wordCount": 3554,
           "title": "Why is Warner Bros. Discovery putting old movies on YouTube?",
           "imageUrl": "https://v1.screenshot.11ty.dev/https%3A%2F%2Ftedium.co%2Fog-images%2F2025%2F02%2F05%2Fwarner-bros-youtube-full-movie-releases%2F/opengraph/?v=1738778965"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42948642",
+          "author": "abelaer",
+          "description": "Article URL: https://abeljansma.nl/2025/01/28/mereoPhysics.html\nComments URL: https://news.ycombinator.com/item?id=42948642\nPoints: 25\n# Comments: 1",
+          "link": "https://abeljansma.nl/2025/01/28/mereoPhysics.html",
+          "publishedOn": "2025-02-05T14:06:44.000Z",
+          "wordCount": 3462,
+          "title": "Complex Systems and Quantitative Mereology",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42947973",
+          "author": "tosh",
+          "description": "Article URL: http://wtarreau.blogspot.com/2011/12/elastic-binary-trees-ebtree.html\nComments URL: https://news.ycombinator.com/item?id=42947973\nPoints: 16\n# Comments: 3",
+          "link": "http://wtarreau.blogspot.com/2011/12/elastic-binary-trees-ebtree.html",
+          "publishedOn": "2025-02-05T13:08:40.000Z",
+          "wordCount": 6858,
+          "title": "Elastic Binary Trees (2011)",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1Ac5Hzt1hhRuMH-5kGV9HXonnpr1AXhBC9ZCm45zGKCd58MyBYeitPS8ZfimSWFXpxSEEx4MQ0zoBkRBVQZcx4DHlYeifqYAP6hyphenhyphen80my8xf2AuqkFHfuqn-G0RQTCWuby8L3sbhv3E2M/w1200-h630-p-k-no-nu/Ebnode.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=42946854",
@@ -1257,16 +1457,6 @@
           "wordCount": 2153,
           "title": "randline: get a random selection of lines in a file using reservoir sampling",
           "imageUrl": "https://alexwlchan.net/images/profile_green_square.jpg"
-        },
-        {
-          "id": "https://alexwlchan.net/2025/testing-rust-cli-apps-with-assert-cmd/?utm_source=rss",
-          "author": null,
-          "description": "Some practical examples of how this handy crate lets me write clear, readable tests.",
-          "link": "https://alexwlchan.net/2025/testing-rust-cli-apps-with-assert-cmd/?utm_source=rss",
-          "publishedOn": "2025-01-07T21:30:31.000Z",
-          "wordCount": 1050,
-          "title": "How I test Rust command-line apps with `assert_cmd`",
-          "imageUrl": "https://alexwlchan.net/images/profile_green_square.jpg"
         }
       ]
     },
@@ -1287,6 +1477,146 @@
       "feedUrl": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "62f423adfb6e7b7f07d4eb6b8c1ea047438c6885",
+          "author": "aws@amazon.com",
+          "description": "AWS WAF’s console dashboard now includes richer visualizations that give you insights into the top sources of traffic in the AWS GovCloud (US). With this feature, customers with CloudWatch logging destinations can view a new top insights section within the all traffic dashboard.\n  Customers previously used the all traffic dashboard, a default dashboard that populates visualizations based on CloudWatch metrics. As customers strive to continue gaining additional visibility into their traffic, they have requested richer visualizations based on logs in addition to visualizations based on CloudWatch metrics.\n  Starting today, customers with CloudWatch logging destinations will have access to this new top insights section within the all traffic dashboard, which includes richer visualizations based on terminating rules, client IPs, URI path, and more. These top insights will enable customers to better understand their security posture, quickly identify anomalies, and optimize their WAF configurations accordingly. For example, if a customer sees more than expected traffic from an suspicious IP address, they can take steps to create a IP-blocking rule to address this anomaly.\n  Standard CloudWatch pricing applies to metrics and logs queried through the dashboard. For more information about pricing, visit the AWS CloudWatch Pricing page. The feature is now available in the AWS GovCloud (US) for all origin types supported by WAF. For more information about the all traffic dashboard, visit the Developer Guide.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-console-top-insights-visualizations-additional-regions",
+          "publishedOn": "2025-02-06T21:00:00.000Z",
+          "wordCount": null,
+          "title": "AWS WAF Console adds new top insights visualizations in additional regions",
+          "imageUrl": null
+        },
+        {
+          "id": "64a26b54f803a6e9c08e3006fbf66a293ea7231c",
+          "author": "aws@amazon.com",
+          "description": "AWS IAM Identity Center now provides improved error messages to simplify troubleshooting when syncing users and groups. You can also build automated monitoring and auditing for these errors using the AWS CloudTrail logs.\n  IAM Identity Center helps you securely connect your workforce identities and manage their access centrally across AWS accounts and applications. With improved error messaging, IAM Identity Center provides actionable information to troubleshoot provisioning issues as you sync your users and groups using SCIM or configurable AD sync. CloudTrail logs enable automated monitoring of synchronization processes and provide audit trails of provisioning issues.\n  IAM Identity Center is available at no additional cost in all AWS Regions where it is supported. To learn more, see the AWS IAM Identity Center User Guide.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iam-identity-center-error-messages-cloudtrail-logging-provisioning-issues",
+          "publishedOn": "2025-02-06T20:25:00.000Z",
+          "wordCount": null,
+          "title": "AWS IAM Identity Center now offers improved error messages and AWS CloudTrail logging for provisioning issues",
+          "imageUrl": null
+        },
+        {
+          "id": "812001e93889b3c7f3551812704293b294cc1e0d",
+          "author": "aws@amazon.com",
+          "description": "AWS Elemental MediaTailor now supports delivering logs to Amazon S3 and Amazon Data Firehose, in addition to Amazon CloudWatch Logs. Additionally, customers now receive 50 KB of MediaTailor logs per ad inserted (50,000 KB per 1,000 ads inserted) for free when delivering to supported destinations.\n  Customers delivering MediaTailor logs to CloudWatch logs benefit from advanced log analytics features such as Live Tailing, Anomaly Detection, and Logs Insights as well as metrics and dashboards to monitor ad monetization. Delivery to S3 or Firehose enables offline analysis and real-time streaming to other AWS services and third-party tools.\n  Usage over the free 50 KB per ad insert will be charged as per MediaTailor logs pricing. For details, please refer to the pricing section of the MediaTailor product page.\n  Visit the AWS region table for a full list of AWS Regions where AWS Elemental MediaTailor is available. To learn more about MediaTailor, please visit the product page.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-elemental-mediatailor-s3-firehose-logging-destinations-lower-cost",
+          "publishedOn": "2025-02-06T19:10:00.000Z",
+          "wordCount": null,
+          "title": "AWS Elemental MediaTailor now supports log delivery to additional destinations",
+          "imageUrl": null
+        },
+        {
+          "id": "ae149492a9f0a46d0c0d5837605706329be1c81b",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports the January 2025 Release Update (RU) for Oracle Database versions 19c and 21c.\n  To learn more about Oracle RUs supported on Amazon RDS for each engine version, see the Amazon RDS for Oracle Release notes. If the auto minor version upgrade (AmVU) option is enabled, your DB instance is upgraded to the latest quarterly RU six to eight weeks after it is made available by Amazon RDS for Oracle in your AWS Region. These upgrades will happen during the maintenance window. To learn more, see the Amazon RDS maintenance window documentation.\n  For more information about the AWS Regions where Amazon RDS for Oracle is available, see the AWS Region table.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-oracle-january-2025-release-update",
+          "publishedOn": "2025-02-06T18:20:00.000Z",
+          "wordCount": null,
+          "title": "Amazon RDS for Oracle now supports January 2025 Release Update",
+          "imageUrl": null
+        },
+        {
+          "id": "83847e6acd5f2aac23199da037fe773bf3dfce48",
+          "author": "aws@amazon.com",
+          "description": "Amazon MSK has added support for Express brokers in all AWS Regions where Amazon MSK offers Graviton3 based M7g instances. You can now benefit from Amazon MSK Express brokers in ten additional AWS Regions: Asia Pacific (Mumbai), Europe (Paris), South America (Sao Paulo), Asia Pacific (Hyderabad), Asia Pacific (Seoul), Asia Pacific (Malaysia), Europe (London), Canada (Central), Europe (Spain), and Middle East (Bahrain).\n  Express brokers are a new broker type for Amazon MSK Provisioned designed to deliver up to 3x more throughput per broker, scale up to 20x faster, and reduce recovery time by 90% as compared to standard Apache Kafka brokers. Express brokers come pre-configured with Kafka best practices by default, support all Kafka APIs, and provide the same low-latency performance that Amazon MSK customers expect, so they can continue using existing client applications without any changes.\n  You can now create an MSK cluster with Express brokers in these AWS Regions from the Amazon MSK console. To learn more, check out this blog.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-msk-express-brokers-10-regions/",
+          "publishedOn": "2025-02-06T18:00:00.000Z",
+          "wordCount": 955,
+          "title": "Amazon MSK expands Express Brokers to 10 more AWS Regions",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b1883aa7c8fb9e047ba7a2a6916f641001cba287",
+          "author": "aws@amazon.com",
+          "description": "AWS Toolkit for Visual Studio Code (VSCode) now includes Amazon DocumentDB (with MongoDB compatibility). This integration allows customers to use VS Code to view, create and manage Amazon DocumentDB resources.\n \nTo get started, you can download the latest AWS-Toolkit extension from VSCode marketplace or update your AWS-Toolkit extension if you already have it installed in your VSCode environment. Then you can configure the extension with credentials for your AWS account and connect to AWS explorer in VSCode. Once connected, you can interact with the DocumentDB menu item to create DocumentDB clusters or manage your existing DocumentDB clusters.\n To learn more, see Amazon DocumentDB support in VSCode.\n  Amazon DocumentDB is a fully managed, native JSON database that makes it simple and cost-effective to operate critical document workloads at virtually any scale without managing infrastructure. To learn more about Amazon DocumentDB, please visit the Amazon DocumentDB product page, pricing page and documentation.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-toolkit-visual-studio-code-documentdb-mongodb/",
+          "publishedOn": "2025-02-06T18:00:00.000Z",
+          "wordCount": 942,
+          "title": "AWS Toolkit for Visual Studio Code now supports Amazon DocumentDB (with MongoDB compatibility)",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "43ae9a0e1f81e98144465ca8b023745d37878dc0",
+          "author": "aws@amazon.com",
+          "description": "Today, AWS announces the general availability of AWS Verified Access’ support for secure access to resources that connect over protocols such as TCP, SSH, and RDP. With this launch, you can use Verified Access to provide secure VPN-less access to all your corporate applications and resources using AWS zero trust principles. This feature eliminates the need to manage separate access, and connectivity solutions for non-HTTP(S) resources on AWS and simplifies security operations.\n  Verified Access allows admins to set access policies based on user identity and device posture. It evaluates access for new connections and continuously monitors active connections, terminating connections when security requirements specified in the access policies aren't met. Now you can extend your existing Verified Access policies to enable secure access to non-HTTP(S) applications and resources such as databases, and SAP and git-repositories running on EC2 instances. For example, you can centrally define access policies granting product database access only to authenticated database administrators using compliant, managed devices. This simplifies your security operations by allowing you to centrally create, group, and manage access policies for all applications and resources with similar security requirements from a single interface.\n  This feature is generally available in 18 AWS regions: US East (Ohio), US East (Northern Virginia), US West (N California), US West (Oregon), Canada (Central), Asia Pacific (Sydney), Asia Pacific (Jakarta), Asia Pacific (Tokyo), Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Europe (Ireland), Europe (London), Europe (Frankfurt), Europe (Milan), Europe (Stockholm), South America (São Paulo), and Israel (Tel Aviv).\n  To learn more, visit the product page, pricing page, and documentation.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-verified-access-zero-trust-resources-non-https-protocols/",
+          "publishedOn": "2025-02-06T18:00:00.000Z",
+          "wordCount": 1162,
+          "title": "AWS Verified Access launches Zero Trust access to resources over non-HTTP(S) protocols",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a6b3aa7ef2e95b92f43412a54aefa0d49e36a80e",
+          "author": "aws@amazon.com",
+          "description": "AWS AppSync Events allows developers to create serverless WebSocket APIs that can broadcast real-time data to millions of subscribers without managing infrastructure or connection state. Developers simply create their API, and publish events without having the worry about scale and handling fan-out. Today, AWS AppSync announces the release of AWS Cloud Development Kit (CDK) L2 constructs for AWS AppSync Events, enabling developers to programmatically create and manage Event APIs and channel namespaces using infrastructure as code. These new constructs simplify the process of creating Event APIs and managing access controls, reducing the complexity of integrating real-time capabilities into applications.\n  The new L2 constructs provide a higher-level abstraction that makes it easier for developers to define AppSync Event APIs and their associated channel namespaces using familiar programming languages. Developers can now easily grant access to specific channel namespaces to AWS resources such as AWS Lambda functions, streamlining the integration between services. This eliminates the need to manually configure complex IAM permissions and reduces the potential for security misconfigurations.\n  These CDK L2 constructs are available in all AWS Regions where AWS AppSync is available. To get started with the new AWS AppSync Events CDK L2 constructs, visit the AWS CDK API Reference documentation.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-cdk-l2-simplify-websocket-apis/",
+          "publishedOn": "2025-02-06T18:00:00.000Z",
+          "wordCount": 1032,
+          "title": "AWS AppSync releases CDK L2 constructs to simplify creating WebSocket APIs",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f25627d9d31e437828e7988be5ff605f7898ee5f",
+          "author": "aws@amazon.com",
+          "description": "Amazon GuardDuty Malware Protection for Amazon S3 provides a fully-managed offering to scan new object uploads to S3 bucket for malware. Starting February 1, 2025, we are lowering the price for the data scanned dimension by 85%. Over the past few months we have made improvements to our scanning infrastructure and data processing efficiencies, enabling us to reduce the price as part of our commitment to pass savings back to customers.\n  GuardDuty Malware Protection for S3 is priced based on two dimensions: the number of objects evaluated and the amount of data scanned. We are lowering the price for the data scanned dimension, for example in US East (N. Virginia) from $0.60 to $0.09 per GB. The price for objects evaluated remains unchanged. With this price reduction, you will be more capable of building secure and cost-effective data pipelines on Amazon S3 for applications with untrusted uploads across the enterprise.\n  The price reduction applies automatically to all AWS Regions where GuardDuty Malware Protection for S3 is available, requiring no action from customers. For additional information visit Amazon GuardDuty  pricing page. To receive programmatic updates on new GuardDuty features and threat detections, subscribe to the Amazon GuardDuty AWS Simple Notification Service (SNS) topic.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-guardduty-malware-protection-s3-price-reduction/",
+          "publishedOn": "2025-02-06T18:00:00.000Z",
+          "wordCount": 1033,
+          "title": "Amazon GuardDuty Malware Protection for S3 announces price reduction",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6193ea42d00667bc79fab26db9483880873288c1",
+          "author": "aws@amazon.com",
+          "description": "Amazon Keyspaces (for Apache Cassandra), a scalable, highly available, and fully managed Cassandra-compatible database service, is now available in the Africa (Cape Town) Region.\n  With Amazon Keyspaces, you can run your Cassandra workloads on AWS using the same Cassandra application code and developer tools that you use today. The service is completely serverless, eliminating the need to provision, patch, or manage servers, or handle software installation and maintenance. You pay only for the resources you use, and tables automatically scale up and down based on application traffic. Amazon Keyspaces supports applications serving thousands of requests per second with virtually unlimited throughput and storage. The service includes built-in security features with encryption by default and continuous data backup capabilities through point-in-time recovery.\n  For pricing information in the Africa (Cape Town) Region, visit Amazon Keyspaces (for Apache Cassandra) pricing. To see the complete list of AWS Regions where Amazon Keyspaces is available, check AWS Regional Services.\n  To begin using Amazon Keyspaces in the Africa (Cape Town) Region, refer to Getting Started with Amazon Keyspaces (for Apache Cassandra) in the Amazon Keyspaces Developer Guide.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-keyspaces-africa-cape-town-region",
+          "publishedOn": "2025-02-06T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Amazon Keyspaces is now available in Africa (Cape Town) Region",
+          "imageUrl": null
+        },
+        {
+          "id": "2a25bcfa638627ee1bd3abc32a3a97d4392e14dd",
+          "author": "aws@amazon.com",
+          "description": "AWS CloudFormation introduces a new capability called stack refactoring that makes it easy to reorganize cloud resources across your CloudFormation stacks. Stack refactoring enables you to move resources from one stack to another, split monolithic stacks into smaller components, and rename the logical name of resources within a stack. This enables you to adapt your stacks to meet architectural patterns, operational needs, or business requirements.\n  As your workloads scale and requirements evolve, re-architecting resources into a new stack structure can become necessary. For example, you may need to split a monolithic stack for easier resource lifecycle management or rename resource logical IDs to align with new naming conventions. Previously, refactoring a stack required multiple manual steps, such as updating templates to retain targeted resources, removing them from current stacks, and then importing them into new stacks. Stack refactoring improves the speed and safety of this process. To refactor a stack, you first provide the CloudFormation templates that reflect the desired stack structure. Then, you generate a preview of the refactor operation, allowing you to confirm that the refactoring changes align with your requirements. If the planned changes meet your expectations, you can execute the refactor operation through an atomic workflow. This new capability enables seamless and continuous adaptation to evolving architectural patterns.\n  Stack refactor is available in all AWS Regions where CloudFormation is supported. To get started, update your CloudFormation templates to reflect the desired stack structure, then use the AWS CLI or SDK to perform the refactor operation. Visit our user guide to learn more about this feature.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/reshape-aws-cloudformation-stack-refactoring/",
+          "publishedOn": "2025-02-06T18:00:00.000Z",
+          "wordCount": 1142,
+          "title": "Reshape your AWS CloudFormation stacks seamlessly with stack refactoring",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "bcc197a763be899829eca065872f50f75fa3c84b",
+          "author": "aws@amazon.com",
+          "description": "Today, we are excited to announce a new onboarding experience that makes it easy to set up and manage Amazon Q Developer Pro tier subscriptions. The workflow on Amazon Q console has been redesigned to provide a friendlier 2-step setup for users or teams that are looking to try out Amazon Q Developer in their Integrated Development Environment (IDE).\n  AWS account administrators can create subscriptions using the Amazon Q console for their standalone or AWS Organizations member accounts using a guided setup to create local users and configure Amazon Q Developer managed applications. Once the setup is complete, subscribed users will receive details on setting up credentials to start using Amazon Q Developer. After installation of the Amazon Q Developer plugin in their preferred IDE, users can leverage context-aware code recommendations and enhanced development capabilities to accelerate their software development. Administrators in the Organizations management accounts will continue to maintain their existing IAM Identity Center capabilities to manage workforce access to Amazon Q Developer.\n  To learn more about the new getting started experience, visit Amazon Q Developer User Guide. To get started with Amazon Q Developer, visit the AWS Console.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-experience-pro-tier-subscriptions/",
+          "publishedOn": "2025-02-06T18:00:00.000Z",
+          "wordCount": 1018,
+          "title": "Amazon Q Developer introduces a new, simplified setup experience for Pro tier subscriptions",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7527991603572c0c1d4f24d722c051de43e98c4e",
+          "author": "aws@amazon.com",
+          "description": "Cost Optimization Hub now supports idle EC2 Auto Scaling group recommendations and rightsizing recommendations for EC2 Auto Scaling groups with scaling policies and multiple instance types. It also allows you to easily filter and aggregate EC2 Auto Scaling group cost optimization opportunities separately from standalone EC2 instances, making it easier to identify EC2 Auto Scaling groups with the highest cost-saving opportunities.\n \nWith this launch, you can view, consolidate, and prioritize cost optimization opportunities for EC2 Auto Scaling groups across your organization’s member accounts and AWS Regions through a single dashboard. Cost Optimization Hub helps you quantify estimated savings from these recommendations, taking into account your specific discounts, such as Reserved Instances and Savings Plans, enabling you to easily compare and prioritize recommendations.\n \nThe new EC2 Auto Scaling group experience and recommendations are available in Cost Optimization Hub across all AWS Regions where Cost Optimization Hub and AWS Organizations are supported.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/cost-optimization-hub-ec2-auto-scaling-group-recommendations/",
+          "publishedOn": "2025-02-06T18:00:00.000Z",
+          "wordCount": 924,
+          "title": "Cost Optimization Hub supports more EC2 Auto Scaling group recommendations",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "cfa815f7f2d7006ac51f72c819708217ed54d67e",
+          "author": "aws@amazon.com",
+          "description": "Amazon Personalize introduces dual stack support for the Personalize API endpoints, enabling you to connect using Internet Protocol Version 6 (IPv6), Internet Protocol Version 4 (IPv4), or dual stack clients. Dual stack support is also available when you privately access the Personalize API endpoint from your Amazon Virtual Private Cloud (VPC) using AWS PrivateLink.\n  The urgency to transition to Internet Protocol version 6 (IPv6) is driven by the continued growth of internet, which is exhausting available Internet Protocol version 4 (IPv4) addresses. With simultaneous support for both IPv4 and IPv6 clients on Personalize endpoints, you are able to gradually transition from IPv4 to IPv6 based systems and applications, without needing to switch all over at once. This enables you to help meet IPv6 compliance requirements and removes the need for expensive networking equipment to handle the address translation between IPv4 and IPv6.\n  Support for IPv6 on Amazon Personalize in all supported regions. To learn more on best practices for configuring IPv6, see the whitepaper on IPv6 in AWS.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-personalize-supports-ipv6/",
+          "publishedOn": "2025-02-06T18:00:00.000Z",
+          "wordCount": 962,
+          "title": "Amazon Personalize now supports Internet Protocol Version 6 (IPv6)",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
         {
           "id": "f80e998b7ac16a5fe0ed00d72ec82b2034f8ebbf",
           "author": "aws@amazon.com",
@@ -2588,16 +2918,6 @@
           "wordCount": 1726,
           "title": "AWS Weekly Roundup: New Asia Pacific Region, DynamoDB updates, Amazon Q developer, and more (January 13, 2025)",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2023/08/13/AWS-WIR-default.png"
-        },
-        {
-          "id": "3acab191e810ab04e856c629a911bcd01c319944",
-          "author": "Donnie Prakoso",
-          "description": "AWS launches Asia Pacific (Thailand) Region with 3 Availability Zones, accelerating cloud adoption. Strategically located to meet data residency needs, it drives innovation across industries. Early AWS adopters in Thailand share transformative success stories. Get started now!",
-          "link": "https://aws.amazon.com/blogs/aws/announcing-the-new-aws-asia-pacific-thailand-region/",
-          "publishedOn": "2025-01-08T02:30:36.000Z",
-          "wordCount": 2083,
-          "title": "Announcing the new AWS Asia Pacific (Thailand) Region",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2024/12/11/RL_Mango__Blog_Thumbnail_800x400.png"
         }
       ]
     },
@@ -2606,6 +2926,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/big-data/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/big-data/",
       "articles": [
+        {
+          "id": "eec118d6588639b110bafa084c816e9b28a915b2",
+          "author": "Alexis Tekin",
+          "description": "This post discusses strategies for handling errors in Apache Flink applications. However, the general principles discussed here apply to stream processing applications at large.",
+          "link": "https://aws.amazon.com/blogs/big-data/error-handling-in-apache-flink-applications/",
+          "publishedOn": "2025-02-06T15:16:32.000Z",
+          "wordCount": 3761,
+          "title": "Handle errors in Apache Flink applications on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/02/06/flink-1120x630.png"
+        },
         {
           "id": "549e4357943b4c269c2c99486b0f74587891c5ee",
           "author": "Michael Davies",
@@ -2725,16 +3055,6 @@
           "wordCount": 4227,
           "title": "Cost Optimized Vector Database: Introduction to Amazon OpenSearch Service quantization techniques",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/09/featured-images-BDB-4389-1120x630.jpg"
-        },
-        {
-          "id": "3b2fcfa8e7bbce85e4993fc0eb4ab71c9cd00b4b",
-          "author": "Camille BIRBES",
-          "description": "This post explores how to automate Amazon OpenSearch Service cluster management using CI/CD best practices. It presents two options: the Terraform OpenSearch provider and the Evolution library. The solution demonstrates how to use AWS CDK, Lambda, and CodeBuild to implement automated index template creation and management. By applying these techniques, organizations can improve the consistency, reliability, and efficiency of their OpenSearch operations.",
-          "link": "https://aws.amazon.com/blogs/big-data/use-ci-cd-best-practices-to-automate-amazon-opensearch-service-cluster-management-operations/",
-          "publishedOn": "2025-01-07T17:51:31.000Z",
-          "wordCount": 2395,
-          "title": "Use CI/CD best practices to automate Amazon OpenSearch Service cluster management operations",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/07/featured-images-BDB-4523-1120x630.jpg"
         }
       ]
     },
@@ -2770,6 +3090,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/devops/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/devops/",
       "articles": [
+        {
+          "id": "16b632066b53dfc70b4be7dca10d525b604fa0d4",
+          "author": "Kevin DeJong",
+          "description": "Introduction As your cloud infrastructure grows and evolves, you may find the need to reorganize your AWS CloudFormation stacks for better management, for improved modularity, or to align with changing business requirements. CloudFormation now offers a powerful feature that allows you to move resources between stacks. In this post, we’ll explore the process of stack […]",
+          "link": "https://aws.amazon.com/blogs/devops/introducing-aws-cloudformation-stack-refactoring/",
+          "publishedOn": "2025-02-06T22:41:21.000Z",
+          "wordCount": 1807,
+          "title": "Introducing AWS CloudFormation Stack Refactoring",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2025/02/06/CloudFormationStackRefactoring-1260x628.png"
+        },
         {
           "id": "cdd10277da4eebce37274f26dc66a85932c466dc",
           "author": "Sundaresh Iyer",
@@ -2843,16 +3173,6 @@
           "wordCount": 1913,
           "title": "Build a proof-of-concept IoT solution in under 3 hours with the AWS IoT Device Client",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        },
-        {
-          "id": "b85f026c8f21554f94f023b369db41f4549b017a",
-          "author": "Syed Rehan",
-          "description": "Introduction Our homes contain everything from dust, cooking fumes, and chemicals released from paint, furniture, and cleaning agents. Add to that polluted outdoor air making its way into our homes through ventilation, and you’ve got a cocktail of toxins floating around between your four walls. Clean air has proven positive health benefits. It can provide […]",
-          "link": "https://aws.amazon.com/blogs/iot/building-a-scalable-iot-system-for-connected-air-purifiers-on-aws-iot-blueair-a-unilever-company/",
-          "publishedOn": "2025-01-07T17:32:45.000Z",
-          "wordCount": 1760,
-          "title": "Building a scalable IoT system for connected air purifiers on AWS IoT: Blueair (a Unilever company)",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f6e1126cedebf23e1463aee73f9df08783640400/2021/09/10/Draft-AWS-Blog-2-873x630.png"
         }
       ]
     },
@@ -2861,6 +3181,26 @@
       "feedUrl": "https://aws.amazon.com/blogs/security/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/security/",
       "articles": [
+        {
+          "id": "7d1de24b32e2eb682eb78dfa96761fccb9b5cf78",
+          "author": "Tariro Dongo",
+          "description": "Amazon Web Services (AWS) is pleased to announce the issuance of the Criteria to Assess the Information Security of Cloud Services (PiTuKri) Type II attestation report with 179 services in scope. The Finnish Transport and Communications Agency (Traficom) Cyber Security Centre published PiTuKri, which consists of 52 criteria that provide guidance across 11 domains for […]",
+          "link": "https://aws.amazon.com/blogs/security/2024-pitukri-isae-3000-type-ii-attestation-report-available-with-179-services-in-scope/",
+          "publishedOn": "2025-02-06T23:09:14.000Z",
+          "wordCount": 1093,
+          "title": "2024 PiTuKri ISAE 3000 Type II attestation report available with 179 services in scope",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/02/05/Flag_of_Finland.png"
+        },
+        {
+          "id": "718f7cc31e2a3c1133575ce95b3d303a7ce0de01",
+          "author": "Tariro Dongo",
+          "description": "Amazon Web Services (AWS) is pleased to announce the issuance of the Swiss Financial Market Supervisory Authority (FINMA) Type II attestation report with 179 services in scope. The Swiss Financial Market Supervisory Authority (FINMA) has published several requirements and guidelines about engaging with outsourced services for the regulated financial services customers in Switzerland. An independent […]",
+          "link": "https://aws.amazon.com/blogs/security/2024-finma-isae-3000-type-ii-attestation-report-available-with-179-services-in-scope/",
+          "publishedOn": "2025-02-06T23:07:49.000Z",
+          "wordCount": 1099,
+          "title": "2024 FINMA ISAE 3000 Type II attestation report available with 179 services in scope",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/02/05/compliance-swiss-flag.jpg"
+        },
         {
           "id": "ab0394202b9c22d7393dc13ee7adacf249e04617",
           "author": "Joseph Goh",
@@ -3538,18 +3878,7 @@
       "title": "AWS IAM Release Notes",
       "feedUrl": "https://docs.aws.amazon.com/IAM/latest/UserGuide/aws-iam-release-notes.rss",
       "siteUrl": "https://docs.aws.amazon.com/IAM/latest/UserGuide/",
-      "articles": [
-        {
-          "id": "https://docs.aws.amazon.com/IAM/latest/UserGuide/#IAMDeleteRootUserCredentials_–_Removed_permissions_2025-01-07",
-          "author": null,
-          "description": "IAM removed the iam:DeleteVirtualMFADevice permission from the\n               managed policy.",
-          "link": "https://docs.aws.amazon.com/IAM/latest/UserGuide/security-iam-awsmanpol.html#security-iam-awsmanpol-IAMDeleteRootUserCredentials",
-          "publishedOn": "2025-01-07T19:00:00.000Z",
-          "wordCount": 2821,
-          "title": "IAMDeleteRootUserCredentials – Removed permissions",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Amazon API Gateway Release Notes",
@@ -3706,16 +4035,6 @@
           "wordCount": null,
           "title": "Introducing: From Juhis with Love",
           "imageUrl": null
-        },
-        {
-          "id": "https://hamatti.org/posts/advent-of-code-2024-retrospective/",
-          "author": null,
-          "description": "Advent of Code\n  which is one of my favourite annual, global software developer community\n  activities. After doing it for a couple of years with Python while writing\n  explanations for my solutions, I wanted to expand on that this year.\n\n\n\n  A couple of days before December started, I got an idea about\n  a digital garden in which I’d share all my notes created for Advent of\n    Code. I booted up Obsidian, started a new vault and set up\n  Quartz with\n  mostly default configuration. Every day, I wrote a piece about my solution and\n  wrote down notes for things I didn’t yet know but wanted to remember. I then\n  published these at my\n  Advent of Code 2024 Digital Garden.\n\n\n\n  For me, this year’s Advent of Code was less about solving puzzles and writing\n  Python. It was more about writing expl…",
-          "link": "https://hamatti.org/posts/advent-of-code-2024-retrospective/",
-          "publishedOn": "2025-01-08T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Advent of Code 2024 retrospective",
-          "imageUrl": null
         }
       ]
     },
@@ -3730,6 +4049,16 @@
       "feedUrl": "https://kevquirk.com/feed",
       "siteUrl": "https://kevquirk.com",
       "articles": [
+        {
+          "id": "notes/20250206-1135",
+          "author": null,
+          "description": "Fantastic post by Manu on what identity is and that we can't be identified in broad strokes.\nhttps://manuelmoreale.com/identity\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
+          "link": "https://kevquirk.com/notes/20250206-1135",
+          "publishedOn": "2025-02-06T11:35:00.000Z",
+          "wordCount": 103,
+          "title": "📝 6 February 2025 at 11:35 - Fantastic post by Manu on what identity is and that...",
+          "imageUrl": "https://cdn.kevquirk.com/feature-image.webp"
+        },
         {
           "id": "notes/20250203-1728",
           "author": null,
@@ -3998,6 +4327,16 @@
       "siteUrl": "https://krebsonsecurity.com",
       "articles": [
         {
+          "id": "https://krebsonsecurity.com/?p=70323",
+          "author": "BrianKrebs",
+          "description": "New mobile apps from the Chinese artificial intelligence (AI) company DeepSeek have remained among the top three \"free\" downloads for Apple and Google devices since their debut on Jan. 25, 2025. But experts caution that many of DeepSeek's design choices -- such as using hard-coded encryption keys, and sending unencrypted user and device data to Chinese companies -- introduce a number of glaring security and privacy risks.",
+          "link": "https://krebsonsecurity.com/2025/02/experts-flag-security-privacy-risks-in-deepseek-ai-app/",
+          "publishedOn": "2025-02-06T21:12:30.000Z",
+          "wordCount": 2082,
+          "title": "Experts Flag Security, Privacy Risks in DeepSeek AI App",
+          "imageUrl": null
+        },
+        {
           "id": "https://krebsonsecurity.com/?p=70279",
           "author": "BrianKrebs",
           "description": "The FBI joined authorities across Europe last week in seizing domain names for Cracked and Nulled, English-language cybercrime forums with millions of users that trafficked in stolen data, hacking tools and malware. An investigation into the history of these communities shows their apparent co-founders quite openly operate an Internet service provider and a pair of e-commerce platforms catering to buyers and sellers on both forums.",
@@ -4066,16 +4405,6 @@
           "wordCount": 3139,
           "title": "Microsoft: Happy 2025. Here’s 161 Security Updates",
           "imageUrl": null
-        },
-        {
-          "id": "https://krebsonsecurity.com/?p=69922",
-          "author": "BrianKrebs",
-          "description": "Besieged by scammers seeking to phish user accounts over the telephone, Apple and Google frequently caution that they will never reach out unbidden to users this way. However, new details about the internal operations of a prolific voice phishing gang show the group routinely abuses legitimate services at Apple and Google to force a variety of outbound communications to their users, including emails, automated phone calls and system-level messages sent to all signed-in devices.",
-          "link": "https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/",
-          "publishedOn": "2025-01-07T23:41:53.000Z",
-          "wordCount": 6372,
-          "title": "A Day in the Life of a Prolific Voice Phishing Crew",
-          "imageUrl": null
         }
       ]
     },
@@ -4090,6 +4419,17 @@
       "feedUrl": "https://lmnt.me/feed.xml",
       "siteUrl": "https://lmnt.me/",
       "articles": [
+        {
+          "id": "48A77695-266C-4A3E-823A-E00FF1B21E23",
+          "author": "Louie Mantia",
+          "description": "Bumble, 4:50 PM\n\t\t\t\tJulia\n\t\t\t\t\nEveryone here wants to get married and have 2.5 kids.\nme\n\t\t\t\t\nTELL ME ABOUT IT\nIn Japan, there’s a constant reminder from the government—by way of media amplifying it—that the population is in decline, that birth rates are dropping, and that the aging population will have no younger generation paying enough into social insurance to support them. Japan is a collectivist society, so it’s possible that people feel a responsibility to have children.\nI’ve never seen so many people dying to get pregnant. It really is shocking to me that I see more babies here than I ever have before in my life.\nBut for this system to work, it means every generation has to be bigger than the last. For any of you watching how businesses around the world are chasing infinite growth, you know this is impossible. This is not a sustainable model by any stretch of the imagination.\nI think by the very nature of time itself, the responsibility always rests on younger generations to solve the problems caused by older generations.\nWhen will the focus shift to implementing alternative solutions for social security that don’t effectively require everyone to have at least two children? That seems like the actual issue to me.\nIf you like this, you can make a donation or buy something from my shop.",
+          "link": "https://lmnt.me/blog/two-and-a-half-kids.html",
+          "publishedOn": "2025-02-06T09:35:00.000Z",
+          "wordCount": null,
+          "title": "Two and a Half Kids",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "9A44CF60-6CD0-4F2B-83FE-697CAA685ACE",
           "author": "Louie Mantia",
@@ -4384,6 +4724,176 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://tillitis.se/products/tkey/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tillitis.se/products/tkey/",
+          "publishedOn": "2025-02-06T23:17:25.000Z",
+          "wordCount": 898,
+          "title": "TKey – Security for the New World",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42967247",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42967247",
+          "publishedOn": "2025-02-06T22:41:40.000Z",
+          "wordCount": 2101,
+          "title": "Ask HN: Is Godaddy Running a Scam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper",
+          "publishedOn": "2025-02-06T22:39:22.000Z",
+          "wordCount": 1077,
+          "title": "Frank Lloyd Wright's mile high skyscraper proposal (2021)",
+          "imageUrl": "http://static1.squarespace.com/static/5e1e5ef4c84b953ac52564ba/5e1e630093fea070e53da8aa/5ff089870493bd28271993a7/1726076604486/960_epiteszforum-lakotornyok-chicago-varosepiteszete-02--benko-melinda-sorozata-3-230-2020-07-07-212257.jpeg?format=1500w"
+        },
+        {
+          "id": "https://trailsofwind.figures.cc/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://trailsofwind.figures.cc/",
+          "publishedOn": "2025-02-06T22:27:22.000Z",
+          "wordCount": 11,
+          "title": "Trails of Wind (2019)",
+          "imageUrl": "https://trailsofwind.figures.cc/trailsOfWind_openGraph.jpg"
+        },
+        {
+          "id": "https://magazine.sebastianraschka.com/p/understanding-reasoning-llms",
+          "author": null,
+          "description": "Comments",
+          "link": "https://magazine.sebastianraschka.com/p/understanding-reasoning-llms",
+          "publishedOn": "2025-02-06T21:34:12.000Z",
+          "wordCount": 12009,
+          "title": "Understanding Reasoning LLMs",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6ebc5c9-461f-4d3a-889b-b8ea4e14e5ba_1600x830.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42966455",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42966455",
+          "publishedOn": "2025-02-06T21:00:23.000Z",
+          "wordCount": 175,
+          "title": "Verse (YC W22) Is Hiring",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/US-Artificial-Intelligence/scraper",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/US-Artificial-Intelligence/scraper",
+          "publishedOn": "2025-02-06T18:48:05.000Z",
+          "wordCount": 3129,
+          "title": "Show HN: An API that takes a URL and returns a file with browser screenshots",
+          "imageUrl": "https://opengraph.githubassets.com/ff5095eebad4ec7b6cdec1d8c5154b2e01dfa29ab8b4c45f12c92195e290ab65/US-Artificial-Intelligence/scraper"
+        },
+        {
+          "id": "https://github.com/QuadrupleA/sqlite-page-explorer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/QuadrupleA/sqlite-page-explorer",
+          "publishedOn": "2025-02-06T18:40:30.000Z",
+          "wordCount": 2462,
+          "title": "Show HN: SQLite disk page explorer",
+          "imageUrl": "https://opengraph.githubassets.com/180ad16abc8092470ba0e38daa5ea6d708d51e8c0427737c1f461b855a82639b/QuadrupleA/sqlite-page-explorer"
+        },
+        {
+          "id": "https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field",
+          "publishedOn": "2025-02-06T17:54:50.000Z",
+          "wordCount": 31247,
+          "title": "Scala 3 Migration: Report from the field",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fstock%2Funsplash%2FV72Hk6LjjjI%2Fupload%2Faed1ed418548eeb647e5eef0a9f7f9d5.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://thestrikeagency.com/kaos/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thestrikeagency.com/kaos/",
+          "publishedOn": "2025-02-06T15:35:32.000Z",
+          "wordCount": 3,
+          "title": "Show HN: An homage to Tom Dowdy's 1991 screensaver, \"Kaos\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html",
+          "publishedOn": "2025-02-06T14:15:28.000Z",
+          "wordCount": 5363,
+          "title": "Simulating water over terrain",
+          "imageUrl": "/blog/media/simulating-water-over-terrain/cover.png"
+        },
+        {
+          "id": "http://loki3.com/flex/explore/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://loki3.com/flex/explore/",
+          "publishedOn": "2025-02-06T12:39:37.000Z",
+          "wordCount": 811,
+          "title": "Explorable Flexagons: Learn to create and flex flexagons (2020)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2406.03445",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2406.03445",
+          "publishedOn": "2025-02-06T10:31:06.000Z",
+          "wordCount": 707,
+          "title": "Pre-Trained Large Language Models Use Fourier Features for Addition (2024)",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://spectrum.ieee.org/aluminum-battery",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/aluminum-battery",
+          "publishedOn": "2025-02-06T10:13:26.000Z",
+          "wordCount": 10307,
+          "title": "Aluminum Batteries Outlive Lithium-Ion with a Pinch of Salt",
+          "imageUrl": "https://spectrum.ieee.org/media-library/ends-of-batteries-neatly-stacked-together-with-one-battery-sticking-out.jpg?id=56186170&width=1200&height=600&coordinates=0%2C658%2C0%2C658"
+        },
+        {
+          "id": "https://gladdendesign.com/collections/paper-apps",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gladdendesign.com/collections/paper-apps",
+          "publishedOn": "2025-02-06T07:58:33.000Z",
+          "wordCount": 2161,
+          "title": "Paper Apps",
+          "imageUrl": "http://gladdendesign.com/cdn/shop/collections/IMG_7428.jpg?v=1733973949"
+        },
+        {
+          "id": "https://github.com/heap-exploitation/heap-explorer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/heap-exploitation/heap-explorer",
+          "publishedOn": "2025-02-06T04:54:18.000Z",
+          "wordCount": 1949,
+          "title": "Show HN: Heap Explorer",
+          "imageUrl": "https://opengraph.githubassets.com/05f7d74d1fdea7bc0f3afc290ab96ff3392f1ffa732c6aae3308848fad04968d/heap-exploitation/heap-explorer"
+        },
+        {
+          "id": "https://danielchasehooper.com/posts/code-animated-rick/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://danielchasehooper.com/posts/code-animated-rick/",
+          "publishedOn": "2025-02-06T03:30:34.000Z",
+          "wordCount": 12380,
+          "title": "Programming SDF animations of Rick and Morty",
+          "imageUrl": "https://danielchasehooper.com/images/rick-banner.jpg"
+        },
+        {
           "id": "https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/",
           "author": null,
           "description": "Comments",
@@ -4574,6 +5084,46 @@
           "imageUrl": "https://v1.screenshot.11ty.dev/https%3A%2F%2Ftedium.co%2Fog-images%2F2025%2F02%2F05%2Fwarner-bros-youtube-full-movie-releases%2F/opengraph/?v=1738778965"
         },
         {
+          "id": "https://abeljansma.nl/2025/01/28/mereoPhysics.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://abeljansma.nl/2025/01/28/mereoPhysics.html",
+          "publishedOn": "2025-02-05T14:06:44.000Z",
+          "wordCount": 3462,
+          "title": "Complex Systems and Quantitative Mereology",
+          "imageUrl": null
+        },
+        {
+          "id": "http://wtarreau.blogspot.com/2011/12/elastic-binary-trees-ebtree.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://wtarreau.blogspot.com/2011/12/elastic-binary-trees-ebtree.html",
+          "publishedOn": "2025-02-05T13:08:40.000Z",
+          "wordCount": 6858,
+          "title": "Elastic Binary Trees (2011)",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1Ac5Hzt1hhRuMH-5kGV9HXonnpr1AXhBC9ZCm45zGKCd58MyBYeitPS8ZfimSWFXpxSEEx4MQ0zoBkRBVQZcx4DHlYeifqYAP6hyphenhyphen80my8xf2AuqkFHfuqn-G0RQTCWuby8L3sbhv3E2M/w1200-h630-p-k-no-nu/Ebnode.png"
+        },
+        {
+          "id": "https://arxivtok.vercel.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxivtok.vercel.app/",
+          "publishedOn": "2025-02-05T12:59:50.000Z",
+          "wordCount": 35,
+          "title": "Show HN: ArXivTok",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/atgreen/openldk",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/atgreen/openldk",
+          "publishedOn": "2025-02-05T12:17:47.000Z",
+          "wordCount": 3735,
+          "title": "OpenLDK: A Java JIT compiler and runtime in Common Lisp",
+          "imageUrl": "https://opengraph.githubassets.com/5af693be516a8e1987359b00641c774edafbf733d9ccaf4dced475bf6b813114/atgreen/openldk"
+        },
+        {
           "id": "https://timkellogg.me/blog/2025/02/03/s1",
           "author": null,
           "description": "Comments",
@@ -4582,6 +5132,16 @@
           "wordCount": 1303,
           "title": "S1: A $6 R1 competitor?",
           "imageUrl": "https://timkellogg.mehttps://cdn.pixabay.com/photo/2024/08/13/16/50/ai-generated-8966531_960_720.png"
+        },
+        {
+          "id": "https://spillhistorie.no/qa-with-game-designer-steve-meretzky/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spillhistorie.no/qa-with-game-designer-steve-meretzky/",
+          "publishedOn": "2025-02-05T10:53:02.000Z",
+          "wordCount": 3309,
+          "title": "Steve Meretzky – Working with Douglas Adams on the Hitchhiker's Guide",
+          "imageUrl": "https://i0.wp.com/spillhistorie.no/wp-content/uploads/2025/02/steve-meretzky-topp.jpg?fit=1200%2C600&ssl=1"
         },
         {
           "id": "https://chromestatus.com/feature/5135990159835136",
@@ -4734,6 +5294,16 @@
           "imageUrl": "https://challenge.dyalog.com/assets/apl-challenge.png"
         },
         {
+          "id": "https://blog.cryptographyengineering.com/2025/02/04/how-to-prove-false-statements-part-1/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.cryptographyengineering.com/2025/02/04/how-to-prove-false-statements-part-1/",
+          "publishedOn": "2025-02-04T21:47:12.000Z",
+          "wordCount": 7209,
+          "title": "How to prove false statements? (Part 1)",
+          "imageUrl": "https://blog.cryptographyengineering.com/wp-content/uploads/2025/02/cuckoo-2-jpg.webp"
+        },
+        {
           "id": "https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652",
           "author": null,
           "description": "Comments",
@@ -4782,6 +5352,16 @@
           "wordCount": 3,
           "title": "WikiTok",
           "imageUrl": null
+        },
+        {
+          "id": "https://zachholman.com/posts/red-teams",
+          "author": null,
+          "description": "Comments",
+          "link": "https://zachholman.com/posts/red-teams",
+          "publishedOn": "2025-02-04T18:01:45.000Z",
+          "wordCount": 857,
+          "title": "Nontraditional Red Teams",
+          "imageUrl": "/images/front.jpg"
         },
         {
           "id": "https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f",
@@ -4914,6 +5494,16 @@
           "imageUrl": "https://ticotimes.net/wp-content/uploads/2025/02/tico2059_Bitcoin_halving_concept_b6d3be70-cdb6-4a62-a890-75bf37cc10bf.jpg"
         },
         {
+          "id": "https://play.ht/news/playai-announces-new-benchmarks-playdialog/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://play.ht/news/playai-announces-new-benchmarks-playdialog/",
+          "publishedOn": "2025-02-03T23:51:39.000Z",
+          "wordCount": 1997,
+          "title": "PlayAI's new Dialog model achieves 3:1 preference in human evals",
+          "imageUrl": "https://play.ht/news/wp-content/uploads/2025/02/IMG_3289-1024x576.jpg"
+        },
+        {
           "id": "https://www.404media.co/senator-hawley-proposes-jail-time-for-people-who-download-deepseek/",
           "author": null,
           "description": "Comments",
@@ -4932,6 +5522,16 @@
           "wordCount": 3074,
           "title": "No-Panic Rust: A Nice Technique for Systems Programming",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.redhat.com/en/blog/open-source-ai-red-hats-point-view",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.redhat.com/en/blog/open-source-ai-red-hats-point-view",
+          "publishedOn": "2025-02-03T22:08:20.000Z",
+          "wordCount": 2854,
+          "title": "Open source AI: Red Hat's point-of-view",
+          "imageUrl": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
         },
         {
           "id": "https://whatever.scalzi.com/2025/02/03/how-translation-works-book-title-edition/",
@@ -4982,6 +5582,16 @@
           "wordCount": 925,
           "title": "AMD: Microcode Signature Verification Vulnerability",
           "imageUrl": "https://opengraph.githubassets.com/b0ef9cac1610fcc9b21c5fe58b33004b02e440d78babec71e58b36a039075486/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w"
+        },
+        {
+          "id": "https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/",
+          "publishedOn": "2025-02-03T17:47:06.000Z",
+          "wordCount": 3551,
+          "title": "Biophysics: How Does Life Happen When There's Barely Any Light?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/01/Dark-photosynthesis_crMarkBelan-Social.jpg"
         },
         {
           "id": "https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/",
@@ -5134,6 +5744,26 @@
           "imageUrl": "https://opengraph.githubassets.com/7a976dde29517e34ed29668d6d0dab571870d52688824a7b3147f19bc9f95ebe/DiscordMessenger/dm"
         },
         {
+          "id": "https://github.com/chipsalliance/t1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/chipsalliance/t1",
+          "publishedOn": "2025-02-03T11:22:44.000Z",
+          "wordCount": 8247,
+          "title": "T1: A RISC-V Vector processor implementation",
+          "imageUrl": "https://opengraph.githubassets.com/9b3d8b99509a9d2d4ed37870677e60b2ea9b956b9b777b460451fbe52ed72a53/chipsalliance/t1"
+        },
+        {
+          "id": "https://agi.safe.ai/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://agi.safe.ai/",
+          "publishedOn": "2025-02-03T11:03:34.000Z",
+          "wordCount": 3152,
+          "title": "Humanity's Last Exam",
+          "imageUrl": null
+        },
+        {
           "id": "https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/",
           "author": null,
           "description": "Comments",
@@ -5142,6 +5772,16 @@
           "wordCount": 3374,
           "title": "AI systems with 'unacceptable risk' are now banned in the EU",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1195223644-e1681812259980.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://blog.voyageai.com/2024/12/04/code-retrieval-eval/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.voyageai.com/2024/12/04/code-retrieval-eval/",
+          "publishedOn": "2025-02-03T07:54:34.000Z",
+          "wordCount": 4534,
+          "title": "How do we evaluate vector-based code retrieval?",
+          "imageUrl": "https://i0.wp.com/blog.voyageai.com/wp-content/uploads/2024/12/openart-image_7-Lk3641_1731370853759_raw.jpg?fit=1024%2C1024&quality=89&ssl=1"
         },
         {
           "id": "https://github.com/mpc001/auto_avsr",
@@ -6480,6 +7120,16 @@
       "feedUrl": "https://rknight.me/subscribe/posts/rss.xml",
       "siteUrl": "https://rknight.me",
       "articles": [
+        {
+          "id": "https://rknight.me/blog/a-small-rabbit-hole-of-utility-knives/",
+          "author": "Robb Knight",
+          "description": "The Palmer utility knife was mentioned on the latest episode of The Pen Addict and it sent me down a rabbit hole, albeit a small one. Studio Neat have the Keen which is shipping this summer and costs £78 and then there's the SlideWinder at £15. Told you it was a small hole.\nI am mostly tempted by the Palmer in atomic purple - the design of it appeals to me more than the others. I nearly bought it until I considered it for a moment; I just wouldn't use this kind of knife that often.\nIt is fun to see a bunch of different companies tackling this very specific problem though.",
+          "link": "https://rknight.me/blog/a-small-rabbit-hole-of-utility-knives/",
+          "publishedOn": "2025-02-06T20:18:28.000Z",
+          "wordCount": 385,
+          "title": "A Small Rabbit Hole of Utility Knives",
+          "imageUrl": "https://v1.screenshot.11ty.dev/https%3A%2F%2Frknight.me%2Fopengraph%2Fblog%2Fa-small-rabbit-hole-of-utility-knives%2F/opengraph/_123"
+        },
         {
           "id": "https://rknight.me/blog/zebra-big-30-pack-of-pens/",
           "author": "Robb Knight",
@@ -12882,6 +13532,16 @@
       "siteUrl": "https://shkspr.mobi/blog",
       "articles": [
         {
+          "id": "https://shkspr.mobi/blog/2025/02/talking-contact-tracing-at-fosdem/",
+          "author": null,
+          "description": "I was delighted to be invited to speak at FOSDEM. And I was not at all intimidated to be speaking on the cavernous Janson stage.  The audience were lovely, asked interesting questions, and - most importantly - laughed in all the right places 😅.  Regular readers will recognise this as being an updated version of the talk I gave at EMF 2024 - feel free to watch that one if you want to see if I&#039;ve improved.              Huge thanks to the AV team and the video-wizards behind the FOSDEM in…",
+          "link": "https://shkspr.mobi/blog/2025/02/talking-contact-tracing-at-fosdem/",
+          "publishedOn": "2025-02-06T12:34:19.000Z",
+          "wordCount": null,
+          "title": "Talking Contact Tracing at FOSDEM",
+          "imageUrl": null
+        },
+        {
           "id": "https://shkspr.mobi/blog/2025/02/fosdem-the-good-parts-and-the-not-so-good-parts/",
           "author": null,
           "description": "I&#039;m just back from my first ever FOSDEM - a megaconference dedicated to Free and Open Source technology and culture. It was epic.  I&#039;m still ruminating on the experience, but here are my first impressions of what did and didn&#039;t work.  The Good Bits  Really, it is a dozen conferences squeezed into one.  Over a thousand talks, on a seemingly infinite array of subjects, about a million people crammed into one tram from Brussels city centre, and a panoply of wonderful humans with crazy ideas on how …",
@@ -13050,16 +13710,6 @@
           "wordCount": null,
           "title": "Graphing the connections between my blog posts",
           "imageUrl": null
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2025/01/review-roamless-travel-esim/",
-          "author": null,
-          "description": "I&#039;ve got a bunch of travel coming up to exotic locations. Previously, I&#039;ve bought a local SIM card when I&#039;ve landed - but they&#039;re often expensive, fiddly to fit, and queuing in an airport isn&#039;t much fun.  I&#039;ve also bought pre-paid SIMs which have a fixed amount of data or only last a specific amount of time.  But the big problem with those solutions is that you lose a fair bit of value unless you exhaust the SIM.  If you buy a month-long package but are only on holiday for a week, that&#039;s a…",
-          "link": "https://shkspr.mobi/blog/2025/01/review-roamless-travel-esim/",
-          "publishedOn": "2025-01-08T12:34:56.000Z",
-          "wordCount": null,
-          "title": "Review: Roamless Travel eSIM ★★★★★",
-          "imageUrl": null
         }
       ]
     },
@@ -13068,6 +13718,46 @@
       "feedUrl": "https://simonwillison.net/atom/everything/",
       "siteUrl": "http://simonwillison.net/",
       "articles": [
+        {
+          "id": "https://simonwillison.net/2025/Feb/6/datasette-10a17/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://docs.datasette.io/en/latest/changelog.html#a17-2025-02-06\">Datasette 1.0a17</a></strong></p>\nNew Datasette alpha, with a bunch of small changes and bug fixes accumulated over the past few months. Some (minor) highlights:</p>\n<blockquote>\n<ul>\n<li>The <a href=\"https://docs.datasette.io/en/latest/plugin_hooks.html#plugin-hook-register-magic-parameters\">register_magic_parameters(datasette)</a> plugin hook can now register async functions. (<a href=\"https://github.com/simonw/datasette/issues/2441\">#2441</a>)</li>\n<li>Breadcrumbs on database and table pages now include a consistent self-link for resetting query string parameters. (<a href=\"https://github.com/simonw/datasette/issues/2454\">#2454</a>)</li>\n<li>New internal methods <code>datasette.set_actor_cookie()</code> and <code>datasette.delete_actor_cookie()</code>, <a href=\"https://docs.datasette.io/en/latest/authentication.html#authentication-ds-actor\">described here</a>. (<a href=\"https://github.com/simonw/datasette/issues/1690\">#1690</a>)</li>\n<li><code>/-/permissions</code> page now shows a list of all permissions registered by plugins. (<a href=\"https://github.com/simonw/datasette/issues/1943\">#1943</a>)</li>\n<li>If a table has a single unique text column Datasette now detects that as the foreign key label for that table. (<a href=\"https://github.com/simonw/datasette/issues/2458\">#2458</a>)</li>\n<li>The <code>/-/permissions</code> page now includes options for filtering or exclude permission checks recorded against the current user. (<a href=\"https://github.com/simonw/datasette/issues/2460\">#2460</a>)</li>\n</ul>\n</blockquote>\n<p>I was incentivized to push this release by <a href=\"https://github.com/datasette/datasette-load/issues/9\">an issue</a> I ran into in my new <a href=\"https://github.com/datasette/datasette-load\">datasette-load</a> plugin, which resulted in this fix:</p>\n<blockquote>\n<ul>\n<li>Fixed a bug where replacing a database with a new one with the same name did not pick up the new database correctly. (<a href=\"https://github.com/simonw/datasette/issues/2465\">#2465</a>)</li>\n</ul>\n</blockquote>\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/projects\">projects</a>, <a href=\"https://simonwillison.net/tags/annotated-release-notes\">annotated-release-notes</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/6/datasette-10a17/#atom-everything",
+          "publishedOn": "2025-02-06T20:56:21.000Z",
+          "wordCount": 336,
+          "title": "Datasette 1.0a17",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/6/sqlite-page-explorer/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://github.com/QuadrupleA/sqlite-page-explorer\">sqlite-page-explorer</a></strong></p>\nOutstanding tool by  Luke Rissacher  for understanding the SQLite file format. Download the application (built using redbean and Cosmopolitan, so the same binary runs on Windows, Mac and Linux) and point it at a SQLite database to get a local web application with an interface for exploring how the file is structured.</p>\n<p>Here's it running against the <a href=\"https://datasette.io/content\">datasette.io/content</a> database that runs the official Datasette website:</p>\n<p><img alt=\"Animated demo. Starts on a page that shows the SQLite header information, then toggles hex display on and off, then navigates to an index of all the pages and clicks in to the details of one of those pages.\" src=\"https://static.simonwillison.net/static/2025/sqlite-page-explorer-content.gif\" />\n\n    <p><small></small>Via <a href=\"https://news.ycombinator.com/item?id=42965198\">Hacker News</a></small></p>\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/redbean\">redbean</a>, <a href=\"https://simonwillison.net/tags/sqlite\">sqlite</a>, <a href=\"https://simonwillison.net/tags/cosmopolitan\">cosmopolitan</a>, <a href=\"https://simonwillison.net/tags/lua\">lua</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/6/sqlite-page-explorer/#atom-everything",
+          "publishedOn": "2025-02-06T20:39:15.000Z",
+          "wordCount": 245,
+          "title": "sqlite-page-explorer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/6/the-future-belongs-to-idea-guys-who-can-just-do-things/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://ghuntley.com/dothings/\">The future belongs to idea guys who can just do things</a></strong></p>\nGeoffrey Huntley with a provocative take on <a href=\"https://simonwillison.net/tags/ai-assisted-programming/\">AI-assisted programming</a>:</p>\n<blockquote>\n<p>I seriously can't see a path forward where the majority of software engineers are doing artisanal hand-crafted commits by as soon as the end of 2026.</p>\n</blockquote>\n<p>He calls for companies to invest in high quality internal training and create space for employees to figure out these new tools:</p>\n<blockquote>\n<p>It's hackathon (during business hours) once a month, every month time.</p>\n</blockquote>\n<p>Geoffrey's concluding note resonates with me. LLMs are a gift to the fiercely curious and ambitious:</p>\n<blockquote>\n<p>If you’re a high agency person, there’s never been a better time to be alive...</p>\n</blockquote>\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/ai-assisted-programming\">ai-assisted-programming</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/6/the-future-belongs-to-idea-guys-who-can-just-do-things/#atom-everything",
+          "publishedOn": "2025-02-06T19:42:01.000Z",
+          "wordCount": 298,
+          "title": "The future belongs to idea guys who can just do things",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/6/andrej-karpathy/#atom-everything",
+          "author": null,
+          "description": "<blockquote cite=\"https://twitter.com/karpathy/status/1886192184808149383\"><p>There's a new kind of coding I call \"vibe coding\", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It's possible because the LLMs (e.g. Cursor Composer w Sonnet) are getting too good. Also I just talk to Composer with SuperWhisper so I barely even touch the keyboard.</p>\n<p>I ask for the dumbest things like \"decrease the padding on the sidebar by half\" because I'm too lazy to find it. I \"Accept All\" always, I don't read the diffs anymore. When I get error messages I just copy paste them in with no comment, usually that fixes it. The code grows beyond my usual comprehension, I'd have to really read through it for a while. Sometimes the LLMs can't fix a bug so I just work around it or ask for random changes until it goes away.</p>\n<p>It's not too bad for throwaway weekend projects, but still quite amusing. I'm building a project or webapp, but it's not really coding - I just see stuff, say stuff, run stuff, and copy paste stuff, and it mostly works.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://twitter.com/karpathy/status/1886192184808149383\">Andrej Karpathy</a></p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/andrej-karpathy\">andrej-karpathy</a>, <a href=\"https://simonwillison.net/tags/ai-assisted-programming\">ai-assisted-programming</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/6/andrej-karpathy/#atom-everything",
+          "publishedOn": "2025-02-06T13:38:08.000Z",
+          "wordCount": 372,
+          "title": "Quoting Andrej Karpathy",
+          "imageUrl": null
+        },
         {
           "id": "https://simonwillison.net/2025/Feb/5/s1-the-6-r1-competitor/#atom-everything",
           "author": null,
@@ -13545,6 +14235,16 @@
       "feedUrl": "https://slimemoldtimemold.com/feed/",
       "siteUrl": "https://slimemoldtimemold.com",
       "articles": [
+        {
+          "id": "http://slimemoldtimemold.com/?p=4251",
+          "author": "slimemoldtimemold",
+          "description": "We who have nothing to “wind string around” are lost in the wilderness. But those who deny this need are “burning our playhouse down.” If you put quotes around certain words it sounds more like a metaphor. — John Linnell, 2009 interview with Rolling Stone Take almost anything, heat it up, and it gets bigger. […]",
+          "link": "https://slimemoldtimemold.com/2025/02/06/the-mind-in-the-wheel-prologue-everybody-wants-a-rock/",
+          "publishedOn": "2025-02-06T16:11:00.000Z",
+          "wordCount": 12686,
+          "title": "The Mind in the Wheel – Prologue: Everybody Wants a Rock",
+          "imageUrl": "https://slimemoldtimemold.com/wp-content/uploads/2025/02/wright_of_derby_the_orrery-copy-2.jpg?w=1200"
+        },
         {
           "id": "http://slimemoldtimemold.com/?p=4195",
           "author": "slimemoldtimemold",
