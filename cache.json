@@ -6,6 +6,206 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42978313",
+          "author": "eamag",
+          "description": "Article URL: https://huggingface.co/papers/2502.02649\nComments URL: https://news.ycombinator.com/item?id=42978313\nPoints: 23\n# Comments: 22",
+          "link": "https://huggingface.co/papers/2502.02649",
+          "publishedOn": "2025-02-07T22:38:11.000Z",
+          "wordCount": 2121,
+          "title": "Autonomous AI Agents Should Not Be Developed",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2502.02649/gradient.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42977483",
+          "author": "fewgrehrehre",
+          "description": "Article URL: https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/\nComments URL: https://news.ycombinator.com/item?id=42977483\nPoints: 39\n# Comments: 3",
+          "link": "https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/",
+          "publishedOn": "2025-02-07T21:06:40.000Z",
+          "wordCount": 7408,
+          "title": "Portland's Exploding Liberty Bell",
+          "imageUrl": "https://tomlovesthelibertybell.com/wp-content/uploads/2018/12/8Snyvgf.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42977416",
+          "author": "roseway4",
+          "description": "Article URL: https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer\nComments URL: https://news.ycombinator.com/item?id=42977416\nPoints: 0\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer",
+          "publishedOn": "2025-02-07T21:00:03.000Z",
+          "wordCount": 1222,
+          "title": "Zep AI (YC W24) Is Hiring Engineers to Build SOTA Agent Memory",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42977388",
+          "author": "import-base64",
+          "description": "Article URL: https://github.com/Tanq16/ExpenseOwl\nComments URL: https://news.ycombinator.com/item?id=42977388\nPoints: 69\n# Comments: 23",
+          "link": "https://github.com/Tanq16/ExpenseOwl",
+          "publishedOn": "2025-02-07T20:56:58.000Z",
+          "wordCount": 5150,
+          "title": "Show HN: ExpenseOwl – Simple, self-hosted expense tracker",
+          "imageUrl": "https://opengraph.githubassets.com/452c18a71b1682a53ecb4dd8c428001e2cc5470efc75eba3aa3586b40782297c/Tanq16/ExpenseOwl"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42975803",
+          "author": "WiggleGuy",
+          "description": "For the past few months, I've been working on a website that answers two different questions:\n- Where in my city have the best travel times to all the things and people I care about?\n- Given a listing, how far is it from all the things and people I care about?\nPersonally this was fueled by my own frustrations when I was apartment hunting in NYC. I was frustrating to have to juggle so many Google Maps tabs when I was evaluating a listing, and it was also annoying to not have full confidence that I was even searching in the right places.\nI wanted to be close to work, a Trader Joe's, and a major park. Given that public transportation networks can sometimes make close things hard to get to and far things easy to get to, it's not always obvious whether a neighborhood actually even fits my criteria or not!\nThe overarching goal of theretowhere.com is to allow you to make more informed moving decisions while also making things more convenient than they are today.\nhttps://ibb.co/pBsX2HjN\nIt can generate detailed travel time breakdowns for individual listings and addresses, making it easier to determine whether a listing is worth applying for without juggling Google Maps tabs.\nThis is great for questions like “How far is this apartment from my friends, work and dancing gyms?”\nhttps://ibb.co/mVBjwPrJ\nIt also has the powerful ability to heatmap a city based on which parts of it are close or not to the people and places you care about.\nThis is great for questions like “Where in the city would I be reasonably close to work, friends and a woodworking studio?”\nhttps://ibb.co/vCynPSRK\nYou can add these heatmaps to sites like Zillow and Streeteasy to make things super convenient (this was very fun to make).\nThe main thing that's on my mind is whether this is useful or not. Like, is this something you would actually use?\nI also have other ideas I'd like to eventually intergrate into this (crime heatmaps, noise heatmaps, etc)\nComments URL: https://news.ycombinator.com/item?id=42975803\nPoints: 194\n# Comments: 76",
+          "link": "https://theretowhere.com/",
+          "publishedOn": "2025-02-07T18:23:40.000Z",
+          "wordCount": 11,
+          "title": "Show HN: A website that heatmaps your city based on your housing preferences",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42975436",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://hearsum.ca/posts/history-of-code-signing-at-mozilla/\nComments URL: https://news.ycombinator.com/item?id=42975436\nPoints: 164\n# Comments: 50",
+          "link": "https://hearsum.ca/posts/history-of-code-signing-at-mozilla/",
+          "publishedOn": "2025-02-07T17:51:49.000Z",
+          "wordCount": 2020,
+          "title": "A brief history of code signing at Mozilla",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42975171",
+          "author": "rybla",
+          "description": "Article URL: https://github.com/jeprinz/pantograph/blob/main/README.md\nComments URL: https://news.ycombinator.com/item?id=42975171\nPoints: 49\n# Comments: 18",
+          "link": "https://github.com/jeprinz/pantograph/blob/main/README.md",
+          "publishedOn": "2025-02-07T17:27:57.000Z",
+          "wordCount": 3970,
+          "title": "Pantograph: A Fluid and Typed Structure Editor",
+          "imageUrl": "https://opengraph.githubassets.com/0307dc761e0bbda2b9eeb4bdc8cffc462e05b9d3b882aacf0b47c83f3d6e8e17/jeprinz/pantograph"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42974882",
+          "author": "ViktorRay",
+          "description": "Article URL: https://www.yalemedicine.org/news/ketamine-for-depression\nComments URL: https://news.ycombinator.com/item?id=42974882\nPoints: 84\n# Comments: 59",
+          "link": "https://www.yalemedicine.org/news/ketamine-for-depression",
+          "publishedOn": "2025-02-07T16:59:18.000Z",
+          "wordCount": 1391,
+          "title": "Ketamine for Depression: How It Works (2024) [video]",
+          "imageUrl": "https://ysm-res.cloudinary.com/image/upload/v1/yms/prod/9cc937bd-186d-401e-a98a-10f3650bad8e"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42974809",
+          "author": "theamk",
+          "description": "Article URL: https://ieeexplore.ieee.org/document/628099\nComments URL: https://news.ycombinator.com/item?id=42974809\nPoints: 123\n# Comments: 150",
+          "link": "https://ieeexplore.ieee.org/document/628099",
+          "publishedOn": "2025-02-07T16:53:20.000Z",
+          "wordCount": 1631,
+          "title": "The origins of 60-Hz as a power frequency",
+          "imageUrl": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42974728",
+          "author": "voxadam",
+          "description": "Article URL: https://carto.com/blog/zip-codes-spatial-analysis\nComments URL: https://news.ycombinator.com/item?id=42974728\nPoints: 142\n# Comments: 108",
+          "link": "https://carto.com/blog/zip-codes-spatial-analysis",
+          "publishedOn": "2025-02-07T16:46:47.000Z",
+          "wordCount": 4662,
+          "title": "Stop using zip codes for geospatial analysis (2019)",
+          "imageUrl": "https://cdn.prod.website-files.com/63483ad423421bd16e7a7ae7/639c39c9c67f664c8539d8da_zip-first-digit.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42974727",
+          "author": "jandrewrogers",
+          "description": "Article URL: https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm\nComments URL: https://news.ycombinator.com/item?id=42974727\nPoints: 102\n# Comments: 47",
+          "link": "https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm",
+          "publishedOn": "2025-02-07T16:46:45.000Z",
+          "wordCount": 4089,
+          "title": "Radiation belts detected around Earth after solar storm",
+          "imageUrl": "https://www.sciencealert.com/images/2025/02/new-belts.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42974461",
+          "author": "klaussilveira",
+          "description": "Article URL: https://github.com/AIFanatic/three-nanite\nComments URL: https://news.ycombinator.com/item?id=42974461\nPoints: 162\n# Comments: 25",
+          "link": "https://github.com/AIFanatic/three-nanite",
+          "publishedOn": "2025-02-07T16:23:50.000Z",
+          "wordCount": 1831,
+          "title": "Three-nanite: Unreal Nanite in Three.js",
+          "imageUrl": "https://opengraph.githubassets.com/73ebba109bf5489deb0eeb6a5c44dce13f4288cbdb415cf0bc6102a7b7e600ff/AIFanatic/three-nanite"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42974429",
+          "author": "bobfunk",
+          "description": "Article URL: https://stytch.com/blog/the-age-of-agent-experience/\nComments URL: https://news.ycombinator.com/item?id=42974429\nPoints: 80\n# Comments: 37",
+          "link": "https://stytch.com/blog/the-age-of-agent-experience/",
+          "publishedOn": "2025-02-07T16:21:46.000Z",
+          "wordCount": 4088,
+          "title": "The Age of Agent Experience",
+          "imageUrl": "https://cdn.sanity.io/images/141x4uzu/production/debae5121d138d6b3358e3289e070b223092689e-1584x988.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42974378",
+          "author": "c0nstantine",
+          "description": "An extension of regular expressions for text editing, with a grep-like command-line tool. If you, like me, struggle with group logic in regular expressions, you might find it useful.\nI wanted to do this for a very long time. It is more of a sketch or prototype. I'd really appreciate your feedback!\nComments URL: https://news.ycombinator.com/item?id=42974378\nPoints: 204\n# Comments: 65",
+          "link": "https://github.com/c0stya/trre",
+          "publishedOn": "2025-02-07T16:18:14.000Z",
+          "wordCount": 5628,
+          "title": "Show HN: Transductive regular expressions for text editing",
+          "imageUrl": "https://opengraph.githubassets.com/936ea47c3c9a7d5630fe284f08b7093266cb53e6c6aac7da0c4aea6c039b3394/c0stya/trre"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42973897",
+          "author": "paulpauper",
+          "description": "Article URL: https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago\nComments URL: https://news.ycombinator.com/item?id=42973897\nPoints: 87\n# Comments: 9",
+          "link": "https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago",
+          "publishedOn": "2025-02-07T15:40:38.000Z",
+          "wordCount": 6980,
+          "title": "When Louis Armstrong Conquered Chicago",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c669bd2-4243-4c39-b7c0-2dd3ccb255a4_1094x884.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42972781",
+          "author": "rbanffy",
+          "description": "Article URL: https://www.nature.com/articles/s41586-024-08502-w\nComments URL: https://news.ycombinator.com/item?id=42972781\nPoints: 112\n# Comments: 124",
+          "link": "https://www.nature.com/articles/s41586-024-08502-w",
+          "publishedOn": "2025-02-07T14:18:19.000Z",
+          "wordCount": null,
+          "title": "Children's arithmetic skills do not transfer between applied and academic math",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42972062",
+          "author": "Mond_",
+          "description": "Article URL: https://lkml.org/lkml/2025/2/7/9\nComments URL: https://news.ycombinator.com/item?id=42972062\nPoints: 485\n# Comments: 403",
+          "link": "https://lkml.org/lkml/2025/2/7/9",
+          "publishedOn": "2025-02-07T13:02:03.000Z",
+          "wordCount": 201,
+          "title": "Asahi Linux lead developer Hector Martin resigns from Linux kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42971761",
+          "author": "throw0101d",
+          "description": "Article URL: https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/\nComments URL: https://news.ycombinator.com/item?id=42971761\nPoints: 1052\n# Comments: 549",
+          "link": "https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/",
+          "publishedOn": "2025-02-07T12:18:46.000Z",
+          "wordCount": 3218,
+          "title": "Apple Ordered by UK to Create Global iCloud Encryption Backdoor",
+          "imageUrl": "https://images.macrumors.com/t/kgOQZrxDvHnu-Guk7aZzH9Be4-Y=/2500x/article-new/2024/12/iCloud-General-Feature-Redux.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42971446",
+          "author": "gameshot911",
+          "description": "Article URL: https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/\nComments URL: https://news.ycombinator.com/item?id=42971446\nPoints: 1078\n# Comments: 782",
+          "link": "https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/",
+          "publishedOn": "2025-02-07T11:26:02.000Z",
+          "wordCount": 2185,
+          "title": "Meta torrented & seeded 81.7 TB dataset containing copyrighted data",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-459404787-1152x648.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42970240",
+          "author": "esbudylin",
+          "description": "Article URL: https://www.youtube.com/watch?v=Hi8r_63LGyg\nComments URL: https://news.ycombinator.com/item?id=42970240\nPoints: 366\n# Comments: 59",
+          "link": "https://www.youtube.com/watch?v=Hi8r_63LGyg",
+          "publishedOn": "2025-02-07T07:11:36.000Z",
+          "wordCount": null,
+          "title": "Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42967474",
           "author": "diggan",
           "description": "Article URL: https://tillitis.se/products/tkey/\nComments URL: https://news.ycombinator.com/item?id=42967474\nPoints: 5\n# Comments: 0",
@@ -1478,6 +1678,66 @@
       "siteUrl": "https://aws.amazon.com/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "a63466a33cba5606f378c83ac9d072b5e368eb8a",
+          "author": "aws@amazon.com",
+          "description": "AWS Step Functions now supports additional data sources and output options for Distributed Map, enabling more flexible large-scale parallel processing workflows. Distributed map can now process data from JSON Lines (JSONL) and a broader range of delimited file formats stored in Amazon S3. Additionally, distributed map offers new output transformations for greater control over result formatting.\n  AWS Step Functions is a visual workflow service capable of orchestrating over 14,000+ API actions from over 220 AWS services to build distributed applications and data processing workloads. With this update, you can more easily iterate over and process diverse datasets using Step Functions distributed map. In addition to existing JSON and comma separated value (CSV) file support, distributed map now supports JSONL, and new delimited file formats, such as semicolon-delimited files and tab-delimited files. This expands processing capabilities to a wider range of data formats without custom pre-processing. The new flexible output transformations give you more control over how results are formatted, enabling easier aggregation of results and simplifying integration with downstream systems.\n  To get started, you can use the distributed map mode today in the AWS Step Functions console or read this blog post. To learn more, visit the Step Functions developer guide.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-step-functions-data-source-output-option-distributed-map",
+          "publishedOn": "2025-02-07T22:50:00.000Z",
+          "wordCount": null,
+          "title": "AWS Step Functions expands data source and output options for Distributed Map",
+          "imageUrl": null
+        },
+        {
+          "id": "f8b0cc81af832c3438ce7adf604737cf44bdd269",
+          "author": "aws@amazon.com",
+          "description": "Amazon FSx now offers customers the option to use Internet Protocol version 6 (IPv6) while accessing the Amazon FSx Service APIs.\n  More and more customers are adopting IPv6 to mitigate IPv4 address exhaustion in their private networks or to satisfy government mandates such as such as the US Office of Management and Budget (OMB) M-21-07 memorandum. With this launch, customers can standardize their applications and workflows for managing their Amazon FSx resources on the new version of Internet Protocol by using the new dual-stack Amazon FSx Service endpoints.\n  IPv6 support for Amazon FSx Service APIs is available in all commercial, AWS GovCloud (US), and AWS China regions where Amazon FSx is available. To learn more, visit the Amazon FSx user guide.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-supports-ipv6-fsx-service-apis/",
+          "publishedOn": "2025-02-07T18:00:00.000Z",
+          "wordCount": 880,
+          "title": "Amazon FSx now supports Internet Protocol Version 6 (IPv6) on FSx Service APIs",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "cf83ab4c22c9754478c72a06f9a2d3882607bb55",
+          "author": "aws@amazon.com",
+          "description": "Amazon Data Lifecycle Manager now offers customers the option to use Internet Protocol version 6 (IPv6) addresses for their new and existing endpoints. Customers moving to IPv6 can simplify their networks stack by running their Data Lifecycle Manager dual-stack endpoints on a network supporting both IPv4 and IPv6, depending on the protocol used by their network and client.\n  Customers create Amazon Data Lifecycle Manager policies to automate the creation, retention, and management of EBS Snapshots and EBS-backed Amazon Machine Images (AMIs). The policies can also automatically copy created resources across AWS Regions, move EBS Snapshots to EBS Snapshots Archive tier, and manage Fast Snapshot Restore. Customers can also create policies to automate creation and retention of application-consistent EBS Snapshots via pre and post-scripts, as well as create Default Policies for comprehensive protection for their account or AWS Organization.\n  Amazon Data Lifecycle Manager with IPv6 is now available in all AWS commercial Regions.\n  To learn more about configuring Amazon Data Lifecycle Manager endpoints for IPv6, please refer to our documentation.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-supports-ipv6/",
+          "publishedOn": "2025-02-07T18:00:00.000Z",
+          "wordCount": 969,
+          "title": "Amazon Data Lifecycle Manager now supports Internet Protocol Version 6 (IPv6)",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "438bf3fbf01fe288217d0054e736393afb2de732",
+          "author": "aws@amazon.com",
+          "description": "AWS Config now supports 4 additional AWS resource types. This expansion provides greater coverage over your AWS environment, enabling you to more effectively discover, assess, audit, and remediate an even broader range of resources.\n  With this launch, if you have enabled recording for all resource types, then AWS Config will automatically track these new additions. The newly supported resource types are also available in Config rules and Config aggregators.\n \nYou can now use AWS Config to monitor the following newly supported resource types in all AWS Regions where the supported resources are available:\n \n \n \nAWS::EC2::VPCBlockPublicAccessExclusion\n \n \nAWS::EC2::VPCBlockPublicAccessOptions\n \n \nAWS::S3Express::BucketPolicy\n \n \nAWS::S3Express::DirectoryBucket\n \n \nTo view the complete list of AWS Config supported resource types, see supported resource types page.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-config-4-new-resource-types/",
+          "publishedOn": "2025-02-07T18:00:00.000Z",
+          "wordCount": 841,
+          "title": "AWS Config now supports 4 new resource types",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2be0d4885aa2654b532fe3ec99adc10788ea1da6",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 U7in-8tb instances are now available in the Seoul (Asia Pacific) region. U7in-8tb instances are part of AWS 7th generation and are powered by custom fourth generation Intel Xeon Scalable Processors (Sapphire Rapids), delivering up to 135% more compute performance over existing U-1 instances. U7in-8tb instances offer 8TiB of DDR5 memory enabling customers to scale transaction processing throughput in a fast-growing data environment.\n  U7in-8tb instances offer 448 vCPUs, support up to 60Gbps Elastic Block Storage (EBS) for faster data loading and backups, deliver up to 100Gbps of network bandwidth, and support ENA Express. U7i instances are ideal for customers using mission-critical in-memory databases like SAP HANA, Oracle, and SQL Server.\n  To learn more about U7i instances, visit the High Memory instances page.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-high-memory-u7i-instances-seoul/",
+          "publishedOn": "2025-02-07T18:00:00.000Z",
+          "wordCount": 884,
+          "title": "Amazon EC2 High Memory U7i instances are now available in Seoul (Asia Pacific) Region",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "40fe7d30dc87758ae5b8b0c486d8ed4489081e42",
+          "author": "aws@amazon.com",
+          "description": "AWS Marketplace now supports custom payment schedules for private offers, giving Channel Partners the ability to add margins on private offers with installment plans. Channel Partners can now adjust each scheduled payment individually, either through the AWS Marketplace Management Portal or the AWS Marketplace Catalog API.\n  Previously, Channel Partners could only apply a uniform percentage markup across all installments in a private offer. With this update, they can now adjust the payment amount for each installment in the schedule, providing greater flexibility in structuring deals and managing cash flow. Once the buyer accepts and pays their invoices, the Channel Partner and independent software vendor (ISV) will receive their appropriate payment as defined in the offer and resell agreement. This saves Channel Partners significant time and effort, eliminating the need to request margin updates from AWS.\n  Channel Partners can use this feature for all AWS Marketplace products using installment plans sold through Channel Partner private offers, across all supported currencies. This feature is available in all AWS Regions where AWS Marketplace is available.\n  To learn more, visit the AWS Marketplace Seller Guide. To try the new capability, visit the AWS Marketplace Management Portal.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/custom-payment-schedules-marketplace-partner-offers/",
+          "publishedOn": "2025-02-07T18:00:00.000Z",
+          "wordCount": 1021,
+          "title": "Announcing custom payment schedules for AWS Marketplace Channel Partner private offers",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "62f423adfb6e7b7f07d4eb6b8c1ea047438c6885",
           "author": "aws@amazon.com",
           "description": "AWS WAF’s console dashboard now includes richer visualizations that give you insights into the top sources of traffic in the AWS GovCloud (US). With this feature, customers with CloudWatch logging destinations can view a new top insights section within the all traffic dashboard.\n  Customers previously used the all traffic dashboard, a default dashboard that populates visualizations based on CloudWatch metrics. As customers strive to continue gaining additional visibility into their traffic, they have requested richer visualizations based on logs in addition to visualizations based on CloudWatch metrics.\n  Starting today, customers with CloudWatch logging destinations will have access to this new top insights section within the all traffic dashboard, which includes richer visualizations based on terminating rules, client IPs, URI path, and more. These top insights will enable customers to better understand their security posture, quickly identify anomalies, and optimize their WAF configurations accordingly. For example, if a customer sees more than expected traffic from an suspicious IP address, they can take steps to create a IP-blocking rule to address this anomaly.\n  Standard CloudWatch pricing applies to metrics and logs queried through the dashboard. For more information about pricing, visit the AWS CloudWatch Pricing page. The feature is now available in the AWS GovCloud (US) for all origin types supported by WAF. For more information about the all traffic dashboard, visit the Developer Guide.",
@@ -2927,6 +3187,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/big-data/",
       "articles": [
         {
+          "id": "957cea24955174b5949c58ae8aaea48ac12d63c5",
+          "author": "Jon Handler",
+          "description": "OpenSearch Service provides rich capabilities for RAG use cases, as well as vector embedding-powered semantic search. You can use the flexible connector framework and search flow pipelines in OpenSearch to connect to models hosted by DeepSeek, Cohere, and OpenAI, as well as models hosted on Amazon Bedrock and SageMaker. In this post, we build a connection to DeepSeek’s text generation model, supporting a RAG workflow to generate text responses to user queries.",
+          "link": "https://aws.amazon.com/blogs/big-data/use-deepseek-with-amazon-opensearch-service-vector-database-and-amazon-sagemaker/",
+          "publishedOn": "2025-02-07T21:21:10.000Z",
+          "wordCount": 3622,
+          "title": "Use DeepSeek with Amazon OpenSearch Service vector database and Amazon SageMaker",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/02/07/dsoss2-1120x630.png"
+        },
+        {
           "id": "eec118d6588639b110bafa084c816e9b28a915b2",
           "author": "Alexis Tekin",
           "description": "This post discusses strategies for handling errors in Apache Flink applications. However, the general principles discussed here apply to stream processing applications at large.",
@@ -3064,6 +3334,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/compute/",
       "articles": [
         {
+          "id": "114f4fcb6fc0a68783119a69fb96cfab634cc8cd",
+          "author": "Eric Johnson",
+          "description": "This post written by Uma Ramadoss, Principal Specialist SA, Serverless and Vinita Shadangi, Senior Specialist SA, Serverless. Today, AWS Step Functions is expanding the capabilities of Distributed Map by adding support for JSON Lines (JSONL) format. JSONL, a highly efficient text-based format, stores structured data as individual JSON objects separated by newlines, making it particularly […]",
+          "link": "https://aws.amazon.com/blogs/compute/introducing-jsonl-support-with-step-functions-distributed-map/",
+          "publishedOn": "2025-02-07T22:38:05.000Z",
+          "wordCount": 2027,
+          "title": "Introducing JSONL support with Step Functions Distributed Map",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2025/02/07/image-2.png"
+        },
+        {
           "id": "0283b023f856a4ab7b1bf00869cffe4218050862",
           "author": "Chris McPeek",
           "description": "This post is written by Anton Aleksandrov, Principal Solutions Architect, Serverless and Alexander Vladimirov, Senior Solutions Architect, Serverless Today, Amazon EventBridge is announcing support for cross-account targets for Event Buses. This new capability allows you to send events directly to targets, such as Amazon Simple Queue Service (Amazon SQS), AWS Lambda, and Amazon Simple Notification Service […]",
@@ -3090,6 +3370,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/devops/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/devops/",
       "articles": [
+        {
+          "id": "fa6d63e32eb937a434e4a6b01baac52ae5bf12a1",
+          "author": "Brendan Jenkins",
+          "description": "Operators, administrators, developers, and many other personas leveraging AWS come across multiple use cases and common issues such as lack of permissions, bugs in code in AWS Lambda, and more when leveraging the AWS console. To help alleviate this burden when using the console, AWS released Amazon Q to assist with users accessing the console […]",
+          "link": "https://aws.amazon.com/blogs/devops/learning-aws-best-practices-from-amazon-q-in-the-console/",
+          "publishedOn": "2025-02-07T17:30:09.000Z",
+          "wordCount": 3482,
+          "title": "Learning AWS best practices from Amazon Q in the Console",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2025/02/04/featureimage1-1127x630.png"
+        },
         {
           "id": "16b632066b53dfc70b4be7dca10d525b604fa0d4",
           "author": "Kevin DeJong",
@@ -3163,24 +3453,23 @@
       "title": "The Internet of Things on AWS – Official Blog",
       "feedUrl": "https://aws.amazon.com/blogs/iot/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/iot/",
-      "articles": [
-        {
-          "id": "be6ed3fff8ae05a21605adf48cd94ad2e3d04132",
-          "author": "Syed Rehan",
-          "description": "Introduction You may be starting on your IoT journey, or have thousands of devices connected already. Maybe you just built an IoT business application, and want to deploy it to your fleet. You’re looking for a way to build functionality to control, update, monitor, or secure your IoT devices. To guide you through this process […]",
-          "link": "https://aws.amazon.com/blogs/iot/build-a-proof-of-concept-iot-solution-in-under-3-hours-with-the-aws-iot-device-client/",
-          "publishedOn": "2025-01-08T16:57:44.000Z",
-          "wordCount": 1913,
-          "title": "Build a proof-of-concept IoT solution in under 3 hours with the AWS IoT Device Client",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "AWS Security Blog",
       "feedUrl": "https://aws.amazon.com/blogs/security/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/security/",
       "articles": [
+        {
+          "id": "4aa5418e1bcdc9a42fff386b04323f7b130b0ece",
+          "author": "Kal Krishnan",
+          "description": "If you’d like to skip directly to the detailed mapping between the CISA guidance and AWS security controls and best practices, visit our Github page.  Implementing CISA’s enhanced visibility and hardening guidance for communications infrastructure In response to recent cybersecurity incidents attributed to actors from the People’s Republic of China, a number of cybersecurity agencies […]",
+          "link": "https://aws.amazon.com/blogs/security/enhancing-telecom-security-with-aws/",
+          "publishedOn": "2025-02-07T18:04:34.000Z",
+          "wordCount": 3563,
+          "title": "Enhancing telecom security with AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/02/05/main-2924.png"
+        },
         {
           "id": "7d1de24b32e2eb682eb78dfa96761fccb9b5cf78",
           "author": "Tariro Dongo",
@@ -3400,26 +3689,6 @@
           "wordCount": 1685,
           "title": "Securing a city-sized event: How Amazon integrates physical and logical security at re:Invent",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/01/08/Featured-Image-1260x630.jpg"
-        },
-        {
-          "id": "d80acf1e90056d4003db6b9524ce037af3e4acae",
-          "author": "Anna McAbee",
-          "description": "To support our customers in securing their generative AI workloads on Amazon Web Services (AWS), we are excited to announce the launch of a new AWS Skill Builder course: Securing Generative AI on AWS. This comprehensive course is designed to help security professionals, architects, and artificial intelligence and machine learning (AI/ML) engineers understand and implement […]",
-          "link": "https://aws.amazon.com/blogs/security/new-aws-skill-builder-course-available-securing-generative-ai-on-aws/",
-          "publishedOn": "2025-01-08T22:10:18.000Z",
-          "wordCount": 1219,
-          "title": "New AWS Skill Builder course available: Securing Generative AI on AWS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2024/12/24/AI_security_scoping.png"
-        },
-        {
-          "id": "119b894ce05db5b70f4648b05877e1d5e4d2177b",
-          "author": "Stéphanie Mbappe",
-          "description": "AWS Identity and Access Management Access Analyzer simplifies inspecting unused access to guide you towards least privilege. You can use unused access findings to identify over-permissive access granted to AWS Identity and Access Management (IAM) roles and users in your accounts or organization. From a delegated administrator account for IAM Access Analyzer, you can use the dashboard […]",
-          "link": "https://aws.amazon.com/blogs/security/customize-the-scope-of-iam-access-analyzer-unused-access-analysis/",
-          "publishedOn": "2025-01-08T17:35:14.000Z",
-          "wordCount": 2962,
-          "title": "Customize the scope of IAM Access Analyzer unused access analysis",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2024/12/26/IA2_UnusedAccessScoping_5ibeg1g.jpg"
         }
       ]
     },
@@ -3467,6 +3736,16 @@
       "feedUrl": "https://birming.com/feed/",
       "siteUrl": "https://birming.com/",
       "articles": [
+        {
+          "id": "https://birming.com/hidden-treasure-blogging/",
+          "author": null,
+          "description": "I love Andy Hawthorne's text Why Blog If Nobody Reads It? Among other things, he writes:\nYou write because you think, because you observe, because you need to put it somewhere.\nThat's exactly how it is! We write because not writing is not an option. It's a fundamental need, a way to process the world around us and the thoughts within us.\nWhen blogging had its first upswing in the 2000s, I saw a sticker on a trash can. It said:\n\"This trash can has more readers than your blog.\"\nIt's funny because it's true. The big difference, however, is that neither your blog nor mine is trash.\nIt is a treasure, but not in the form of income or number of visitors.\nThe blog may seem like a closed mussel to the outside world, but inside, every letter is a precious pearl.\nIt's a treasure of self-expression, a space where we can explore ideas, connect with others, and discover new things about ourselves.\nEach word we write is a pearl, carefully crafted and valuable in its own right.",
+          "link": "https://birming.com/hidden-treasure-blogging/",
+          "publishedOn": "2025-02-07T18:05:00.000Z",
+          "wordCount": 644,
+          "title": "The Hidden Treasure of Blogging",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
+        },
         {
           "id": "https://birming.com/bearphot-bear-gallery/",
           "author": null,
@@ -3682,6 +3961,16 @@
       "siteUrl": "https://brainbaking.com/",
       "articles": [
         {
+          "id": "https://brainbaking.com/post/2025/02/twenty-years-of-glasses/",
+          "author": "Wouter Groeneveld",
+          "description": "This year, I will have existed twenty years without glasses and twenty years with. I can’t say this is especially worth celebrating as I’m not very fond of requiring spectacles. For the first five to ten years, the glasses were regularly put aside and I was still able to make out something of the text in a book or a pedestrian sign farther away. But the older I got, the more reliant—needy, even—my eyes became on that sharpened glass in front of them.\nPerhaps it’s time to start thinking about lasering. My parents were among the first to receive the treatment in Belgium with a new generation specialized device in a nearby hospital. I remember them having to wear what they called The Schwarzenegger Sunglasses: oversized pieces to better protect the just-lasered eyes from UV light. I have know…",
+          "link": "https://brainbaking.com/post/2025/02/twenty-years-of-glasses/",
+          "publishedOn": "2025-02-07T19:00:00.000Z",
+          "wordCount": 1279,
+          "title": "Twenty Years of Glasses",
+          "imageUrl": "https://brainbaking.com/logo.jpg"
+        },
+        {
           "id": "https://brainbaking.com/post/2025/02/january-2025/",
           "author": "Wouter Groeneveld",
           "description": "One more miserable month to go. Hopefully March will bring end to all the mire and misery which was noticeably more bad than previous years—both when it came to the weather and the world news… But hey, today was a rare beautiful albeit cold day! January signified the end of the holiday festivities (thank God) and the start of a new project at another client (goodbye Go, hello again old acquaintance Java, not yet sure whether we should become friends). I’m pretty positive about the effects on my mood for both changes. For the idiot Hacker News people out there reading this: that had nothing to do with the language, and everything with the people involved—as always.\nPrevious month: December 2024.\nBooks I’ve read\nMy philosophy research continues as I’m eyeing on writing another book this year…",
@@ -3858,16 +4147,6 @@
           "description": "The following resources were added:",
           "link": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html",
           "publishedOn": "2025-01-15T19:00:00.000Z",
-          "wordCount": 777,
-          "title": "New resources",
-          "imageUrl": null
-        },
-        {
-          "id": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/#New_resources_2025-01-08",
-          "author": null,
-          "description": "The following resource was added: AWS::NotificationsContacts::EmailContact.",
-          "link": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html",
-          "publishedOn": "2025-01-08T19:00:00.000Z",
           "wordCount": 777,
           "title": "New resources",
           "imageUrl": null
@@ -4327,6 +4606,16 @@
       "siteUrl": "https://krebsonsecurity.com",
       "articles": [
         {
+          "id": "https://krebsonsecurity.com/?p=70358",
+          "author": "BrianKrebs",
+          "description": "Wired reported this week that a 19-year-old working for Elon Musk's so-called Department of Government Efficiency (DOGE) was given access to sensitive US government systems even though his past association with cybercrime communities should have precluded him from gaining the necessary security clearances to do so. As today's story explores, the DOGE teen is a former denizen of 'The Com,' an archipelago of Discord and Telegram chat channels that function as a kind of distributed cybercriminal social network for facilitating instant collaboration.",
+          "link": "https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/",
+          "publishedOn": "2025-02-08T00:32:53.000Z",
+          "wordCount": 3350,
+          "title": "Teen on Musk’s DOGE Team Graduated from ‘The Com’",
+          "imageUrl": null
+        },
+        {
           "id": "https://krebsonsecurity.com/?p=70323",
           "author": "BrianKrebs",
           "description": "New mobile apps from the Chinese artificial intelligence (AI) company DeepSeek have remained among the top three \"free\" downloads for Apple and Google devices since their debut on Jan. 25, 2025. But experts caution that many of DeepSeek's design choices -- such as using hard-coded encryption keys, and sending unencrypted user and device data to Chinese companies -- introduce a number of glaring security and privacy risks.",
@@ -4419,6 +4708,28 @@
       "feedUrl": "https://lmnt.me/feed.xml",
       "siteUrl": "https://lmnt.me/",
       "articles": [
+        {
+          "id": "1B8DCCB3-67EF-4D0C-8EBF-B6A76F203B33",
+          "author": "Louie Mantia",
+          "description": "Masa\n\t\t\t\t\nI never had Subway. It’s too difficult to order.\nme\n\t\t\t\t\nToo many choices?\nMasa\n\t\t\t\t\nYes.\nfour hours later\n\t\t\t\tManami\n\t\t\t\t\nLunch?\nme\n\t\t\t\t\nHmm… pastrami pork?\nManami\n\t\t\t\t\n…only pastrami pork?\nme\n\t\t\t\t\nNo…\nSoga\n\t\t\t\t\nAnd cream cheese!\nme\n\t\t\t\t\nYes, cream cheese. And bread.\nLouie opens Google Translate\n\t\t\t\tme\n\t\t\t\t\nWhy am I being forced to order all the ingredients of a sandwich independently?\nMasa\n\t\t\t\t\nSubway.\nIf you like this, you can make a donation or buy something from my shop.",
+          "link": "https://lmnt.me/blog/pastrami-pork.html",
+          "publishedOn": "2025-02-07T09:23:00.000Z",
+          "wordCount": null,
+          "title": "Pastrami Pork",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "2F47C31D-EEC7-4DEC-8258-E295C3A9D39F",
+          "author": "Louie Mantia",
+          "description": "Where’s the line that can’t be crossed?\nSurely there’s something so vile, so intolerable, so universal in its horror that there’s no other choice but to stop and shut everything down. Something where a hashtag would be insulting, where a march or protest would be insufficient.  Something that necessitates an absolute refusal to comply, withholding all work and diverting all focus to rioting, property damage, and violence. Complete civil disobedience.\nIf the pitcher pulls out a pistol and shoots the batter, then I’m sorry to say we’re not playing baseball anymore. When the government disregards the rules of the game, what sense is there in the rest of us playing by the rules?\nPeople need to become comfortable with the idea of violence as a means to political ends. It is the only rational an…",
+          "link": "https://lmnt.me/blog/wheres-the-line.html",
+          "publishedOn": "2025-02-07T06:25:00.000Z",
+          "wordCount": null,
+          "title": "Where’s the Line?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "48A77695-266C-4A3E-823A-E00FF1B21E23",
           "author": "Louie Mantia",
@@ -4591,22 +4902,6 @@
             "length": "4678426"
           },
           "imageUrl": null
-        },
-        {
-          "id": "25260FE3-8CC6-467A-A140-8E3681FFA78B",
-          "author": "Louie Mantia",
-          "description": "Dan Counsell\n\t\t\t\t\n\t\t\t\t\nCan we please have the macOS X Lion UI back? 😍\nYes, I would also like that. I would welcome any standard UI that gives us back some tools we lost.\nThere’s a refined clarity to this version of Aqua. It evolved gracefully to this point, where every element was distinctly different and yet cohesive. Consider the search field alone. Now, search fields have the same appearance of every other field: squared. The pill shape distinguished itself. Removing that characteristic introduced a level of ambiguity that is unnecessary. The same can be said for so much in modern visual design (or lack thereof).\nI’d like to point to something I said almost 5 years ago:\nme\n\t\t\t\t\nWhen we lost visual richness in software, we lost a requirement to think about design with regards to how it looks.\nThat’s not just making it look nice, that’s making sure that we visually communicate the UI successfully.\nIt’s very unfortunate that the baby was thrown out with the bathwater. I distinctly remember when Apple claimed one value in the new design language was “deference,” but after 12 years, this approach is clearly not as thoughtful as it was advertised. It is not as accessible as they have wished. We still have thin red text on gray buttons that lack significant contrast. We still have translucent elements and blurred backgrounds that confound reason and rationale. We traded away that refined clarity for over a decade of ambiguity.\nI took some time to reformat an old Twitter thread on the subject into a proper blog post, and I encourage you to read it. How much has improved since then?\nIf you like this, you can make a donation or buy something from my shop.",
-          "link": "https://lmnt.me/blog/refined-clarity.html",
-          "publishedOn": "2025-01-09T01:50:00.000Z",
-          "wordCount": null,
-          "title": "Refined Clarity",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://lmnt.me/files/audio/refined-clarity.m4a",
-            "type": "audio/x-m4a",
-            "length": "3037296"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -4614,7 +4909,18 @@
       "title": "Luc van Donkersgoed's Notes",
       "feedUrl": "https://lucvandonkersgoed.com/feed/",
       "siteUrl": "https://lucvandonkersgoed.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://lucvandonkersgoed.com/?p=1097",
+          "author": "donkersgoed",
+          "description": "Is 2025 going to be the year of broad IPv6 adoption? For AWS, it might just be. In the past months many services have gained IPv6 support, which paves the way for IPv6-only VPC configurations.",
+          "link": "https://lucvandonkersgoed.com/2025/02/07/aws-is-on-its-way-to-full-ipv6-support/",
+          "publishedOn": "2025-02-07T22:43:01.000Z",
+          "wordCount": 4311,
+          "title": "AWS is on its way to full IPv6 support",
+          "imageUrl": "https://lucvandonkersgoed.com/wp-content/uploads/2025/02/tunnel-6723643_1280.jpg?w=1200"
+        }
+      ]
     },
     {
       "title": "Stories by Ben Kehoe on Medium",
@@ -4688,16 +4994,6 @@
           "wordCount": null,
           "title": "django-templated-email-md notes aka if you want to format emails with Markdown, use it",
           "imageUrl": null
-        },
-        {
-          "id": "http://webology.micro.blog/2025/01/08/rethinking-djangos-commandline-tool-why/",
-          "author": null,
-          "description": "Django has been a key tool for Python web developers for many years. But as new frameworks like FastAPI become prevalent, it’s important to ensure Django stays easy for new and experienced developers. Recently, a discussion thread received over 60 comments about changing Django’s main command from django-admin to something else, like django. The thread also explored other django-cmd possibilities, showcasing many ideas. While the conversation was broad, I want to focus on why renaming django-admin is a good idea.\nWhy Rename django-admin?\nKeep It Simple and Pythonic\nWhen I chaired DjangoCon US, a common question I asked attendees during our opening session was whether they learned Django first or Python first. It surprised me to see the majority of hands raised for “Django first,” which mea…",
-          "link": "https://micro.webology.dev/2025/01/08/rethinking-djangos-commandline-tool-why/",
-          "publishedOn": "2025-01-09T01:15:02.000Z",
-          "wordCount": null,
-          "title": "🤔 Rethinking Django's Command-Line Tool: Why We Should Rename `django-admin`",
-          "imageUrl": null
         }
       ]
     },
@@ -4723,6 +5019,206 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://huggingface.co/papers/2502.02649",
+          "author": null,
+          "description": "Comments",
+          "link": "https://huggingface.co/papers/2502.02649",
+          "publishedOn": "2025-02-07T22:38:11.000Z",
+          "wordCount": 2121,
+          "title": "Autonomous AI Agents Should Not Be Developed",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2502.02649/gradient.png"
+        },
+        {
+          "id": "https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/",
+          "publishedOn": "2025-02-07T21:06:40.000Z",
+          "wordCount": 7408,
+          "title": "Portland's Exploding Liberty Bell",
+          "imageUrl": "https://tomlovesthelibertybell.com/wp-content/uploads/2018/12/8Snyvgf.jpg"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer",
+          "publishedOn": "2025-02-07T21:00:03.000Z",
+          "wordCount": 1222,
+          "title": "Zep AI (YC W24) Is Hiring Engineers to Build SOTA Agent Memory",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://github.com/Tanq16/ExpenseOwl",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Tanq16/ExpenseOwl",
+          "publishedOn": "2025-02-07T20:56:58.000Z",
+          "wordCount": 5150,
+          "title": "Show HN: ExpenseOwl – Simple, self-hosted expense tracker",
+          "imageUrl": "https://opengraph.githubassets.com/1e41a81173b17d1524f6192867d2a4d65a08164ba49a020212b242cf98882a3f/Tanq16/ExpenseOwl"
+        },
+        {
+          "id": "https://theretowhere.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://theretowhere.com/",
+          "publishedOn": "2025-02-07T18:23:40.000Z",
+          "wordCount": 11,
+          "title": "Show HN: A website that heatmaps your city based on your housing preferences",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hearsum.ca/posts/history-of-code-signing-at-mozilla/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hearsum.ca/posts/history-of-code-signing-at-mozilla/",
+          "publishedOn": "2025-02-07T17:51:49.000Z",
+          "wordCount": 2020,
+          "title": "A brief history of code signing at Mozilla",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/jeprinz/pantograph/blob/main/README.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/jeprinz/pantograph/blob/main/README.md",
+          "publishedOn": "2025-02-07T17:27:57.000Z",
+          "wordCount": 3970,
+          "title": "Pantograph: A Fluid and Typed Structure Editor",
+          "imageUrl": "https://opengraph.githubassets.com/0307dc761e0bbda2b9eeb4bdc8cffc462e05b9d3b882aacf0b47c83f3d6e8e17/jeprinz/pantograph"
+        },
+        {
+          "id": "https://www.yalemedicine.org/news/ketamine-for-depression",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.yalemedicine.org/news/ketamine-for-depression",
+          "publishedOn": "2025-02-07T16:59:18.000Z",
+          "wordCount": 1391,
+          "title": "Ketamine for Depression: How It Works (2024) [video]",
+          "imageUrl": "https://ysm-res.cloudinary.com/image/upload/v1/yms/prod/9cc937bd-186d-401e-a98a-10f3650bad8e"
+        },
+        {
+          "id": "https://ieeexplore.ieee.org/document/628099",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ieeexplore.ieee.org/document/628099",
+          "publishedOn": "2025-02-07T16:53:20.000Z",
+          "wordCount": 1631,
+          "title": "The origins of 60-Hz as a power frequency",
+          "imageUrl": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png"
+        },
+        {
+          "id": "https://carto.com/blog/zip-codes-spatial-analysis",
+          "author": null,
+          "description": "Comments",
+          "link": "https://carto.com/blog/zip-codes-spatial-analysis",
+          "publishedOn": "2025-02-07T16:46:47.000Z",
+          "wordCount": 4662,
+          "title": "Stop using zip codes for geospatial analysis (2019)",
+          "imageUrl": "https://cdn.prod.website-files.com/63483ad423421bd16e7a7ae7/639c39c9c67f664c8539d8da_zip-first-digit.png"
+        },
+        {
+          "id": "https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm",
+          "publishedOn": "2025-02-07T16:46:45.000Z",
+          "wordCount": 4089,
+          "title": "Radiation belts detected around Earth after solar storm",
+          "imageUrl": "https://www.sciencealert.com/images/2025/02/new-belts.jpg"
+        },
+        {
+          "id": "https://github.com/AIFanatic/three-nanite",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/AIFanatic/three-nanite",
+          "publishedOn": "2025-02-07T16:23:50.000Z",
+          "wordCount": 1831,
+          "title": "Three-nanite: Unreal Nanite in Three.js",
+          "imageUrl": "https://opengraph.githubassets.com/73ebba109bf5489deb0eeb6a5c44dce13f4288cbdb415cf0bc6102a7b7e600ff/AIFanatic/three-nanite"
+        },
+        {
+          "id": "https://stytch.com/blog/the-age-of-agent-experience/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://stytch.com/blog/the-age-of-agent-experience/",
+          "publishedOn": "2025-02-07T16:21:46.000Z",
+          "wordCount": 4088,
+          "title": "The Age of Agent Experience",
+          "imageUrl": "https://cdn.sanity.io/images/141x4uzu/production/debae5121d138d6b3358e3289e070b223092689e-1584x988.png"
+        },
+        {
+          "id": "https://github.com/c0stya/trre",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/c0stya/trre",
+          "publishedOn": "2025-02-07T16:18:14.000Z",
+          "wordCount": 5628,
+          "title": "Show HN: Transductive regular expressions for text editing",
+          "imageUrl": "https://opengraph.githubassets.com/936ea47c3c9a7d5630fe284f08b7093266cb53e6c6aac7da0c4aea6c039b3394/c0stya/trre"
+        },
+        {
+          "id": "https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago",
+          "publishedOn": "2025-02-07T15:40:38.000Z",
+          "wordCount": 6980,
+          "title": "When Louis Armstrong Conquered Chicago",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c669bd2-4243-4c39-b7c0-2dd3ccb255a4_1094x884.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41586-024-08502-w",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41586-024-08502-w",
+          "publishedOn": "2025-02-07T14:18:19.000Z",
+          "wordCount": 13366,
+          "title": "Children's arithmetic skills do not transfer between applied and academic math",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-024-08502-w/MediaObjects/41586_2024_8502_Fig1_HTML.png"
+        },
+        {
+          "id": "https://lkml.org/lkml/2025/2/7/9",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lkml.org/lkml/2025/2/7/9",
+          "publishedOn": "2025-02-07T13:02:03.000Z",
+          "wordCount": 201,
+          "title": "Asahi Linux lead developer Hector Martin resigns from Linux kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/",
+          "publishedOn": "2025-02-07T12:18:46.000Z",
+          "wordCount": 3218,
+          "title": "Apple Ordered by UK to Create Global iCloud Encryption Backdoor",
+          "imageUrl": "https://images.macrumors.com/t/kgOQZrxDvHnu-Guk7aZzH9Be4-Y=/2500x/article-new/2024/12/iCloud-General-Feature-Redux.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/",
+          "publishedOn": "2025-02-07T11:26:02.000Z",
+          "wordCount": 2185,
+          "title": "Meta torrented & seeded 81.7 TB dataset containing copyrighted data",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-459404787-1152x648.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Hi8r_63LGyg",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=Hi8r_63LGyg",
+          "publishedOn": "2025-02-07T07:11:36.000Z",
+          "wordCount": null,
+          "title": "Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]",
+          "imageUrl": null
+        },
         {
           "id": "https://tillitis.se/products/tkey/",
           "author": null,
@@ -4784,6 +5280,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/",
+          "publishedOn": "2025-02-06T20:54:10.000Z",
+          "wordCount": 2874,
+          "title": "The Inevitability of the Borrow Checker",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/US-Artificial-Intelligence/scraper",
           "author": null,
           "description": "Comments",
@@ -4812,6 +5318,16 @@
           "wordCount": 31247,
           "title": "Scala 3 Migration: Report from the field",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fstock%2Funsplash%2FV72Hk6LjjjI%2Fupload%2Faed1ed418548eeb647e5eef0a9f7f9d5.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://www.newscientist.com/article/2466930-the-superconductivity-of-layered-graphene-is-surprisingly-strange/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newscientist.com/article/2466930-the-superconductivity-of-layered-graphene-is-surprisingly-strange/",
+          "publishedOn": "2025-02-06T16:44:21.000Z",
+          "wordCount": 11353,
+          "title": "The superconductivity of layered graphene is surprisingly strange",
+          "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/02/05143439/SEI_238650644.jpg"
         },
         {
           "id": "https://thestrikeagency.com/kaos/",
@@ -5124,6 +5640,16 @@
           "imageUrl": "https://opengraph.githubassets.com/5af693be516a8e1987359b00641c774edafbf733d9ccaf4dced475bf6b813114/atgreen/openldk"
         },
         {
+          "id": "https://hnhell.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hnhell.com/",
+          "publishedOn": "2025-02-05T11:15:01.000Z",
+          "wordCount": 47,
+          "title": "Show HN: HN as TikTok, welcome to HN hell",
+          "imageUrl": null
+        },
+        {
           "id": "https://timkellogg.me/blog/2025/02/03/s1",
           "author": null,
           "description": "Comments",
@@ -5164,6 +5690,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://soranews24.com/2024/12/21/station-of-despair-what-to-do-if-you-get-stuck-at-the-end-of-tokyos-chuo-rapid-line/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://soranews24.com/2024/12/21/station-of-despair-what-to-do-if-you-get-stuck-at-the-end-of-tokyos-chuo-rapid-line/",
+          "publishedOn": "2025-02-05T09:12:41.000Z",
+          "wordCount": 4191,
+          "title": "Station of despair: What to do if you get stuck at end of Tokyo Chuo Rapid Line",
+          "imageUrl": "https://soranews24.com/wp-content/uploads/sites/3/2024/12/OS-0.jpg?w=580&h=305&crop=1"
+        },
+        {
+          "id": "https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/",
+          "publishedOn": "2025-02-05T08:51:15.000Z",
+          "wordCount": 3990,
+          "title": "Franz Kafka – the workers' friend (2018)",
+          "imageUrl": "https://marywcraig.com/wp-content/uploads/2018/01/5223.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/reel/video/p0kl5kcz/the-ww2-experiment-to-make-pigeon-guided-missiles",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/reel/video/p0kl5kcz/the-ww2-experiment-to-make-pigeon-guided-missiles",
+          "publishedOn": "2025-02-05T08:00:47.000Z",
+          "wordCount": 4754,
+          "title": "The WW2 experiment to make pigeon-guided missiles [video]",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1024xn/p0kp4mbc.jpg"
+        },
+        {
           "id": "https://gmsl.jgc.org/",
           "author": null,
           "description": "Comments",
@@ -5192,6 +5748,16 @@
           "wordCount": 1258,
           "title": "A hexagonal-tiled cartogram for U.S. counties",
           "imageUrl": null
+        },
+        {
+          "id": "https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics",
+          "author": null,
+          "description": "Comments",
+          "link": "https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics",
+          "publishedOn": "2025-02-05T01:25:05.000Z",
+          "wordCount": 2037,
+          "title": "Visual Explanations of Mathematics (2020)",
+          "imageUrl": "http://static1.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/5ae9e868f950b74c297b583c/1641408417444/annotated_mouse_thumb.png?format=1500w"
         },
         {
           "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840",
@@ -5242,6 +5808,16 @@
           "wordCount": 2580,
           "title": "Securing edge device systems, including firewalls, routers, and VPN gateways",
           "imageUrl": "https://media.defense.gov/2025/Feb/04/2003637132/1920/1080/0/250204-D-IM742-2025.PNG"
+        },
+        {
+          "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317615",
+          "author": null,
+          "description": "Comments",
+          "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317615",
+          "publishedOn": "2025-02-04T23:25:49.000Z",
+          "wordCount": 9270,
+          "title": "Effects of cold-water immersion on health and wellbeing: A systematic review",
+          "imageUrl": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317615.g004&size=inline"
         },
         {
           "id": "https://linusakesson.net/scene/nine/index.php",
@@ -5352,6 +5928,16 @@
           "wordCount": 3,
           "title": "WikiTok",
           "imageUrl": null
+        },
+        {
+          "id": "https://quantum.orgsoft.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://quantum.orgsoft.org/",
+          "publishedOn": "2025-02-04T18:24:31.000Z",
+          "wordCount": 23,
+          "title": "Show HN: Play with real quantum physics in your browser",
+          "imageUrl": "https://quantum.orgsoft.org/img/opengraph.png"
         },
         {
           "id": "https://zachholman.com/posts/red-teams",
@@ -7063,22 +7649,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://newsletter.pragmaticengineer.com/p/confessions-of-a-big-tech-recruiter",
-          "author": "Gergely Orosz",
-          "description": "In today’s episode of The Pragmatic Engineer, I’m joined by Blake Stockman, former tech recruiter at Google, Meta, Uber, and YC.",
-          "link": "https://newsletter.pragmaticengineer.com/p/confessions-of-a-big-tech-recruiter",
-          "publishedOn": "2025-01-08T17:07:22.000Z",
-          "wordCount": null,
-          "title": "Confessions of a Big Tech recruiter",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/154362505/b60fc14b727d538120dd8688c8cb0f7b.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -7101,16 +7671,6 @@
           "publishedOn": "2025-01-24T08:00:00.000Z",
           "wordCount": null,
           "title": "Should you write documentation differently for LLMs?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://passo.uno/seven-action-model/",
-          "author": null,
-          "description": "I think all technical writers, at some point or another, feel the urge to base their work on something more systematic than “it’s just the way folks documented stuff since forever”. Toolkits and frameworks provide content types, which is immensely valuable when you know what you want to write, but starting from there is like buying a hammer without knowing that half of the work you’ll do is turning screws. As I find the lack of deeper conversation around this topic rather unsettling, I decided to contribute some verses.",
-          "link": "https://passo.uno/seven-action-model/",
-          "publishedOn": "2025-01-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "The Seven-Action Documentation model",
           "imageUrl": null
         }
       ]
@@ -13532,6 +14092,16 @@
       "siteUrl": "https://shkspr.mobi/blog",
       "articles": [
         {
+          "id": "https://shkspr.mobi/blog/2025/02/review-voviggol-finger-ring-presentation-clicker/",
+          "author": null,
+          "description": "I was packing for FOSDEM when I suddenly realised that I&#039;d lost my clicker. Disaster!  Here&#039;s a shortlist of what I need in a presentation remote:   Ring style to fit on my finger USB-C Works on Linux Frickin&#039; lazor beams!   The only one I could find which matched all that was this Voviggol unit.    Ring  Here&#039;s how it looks hooked to my hand:    The ring is stretchy and will fit around the thickest thumb. It grips the finger tight and didn&#039;t fly off even when I was gesticulating wildly.  USB-C …",
+          "link": "https://shkspr.mobi/blog/2025/02/review-voviggol-finger-ring-presentation-clicker/",
+          "publishedOn": "2025-02-07T12:34:10.000Z",
+          "wordCount": null,
+          "title": "Review: Voviggol Finger Ring Presentation Clicker ★★★★⯪",
+          "imageUrl": null
+        },
+        {
           "id": "https://shkspr.mobi/blog/2025/02/talking-contact-tracing-at-fosdem/",
           "author": null,
           "description": "I was delighted to be invited to speak at FOSDEM. And I was not at all intimidated to be speaking on the cavernous Janson stage.  The audience were lovely, asked interesting questions, and - most importantly - laughed in all the right places 😅.  Regular readers will recognise this as being an updated version of the talk I gave at EMF 2024 - feel free to watch that one if you want to see if I&#039;ve improved.              Huge thanks to the AV team and the video-wizards behind the FOSDEM in…",
@@ -13700,16 +14270,6 @@
           "wordCount": null,
           "title": "Gadget Review: 350W Infrared Smart Mirror ★★★★⯪",
           "imageUrl": null
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2025/01/graphing-the-connections-between-my-blog-posts/",
-          "author": null,
-          "description": "I love ripping off good ideas from other people&#039;s blogs.  I was reading Alvaro Graves-Fuenzalida&#039;s blog when I saw this nifty little force-directed graph:    When zoomed in, it shows the relation between posts and tags.    In this case, I can see that the posts about Small Gods and Pyramids both share the tags of Discworld, Fantasy, and Book Review. But only Small Gods has the tag of Religion.  Isn&#039;t that cool! It is a native feature of Quartz&#039;s GraphView. How can I build something like that…",
-          "link": "https://shkspr.mobi/blog/2025/01/graphing-the-connections-between-my-blog-posts/",
-          "publishedOn": "2025-01-09T12:34:56.000Z",
-          "wordCount": null,
-          "title": "Graphing the connections between my blog posts",
-          "imageUrl": null
         }
       ]
     },
@@ -13718,6 +14278,46 @@
       "feedUrl": "https://simonwillison.net/atom/everything/",
       "siteUrl": "http://simonwillison.net/",
       "articles": [
+        {
+          "id": "https://simonwillison.net/2025/Feb/7/jared-palmer/#atom-everything",
+          "author": null,
+          "description": "<blockquote cite=\"https://twitter.com/jaredpalmer/status/1887641997932175597\"><p>Confession: we've been hiding parts of <a href=\"https://v0.dev/\">v0</a>'s responses from users since September. Since the launch of DeepSeek's web experience and its positive reception, we realize now that was a mistake. From now on, we're also showing v0's full output in every response. This is a much better UX because it feels faster and it teaches end users how to prompt more effectively.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://twitter.com/jaredpalmer/status/1887641997932175597\">Jared Palmer</a>, VP of AI at Vercel</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/ux\">ux</a>, <a href=\"https://simonwillison.net/tags/prompt-engineering\">prompt-engineering</a>, <a href=\"https://simonwillison.net/tags/vercel\">vercel</a>, <a href=\"https://simonwillison.net/tags/deepseek\">deepseek</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/7/jared-palmer/#atom-everything",
+          "publishedOn": "2025-02-07T06:39:38.000Z",
+          "wordCount": 265,
+          "title": "Quoting Jared Palmer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/#atom-everything",
+          "author": null,
+          "description": "<p>I just released <a href=\"https://github.com/simonw/llm-smollm2\">llm-smollm2</a>, a new plugin for <a href=\"https://llm.datasette.io/\">LLM</a> that bundles a quantized copy of the <a href=\"https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct\">SmolLM2-135M-Instruct</a> LLM inside of the Python package.</p>\r\n<p>This means you can now <code>pip install</code> a full LLM!</p>\r\n\r\n<p>If you're already using <a href=\"https://llm.datasette.io/\">LLM</a> you can install it like this:</p>\r\n<div class=\"highlight highlight-source-shell\"><pre>llm install llm-smollm2</pre></div>\r\n<p>Then run prompts like this:</p>\r\n<div class=\"highlight highlight-source-shell\"><pre>llm -m SmolLM2 <span class=\"pl-s\"><span class=\"pl-pds\">'</span>Are dogs real?<span class=\"pl-pds\">'</span></span></pre></div>\r\n<p>(New favourite test prompt for tiny models, courtesy of <a href=\"https://bsky.app/profile/timfduffy.com/post/3lhknvwijps2o\">Tim Duffy</a>. <a href=\"https://gist.github.com/simonw/a71d83cd8c6caa49cec4a9f296c267df\">Here's the result</a>).</p>\r\n<p>If you don't have LLM yet first <a href=\"https://llm.datasette.io/en/stable/setup.html\">follow these installation instructions</a>, or <code>brew install llm</code> or <code>pipx install llm</code> or <code>uv tool install llm</code> depending on your preferred way of getting your Python tools.</p>\r\n<p>If you have <a href=\"https://github.com/astral-sh/uv\">uv</a> setup you don't need to install anything at all! The following command will spin up an ephemeral environment, install the necessary packages and start a chat session with the model all in one go:</p>\r\n<div class=\"highlight highlight-source-shell\"><pre>uvx --with llm-smollm2 llm chat -m SmolLM2</pre></div>\r\n\r\n<p><img src=\"https://static.simonwillison.net/static/2025/smol.gif\" alt=\"$ uvx --with llm-smollm2 llm chat -m SmolLM2\r\nChatting with SmolLM2\r\nType 'exit' or 'quit' to exit\r\nType '!multi' to enter multiple lines, then '!end' to finish\r\n> tell me a long story about a dog\r\nThe story of a dog is a tale of love, loss, and the unspoken rules of the universe. It begins with a small, timid, and timid dog named Max. Max was born into a loving family, but his life was forever changed by a cruel and cruel owner. He was left to fend for himself, and he was left to fend for himself.\r\n\r\nMax's owner, a kind and gentle soul named Elena, was a cruel and cruel one. She had no patience, no love, and she would do anything to keep Max away from her. Max was left to fend for himself, and he was left to fend for himself.\r\n\r\nMax's owner, Elena, was determined to make Max happy. She took Max to a beautiful and beautiful place, where Max was allowed to roam freely. Max was allowed to roam freely, and Max was allowed to roam freely. [Then repeats that sentence many times]\" style=\"max-width: 100%;\" /></p>\r\n\r\n<ul>\r\n  <li><a href=\"https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/#finding-a-tiny-model\">Finding a tiny model</a></li>\r\n  <li><a href=\"https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/#building-the-plugin\">Building the plugin</a></li>\r\n  <li><a href=\"https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/#packaging-the-plugin\">Packaging the plugin</a></li>\r\n  <li><a href=\"https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/#publishing-to-pypi\">Publishing to PyPI</a></li>\r\n  <li><a href=\"https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/#is-the-model-any-good-\">Is the model any good?</a></li>\r\n</ul>\r\n\r\n<h4 id=\"finding-a-tiny-model\">Finding a tiny model</h4>\r\n<p>The fact that the model is almost exactly 100MB is no coincidence: that's the <a href=\"https://pypi.org/help/#file-size-limit\">default size limit</a> for a Python package that can be uploaded to the Python Package Index (PyPI).</p>\r\n<p>I <a href=\"https://bsky.app/profile/simonwillison.net/post/3lhklqd62jc2x\">asked on Bluesky</a> if anyone had seen a just-about-usable GGUF model that was under 100MB, and Artisan Loaf <a href=\"https://bsky.app/profile/artisanloaf.bsky.social/post/3lhklumfhvs2r\">pointed me</a> to <a href=\"https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct\">SmolLM2-135M-Instruct</a>.</p>\r\n<p>I ended up using <a href=\"https://huggingface.co/QuantFactory/SmolLM2-135M-Instruct-GGUF/tree/main\">this quantization</a> by <a href=\"https://huggingface.co/QuantFactory\">QuantFactory</a> just because it was the first sub-100MB model I tried that worked.</p>\r\n<p>Trick for finding quantized models: Hugging Face has a neat \"model tree\" feature in the side panel of their model pages, which includes links to relevant quantized models. I find most of my GGUFs using that feature.</p>\r\n<p><img src=\"https://static.simonwillison.net/static/2025/hugging-face-model-tree.jpg\" alt=\"Model tree for HuggingFaceTB/SmolLM2-135M-Instruct. 60 Quantizations, 6 adapters, 80 finetunes, 1 merge.\" style=\"max-width: 100%;\" /></p>\r\n<h4 id=\"building-the-plugin\">Building the plugin</h4>\r\n<p>I first tried the model out using Python and the <a href=\"https://github.com/abetlen/llama-cpp-python\">llama-cpp-python</a> library like this:</p>\r\n<div class=\"highlight highlight-source-shell\"><pre>uv run --with llama-cpp-python python</pre></div>\r\n<p>Then:</p>\r\n<pre><span class=\"pl-k\">from</span> <span class=\"pl-s1\">llama_cpp</span> <span class=\"pl-k\">import</span> <span class=\"pl-v\">Llama</span>\r\n<span class=\"pl-k\">from</span> <span class=\"pl-s1\">pprint</span> <span class=\"pl-k\">import</span> <span class=\"pl-s1\">pprint</span>\r\n<span class=\"pl-s1\">llm</span> <span class=\"pl-c1\">=</span> <span class=\"pl-en\">Llama</span>(<span class=\"pl-s1\">model_path</span><span class=\"pl-c1\">=</span><span class=\"pl-s\">\"SmolLM2-135M-Instruct.Q4_1.gguf\"</span>)\r\n<span class=\"pl-s1\">output</span> <span class=\"pl-c1\">=</span> <span class=\"pl-s1\">llm</span>.<span class=\"pl-c1\">create_chat_completion</span>(<span class=\"pl-s1\">messages</span><span class=\"pl-c1\">=</span>[\r\n    {<span class=\"pl-s\">\"role\"</span>: <span class=\"pl-s\">\"user\"</span>, <span class=\"pl-s\">\"content\"</span>: <span class=\"pl-s\">\"Hi\"</span>}\r\n])\r\n<span class=\"pl-en\">pprint</span>(<span class=\"pl-s1\">output</span>)</pre>\r\n<p>This gave me the output I was expecting:</p>\r\n<pre>{<span class=\"pl-s\">'choices'</span>: [{<span class=\"pl-s\">'finish_reason'</span>: <span class=\"pl-s\">'stop'</span>,\r\n              <span class=\"pl-s\">'index'</span>: <span class=\"pl-c1\">0</span>,\r\n              <span class=\"pl-s\">'logprobs'</span>: <span class=\"pl-c1\">None</span>,\r\n              <span class=\"pl-s\">'message'</span>: {<span class=\"pl-s\">'content'</span>: <span class=\"pl-s\">'Hello! How can I assist you today?'</span>,\r\n                          <span class=\"pl-s\">'role'</span>: <span class=\"pl-s\">'assistant'</span>}}],\r\n <span class=\"pl-s\">'created'</span>: <span class=\"pl-c1\">1738903256</span>,\r\n <span class=\"pl-s\">'id'</span>: <span class=\"pl-s\">'chatcmpl-76ea1733-cc2f-46d4-9939-90efa2a05e7c'</span>,\r\n <span class=\"pl-s\">'model'</span>: <span class=\"pl-s\">'SmolLM2-135M-Instruct.Q4_1.gguf'</span>,\r\n <span class=\"pl-s\">'object'</span>: <span class=\"pl-s\">'chat.completion'</span>,\r\n <span class=\"pl-s\">'usage'</span>: {<span class=\"pl-s\">'completion_tokens'</span>: <span class=\"pl-c1\">9</span>, <span class=\"pl-s\">'prompt_tokens'</span>: <span class=\"pl-c1\">31</span>, <span class=\"pl-s\">'total_tokens'</span>: <span class=\"pl-c1\">40</span>}}</pre>\r\n<p>But it also <em>spammed</em> my terminal with a huge volume of debugging output - which started like this:</p>\r\n<pre><code>llama_model_load_from_file_impl: using device Metal (Apple M2 Max) - 49151 MiB free\r\nllama_model_loader: loaded meta data with 33 key-value pairs and 272 tensors from SmolLM2-135M-Instruct.Q4_1.gguf (version GGUF V3 (latest))\r\nllama_model_loader: Dumping metadata keys/values. Note: KV overrides do not apply in this output.\r\nllama_model_loader: - kv   0:                       general.architecture str              = llama\r\n</code></pre>\r\n<p>And then continued for more than <a href=\"https://gist.github.com/simonw/9ef7acd836b1cc40c14686eae4dca340\">500 lines</a>!</p>\r\n<p>I've had this problem with <code>llama-cpp-python</code> and <code>llama.cpp</code> in the past, and was sad to find that the documentation still doesn't have a great answer for how to avoid this.</p>\r\n<p>So I turned to the just released <a href=\"https://simonwillison.net/2025/Feb/5/gemini-2/\">Gemini 2.0 Pro (Experimental)</a>, because I know it's a strong model with a long input limit.</p>\r\n<p>I ran the entire <code>llama-cpp-python</code> codebase through it like this:</p>\r\n<div class=\"highlight highlight-source-shell\"><pre><span class=\"pl-c1\">cd</span> /tmp\r\ngit clone https://github.com/abetlen/llama-cpp-python\r\n<span class=\"pl-c1\">cd</span> llama-cpp-python\r\nfiles-to-prompt -e py <span class=\"pl-c1\">.</span> -c <span class=\"pl-k\">|</span> llm -m gemini-2.0-pro-exp-02-05 \\\r\n  <span class=\"pl-s\"><span class=\"pl-pds\">'</span>How can I prevent this library from logging any information at all while it is running - no stderr or anything like that<span class=\"pl-pds\">'</span></span></pre></div>\r\n<p>Here's <a href=\"https://gist.github.com/simonw/20476c2c6f7604df2994212cebfafef4#response\">the answer I got back</a>. It recommended setting the logger to <code>logging.CRITICAL</code>, passing <code>verbose=False</code> to the constructor and, most importantly, using the following context manager to suppress all output:</p>\r\n<pre><span class=\"pl-k\">from</span> <span class=\"pl-s1\">contextlib</span> <span class=\"pl-k\">import</span> <span class=\"pl-s1\">contextmanager</span>, <span class=\"pl-s1\">redirect_stderr</span>, <span class=\"pl-s1\">redirect_stdout</span>\r\n\r\n<span class=\"pl-en\">@<span class=\"pl-s1\">contextmanager</span></span>\r\n<span class=\"pl-k\">def</span> <span class=\"pl-en\">suppress_output</span>():\r\n    <span class=\"pl-s\">\"\"\"</span>\r\n<span class=\"pl-s\">    Suppresses all stdout and stderr output within the context.</span>\r\n<span class=\"pl-s\">    \"\"\"</span>\r\n    <span class=\"pl-k\">with</span> <span class=\"pl-en\">open</span>(<span class=\"pl-s1\">os</span>.<span class=\"pl-c1\">devnull</span>, <span class=\"pl-s\">\"w\"</span>) <span class=\"pl-k\">as</span> <span class=\"pl-s1\">devnull</span>:\r\n        <span class=\"pl-k\">with</span> <span class=\"pl-en\">redirect_stdout</span>(<span class=\"pl-s1\">devnull</span>), <span class=\"pl-en\">redirect_stderr</span>(<span class=\"pl-s1\">devnull</span>):\r\n            <span class=\"pl-k\">yield</span></pre>\r\n<p>This worked! It turned out most of the output came from initializing the <code>LLM</code> class, so I wrapped that like so:</p>\r\n<pre><span class=\"pl-k\">with</span> <span class=\"pl-en\">suppress_output</span>():\r\n    <span class=\"pl-s1\">model</span> <span class=\"pl-c1\">=</span> <span class=\"pl-en\">Llama</span>(<span class=\"pl-s1\">model_path</span><span class=\"pl-c1\">=</span><span class=\"pl-s1\">self</span>.<span class=\"pl-c1\">model_path</span>, <span class=\"pl-s1\">verbose</span><span class=\"pl-c1\">=</span><span class=\"pl-c1\">False</span>)</pre>\r\n<p>Proof of concept in hand I set about writing the plugin. I started with my <a href=\"https://github.com/simonw/llm-plugin\">simonw/llm-plugin</a> cookiecutter template:</p>\r\n<div class=\"highlight highlight-source-shell\"><pre>uvx cookiecutter gh:simonw/llm-plugin</pre></div>\r\n<pre><code>  [1/6] plugin_name (): smollm2\r\n  [2/6] description (): SmolLM2-135M-Instruct.Q4_1 for LLM\r\n  [3/6] hyphenated (smollm2): \r\n  [4/6] underscored (smollm2): \r\n  [5/6] github_username (): simonw\r\n  [6/6] author_name (): Simon Willison\r\n</code></pre>\r\n<p>The <a href=\"https://github.com/simonw/llm-smollm2/blob/0.1.1/llm_smollm2/__init__.py\">rest of the plugin</a> was mostly borrowed from my existing <a href=\"https://github.com/simonw/llm-gguf/blob/0.2/llm_gguf.py\">llm-gguf</a> plugin, updated based on the latest README for the <code>llama-cpp-python</code> project.</p>\r\n<p>There's more information on building plugins in <a href=\"https://llm.datasette.io/en/stable/plugins/tutorial-model-plugin.html\">the tutorial on writing a plugin</a></p>\r\n<h4 id=\"packaging-the-plugin\">Packaging the plugin</h4>\r\n<p>Once I had that working the last step was to figure out how to package it for PyPI. I'm never quite sure of the best way to bundle a binary file in a Python package, especially one that uses a <code>pyproject.toml</code> file... so I dumped a copy of my existing <code>pyproject.toml</code> file into o3-mini-high and prompted:</p>\r\n<blockquote>\r\n<p>Modify this to bundle a SmolLM2-135M-Instruct.Q4_1.gguf file inside the package. I don't want to use hatch or a manifest or anything, I just want to use setuptools.</p>\r\n</blockquote>\r\n<p>Here's <a href=\"https://chatgpt.com/share/67a59122-67c8-8006-9be4-29f8419343ad\">the shared transcript</a> - it gave me exactly what I wanted. I bundled it by adding this to the end of the <code>toml</code> file:</p>\r\n<div class=\"highlight highlight-source-toml\"><pre>[<span class=\"pl-en\">tool</span>.<span class=\"pl-en\">setuptools</span>.<span class=\"pl-en\">package-data</span>]\r\n<span class=\"pl-smi\">llm_smollm2</span> = [<span class=\"pl-s\"><span class=\"pl-pds\">\"</span>SmolLM2-135M-Instruct.Q4_1.gguf<span class=\"pl-pds\">\"</span></span>]</pre></div>\r\n<p>Then dropping that <code>.gguf</code> file into the <code>llm_smollm2/</code> directory and putting my plugin code in <code>llm_smollm2/__init__.py</code>.</p>\r\n<p>I tested it locally by running this:</p>\r\n<div class=\"highlight highlight-source-shell\"><pre>python -m pip install build\r\npython -m build</pre></div>\r\n<p>I fired up a fresh virtual environment and ran <code>pip install ../path/to/llm-smollm2/dist/llm_smollm2-0.1-py3-none-any.whl</code> to confirm that the package worked as expected.</p>\r\n<h4 id=\"publishing-to-pypi\">Publishing to PyPI</h4>\r\n<p>My cookiecutter template comes with <a href=\"https://github.com/simonw/llm-smollm2/blob/main/.github/workflows/publish.yml\">a GitHub Actions workflow</a> that publishes the package to PyPI when a new release is created using the GitHub web interface. Here's the relevant YAML:</p>\r\n<div class=\"highlight highlight-source-yaml\"><pre>  <span class=\"pl-ent\">deploy</span>:\r\n    <span class=\"pl-ent\">runs-on</span>: <span class=\"pl-s\">ubuntu-latest</span>\r\n    <span class=\"pl-ent\">needs</span>: <span class=\"pl-s\">[test]</span>\r\n    <span class=\"pl-ent\">environment</span>: <span class=\"pl-s\">release</span>\r\n    <span class=\"pl-ent\">permissions</span>:\r\n      <span class=\"pl-ent\">id-token</span>: <span class=\"pl-s\">write</span>\r\n    <span class=\"pl-ent\">steps</span>:\r\n    - <span class=\"pl-ent\">uses</span>: <span class=\"pl-s\">actions/checkout@v4</span>\r\n    - <span class=\"pl-ent\">name</span>: <span class=\"pl-s\">Set up Python</span>\r\n      <span class=\"pl-ent\">uses</span>: <span class=\"pl-s\">actions/setup-python@v5</span>\r\n      <span class=\"pl-ent\">with</span>:\r\n        <span class=\"pl-ent\">python-version</span>: <span class=\"pl-s\"><span class=\"pl-pds\">\"</span>3.13<span class=\"pl-pds\">\"</span></span>\r\n        <span class=\"pl-ent\">cache</span>: <span class=\"pl-s\">pip</span>\r\n        <span class=\"pl-ent\">cache-dependency-path</span>: <span class=\"pl-s\">pyproject.toml</span>\r\n    - <span class=\"pl-ent\">name</span>: <span class=\"pl-s\">Install dependencies</span>\r\n      <span class=\"pl-ent\">run</span>: <span class=\"pl-s\">|</span>\r\n<span class=\"pl-s\">        pip install setuptools wheel build</span>\r\n<span class=\"pl-s\"></span>    - <span class=\"pl-ent\">name</span>: <span class=\"pl-s\">Build</span>\r\n      <span class=\"pl-ent\">run</span>: <span class=\"pl-s\">|</span>\r\n<span class=\"pl-s\">        python -m build</span>\r\n<span class=\"pl-s\"></span>    - <span class=\"pl-ent\">name</span>: <span class=\"pl-s\">Publish</span>\r\n      <span class=\"pl-ent\">uses</span>: <span class=\"pl-s\">pypa/gh-action-pypi-publish@release/v1</span></pre></div>\r\n<p>This runs after the <code>test</code> job has passed. It uses the <a href=\"https://github.com/pypa/gh-action-pypi-publish\">pypa/gh-action-pypi-publish</a> Action to publish to PyPI - I wrote more about how that works <a href=\"https://til.simonwillison.net/pypi/pypi-releases-from-github\">in this TIL</a>.</p>\r\n<h4 id=\"is-the-model-any-good-\">Is the model any good?</h4>\r\n<p>This one really isn't! It's not really surprising but it turns out 94MB really isn't enough space for a model that can do anything useful.</p>\r\n<p>It's <em>super</em> fun to play with, and I continue to maintain that small, weak models are a great way to help build a mental model of how this technology actually works.</p>\r\n<p>That's not to say SmolLM2 isn't a fantastic model family. I'm running the smallest, most restricted version here. <a href=\"https://huggingface.co/blog/smollm\">SmolLM - blazingly fast and remarkably powerful</a> describes the full model family - which comes in 135M, 360M, and 1.7B sizes. The larger versions are a whole lot more capable.</p>\r\n<p>If anyone can figure out something genuinely useful to do with the 94MB version I'd love to hear about it.</p>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/pip\">pip</a>, <a href=\"https://simonwillison.net/tags/plugins\">plugins</a>, <a href=\"https://simonwillison.net/tags/projects\">projects</a>, <a href=\"https://simonwillison.net/tags/pypi\">pypi</a>, <a href=\"https://simonwillison.net/tags/python\">python</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/github-actions\">github-actions</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/edge-llms\">edge-llms</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/ai-assisted-programming\">ai-assisted-programming</a>, <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/gemini\">gemini</a>, <a href=\"https://simonwillison.net/tags/uv\">uv</a>, <a href=\"https://simonwillison.net/tags/smollm\">smollm</a>, <a href=\"https://simonwillison.net/tags/o3\">o3</a>, <a href=\"https://simonwillison.net/tags/llama-cpp\">llama-cpp</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/#atom-everything",
+          "publishedOn": "2025-02-07T06:34:59.000Z",
+          "wordCount": 1443,
+          "title": "Using pip to install a Large Language Model that's under 100MB",
+          "imageUrl": "https://static.simonwillison.net/static/2025/smol-card.jpg"
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/7/sqlite-s3vfs/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://github.com/uktrade/sqlite-s3vfs\">sqlite-s3vfs</a></strong></p>\nNeat open source project on the GitHub organisation for the UK government's Department for Business and Trade: a \"Python virtual filesystem for SQLite to read from and write to S3.\"</p>\n<p>I tried out <a href=\"https://github.com/uktrade/sqlite-s3vfs/blob/main/README.md#usage\">their usage example</a> by running it in a Python REPL with all of the dependencies</p>\n<pre><code>uv run --python 3.13 --with apsw --with sqlite-s3vfs --with boto3 python\n</code></pre>\n<p>It worked as advertised. When I listed my S3 bucket I found it had created two files - one called <code>demo.sqlite/0000000000</code> and another called <code>demo.sqlite/0000000001</code>, both 4096 bytes because each one represented a SQLite page.</p>\n<p>The implementation is just <a href=\"https://github.com/uktrade/sqlite-s3vfs/blob/main/sqlite_s3vfs.py\">200 lines of Python</a>, implementing a new SQLite Virtual Filesystem on top of <a href=\"https://rogerbinns.github.io/apsw/vfs.html#vfs-class\">apsw.VFS</a>.</p>\n<p>The README includes this warning:</p>\n<blockquote>\n<p>No locking is performed, so client code <em>must</em> ensure that writes do not overlap with other writes or reads. If multiple writes happen at the same time, the database will probably become corrupt and data be lost.</p>\n</blockquote>\n<p>I wonder if the <a href=\"https://simonwillison.net/2024/Nov/26/s3-conditional-writes/\">conditional writes</a> feature added to S3 back in November could be used to protect against that happening. Tricky as there are multiple files involved, but maybe it (or a <a href=\"https://simonwillison.net/2024/Aug/30/leader-election-with-s3-conditional-writes/\">trick like this one</a>) could be used to implement some kind of exclusive lock between multiple processes?\n\n    <p><small></small>Via <a href=\"https://news.ycombinator.com/item?id=42965198#42966961\">Hacker News comment</a></small></p>\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/apsw\">apsw</a>, <a href=\"https://simonwillison.net/tags/sqlite\">sqlite</a>, <a href=\"https://simonwillison.net/tags/python\">python</a>, <a href=\"https://simonwillison.net/tags/uv\">uv</a>, <a href=\"https://simonwillison.net/tags/s3\">s3</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/7/sqlite-s3vfs/#atom-everything",
+          "publishedOn": "2025-02-07T02:22:43.000Z",
+          "wordCount": 393,
+          "title": "sqlite-s3vfs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/7/apsw-sqlite-query-explainer/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://tools.simonwillison.net/apsw-query\">APSW SQLite query explainer</a></strong></p>\nToday I found out about <a href=\"https://rogerbinns.github.io/apsw/\">APSW</a>'s (Another Python SQLite Wrapper, in constant development since 2004) <a href=\"https://rogerbinns.github.io/apsw/ext.html#apsw.ext.query_info\">apsw.ext.query_info()</a> function, which takes a SQL query and returns a <em>very</em> detailed set of information about that query - all without executing it.</p>\n<p>It actually solves a bunch of problems I've wanted to address in Datasette - like taking an arbitrary query and figuring out how many parameters (<code>?</code>) it takes and which tables and columns are represented in the result.</p>\n<p>I tried it out in my console (<code>uv run --with apsw python</code>) and it seemed to work really well. Then I remembered that the Pyodide project includes WebAssembly builds of a number of Python C extensions and was delighted to <a href=\"https://pyodide.org/en/stable/usage/packages-in-pyodide.html\">find apsw on that list</a>.</p>\n<p>... so I <a href=\"https://gist.github.com/simonw/8d79d2a4e746f7c8966d2ae1fea90cb3\">got Claude</a> to build me <a href=\"https://tools.simonwillison.net/apsw-query\">a web interface</a> for trying out the function, using Pyodide to run a user's query in Python in their browser via WebAssembly.</p>\n<p>Claude didn't quite get it in one shot - I had to feed it the URL to a more recent Pyodide and it got stuck in a bug loop which I fixed by pasting the code into a fresh session.</p>\n<p><img alt=\"Screenshot of the tool. APSW SQLite query explainer. Query is select * from sqlite_master where tbl_name = ? and a parameter box below is set to example. Below is JSON with the query and a bunch of details about it.\" src=\"https://static.simonwillison.net/static/2025/apsw-explain.jpg\" />\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/pyodide\">pyodide</a>, <a href=\"https://simonwillison.net/tags/sqlite\">sqlite</a>, <a href=\"https://simonwillison.net/tags/claude\">claude</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/claude-artifacts\">claude-artifacts</a>, <a href=\"https://simonwillison.net/tags/webassembly\">webassembly</a>, <a href=\"https://simonwillison.net/tags/ai-assisted-programming\">ai-assisted-programming</a>, <a href=\"https://simonwillison.net/tags/python\">python</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/apsw\">apsw</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/7/apsw-sqlite-query-explainer/#atom-everything",
+          "publishedOn": "2025-02-07T02:00:01.000Z",
+          "wordCount": 397,
+          "title": "APSW SQLite query explainer",
+          "imageUrl": null
+        },
         {
           "id": "https://simonwillison.net/2025/Feb/6/datasette-10a17/#atom-everything",
           "author": null,
