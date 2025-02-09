@@ -6,6 +6,156 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42986613",
+          "author": "Topfi",
+          "description": "Article URL: https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/\nComments URL: https://news.ycombinator.com/item?id=42986613\nPoints: 23\n# Comments: 6",
+          "link": "https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/",
+          "publishedOn": "2025-02-08T22:08:07.000Z",
+          "wordCount": 1242,
+          "title": "Deep Fake Detector Extension by Mozilla Firefox",
+          "imageUrl": "https://addons.mozilla.org/user-media/previews/full/307/307541.png?modified=1729878115"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42986558",
+          "author": "sidebread",
+          "description": "Article URL: https://getklippy.com\nComments URL: https://news.ycombinator.com/item?id=42986558\nPoints: 20\n# Comments: 14",
+          "link": "https://getklippy.com/",
+          "publishedOn": "2025-02-08T22:00:21.000Z",
+          "wordCount": null,
+          "title": "Show HN: Turn Screenshots into Designs Instantly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42986485",
+          "author": "yamrzou",
+          "description": "Article URL: https://datagubbe.se/endofciv/\nComments URL: https://news.ycombinator.com/item?id=42986485\nPoints: 86\n# Comments: 38",
+          "link": "https://datagubbe.se/endofciv/",
+          "publishedOn": "2025-02-08T21:49:51.000Z",
+          "wordCount": 6110,
+          "title": "Is Software Abstraction Killing Civilization? (2021)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42986320",
+          "author": "memalign",
+          "description": "Article URL: https://jacksonpollock.org/\nComments URL: https://news.ycombinator.com/item?id=42986320\nPoints: 161\n# Comments: 39",
+          "link": "https://jacksonpollock.org/",
+          "publishedOn": "2025-02-08T21:22:49.000Z",
+          "wordCount": 6,
+          "title": "Jacksonpollock.org",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42986169",
+          "author": "jackogrady",
+          "description": "Article URL: https://www.keelinglabs.com/jobs\nComments URL: https://news.ycombinator.com/item?id=42986169\nPoints: 0\n# Comments: 0",
+          "link": "https://www.keelinglabs.com/jobs",
+          "publishedOn": "2025-02-08T21:01:10.000Z",
+          "wordCount": 1467,
+          "title": "Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid",
+          "imageUrl": "http://static1.squarespace.com/static/636ab376548a7e6815075e62/t/6789b00b83c3b748556c5e4f/1737076756958/space_hiring_image.png?format=1500w"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42986149",
+          "author": "Tomte",
+          "description": "Article URL: https://www.adacore.com/gems\nComments URL: https://news.ycombinator.com/item?id=42986149\nPoints: 29\n# Comments: 3",
+          "link": "https://www.adacore.com/gems",
+          "publishedOn": "2025-02-08T20:58:17.000Z",
+          "wordCount": 2050,
+          "title": "Ada Gems (2014)",
+          "imageUrl": "https://www.adacore.com/uploads/page_content/_1200x630_crop_center-center_82_none/AdaCore-Build-Software-that-Matters.jpg?mtime=1615317087"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42985427",
+          "author": "susam",
+          "description": "Article URL: https://johnkerl.org/doc/ortho/ortho.html\nComments URL: https://news.ycombinator.com/item?id=42985427\nPoints: 152\n# Comments: 54",
+          "link": "https://johnkerl.org/doc/ortho/ortho.html",
+          "publishedOn": "2025-02-08T19:20:10.000Z",
+          "wordCount": 983,
+          "title": "Tips for mathematical handwriting (2007)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42984962",
+          "author": "hellcow",
+          "description": "This is a loose port of https://golang.org/x/tools/txtar, which concatenates files together and allows for a top-level comment.\nThe txtar format is specifically designed to be easy for humans to read and write by hand. It's perfect for test data.\nThe library itself tries to follow scheme standards by depending on only SRFIs (and if you're new to scheme like me, SRFI stands for \"Scheme Requests For Implementation,\" and it's like a standard library). I hope this is a helpful showcase of a scheme library!\nI'm also new to writing scheme, and if any experienced scheme/lisp devs are out there with feedback, that would be much appreciated.\nComments URL: https://news.ycombinator.com/item?id=42984962\nPoints: 53\n# Comments: 5",
+          "link": "https://git.sr.ht/~egtann/txtar/",
+          "publishedOn": "2025-02-08T18:24:39.000Z",
+          "wordCount": 485,
+          "title": "Show HN: Chez Scheme txtar port from Go",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42984457",
+          "author": "ingve",
+          "description": "Article URL: https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/\nComments URL: https://news.ycombinator.com/item?id=42984457\nPoints: 144\n# Comments: 59",
+          "link": "https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/",
+          "publishedOn": "2025-02-08T17:25:03.000Z",
+          "wordCount": 5831,
+          "title": "Writing a Simple Windows Driver in Rust",
+          "imageUrl": "https://scorpiosoftware.net/wp-content/uploads/2025/02/image.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42984420",
+          "author": "wojciech-kulik",
+          "description": "I've recently launched a new open-source project aimed at enhancing the experience of switching between Spaces/workspaces on macOS. The built-in Spaces feature is often slow and unfriendly. This project is designed to boost your productivity :). Enjoy!\nComments URL: https://news.ycombinator.com/item?id=42984420\nPoints: 155\n# Comments: 49",
+          "link": "https://github.com/wojciech-kulik/FlashSpace",
+          "publishedOn": "2025-02-08T17:19:23.000Z",
+          "wordCount": 5256,
+          "title": "Show HN: FlashSpace – fast, open-source, macOS Spaces replacement",
+          "imageUrl": "https://opengraph.githubassets.com/819df9800fbf1e850dc1895b14ada4d9ceb48b522ef88f304ef3c0b4787e4e15/wojciech-kulik/FlashSpace"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42983699",
+          "author": "igor_st",
+          "description": "Article URL: https://github.com/xajik/thedeck\nComments URL: https://news.ycombinator.com/item?id=42983699\nPoints: 206\n# Comments: 51",
+          "link": "https://github.com/xajik/thedeck",
+          "publishedOn": "2025-02-08T15:47:36.000Z",
+          "wordCount": 3184,
+          "title": "The Deck: An open-source cross-platform multiplayer card game engine in Flutter",
+          "imageUrl": "https://opengraph.githubassets.com/18d217f20e271e561da24f7ce194f172bf789f2655fc127f52538583bf00122e/xajik/thedeck"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42983275",
+          "author": "antirez",
+          "description": "Article URL: https://antirez.com/news/145\nComments URL: https://news.ycombinator.com/item?id=42983275\nPoints: 462\n# Comments: 334",
+          "link": "https://antirez.com/news/145",
+          "publishedOn": "2025-02-08T14:48:25.000Z",
+          "wordCount": 426,
+          "title": "We are destroying software",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42982270",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm\nComments URL: https://news.ycombinator.com/item?id=42982270\nPoints: 113\n# Comments: 47",
+          "link": "https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm",
+          "publishedOn": "2025-02-08T11:38:33.000Z",
+          "wordCount": null,
+          "title": "A tale of several distros joining forces for a common goal: reproducible builds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42982015",
+          "author": "redpenguin101",
+          "description": "Article URL: https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html\nComments URL: https://news.ycombinator.com/item?id=42982015\nPoints: 155\n# Comments: 15",
+          "link": "https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html",
+          "publishedOn": "2025-02-08T10:41:17.000Z",
+          "wordCount": 6919,
+          "title": "Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42979467",
+          "author": "zdyxry",
+          "description": "Article URL: https://fly.io/blog/vscode-ssh-wtf/\nComments URL: https://news.ycombinator.com/item?id=42979467\nPoints: 641\n# Comments: 464",
+          "link": "https://fly.io/blog/vscode-ssh-wtf/",
+          "publishedOn": "2025-02-08T01:25:32.000Z",
+          "wordCount": 826,
+          "title": "VSCode’s SSH agent is bananas",
+          "imageUrl": "https://fly.io/static/images/fly-social-square.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42978313",
           "author": "eamag",
           "description": "Article URL: https://huggingface.co/papers/2502.02649\nComments URL: https://news.ycombinator.com/item?id=42978313\nPoints: 23\n# Comments: 22",
@@ -14,6 +164,16 @@
           "wordCount": 2121,
           "title": "Autonomous AI Agents Should Not Be Developed",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2502.02649/gradient.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42978199",
+          "author": "venusgirdle",
+          "description": "Article URL: https://amanvir.com/obscure-islands\nComments URL: https://news.ycombinator.com/item?id=42978199\nPoints: 278\n# Comments: 78",
+          "link": "https://amanvir.com/obscure-islands",
+          "publishedOn": "2025-02-07T22:23:31.000Z",
+          "wordCount": 198,
+          "title": "Obscure islands I find interesting",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=42977483",
@@ -46,6 +206,16 @@
           "imageUrl": "https://opengraph.githubassets.com/452c18a71b1682a53ecb4dd8c428001e2cc5470efc75eba3aa3586b40782297c/Tanq16/ExpenseOwl"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42976698",
+          "author": "tehnub",
+          "description": "Article URL: https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/\nComments URL: https://news.ycombinator.com/item?id=42976698\nPoints: 363\n# Comments: 92",
+          "link": "https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/",
+          "publishedOn": "2025-02-07T19:48:16.000Z",
+          "wordCount": 5181,
+          "title": "Do-nothing scripting: the key to gradual automation (2019)",
+          "imageUrl": "https://blog.danslimmon.com/wp-content/uploads/2024/03/cropped-d2e_pip_transparent.png?w=200"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42975803",
           "author": "WiggleGuy",
           "description": "For the past few months, I've been working on a website that answers two different questions:\n- Where in my city have the best travel times to all the things and people I care about?\n- Given a listing, how far is it from all the things and people I care about?\nPersonally this was fueled by my own frustrations when I was apartment hunting in NYC. I was frustrating to have to juggle so many Google Maps tabs when I was evaluating a listing, and it was also annoying to not have full confidence that I was even searching in the right places.\nI wanted to be close to work, a Trader Joe's, and a major park. Given that public transportation networks can sometimes make close things hard to get to and far things easy to get to, it's not always obvious whether a neighborhood actually even fits my criteria or not!\nThe overarching goal of theretowhere.com is to allow you to make more informed moving decisions while also making things more convenient than they are today.\nhttps://ibb.co/pBsX2HjN\nIt can generate detailed travel time breakdowns for individual listings and addresses, making it easier to determine whether a listing is worth applying for without juggling Google Maps tabs.\nThis is great for questions like “How far is this apartment from my friends, work and dancing gyms?”\nhttps://ibb.co/mVBjwPrJ\nIt also has the powerful ability to heatmap a city based on which parts of it are close or not to the people and places you care about.\nThis is great for questions like “Where in the city would I be reasonably close to work, friends and a woodworking studio?”\nhttps://ibb.co/vCynPSRK\nYou can add these heatmaps to sites like Zillow and Streeteasy to make things super convenient (this was very fun to make).\nThe main thing that's on my mind is whether this is useful or not. Like, is this something you would actually use?\nI also have other ideas I'd like to eventually intergrate into this (crime heatmaps, noise heatmaps, etc)\nComments URL: https://news.ycombinator.com/item?id=42975803\nPoints: 194\n# Comments: 76",
@@ -53,6 +223,16 @@
           "publishedOn": "2025-02-07T18:23:40.000Z",
           "wordCount": 11,
           "title": "Show HN: A website that heatmaps your city based on your housing preferences",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42975492",
+          "author": "kevinburke",
+          "description": "Article URL: https://kevin.burke.dev/kevin/norcal-cities-new-utility/\nComments URL: https://news.ycombinator.com/item?id=42975492\nPoints: 165\n# Comments: 164",
+          "link": "https://kevin.burke.dev/kevin/norcal-cities-new-utility/",
+          "publishedOn": "2025-02-07T17:55:40.000Z",
+          "wordCount": 2565,
+          "title": "Cities can cost effectively start their own utilities",
           "imageUrl": null
         },
         {
@@ -206,6 +386,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42969322",
+          "author": "xtacy",
+          "description": "Article URL: https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html\nComments URL: https://news.ycombinator.com/item?id=42969322\nPoints: 40\n# Comments: 7",
+          "link": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+          "publishedOn": "2025-02-07T04:16:49.000Z",
+          "wordCount": 5750,
+          "title": "A whirlwind tutorial on creating teensy ELF executables for Linux (1999)",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42967474",
           "author": "diggan",
           "description": "Article URL: https://tillitis.se/products/tkey/\nComments URL: https://news.ycombinator.com/item?id=42967474\nPoints: 5\n# Comments: 0",
@@ -354,6 +544,16 @@
           "wordCount": 10307,
           "title": "Aluminum Batteries Outlive Lithium-Ion with a Pinch of Salt",
           "imageUrl": "https://spectrum.ieee.org/media-library/ends-of-batteries-neatly-stacked-together-with-one-battery-sticking-out.jpg?id=56186170&width=1200&height=600&coordinates=0%2C658%2C0%2C658"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42960684",
+          "author": "Tomte",
+          "description": "Article URL: https://origamee.net/\nComments URL: https://news.ycombinator.com/item?id=42960684\nPoints: 69\n# Comments: 5",
+          "link": "https://origamee.net/",
+          "publishedOn": "2025-02-06T09:34:18.000Z",
+          "wordCount": 206,
+          "title": "Origami by Meenakshi",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=42960144",
@@ -1618,6 +1818,26 @@
       "feedUrl": "https://alexwlchan.net/atom.xml",
       "siteUrl": "https://alexwlchan.net/",
       "articles": [
+        {
+          "id": "https://alexwlchan.net/2025/good-embedded-toots/?utm_source=rss",
+          "author": null,
+          "description": "I replaced Mastodon's native post embeds with lightweight HTML and CSS snippets that are faster to load, more resilient to outages, and support dark mode -- and I had fun doing it.",
+          "link": "https://alexwlchan.net/2025/good-embedded-toots/?utm_source=rss",
+          "publishedOn": "2025-02-08T22:32:46.000Z",
+          "wordCount": 1123,
+          "title": "Good embedded toots",
+          "imageUrl": "https://alexwlchan.net/images/profile_green_square.jpg"
+        },
+        {
+          "id": "https://alexwlchan.net/2025/bagit-errors/?utm_source=rss",
+          "author": null,
+          "description": "Exploring the many ways a BagIt bag can be invalid, and how you might want to build a process for validating bags to ensure the quality of your digital archive.",
+          "link": "https://alexwlchan.net/2025/bagit-errors/?utm_source=rss",
+          "publishedOn": "2025-02-08T10:04:12.000Z",
+          "wordCount": 3083,
+          "title": "Unexpected errors in the BagIt area",
+          "imageUrl": "https://alexwlchan.net/images/cards/2025/bagit-errors.jpg"
+        },
         {
           "id": "https://alexwlchan.net/2025/lego-inventory-spreadsheets/?utm_source=rss",
           "author": null,
@@ -3305,26 +3525,6 @@
           "wordCount": 3302,
           "title": "Batch data ingestion into Amazon OpenSearch Service using AWS Glue",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/13/featured-images-BDB-4806-1120x630.jpg"
-        },
-        {
-          "id": "c01e84b975b47f89e0157ca672a86b134eb808bb",
-          "author": "Guy Bachar",
-          "description": "In our previous post Backtesting index rebalancing arbitrage with Amazon EMR and Apache Iceberg, we showed how to use Apache Iceberg in the context of strategy backtesting. In this post, we focus on data management implementation options such as accessing data directly in Amazon Simple Storage Service (Amazon S3), using popular data formats like Parquet, or using open table formats like Iceberg. Our experiments are based on real-world historical full order book data, provided by our partner CryptoStruct, and compare the trade-offs between these choices, focusing on performance, cost, and quant developer productivity.",
-          "link": "https://aws.amazon.com/blogs/big-data/build-a-high-performance-quant-research-platform-with-apache-iceberg/",
-          "publishedOn": "2025-01-09T20:55:39.000Z",
-          "wordCount": 5147,
-          "title": "Build a high-performance quant research platform with Apache Iceberg",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/09/featured-images-BDB-4155-1120x630.jpg"
-        },
-        {
-          "id": "6153ad306fd6c40b1a26397dd40877f7c6737700",
-          "author": "Aruna Govindaraju",
-          "description": "This blog post introduces a new disk-based vector search approach that allows efficient querying of vectors stored on disk without loading them entirely into memory. By implementing these quantization methods, organizations can achieve compression ratios of up to 64x, enabling cost-effective scaling of vector databases for large-scale AI and machine learning applications.",
-          "link": "https://aws.amazon.com/blogs/big-data/cost-optimized-vector-database-introduction-to-amazon-opensearch-service-quantization-techniques/",
-          "publishedOn": "2025-01-09T18:16:34.000Z",
-          "wordCount": 4227,
-          "title": "Cost Optimized Vector Database: Introduction to Amazon OpenSearch Service quantization techniques",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/09/featured-images-BDB-4389-1120x630.jpg"
         }
       ]
     },
@@ -3679,16 +3879,6 @@
           "wordCount": 4204,
           "title": "How to monitor, optimize, and secure Amazon Cognito machine-to-machine authorization",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/01/07/Cognito-M2M-Optimization-featured-image-1260x630.jpeg"
-        },
-        {
-          "id": "f943aaa1b40c499360abf34ce18f7b8f80a27b5b",
-          "author": "Steve Schmidt",
-          "description": "Securing an event of the magnitude of AWS re:Invent—the Amazon Web Services annual conference in Las Vegas—is no small feat. The most recent event, in December, operated on the scale of a small city, spanning seven venues over twelve miles and nearly seven million square feet across the bustling Las Vegas Strip. Keeping all 60,000 […]",
-          "link": "https://aws.amazon.com/blogs/security/securing-a-city-sized-event-how-amazon-integrates-physical-and-logical-security-at-reinvent/",
-          "publishedOn": "2025-01-09T17:00:16.000Z",
-          "wordCount": 1685,
-          "title": "Securing a city-sized event: How Amazon integrates physical and logical security at re:Invent",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/01/08/Featured-Image-1260x630.jpg"
         }
       ]
     },
@@ -3728,7 +3918,7 @@
     {
       "title": "Be a Better Dev",
       "feedUrl": "https://beabetterdev.com/feed/",
-      "siteUrl": "https://beabetterdev.com/",
+      "siteUrl": "https://www.beabetterdev.com/",
       "articles": []
     },
     {
@@ -3736,6 +3926,16 @@
       "feedUrl": "https://birming.com/feed/",
       "siteUrl": "https://birming.com/",
       "articles": [
+        {
+          "id": "https://birming.com/bearmin/",
+          "author": null,
+          "description": "In my Bear Blog Question Challenge reply, I mentioned that I had an idea to create a minimalist theme for Bear Blog.\nThis has now become a reality. Although the name, BearMin, is reminiscent of Bearming, the theme's design philosophy is quite different.\nBearMin prioritizes text, eliminating distractions like varied fonts and colors. Three core principles guided its development:\nReadability: The theme uses a \"not quite black\" text on a slightly off-white background for a comfortable reading experience.\nSimplicity: The focus is on text without other distracting elements, such as mixed fonts or colors.\nLightness: The lean code (just 1.14 KB) makes it significantly lighter than other Bear themes.\nI currently use BearMin on my blog. It uses the system's default font and link color and does not …",
+          "link": "https://birming.com/bearmin/",
+          "publishedOn": "2025-02-08T19:31:00.000Z",
+          "wordCount": null,
+          "title": "BearMin: a tiny Bear theme",
+          "imageUrl": null
+        },
         {
           "id": "https://birming.com/hidden-treasure-blogging/",
           "author": null,
@@ -4019,16 +4219,6 @@
           "wordCount": 1704,
           "title": "The PicoGUS, a Modern ISA Sound Card",
           "imageUrl": "https://brainbaking.com/post/2025/01/the-picogus-isa-soundcard/picogus.jpg"
-        },
-        {
-          "id": "https://brainbaking.com/post/2025/01/you-should-compile-your-own-philosophy/",
-          "author": "Wouter Groeneveld",
-          "description": "2025 will become my personal year of philosophy. I turn forty this year, which, if all goes well, marks the first part of my life as over. Considering recent illnesses along my family and friends, I have little hope of ever reaching eighty, but let’s keep that as a grand goal for the sake of the argument.\nI’ve been reading more philosophy lately, including Joep Dohmen’s De kunst van het ouder worden (the art of getting old), which summarizes findings of well-known philosophers on the subject of ageing, from Plato, Cicero, Nietzsche, to Russell. One of the chapters that struck me the most was a section of Jean-Jacques Rousseau’s Reveries of the Solitary Walker, where Rousseau reflects on how he learns how to properly grow old. He wrote that to the age of forty, he floated between indigence …",
-          "link": "https://brainbaking.com/post/2025/01/you-should-compile-your-own-philosophy/",
-          "publishedOn": "2025-01-10T08:00:00.000Z",
-          "wordCount": 1448,
-          "title": "You Should Compile Your Own Philosophy",
-          "imageUrl": "https://brainbaking.com/logo.jpg"
         }
       ]
     },
@@ -4328,6 +4518,26 @@
       "feedUrl": "https://kevquirk.com/feed",
       "siteUrl": "https://kevquirk.com",
       "articles": [
+        {
+          "id": "notes/20250208-1214",
+          "author": null,
+          "description": "Walking the dogs with the youngest...\nHim: Daaaaaad, I've been reading a book in school about how babies are born.\nMe (inner monologue): Shit shit shit shit shit shit.\nHim: Did you know that a baby comes out of a ladies private parts and the hole is this big (holds fingers up in a very small circle). But a baby is this big (holds hands up about 2 feet apart).\nMe: Yep. That's pretty much it, mate.\nHim: .........................................I'm glad I'm not a girl.\nMe: 😂😂😂😂😂\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
+          "link": "https://kevquirk.com/notes/20250208-1214",
+          "publishedOn": "2025-02-08T12:20:00.000Z",
+          "wordCount": 171,
+          "title": "📝 8 February 2025 at 12:14 - Walking the dogs with the youngest Him Daaaaaad I've been...",
+          "imageUrl": "https://cdn.kevquirk.com/feature-image.webp"
+        },
+        {
+          "id": "notes/20250208-1105",
+          "author": null,
+          "description": "Shouting from the other end of the house:\nMe: [youngest kid's name], GUESS WHAT???\nHim: WHAT?\nMe: YOU SMELL! 😂😂\nHim (very calmly): You're boring...\nAnd so the student becomes the master. You win this round, young'n.\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
+          "link": "https://kevquirk.com/notes/20250208-1105",
+          "publishedOn": "2025-02-08T11:10:00.000Z",
+          "wordCount": 122,
+          "title": "📝 8 February 2025 at 11:05 - Shouting from the other end of the house Me youngest...",
+          "imageUrl": "https://cdn.kevquirk.com/feature-image.webp"
+        },
         {
           "id": "notes/20250206-1135",
           "author": null,
@@ -4886,22 +5096,6 @@
             "length": "6005708"
           },
           "imageUrl": null
-        },
-        {
-          "id": "76A00F4A-6F0C-47B0-9E68-E38CEBBCFD82",
-          "author": "Louie Mantia",
-          "description": "You may have seen Mark Zuckerberg’s five-minute video about how Facebook is doing literal U-turns on many of their content moderation policies.\nIf you didn’t watch it, I guess you could, but you might just come away so upset and disheartened by how a man who initially built a website to rate the attractiveness of women at Harvard could become so culturally powerful at a global level.\nI have used social media for a long time. I have seen Facebook and Twitter both go from novel status-sharing to cultural battlegrounds. I have seen them both pretend to grow up; neither platform was ever built on the premise of providing “free speech” to the world. Pretending they were is just propaganda from their respective founders. It was an evolution formed from opportunity.\nSetting aside what free speech…",
-          "link": "https://lmnt.me/blog/this-is-gonna-be-bad.html",
-          "publishedOn": "2025-01-10T01:50:00.000Z",
-          "wordCount": null,
-          "title": "This Is Gonna Be Bad",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://lmnt.me/files/audio/this-is-gonna-be-bad.m4a",
-            "type": "audio/x-m4a",
-            "length": "4678426"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -5020,6 +5214,156 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/",
+          "publishedOn": "2025-02-08T22:08:07.000Z",
+          "wordCount": null,
+          "title": "Deep Fake Detector Extension by Mozilla Firefox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://getklippy.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://getklippy.com/",
+          "publishedOn": "2025-02-08T22:00:21.000Z",
+          "wordCount": null,
+          "title": "Show HN: Turn Screenshots into Designs Instantly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://datagubbe.se/endofciv/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://datagubbe.se/endofciv/",
+          "publishedOn": "2025-02-08T21:49:51.000Z",
+          "wordCount": null,
+          "title": "Is software abstraction killing civilization? (2021)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jacksonpollock.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jacksonpollock.org/",
+          "publishedOn": "2025-02-08T21:22:49.000Z",
+          "wordCount": null,
+          "title": "Jacksonpollock.org",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.keelinglabs.com/jobs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.keelinglabs.com/jobs",
+          "publishedOn": "2025-02-08T21:01:10.000Z",
+          "wordCount": null,
+          "title": "Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.adacore.com/gems",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.adacore.com/gems",
+          "publishedOn": "2025-02-08T20:58:17.000Z",
+          "wordCount": null,
+          "title": "Ada Gems (2014)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://johnkerl.org/doc/ortho/ortho.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://johnkerl.org/doc/ortho/ortho.html",
+          "publishedOn": "2025-02-08T19:20:10.000Z",
+          "wordCount": null,
+          "title": "Tips for mathematical handwriting (2007)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://git.sr.ht/~egtann/txtar/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://git.sr.ht/~egtann/txtar/",
+          "publishedOn": "2025-02-08T18:24:39.000Z",
+          "wordCount": null,
+          "title": "Show HN: Chez Scheme txtar port from Go",
+          "imageUrl": null
+        },
+        {
+          "id": "https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/",
+          "publishedOn": "2025-02-08T17:25:03.000Z",
+          "wordCount": null,
+          "title": "Writing a Simple Windows Driver in Rust",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/wojciech-kulik/FlashSpace",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/wojciech-kulik/FlashSpace",
+          "publishedOn": "2025-02-08T17:19:23.000Z",
+          "wordCount": null,
+          "title": "Show HN: FlashSpace – fast, open-source, macOS Spaces replacement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/xajik/thedeck",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/xajik/thedeck",
+          "publishedOn": "2025-02-08T15:47:36.000Z",
+          "wordCount": null,
+          "title": "The Deck: An open-source cross-platform multiplayer card game engine in Flutter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://antirez.com/news/145",
+          "author": null,
+          "description": "Comments",
+          "link": "https://antirez.com/news/145",
+          "publishedOn": "2025-02-08T14:48:25.000Z",
+          "wordCount": null,
+          "title": "We are destroying software",
+          "imageUrl": null
+        },
+        {
+          "id": "https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm",
+          "publishedOn": "2025-02-08T11:38:33.000Z",
+          "wordCount": null,
+          "title": "A tale of several distros joining forces for a common goal: reproducible builds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html",
+          "publishedOn": "2025-02-08T10:41:17.000Z",
+          "wordCount": null,
+          "title": "Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://fly.io/blog/vscode-ssh-wtf/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fly.io/blog/vscode-ssh-wtf/",
+          "publishedOn": "2025-02-08T01:25:32.000Z",
+          "wordCount": null,
+          "title": "VSCode’s SSH agent is bananas",
+          "imageUrl": null
+        },
+        {
           "id": "https://huggingface.co/papers/2502.02649",
           "author": null,
           "description": "Comments",
@@ -5028,6 +5372,16 @@
           "wordCount": 2121,
           "title": "Autonomous AI Agents Should Not Be Developed",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2502.02649/gradient.png"
+        },
+        {
+          "id": "https://amanvir.com/obscure-islands",
+          "author": null,
+          "description": "Comments",
+          "link": "https://amanvir.com/obscure-islands",
+          "publishedOn": "2025-02-07T22:23:31.000Z",
+          "wordCount": null,
+          "title": "Obscure islands I find interesting",
+          "imageUrl": null
         },
         {
           "id": "https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/",
@@ -5060,6 +5414,16 @@
           "imageUrl": "https://opengraph.githubassets.com/1e41a81173b17d1524f6192867d2a4d65a08164ba49a020212b242cf98882a3f/Tanq16/ExpenseOwl"
         },
         {
+          "id": "https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/",
+          "publishedOn": "2025-02-07T19:48:16.000Z",
+          "wordCount": null,
+          "title": "Do-nothing scripting: the key to gradual automation (2019)",
+          "imageUrl": null
+        },
+        {
           "id": "https://theretowhere.com/",
           "author": null,
           "description": "Comments",
@@ -5067,6 +5431,16 @@
           "publishedOn": "2025-02-07T18:23:40.000Z",
           "wordCount": 11,
           "title": "Show HN: A website that heatmaps your city based on your housing preferences",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kevin.burke.dev/kevin/norcal-cities-new-utility/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kevin.burke.dev/kevin/norcal-cities-new-utility/",
+          "publishedOn": "2025-02-07T17:55:40.000Z",
+          "wordCount": null,
+          "title": "Cities can cost effectively start their own utilities",
           "imageUrl": null
         },
         {
@@ -5217,6 +5591,16 @@
           "publishedOn": "2025-02-07T07:11:36.000Z",
           "wordCount": null,
           "title": "Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+          "publishedOn": "2025-02-07T04:16:49.000Z",
+          "wordCount": null,
+          "title": "A whirlwind tutorial on creating teensy ELF executables for Linux (1999)",
           "imageUrl": null
         },
         {
@@ -5380,6 +5764,16 @@
           "imageUrl": "https://spectrum.ieee.org/media-library/ends-of-batteries-neatly-stacked-together-with-one-battery-sticking-out.jpg?id=56186170&width=1200&height=600&coordinates=0%2C658%2C0%2C658"
         },
         {
+          "id": "https://origamee.net/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://origamee.net/",
+          "publishedOn": "2025-02-06T09:34:18.000Z",
+          "wordCount": null,
+          "title": "Origami by Meenakshi",
+          "imageUrl": null
+        },
+        {
           "id": "https://gladdendesign.com/collections/paper-apps",
           "author": null,
           "description": "Comments",
@@ -5388,6 +5782,16 @@
           "wordCount": 2161,
           "title": "Paper Apps",
           "imageUrl": "http://gladdendesign.com/cdn/shop/collections/IMG_7428.jpg?v=1733973949"
+        },
+        {
+          "id": "https://github.com/mierau/hotline",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/mierau/hotline",
+          "publishedOn": "2025-02-06T07:01:26.000Z",
+          "wordCount": null,
+          "title": "Hotline for modern Apple systems",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/heap-exploitation/heap-explorer",
@@ -5410,6 +5814,26 @@
           "imageUrl": "https://danielchasehooper.com/images/rick-banner.jpg"
         },
         {
+          "id": "https://brooker.co.za/blog/2025/02/04/versioning.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brooker.co.za/blog/2025/02/04/versioning.html",
+          "publishedOn": "2025-02-06T03:10:56.000Z",
+          "wordCount": null,
+          "title": "Versioning versus Coordination",
+          "imageUrl": null
+        },
+        {
+          "id": "https://fullystacked.net/how-to-gif-2025/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fullystacked.net/how-to-gif-2025/",
+          "publishedOn": "2025-02-06T01:23:48.000Z",
+          "wordCount": null,
+          "title": "How to GIF (2025 Edition)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/",
           "author": null,
           "description": "Comments",
@@ -5428,6 +5852,16 @@
           "wordCount": 3714,
           "title": "You Didn't Notice MP3 Is Now Free",
           "imageUrl": "https://cdn.idiallo.com/images/assets/thumb/default-thumb.jpg"
+        },
+        {
+          "id": "https://blog.danielh.cc/blog/puzzle",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.danielh.cc/blog/puzzle",
+          "publishedOn": "2025-02-06T00:26:32.000Z",
+          "wordCount": null,
+          "title": "From hours to 360ms: over-engineering a puzzle solution",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md",
@@ -5520,6 +5954,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.bbc.co.uk/news/articles/c5yvrq7dyg6o",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.co.uk/news/articles/c5yvrq7dyg6o",
+          "publishedOn": "2025-02-05T17:12:50.000Z",
+          "wordCount": null,
+          "title": "First glimpse inside burnt scroll after 2k years",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.ycombinator.com/companies/ploomber/jobs",
           "author": null,
           "description": "Comments",
@@ -5528,6 +5972,16 @@
           "wordCount": 394,
           "title": "Ploomber (YC W22) Is Hiring Engineers (Infra, Backend, Growth) and Ex-Founders",
           "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/a80c6b2e447bdd5f64d0d57fec5b827b2540c887.png?1701886253"
+        },
+        {
+          "id": "https://chiraaggohel.com/posts/llms-eda/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chiraaggohel.com/posts/llms-eda/",
+          "publishedOn": "2025-02-05T16:33:55.000Z",
+          "wordCount": null,
+          "title": "Are LLMs able to notice the “gorilla in the data”?",
+          "imageUrl": null
         },
         {
           "id": "https://tradingeconomics.com/commodity/eggs-us",
@@ -5558,6 +6012,26 @@
           "wordCount": 2006,
           "title": "Gemini 2.0 is now available to everyone",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_28.01.25_keyword_social.width-1300.png"
+        },
+        {
+          "id": "https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/",
+          "publishedOn": "2025-02-05T15:45:30.000Z",
+          "wordCount": null,
+          "title": "You're missing your near misses",
+          "imageUrl": null
+        },
+        {
+          "id": "https://amuseumfornow.com/blog/who-is-being-excluded-by-museums-wholesale-adoption-of-digital-technology",
+          "author": null,
+          "description": "Comments",
+          "link": "https://amuseumfornow.com/blog/who-is-being-excluded-by-museums-wholesale-adoption-of-digital-technology",
+          "publishedOn": "2025-02-05T15:17:00.000Z",
+          "wordCount": null,
+          "title": "Who Is Being Excluded by Museums' Wholesale Adoption of Digital Technology?",
+          "imageUrl": null
         },
         {
           "id": "https://servo.org/blog/2025/01/31/servo-in-2024/",
@@ -5680,6 +6154,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://cacm.acm.org/blogcacm/21st-century-c/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cacm.acm.org/blogcacm/21st-century-c/",
+          "publishedOn": "2025-02-05T09:55:11.000Z",
+          "wordCount": null,
+          "title": "21st Century C++ (Feb. 2025) by Bjarne Stroustrup",
+          "imageUrl": null
+        },
+        {
           "id": "https://chriskiehl.com/article/thoughts-after-10-years",
           "author": null,
           "description": "Comments",
@@ -5687,6 +6171,16 @@
           "publishedOn": "2025-02-05T09:50:30.000Z",
           "wordCount": 502,
           "title": "Software development topics I've changed my mind on",
+          "imageUrl": null
+        },
+        {
+          "id": "https://frame.work/gb/en/blog/risc-v-mainboard-for-framework-laptop-13-is-now-available",
+          "author": null,
+          "description": "Comments",
+          "link": "https://frame.work/gb/en/blog/risc-v-mainboard-for-framework-laptop-13-is-now-available",
+          "publishedOn": "2025-02-05T09:43:48.000Z",
+          "wordCount": null,
+          "title": "RISC-V Mainboard for Framework Laptop 13 is now available",
           "imageUrl": null
         },
         {
@@ -7681,6 +8175,16 @@
       "siteUrl": "https://rknight.me",
       "articles": [
         {
+          "id": "https://rknight.me/blog/my-first-digital-photo/",
+          "author": "Robb Knight",
+          "description": "Adam tooted earlier about the first photo he ever took with a digital camera and it got me thinking about what mine was. Initially I thought it was this photo of Manhattan take from the Empire State Building in February 2006 taken with a Fujifilm FinePix A345.\n\nHowever, when I got onto a proper computer and I could check, I found this photo of my dad's MGZS which I took on his Fujifilm DX 5, a month prior to the New York photo.\n\nA couple of years before at school I had used a Sony Mavica FD75 - this fucker took a 3.5\" floppy disk for storage. What a time to be alive. Sadly I don't have any photos from it but I suspect they were not good.",
+          "link": "https://rknight.me/blog/my-first-digital-photo/",
+          "publishedOn": "2025-02-09T00:15:26.000Z",
+          "wordCount": 396,
+          "title": "My First Digital Photo",
+          "imageUrl": "https://v1.screenshot.11ty.dev/https%3A%2F%2Frknight.me%2Fopengraph%2Fblog%2Fmy-first-digital-photo%2F/opengraph/_123"
+        },
+        {
           "id": "https://rknight.me/blog/a-small-rabbit-hole-of-utility-knives/",
           "author": "Robb Knight",
           "description": "The Palmer utility knife was mentioned on the latest episode of The Pen Addict and it sent me down a rabbit hole, albeit a small one. Studio Neat have the Keen which is shipping this summer and costs £78 and then there's the SlideWinder at £15. Told you it was a small hole.\nI am mostly tempted by the Palmer in atomic purple - the design of it appeals to me more than the others. I nearly bought it until I considered it for a moment; I just wouldn't use this kind of knife that often.\nIt is fun to see a bunch of different companies tackling this very specific problem though.",
@@ -7778,16 +8282,6 @@
           "publishedOn": "2025-01-13T22:11:53.000Z",
           "wordCount": null,
           "title": "On Transient Slash Pages",
-          "imageUrl": null
-        },
-        {
-          "id": "https://rknight.me/blog/biting-the-bullet/",
-          "author": "Robb Knight",
-          "description": "I’ve been todo hoarding. I have Reminders, Obsidian, and Godspeed all with different types of todos in them. Plus GitHub issues, Mastodon mentions, and Raindrop. I’m not getting to any of them. I’m missing things I should be doing. I’m forgetting important things. Also at least once a week I want to throw my computer into the sea because something that should work just doesn’t. I need to spend less wasted time on computers.\nI’ve tried using notebooks before to keep track of things but without a system to organise them they just become random scribblings the likes of which wouldn’t be out of place in the zodiac killer’s apartment.\nSo I’m gunna try bullet journaling. You don’t need to send help (except maybe for my YouTube recommendations). But if I become the kind of person who doesn’t shut the fuck up about it I’m appointing Keenan to metaphorically smack me in my stupid note-taking face.\n\nUpdate 2025-01-20\nI read the book",
-          "link": "https://rknight.me/blog/biting-the-bullet/",
-          "publishedOn": "2025-01-09T22:55:00.000Z",
-          "wordCount": null,
-          "title": "Biting the Bullet",
           "imageUrl": null
         }
       ]
@@ -14092,6 +14586,16 @@
       "siteUrl": "https://shkspr.mobi/blog",
       "articles": [
         {
+          "id": "https://shkspr.mobi/blog/2025/02/endless-downward-spiral-is-this-the-beginning-of-the-end-of-what3words/",
+          "author": null,
+          "description": "Long-time readers know that I am not a fan of What Three Words. I think it is a closed, proprietary, and user-unfriendly attempt to enclose the commons. I consider that it has some dangerous failure modes.  A year ago, The Financial Times wrote about What3Words&#039; business woes. But it looks like things are about to get a lot worse.  As reported by a user on Reddit, Mercedes cars no longer support What3words.    I was in touch with What3words customer support and they confirmed me that Mercedes…",
+          "link": "https://shkspr.mobi/blog/2025/02/endless-downward-spiral-is-this-the-beginning-of-the-end-of-what3words/",
+          "publishedOn": "2025-02-08T12:34:25.000Z",
+          "wordCount": null,
+          "title": "endless.downward.spiral - is this the beginning of the end of What3Words?",
+          "imageUrl": null
+        },
+        {
           "id": "https://shkspr.mobi/blog/2025/02/review-voviggol-finger-ring-presentation-clicker/",
           "author": null,
           "description": "I was packing for FOSDEM when I suddenly realised that I&#039;d lost my clicker. Disaster!  Here&#039;s a shortlist of what I need in a presentation remote:   Ring style to fit on my finger USB-C Works on Linux Frickin&#039; lazor beams!   The only one I could find which matched all that was this Voviggol unit.    Ring  Here&#039;s how it looks hooked to my hand:    The ring is stretchy and will fit around the thickest thumb. It grips the finger tight and didn&#039;t fly off even when I was gesticulating wildly.  USB-C …",
@@ -14260,16 +14764,6 @@
           "wordCount": null,
           "title": "Review: Pebblebee Clip Universal - and Android \"Find My Device\" Tracker ★★★⯪☆",
           "imageUrl": null
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2025/01/gadget-review-350w-infrared-smart-mirror/",
-          "author": null,
-          "description": "&#34;Mirror Mirror on the wall. What&#039;s the hottest gadget of them all?&#34;  Do you need a mirror which is connected to the Internet? Yes. Obviously. What&#039;s the point of having anything which doesn&#039;t have an IP address‽  The good folks at Infrared Group don&#039;t want me shivering while I blog, so they&#039;ve sent me their latest Far Infrared heating panel which, obviously, is also a smart mirror. 350W of heat, enough for a 6m room, and a cool little display to tell you the weather.  Let&#039;s put it through its p…",
-          "link": "https://shkspr.mobi/blog/2025/01/gadget-review-350w-infrared-smart-mirror/",
-          "publishedOn": "2025-01-10T12:34:01.000Z",
-          "wordCount": null,
-          "title": "Gadget Review: 350W Infrared Smart Mirror ★★★★⯪",
-          "imageUrl": null
         }
       ]
     },
@@ -14278,6 +14772,16 @@
       "feedUrl": "https://simonwillison.net/atom/everything/",
       "siteUrl": "http://simonwillison.net/",
       "articles": [
+        {
+          "id": "https://simonwillison.net/2025/Feb/8/salvatore-sanfilippo/#atom-everything",
+          "author": null,
+          "description": "<blockquote cite=\"https://antirez.com/news/145\"><p>[...] We are destroying software with complex build systems.</p>\n<p>We are destroying software with an absurd chain of dependencies, making everything bloated and fragile.</p>\n<p>We are destroying software telling new programmers: “Don’t reinvent the wheel!”. But, reinventing the wheel is how you learn how things work, and is the first step to make new, different wheels. [...]</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://antirez.com/news/145\">Salvatore Sanfilippo</a>, We are destroying software</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/salvatore-sanfilippo\">salvatore-sanfilippo</a>, <a href=\"https://simonwillison.net/tags/programming\">programming</a>, <a href=\"https://simonwillison.net/tags/software-engineering\">software-engineering</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/8/salvatore-sanfilippo/#atom-everything",
+          "publishedOn": "2025-02-08T17:55:36.000Z",
+          "wordCount": null,
+          "title": "Quoting Salvatore Sanfilippo",
+          "imageUrl": null
+        },
         {
           "id": "https://simonwillison.net/2025/Feb/7/jared-palmer/#atom-everything",
           "author": null,
