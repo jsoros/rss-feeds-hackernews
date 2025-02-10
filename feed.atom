@@ -2,10 +2,575 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsoros.github.io/rss-feeds-hackernews/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-09T01:40:56.191Z</updated>
+    <updated>2025-02-10T01:38:45.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jsoros.github.io/rss-feeds-hackernews/index.html"/>
     <link rel="self" href="https://jsoros.github.io/rss-feeds-hackernews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors]]></title>
+        <id>https://news.ycombinator.com/item?id=42995403</id>
+        <link href="https://www.reflectorbital.com/"/>
+        <updated>2025-02-09T23:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reflectorbital.com/
+Comments URL: https://news.ycombinator.com/item?id=42995403
+Points: 8
+# Comments: 10]]></summary>
+        <author>
+            <name>nateb2022</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors]]></title>
+        <id>https://www.reflectorbital.com/</id>
+        <link href="https://www.reflectorbital.com/"/>
+        <updated>2025-02-09T23:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Text to Speech wrapper for Python for all (?) TTS engines]]></title>
+        <id>https://news.ycombinator.com/item?id=42994828</id>
+        <link href="https://pypi.org/project/py3-tts-wrapper/"/>
+        <updated>2025-02-09T22:36:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pypi.org/project/py3-tts-wrapper/
+Comments URL: https://news.ycombinator.com/item?id=42994828
+Points: 8
+# Comments: 1]]></summary>
+        <author>
+            <name>willwade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Text to Speech wrapper for Python for all (?) TTS engines]]></title>
+        <id>https://pypi.org/project/py3-tts-wrapper/</id>
+        <link href="https://pypi.org/project/py3-tts-wrapper/"/>
+        <updated>2025-02-09T22:36:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation 2]]></title>
+        <id>0E89975A-253A-4EB7-B786-51B18C0E2F37</id>
+        <link href="https://lmnt.me/blog/wallpapers/playstation-2.html"/>
+        <updated>2025-02-09T22:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Download wallpaper from LMNT
+There’s something about the way the PlayStation 2 menu system was. Towers of memory blocks, sparks spiraling, and crystal bars telling the time. It’s such a mood.
+Goes great with PlayStation Controllers icons.
+If you like this, you can make a one-time donation, donate monthly, or buy something from my shop.]]></summary>
+        <author>
+            <name>Louie Mantia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Searchable Library of Free Audiobooks]]></title>
+        <id>https://news.ycombinator.com/item?id=42994440</id>
+        <link href="https://booksearch.party/"/>
+        <updated>2025-02-09T21:52:33.000Z</updated>
+        <summary type="html"><![CDATA[I noticed that many websites offering free audiobooks tend to have clunky search functionality, making it harder to find what you're looking for. To address this, I’ve created a site that aggregates audiobooks from multiple platforms—complete with book reviews and ratings—making it easier to discover and explore new titles.
+At the moment, I've included audiobooks from popular sources like Librivox, Project Gutenberg, and Lit2Go.
+I'm open to suggestions on additional free audiobook sources I could integrate into the site to expand the collection!
+Comments URL: https://news.ycombinator.com/item?id=42994440
+Points: 36
+# Comments: 1]]></summary>
+        <author>
+            <name>libridev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Searchable Library of Free Audiobooks]]></title>
+        <id>https://booksearch.party/</id>
+        <link href="https://booksearch.party/"/>
+        <updated>2025-02-09T21:52:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting Sam Altman]]></title>
+        <id>https://simonwillison.net/2025/Feb/9/sam-altman/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/9/sam-altman/#atom-everything"/>
+        <updated>2025-02-09T21:41:49.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote cite="https://blog.samaltman.com/three-observations"><p><strong>The cost to use a given level of AI falls about 10x every 12 months, and lower prices lead to much more use.</strong> You can see this in the token cost from GPT-4 in early 2023 to GPT-4o in mid-2024, where the price per token dropped about 150x in that time period. Moore’s law changed the world at 2x every 18 months; this is unbelievably stronger.</p></blockquote>
+<p class="cite">&mdash; <a href="https://blog.samaltman.com/three-observations">Sam Altman</a>, Three Observations</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Observations]]></title>
+        <id>https://news.ycombinator.com/item?id=42993987</id>
+        <link href="https://blog.samaltman.com/three-observations"/>
+        <updated>2025-02-09T21:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.samaltman.com/three-observations
+Comments URL: https://news.ycombinator.com/item?id=42993987
+Points: 94
+# Comments: 83]]></summary>
+        <author>
+            <name>davidbarker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Observations]]></title>
+        <id>https://blog.samaltman.com/three-observations</id>
+        <link href="https://blog.samaltman.com/three-observations"/>
+        <updated>2025-02-09T21:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Recombobulation Area (2023)]]></title>
+        <id>https://news.ycombinator.com/item?id=42993755</id>
+        <link href="https://onmilwaukee.com/articles/recombobulationsigns"/>
+        <updated>2025-02-09T20:44:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://onmilwaukee.com/articles/recombobulationsigns
+Comments URL: https://news.ycombinator.com/item?id=42993755
+Points: 36
+# Comments: 8]]></summary>
+        <author>
+            <name>sans_souse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Recombobulation Area (2023)]]></title>
+        <id>https://onmilwaukee.com/articles/recombobulationsigns</id>
+        <link href="https://onmilwaukee.com/articles/recombobulationsigns"/>
+        <updated>2025-02-09T20:44:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No AI December Reflections]]></title>
+        <id>https://news.ycombinator.com/item?id=42993490</id>
+        <link href="https://blog.rybarix.com/2025/02/09/noaidecember.html"/>
+        <updated>2025-02-09T20:17:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.rybarix.com/2025/02/09/noaidecember.html
+Comments URL: https://news.ycombinator.com/item?id=42993490
+Points: 26
+# Comments: 11]]></summary>
+        <author>
+            <name>sandruso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No AI December Reflections]]></title>
+        <id>https://blog.rybarix.com/2025/02/09/noaidecember.html</id>
+        <link href="https://blog.rybarix.com/2025/02/09/noaidecember.html"/>
+        <updated>2025-02-09T20:17:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ada crate of the year 2024 announced]]></title>
+        <id>https://news.ycombinator.com/item?id=42993086</id>
+        <link href="https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced"/>
+        <updated>2025-02-09T19:37:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced
+Comments URL: https://news.ycombinator.com/item?id=42993086
+Points: 86
+# Comments: 56]]></summary>
+        <author>
+            <name>LionelDraghi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ada crate of the year 2024 announced]]></title>
+        <id>https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced</id>
+        <link href="https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced"/>
+        <updated>2025-02-09T19:37:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenStreetMap Calendar]]></title>
+        <id>https://news.ycombinator.com/item?id=42993044</id>
+        <link href="https://osmcal.org/"/>
+        <updated>2025-02-09T19:32:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://osmcal.org/
+Comments URL: https://news.ycombinator.com/item?id=42993044
+Points: 61
+# Comments: 4]]></summary>
+        <author>
+            <name>faebi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenStreetMap Calendar]]></title>
+        <id>https://osmcal.org/</id>
+        <link href="https://osmcal.org/"/>
+        <updated>2025-02-09T19:32:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Performing an Online Safety Act Assessment For mastodon.bentasker.co.uk]]></title>
+        <id>https://www.bentasker.co.uk/posts/blog/law/doing-an-osa-assessment-for-my-single-user-fedi-server.html</id>
+        <link href="https://www.bentasker.co.uk/posts/blog/law/doing-an-osa-assessment-for-my-single-user-fedi-server.html?utm_source=rss"/>
+        <updated>2025-02-09T19:14:00.000Z</updated>
+        <summary type="html"><![CDATA[I've been having a bit of a paperworky Sunday, sitting down and catching up with some of the admin on my list.
+It's never a fun day, but needs doing once in a while.
+One of the things on that list, was to look at what an Online Safety Act (OSA) assessment might look for my single-user Mastodon instance (mastodon.bentasker.co.uk). Unlike some other legislation, OSA doesn't include size thresholds, so being small doesn't exempt me.
+This (hopefully) short blog post talks about my take-aways from that process as well as a quick look at how the OSA defines "pornographic services".
+Obligatory Preface
+I am a parent and, despite being technically inclined, I am fully aware that controlling kid's access to the internet can be extremely challenging.
+I cannot begin to imagine the utter torment that p…]]></summary>
+        <author>
+            <name>Ben Tasker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Demos]]></title>
+        <id>https://news.ycombinator.com/item?id=42992643</id>
+        <link href="https://aidemos.meta.com/"/>
+        <updated>2025-02-09T18:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://aidemos.meta.com/
+Comments URL: https://news.ycombinator.com/item?id=42992643
+Points: 167
+# Comments: 90]]></summary>
+        <author>
+            <name>saikatsg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Demos]]></title>
+        <id>https://aidemos.meta.com/</id>
+        <link href="https://aidemos.meta.com/"/>
+        <updated>2025-02-09T18:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Persistent packages on Steam Deck using Nix]]></title>
+        <id>https://news.ycombinator.com/item?id=42992345</id>
+        <link href="https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix"/>
+        <updated>2025-02-09T18:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix
+Comments URL: https://news.ycombinator.com/item?id=42992345
+Points: 105
+# Comments: 54]]></summary>
+        <author>
+            <name>Rikudou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Persistent packages on Steam Deck using Nix]]></title>
+        <id>https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix</id>
+        <link href="https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix"/>
+        <updated>2025-02-09T18:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models]]></title>
+        <id>https://news.ycombinator.com/item?id=42992336</id>
+        <link href="https://arxiv.org/abs/2502.01584"/>
+        <updated>2025-02-09T18:14:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2502.01584
+Comments URL: https://news.ycombinator.com/item?id=42992336
+Points: 77
+# Comments: 46]]></summary>
+        <author>
+            <name>enum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models]]></title>
+        <id>https://arxiv.org/abs/2502.01584</id>
+        <link href="https://arxiv.org/abs/2502.01584"/>
+        <updated>2025-02-09T18:14:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Blog If Nobody Reads It?]]></title>
+        <id>https://news.ycombinator.com/item?id=42992159</id>
+        <link href="https://andysblog.uk/why-blog-if-nobody-reads-it/"/>
+        <updated>2025-02-09T17:50:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://andysblog.uk/why-blog-if-nobody-reads-it/
+Comments URL: https://news.ycombinator.com/item?id=42992159
+Points: 256
+# Comments: 138]]></summary>
+        <author>
+            <name>alexgiann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Blog If Nobody Reads It?]]></title>
+        <id>https://andysblog.uk/why-blog-if-nobody-reads-it/</id>
+        <link href="https://andysblog.uk/why-blog-if-nobody-reads-it/"/>
+        <updated>2025-02-09T17:50:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are humans the limiting factor in AI-assisted software development?]]></title>
+        <id>http://lucvandonkersgoed.com/?p=1116</id>
+        <link href="https://lucvandonkersgoed.com/2025/02/09/are-humans-the-limiting-factor-in-ai-assisted-software-development/"/>
+        <updated>2025-02-09T17:06:07.000Z</updated>
+        <summary type="html"><![CDATA[For software developers foundational models and LLMs have become helpful tools. But they are far from making us 10x more productive. In this essay we will explore why AI seems to have reached a productivity cap for devs, and what needs to change to break through that ceiling.]]></summary>
+        <author>
+            <name>donkersgoed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIMO: Less Is More for Reasoning]]></title>
+        <id>https://news.ycombinator.com/item?id=42991676</id>
+        <link href="https://arxiv.org/abs/2502.03387"/>
+        <updated>2025-02-09T16:33:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2502.03387
+Comments URL: https://news.ycombinator.com/item?id=42991676
+Points: 226
+# Comments: 79]]></summary>
+        <author>
+            <name>trott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIMO: Less Is More for Reasoning]]></title>
+        <id>https://arxiv.org/abs/2502.03387</id>
+        <link href="https://arxiv.org/abs/2502.03387"/>
+        <updated>2025-02-09T16:33:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Magnet Manufacturing Begins in the United States]]></title>
+        <id>https://news.ycombinator.com/item?id=42991558</id>
+        <link href="https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us"/>
+        <updated>2025-02-09T16:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us
+Comments URL: https://news.ycombinator.com/item?id=42991558
+Points: 62
+# Comments: 14]]></summary>
+        <author>
+            <name>kungfudoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Magnet Manufacturing Begins in the United States]]></title>
+        <id>https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us</id>
+        <link href="https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us"/>
+        <updated>2025-02-09T16:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanata: Cross-platform multi-layer keyboard remapper with advanced customization]]></title>
+        <id>https://news.ycombinator.com/item?id=42991019</id>
+        <link href="https://github.com/jtroo/kanata"/>
+        <updated>2025-02-09T14:52:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/jtroo/kanata
+Comments URL: https://news.ycombinator.com/item?id=42991019
+Points: 108
+# Comments: 32]]></summary>
+        <author>
+            <name>lnyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanata: Cross-platform multi-layer keyboard remapper with advanced customization]]></title>
+        <id>https://github.com/jtroo/kanata</id>
+        <link href="https://github.com/jtroo/kanata"/>
+        <updated>2025-02-09T14:52:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Freedom of Less]]></title>
+        <id>https://birming.com/freedom-less/</id>
+        <link href="https://birming.com/freedom-less/"/>
+        <updated>2025-02-09T13:44:00.000Z</updated>
+        <summary type="html"><![CDATA["The birds outside the window are my Netflix."
+That's how one woman, who chose to live without electricity or running water, described her simple life. She lives on as little money as possible, prioritizing time for the things she loves.
+It's stories like hers that I find so liberating. While I wouldn't necessarily embrace such an extreme lifestyle myself, I'm deeply drawn to the underlying idea.
+It's astonishing the amount of time and money we spend on things we could easily live without. The technology that was supposed to liberate us has, in some ways, become our prison.
+Technology itself isn't inherently bad, of course. The problem lies in our often immoderate use of it.
+We often find ourselves juggling multiple apps for tasks like notes and planning, when perhaps one well-chosen tool would suffice. And how many streaming services are we subscribed to? Do we really need all of those running simultaneously?
+I believe we would all benefit from living a little more simply and focusing more on what is truly important in life – more time for meaningful connections, more space for creativity, and more peace of mind.
+Our lives would be richer on all levels.
+Update: Someone asked me for a link to the story. It’s in Swedish: Off grid-Johanna lever utan el och rinnande vatten.]]></summary>
+        <author>
+            <name>Robert Birming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: My first side project, streamlined book clubs on Slack]]></title>
+        <id>https://news.ycombinator.com/item?id=42990540</id>
+        <link href="https://booktalk.club/"/>
+        <updated>2025-02-09T13:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://booktalk.club/
+Comments URL: https://news.ycombinator.com/item?id=42990540
+Points: 87
+# Comments: 41]]></summary>
+        <author>
+            <name>Papamanolis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: My first side project, streamlined book clubs on Slack]]></title>
+        <id>https://booktalk.club/</id>
+        <link href="https://booktalk.club/"/>
+        <updated>2025-02-09T13:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go Away Green]]></title>
+        <id>0FA9D03E-ED61-4808-A2FC-A8ED64980A9F</id>
+        <link href="https://lmnt.me/blog/wallpapers/go-away-green.html"/>
+        <updated>2025-02-09T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Download wallpapers from LMNT
+All around Disney Parks are attractions hidden inside enormous warehouse buildings. While some can be obscured, others are painted particular shades of green, brown, or blue. These neutral, earthy colors are just boring enough for you to look in any other direction.
+This is an updated version. The prior version was from August 28, 2012.
+If you like this, you can make a one-time donation, donate monthly, or buy something from my shop.]]></summary>
+        <author>
+            <name>Louie Mantia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't "optimize" conditional moves in shaders with mix()+step()]]></title>
+        <id>https://news.ycombinator.com/item?id=42990324</id>
+        <link href="https://iquilezles.org/articles/gpuconditionals/"/>
+        <updated>2025-02-09T12:42:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://iquilezles.org/articles/gpuconditionals/
+Comments URL: https://news.ycombinator.com/item?id=42990324
+Points: 291
+# Comments: 135]]></summary>
+        <author>
+            <name>romes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't "optimize" conditional moves in shaders with mix()+step()]]></title>
+        <id>https://iquilezles.org/articles/gpuconditionals/</id>
+        <link href="https://iquilezles.org/articles/gpuconditionals/"/>
+        <updated>2025-02-09T12:42:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Presenting ActivityBot at FOSDEM]]></title>
+        <id>https://shkspr.mobi/blog/2025/02/presenting-activitybot-at-fosdem/</id>
+        <link href="https://shkspr.mobi/blog/2025/02/presenting-activitybot-at-fosdem/"/>
+        <updated>2025-02-09T12:34:17.000Z</updated>
+        <summary type="html"><![CDATA[Because I&#039;m an optimist, I submitted a few talks to FOSDEM in the hope one might be accepted.  Because I&#039;m lucky, I got two speaking slots. Because I&#039;m an idiot, I decided to do both talks. On the same day. An hour apart. On opposite ends of the venue.  Fool!  My first talk was at the Social Web Birds-of-a-Feather session. I told people about my ActivityBot social networking server and how I built it into a single file. In the spirit of minimalism, I only had 8 minutes to present.  Time for a…]]></summary>
+        <author>
+            <name>Terence Eden’s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classic Data science pipelines built with LLMs]]></title>
+        <id>https://news.ycombinator.com/item?id=42990036</id>
+        <link href="https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples"/>
+        <updated>2025-02-09T11:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples
+Comments URL: https://news.ycombinator.com/item?id=42990036
+Points: 153
+# Comments: 78]]></summary>
+        <author>
+            <name>galgia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classic Data science pipelines built with LLMs]]></title>
+        <id>https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples</id>
+        <link href="https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples"/>
+        <updated>2025-02-09T11:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux as co-operative Windows process (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=42989923</id>
+        <link href="http://www.colinux.org/"/>
+        <updated>2025-02-09T11:07:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.colinux.org/
+Comments URL: https://news.ycombinator.com/item?id=42989923
+Points: 95
+# Comments: 63]]></summary>
+        <author>
+            <name>begoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux as co-operative Windows process (2017)]]></title>
+        <id>http://www.colinux.org/</id>
+        <link href="http://www.colinux.org/"/>
+        <updated>2025-02-09T11:07:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chimes at Midnight (2024)]]></title>
+        <id>https://news.ycombinator.com/item?id=42989609</id>
+        <link href="https://asteriskmag.com/issues/08/chimes-at-midnight"/>
+        <updated>2025-02-09T09:45:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://asteriskmag.com/issues/08/chimes-at-midnight
+Comments URL: https://news.ycombinator.com/item?id=42989609
+Points: 27
+# Comments: 11]]></summary>
+        <author>
+            <name>chautumn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chimes at Midnight (2024)]]></title>
+        <id>https://asteriskmag.com/issues/08/chimes-at-midnight</id>
+        <link href="https://asteriskmag.com/issues/08/chimes-at-midnight"/>
+        <updated>2025-02-09T09:45:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world]]></title>
+        <id>https://thebullshitmachines.com/</id>
+        <link href="https://thebullshitmachines.com/"/>
+        <updated>2025-02-09T08:24:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My First Digital Photo]]></title>
         <id>https://rknight.me/blog/my-first-digital-photo/</id>
@@ -202,6 +767,16 @@ Points: 152
         <id>https://johnkerl.org/doc/ortho/ortho.html</id>
         <link href="https://johnkerl.org/doc/ortho/ortho.html"/>
         <updated>2025-02-08T19:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rwandan scientists develop local yeast for banana wine-makers]]></title>
+        <id>https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html</id>
+        <link href="https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html"/>
+        <updated>2025-02-08T19:09:21.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -441,6 +1016,16 @@ Points: 155
         <summary type="html"><![CDATA[Exploring the many ways a BagIt bag can be invalid, and how you might want to build a process for validating bags to ensure the quality of your digital archive.]]></summary>
         <author>
             <name>alexwlchan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teen on Musk's DOGE team graduated from 'The Com']]></title>
+        <id>https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/</id>
+        <link href="https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/"/>
+        <updated>2025-02-08T09:34:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -1495,6 +2080,16 @@ Today I found out about <a href="https://rogerbinns.github.io/apsw/">APSW</a>'s 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Building an "Easy" Web Application]]></title>
+        <id>https://rudyfaile.com/2020/07/06/building-an-easy-web-application/</id>
+        <link href="https://rudyfaile.com/2020/07/06/building-an-easy-web-application/"/>
+        <updated>2025-02-07T00:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TKey – Security for the New World]]></title>
         <id>https://news.ycombinator.com/item?id=42967474</id>
         <link href="https://tillitis.se/products/tkey/"/>
@@ -1615,6 +2210,16 @@ Points: 9
         <id>https://trailsofwind.figures.cc/</id>
         <link href="https://trailsofwind.figures.cc/"/>
         <updated>2025-02-06T22:27:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Ricotta – Language Learning to Replace Anki]]></title>
+        <id>https://ricotta.affineur.io/</id>
+        <link href="https://ricotta.affineur.io/"/>
+        <updated>2025-02-06T22:02:03.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1793,6 +2398,16 @@ Geoffrey Huntley with a provocative take on <a href="https://simonwillison.net/t
     <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p>]]></summary>
         <author>
             <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafana: Why observability needs FinOps, and vice versa]]></title>
+        <id>https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/</id>
+        <link href="https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/"/>
+        <updated>2025-02-06T19:13:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -2109,6 +2724,26 @@ Points: 248
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Douglas McIlroy responds to Unix spell article with new implementation details]]></title>
+        <id>https://twitter.com/abhi9u/status/1887010136155414602</id>
+        <link href="https://twitter.com/abhi9u/status/1887010136155414602"/>
+        <updated>2025-02-06T14:03:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atari 2600 vs. Atari 7800 Which Should You Get?]]></title>
+        <id>https://www.goto10retro.com/p/atari-2600-vs-atari-7800-which-should</id>
+        <link href="https://www.goto10retro.com/p/atari-2600-vs-atari-7800-which-should"/>
+        <updated>2025-02-06T13:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Quoting Andrej Karpathy]]></title>
         <id>https://simonwillison.net/2025/Feb/6/andrej-karpathy/#atom-everything</id>
         <link href="https://simonwillison.net/2025/Feb/6/andrej-karpathy/#atom-everything"/>
@@ -2154,6 +2789,16 @@ Points: 33
         <summary type="html"><![CDATA[I was delighted to be invited to speak at FOSDEM. And I was not at all intimidated to be speaking on the cavernous Janson stage.  The audience were lovely, asked interesting questions, and - most importantly - laughed in all the right places 😅.  Regular readers will recognise this as being an updated version of the talk I gave at EMF 2024 - feel free to watch that one if you want to see if I&#039;ve improved.              Huge thanks to the AV team and the video-wizards behind the FOSDEM in…]]></summary>
         <author>
             <name>Terence Eden’s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Kaleidoscope]]></title>
+        <id>https://codepen.io/AAMutlu20/pen/mdYxroj</id>
+        <link href="https://codepen.io/AAMutlu20/pen/mdYxroj"/>
+        <updated>2025-02-06T12:02:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -3047,6 +3692,16 @@ Points: 402
         <id>https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/</id>
         <link href="https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/"/>
         <updated>2025-02-05T15:45:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D reconstruction of the capital of the Aztec empire]]></title>
+        <id>https://tenochtitlan.thomaskole.nl/</id>
+        <link href="https://tenochtitlan.thomaskole.nl/"/>
+        <updated>2025-02-05T15:40:27.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -19391,93 +20046,6 @@ I tried a few third-party apps that I fought with before landing on Jack Linke�
 To add email support, I followed the Usage Guide and then I added one send email function per email that I wanted to send.…]]></summary>
         <author>
             <name>Jeff Triplett's Micro.blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Pebblebee Clip Universal - and Android "Find My Device" Tracker ★★★⯪☆]]></title>
-        <id>https://shkspr.mobi/blog/2025/01/review-pebblebee-clip-universal-and-android-find-my-device-tracker/</id>
-        <link href="https://shkspr.mobi/blog/2025/01/review-pebblebee-clip-universal-and-android-find-my-device-tracker/"/>
-        <updated>2025-01-11T12:34:15.000Z</updated>
-        <summary type="html"><![CDATA[Android is belatedly getting a Bluetooth tracker feature which doesn&#039;t rely on proprietary apps. Long-time readers will know that back in 2016 I reviewed both the Chipolo and the TinTag.  Both of those were adequate at finding things which were in range of your phone, but hopeless at finding lost items - because they required everyone to have a special app installed.  But now, under pressure from Apple&#039;s incredible Find My network, Google has started rolling out a similar service to modern…]]></summary>
-        <author>
-            <name>Terence Eden’s Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing: From Juhis with Love]]></title>
-        <id>https://hamatti.org/posts/introducing-from-juhis-with-love/</id>
-        <link href="https://hamatti.org/posts/introducing-from-juhis-with-love/"/>
-        <updated>2025-01-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In 2024, my goal was to become better at writing by publishing 100 pieces in
-  my blog and newsletters. I succeeded with around 170 pieces at the end of the
-  year.
-
-
-
-  For 2025, my writing goal is to
-  become a better writer. Whatever that means.
-
-
-
-  One activity to work towards that is exploring more of the newsletter realm.
-  Over the years I’ve written a short-lived
-  What’s up with Juhis? newsletter, started and
-  ran
-  Dev Breakfast while working as a developer advocate at
-  Futurice and most recently 1.5 years of
-  Syntax Error, a newsletter about debugging, that I put on
-  hold last July when I ran out of things to write about.
-
-
-
-  This year I’m returning to the roots and rebooting What’s up with Juhis? with
-  a spiritual successor From Juhis with Love.
-
-
-From Juhis with Love
-Fr…]]></summary>
-        <author>
-            <name>Juha-Matti Santala - Community Builder. Dreamer. Adventurer.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aligning Automattic’s Sponsored Contributions to WordPress]]></title>
-        <id>blog/aligning-automattic-s-sponsored-contributions-to-wordpress</id>
-        <link href="https://kevquirk.com/blog/aligning-automattic-s-sponsored-contributions-to-wordpress"/>
-        <updated>2025-01-10T17:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Aligning Automattic’s Sponsored Contributions to WordPress
-by "Automattic" (let's be honest, it's Matt Mullenweg)
-              
-Automattic plan to fuck themselves over further (and by proxy, fuck their customers over) by reducing the contributions they're going to make to their own project.
-Read Post →
-So I read this post after it was shared on the fedi (as I no longer subscribe to any of Matt's RSS feeds) and honestly, it left me dumbfounded. There's a couple of quotes from the post that I want to print here and opine on, but please, before you reader further, go read the original post.
-Additionally, we’re having to spend significant time and money to defend ourselves against the legal attacks started by WP Engine and funded by Silver Lake, a large private equity firm.
-Are you for real, …]]></summary>
-        <author>
-            <name>Kev Quirk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📝 10 January 2025 at 15:09 - Picking the kids up from school today which is at...]]></title>
-        <id>notes/20250110-1509</id>
-        <link href="https://kevquirk.com/notes/20250110-1509"/>
-        <updated>2025-01-10T15:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Picking the kids up from school today (which is at the top of a massive hill) and it's utter carnage with all the snow. Glad I got here early, but I'm worried I'm gonna come back to a damaged car...
-Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️
-Reply to this post by email ● 
-              Sign my guestbook]]></summary>
-        <author>
-            <name>Kev Quirk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking AWS Console: Diagnosing Errors with Amazon Q Developer]]></title>
-        <id>1e9253b5106cc05b2207ede3364004b821c94b8d</id>
-        <link href="https://aws.amazon.com/blogs/devops/unlocking-aws-console-diagnosing-errors-with-amazon-q-developer/"/>
-        <updated>2025-01-10T13:58:57.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Developers, IT Operators, and in some cases, Site Reliability Engineers (SREs) are responsible for deploying and operating infrastructure and applications, as well as responding to and resolving incidents effectively and in a timely manner. Effective incident management requires quick diagnosis, root cause analysis, and implementation of corrective actions. Diagnosing the root cause can be […]]]></summary>
-        <author>
-            <name>Marco Frattallone</name>
         </author>
     </entry>
 </feed>

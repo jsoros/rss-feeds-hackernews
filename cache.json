@@ -6,6 +6,206 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42995403",
+          "author": "nateb2022",
+          "description": "Article URL: https://www.reflectorbital.com/\nComments URL: https://news.ycombinator.com/item?id=42995403\nPoints: 8\n# Comments: 10",
+          "link": "https://www.reflectorbital.com/",
+          "publishedOn": "2025-02-09T23:52:32.000Z",
+          "wordCount": 2830,
+          "title": "Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors",
+          "imageUrl": "https://framerusercontent.com/images/mbC7P3sGYQORjYjIq0CSnO6w.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42994828",
+          "author": "willwade",
+          "description": "Article URL: https://pypi.org/project/py3-tts-wrapper/\nComments URL: https://news.ycombinator.com/item?id=42994828\nPoints: 8\n# Comments: 1",
+          "link": "https://pypi.org/project/py3-tts-wrapper/",
+          "publishedOn": "2025-02-09T22:36:56.000Z",
+          "wordCount": 175,
+          "title": "One Text to Speech wrapper for Python for all (?) TTS engines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42994440",
+          "author": "libridev",
+          "description": "I noticed that many websites offering free audiobooks tend to have clunky search functionality, making it harder to find what you're looking for. To address this, I’ve created a site that aggregates audiobooks from multiple platforms—complete with book reviews and ratings—making it easier to discover and explore new titles.\nAt the moment, I've included audiobooks from popular sources like Librivox, Project Gutenberg, and Lit2Go.\nI'm open to suggestions on additional free audiobook sources I could integrate into the site to expand the collection!\nComments URL: https://news.ycombinator.com/item?id=42994440\nPoints: 36\n# Comments: 1",
+          "link": "https://booksearch.party/",
+          "publishedOn": "2025-02-09T21:52:33.000Z",
+          "wordCount": 490,
+          "title": "Show HN: Searchable Library of Free Audiobooks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42993987",
+          "author": "davidbarker",
+          "description": "Article URL: https://blog.samaltman.com/three-observations\nComments URL: https://news.ycombinator.com/item?id=42993987\nPoints: 94\n# Comments: 83",
+          "link": "https://blog.samaltman.com/three-observations",
+          "publishedOn": "2025-02-09T21:06:55.000Z",
+          "wordCount": 1548,
+          "title": "Three Observations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42993755",
+          "author": "sans_souse",
+          "description": "Article URL: https://onmilwaukee.com/articles/recombobulationsigns\nComments URL: https://news.ycombinator.com/item?id=42993755\nPoints: 36\n# Comments: 8",
+          "link": "https://onmilwaukee.com/articles/recombobulationsigns",
+          "publishedOn": "2025-02-09T20:44:09.000Z",
+          "wordCount": 1595,
+          "title": "The Recombobulation Area (2023)",
+          "imageUrl": "https://storage.googleapis.com/onmilwaukee-article-images/variants/pwyl34bx47l65wlzczdoa7fx272l/ff35c9310a7d5016e76853b0df7d033449d793b6f6dc2e4a0b4bc844add6c385"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42993490",
+          "author": "sandruso",
+          "description": "Article URL: https://blog.rybarix.com/2025/02/09/noaidecember.html\nComments URL: https://news.ycombinator.com/item?id=42993490\nPoints: 26\n# Comments: 11",
+          "link": "https://blog.rybarix.com/2025/02/09/noaidecember.html",
+          "publishedOn": "2025-02-09T20:17:41.000Z",
+          "wordCount": 765,
+          "title": "No AI December Reflections",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42993086",
+          "author": "LionelDraghi",
+          "description": "Article URL: https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced\nComments URL: https://news.ycombinator.com/item?id=42993086\nPoints: 86\n# Comments: 56",
+          "link": "https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced",
+          "publishedOn": "2025-02-09T19:37:38.000Z",
+          "wordCount": 742,
+          "title": "Ada crate of the year 2024 announced",
+          "imageUrl": "https://blog.adacore.com/uploads/_1200x630_crop_center-center_82_none/package_manager.jpg?mtime=1604070624"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42993044",
+          "author": "faebi",
+          "description": "Article URL: https://osmcal.org/\nComments URL: https://news.ycombinator.com/item?id=42993044\nPoints: 61\n# Comments: 4",
+          "link": "https://osmcal.org/",
+          "publishedOn": "2025-02-09T19:32:57.000Z",
+          "wordCount": 1088,
+          "title": "OpenStreetMap Calendar",
+          "imageUrl": "/static/osmcal/touch-icon.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42992643",
+          "author": "saikatsg",
+          "description": "Article URL: https://aidemos.meta.com/\nComments URL: https://news.ycombinator.com/item?id=42992643\nPoints: 167\n# Comments: 90",
+          "link": "https://aidemos.meta.com/",
+          "publishedOn": "2025-02-09T18:49:06.000Z",
+          "wordCount": 1411,
+          "title": "AI Demos",
+          "imageUrl": "https://static.xx.fbcdn.net/rsrc.php/v4/y-/r/bCN1eV0icHD.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42992345",
+          "author": "Rikudou",
+          "description": "Article URL: https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix\nComments URL: https://news.ycombinator.com/item?id=42992345\nPoints: 105\n# Comments: 54",
+          "link": "https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix",
+          "publishedOn": "2025-02-09T18:15:44.000Z",
+          "wordCount": 1724,
+          "title": "Persistent packages on Steam Deck using Nix",
+          "imageUrl": "https://chrastecky.dev/i/o/10/Steam%20Deck%20-%20Nix.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42992336",
+          "author": "enum",
+          "description": "Article URL: https://arxiv.org/abs/2502.01584\nComments URL: https://news.ycombinator.com/item?id=42992336\nPoints: 77\n# Comments: 46",
+          "link": "https://arxiv.org/abs/2502.01584",
+          "publishedOn": "2025-02-09T18:14:01.000Z",
+          "wordCount": 751,
+          "title": "PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42992159",
+          "author": "alexgiann",
+          "description": "Article URL: https://andysblog.uk/why-blog-if-nobody-reads-it/\nComments URL: https://news.ycombinator.com/item?id=42992159\nPoints: 256\n# Comments: 138",
+          "link": "https://andysblog.uk/why-blog-if-nobody-reads-it/",
+          "publishedOn": "2025-02-09T17:50:10.000Z",
+          "wordCount": 881,
+          "title": "Why Blog If Nobody Reads It?",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42991676",
+          "author": "trott",
+          "description": "Article URL: https://arxiv.org/abs/2502.03387\nComments URL: https://news.ycombinator.com/item?id=42991676\nPoints: 226\n# Comments: 79",
+          "link": "https://arxiv.org/abs/2502.03387",
+          "publishedOn": "2025-02-09T16:33:28.000Z",
+          "wordCount": 767,
+          "title": "LIMO: Less Is More for Reasoning",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42991558",
+          "author": "kungfudoi",
+          "description": "Article URL: https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us\nComments URL: https://news.ycombinator.com/item?id=42991558\nPoints: 62\n# Comments: 14",
+          "link": "https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us",
+          "publishedOn": "2025-02-09T16:17:01.000Z",
+          "wordCount": 10899,
+          "title": "Advanced Magnet Manufacturing Begins in the United States",
+          "imageUrl": "https://spectrum.ieee.org/media-library/a-gloved-lab-worker-using-two-fingers-to-hold-up-a-small-silvery-rectangular-object.jpg?id=56224034&width=1200&height=600&coordinates=0%2C375%2C0%2C375"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42991019",
+          "author": "lnyan",
+          "description": "Article URL: https://github.com/jtroo/kanata\nComments URL: https://news.ycombinator.com/item?id=42991019\nPoints: 108\n# Comments: 32",
+          "link": "https://github.com/jtroo/kanata",
+          "publishedOn": "2025-02-09T14:52:54.000Z",
+          "wordCount": 6491,
+          "title": "Kanata: Cross-platform multi-layer keyboard remapper with advanced customization",
+          "imageUrl": "https://opengraph.githubassets.com/ec6523630c15b68744e2c6cfab95d29b57b50c2cb667d53222abdddfcc9ce515/jtroo/kanata"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42990540",
+          "author": "Papamanolis",
+          "description": "Article URL: https://booktalk.club/\nComments URL: https://news.ycombinator.com/item?id=42990540\nPoints: 87\n# Comments: 41",
+          "link": "https://booktalk.club/",
+          "publishedOn": "2025-02-09T13:28:10.000Z",
+          "wordCount": 2572,
+          "title": "Show HN: My first side project, streamlined book clubs on Slack",
+          "imageUrl": "https://framerusercontent.com/assets/lfxI0PyTMywqbFLeW7d4cbdMs.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42990324",
+          "author": "romes",
+          "description": "Article URL: https://iquilezles.org/articles/gpuconditionals/\nComments URL: https://news.ycombinator.com/item?id=42990324\nPoints: 291\n# Comments: 135",
+          "link": "https://iquilezles.org/articles/gpuconditionals/",
+          "publishedOn": "2025-02-09T12:42:54.000Z",
+          "wordCount": 873,
+          "title": "Don't \"optimize\" conditional moves in shaders with mix()+step()",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42990036",
+          "author": "galgia",
+          "description": "Article URL: https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples\nComments URL: https://news.ycombinator.com/item?id=42990036\nPoints: 153\n# Comments: 78",
+          "link": "https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples",
+          "publishedOn": "2025-02-09T11:39:38.000Z",
+          "wordCount": 1216,
+          "title": "Classic Data science pipelines built with LLMs",
+          "imageUrl": "https://repository-images.githubusercontent.com/917748781/db23fac6-3d91-4cd9-97f7-58c80af0e43a"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42989923",
+          "author": "begoon",
+          "description": "Article URL: http://www.colinux.org/\nComments URL: https://news.ycombinator.com/item?id=42989923\nPoints: 95\n# Comments: 63",
+          "link": "http://www.colinux.org/",
+          "publishedOn": "2025-02-09T11:07:52.000Z",
+          "wordCount": 734,
+          "title": "Linux as co-operative Windows process (2017)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42989609",
+          "author": "chautumn",
+          "description": "Article URL: https://asteriskmag.com/issues/08/chimes-at-midnight\nComments URL: https://news.ycombinator.com/item?id=42989609\nPoints: 27\n# Comments: 11",
+          "link": "https://asteriskmag.com/issues/08/chimes-at-midnight",
+          "publishedOn": "2025-02-09T09:45:57.000Z",
+          "wordCount": 5951,
+          "title": "Chimes at Midnight (2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42986613",
           "author": "Topfi",
           "description": "Article URL: https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/\nComments URL: https://news.ycombinator.com/item?id=42986613\nPoints: 23\n# Comments: 6",
@@ -3619,16 +3819,6 @@
           "wordCount": 2518,
           "title": "Effortlessly execute AWS CLI commands using natural language with Amazon Q Developer",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2025/01/10/Slide1-1.png"
-        },
-        {
-          "id": "1e9253b5106cc05b2207ede3364004b821c94b8d",
-          "author": "Marco Frattallone",
-          "description": "Introduction Developers, IT Operators, and in some cases, Site Reliability Engineers (SREs) are responsible for deploying and operating infrastructure and applications, as well as responding to and resolving incidents effectively and in a timely manner. Effective incident management requires quick diagnosis, root cause analysis, and implementation of corrective actions. Diagnosing the root cause can be […]",
-          "link": "https://aws.amazon.com/blogs/devops/unlocking-aws-console-diagnosing-errors-with-amazon-q-developer/",
-          "publishedOn": "2025-01-10T13:58:57.000Z",
-          "wordCount": 3097,
-          "title": "Unlocking AWS Console: Diagnosing Errors with Amazon Q Developer",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2025/01/10/Slide1.png"
         }
       ]
     },
@@ -3926,6 +4116,16 @@
       "feedUrl": "https://birming.com/feed/",
       "siteUrl": "https://birming.com/",
       "articles": [
+        {
+          "id": "https://birming.com/freedom-less/",
+          "author": null,
+          "description": "\"The birds outside the window are my Netflix.\"\nThat's how one woman, who chose to live without electricity or running water, described her simple life. She lives on as little money as possible, prioritizing time for the things she loves.\nIt's stories like hers that I find so liberating. While I wouldn't necessarily embrace such an extreme lifestyle myself, I'm deeply drawn to the underlying idea.\nIt's astonishing the amount of time and money we spend on things we could easily live without. The technology that was supposed to liberate us has, in some ways, become our prison.\nTechnology itself isn't inherently bad, of course. The problem lies in our often immoderate use of it.\nWe often find ourselves juggling multiple apps for tasks like notes and planning, when perhaps one well-chosen tool would suffice. And how many streaming services are we subscribed to? Do we really need all of those running simultaneously?\nI believe we would all benefit from living a little more simply and focusing more on what is truly important in life – more time for meaningful connections, more space for creativity, and more peace of mind.\nOur lives would be richer on all levels.\nUpdate: Someone asked me for a link to the story. It’s in Swedish: Off grid-Johanna lever utan el och rinnande vatten.",
+          "link": "https://birming.com/freedom-less/",
+          "publishedOn": "2025-02-09T13:44:00.000Z",
+          "wordCount": 792,
+          "title": "The Freedom of Less",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
+        },
         {
           "id": "https://birming.com/bearmin/",
           "author": null,
@@ -4494,16 +4694,6 @@
           "wordCount": null,
           "title": "Be careful with introducing AI into your notes",
           "imageUrl": null
-        },
-        {
-          "id": "https://hamatti.org/posts/introducing-from-juhis-with-love/",
-          "author": null,
-          "description": "In 2024, my goal was to become better at writing by publishing 100 pieces in\n  my blog and newsletters. I succeeded with around 170 pieces at the end of the\n  year.\n\n\n\n  For 2025, my writing goal is to\n  become a better writer. Whatever that means.\n\n\n\n  One activity to work towards that is exploring more of the newsletter realm.\n  Over the years I’ve written a short-lived\n  What’s up with Juhis? newsletter, started and\n  ran\n  Dev Breakfast while working as a developer advocate at\n  Futurice and most recently 1.5 years of\n  Syntax Error, a newsletter about debugging, that I put on\n  hold last July when I ran out of things to write about.\n\n\n\n  This year I’m returning to the roots and rebooting What’s up with Juhis? with\n  a spiritual successor From Juhis with Love.\n\n\nFrom Juhis with Love\nFr…",
-          "link": "https://hamatti.org/posts/introducing-from-juhis-with-love/",
-          "publishedOn": "2025-01-11T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing: From Juhis with Love",
-          "imageUrl": null
         }
       ]
     },
@@ -4787,26 +4977,6 @@
           "wordCount": null,
           "title": "Automatically Pulling Multiple Repos From GitHub on Mac",
           "imageUrl": null
-        },
-        {
-          "id": "blog/aligning-automattic-s-sponsored-contributions-to-wordpress",
-          "author": null,
-          "description": "Aligning Automattic’s Sponsored Contributions to WordPress\nby \"Automattic\" (let's be honest, it's Matt Mullenweg)\n              \nAutomattic plan to fuck themselves over further (and by proxy, fuck their customers over) by reducing the contributions they're going to make to their own project.\nRead Post →\nSo I read this post after it was shared on the fedi (as I no longer subscribe to any of Matt's RSS feeds) and honestly, it left me dumbfounded. There's a couple of quotes from the post that I want to print here and opine on, but please, before you reader further, go read the original post.\nAdditionally, we’re having to spend significant time and money to defend ourselves against the legal attacks started by WP Engine and funded by Silver Lake, a large private equity firm.\nAre you for real, …",
-          "link": "https://kevquirk.com/blog/aligning-automattic-s-sponsored-contributions-to-wordpress",
-          "publishedOn": "2025-01-10T17:35:00.000Z",
-          "wordCount": null,
-          "title": "Aligning Automattic’s Sponsored Contributions to WordPress",
-          "imageUrl": null
-        },
-        {
-          "id": "notes/20250110-1509",
-          "author": null,
-          "description": "Picking the kids up from school today (which is at the top of a massive hill) and it's utter carnage with all the snow. Glad I got here early, but I'm worried I'm gonna come back to a damaged car...\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
-          "link": "https://kevquirk.com/notes/20250110-1509",
-          "publishedOn": "2025-01-10T15:10:00.000Z",
-          "wordCount": null,
-          "title": "📝 10 January 2025 at 15:09 - Picking the kids up from school today which is at...",
-          "imageUrl": null
         }
       ]
     },
@@ -4918,6 +5088,28 @@
       "feedUrl": "https://lmnt.me/feed.xml",
       "siteUrl": "https://lmnt.me/",
       "articles": [
+        {
+          "id": "0E89975A-253A-4EB7-B786-51B18C0E2F37",
+          "author": "Louie Mantia",
+          "description": "Download wallpaper from LMNT\nThere’s something about the way the PlayStation 2 menu system was. Towers of memory blocks, sparks spiraling, and crystal bars telling the time. It’s such a mood.\nGoes great with PlayStation Controllers icons.\nIf you like this, you can make a one-time donation, donate monthly, or buy something from my shop.",
+          "link": "https://lmnt.me/blog/wallpapers/playstation-2.html",
+          "publishedOn": "2025-02-09T22:25:00.000Z",
+          "wordCount": null,
+          "title": "PlayStation 2",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "0FA9D03E-ED61-4808-A2FC-A8ED64980A9F",
+          "author": "Louie Mantia",
+          "description": "Download wallpapers from LMNT\nAll around Disney Parks are attractions hidden inside enormous warehouse buildings. While some can be obscured, others are painted particular shades of green, brown, or blue. These neutral, earthy colors are just boring enough for you to look in any other direction.\nThis is an updated version. The prior version was from August 28, 2012.\nIf you like this, you can make a one-time donation, donate monthly, or buy something from my shop.",
+          "link": "https://lmnt.me/blog/wallpapers/go-away-green.html",
+          "publishedOn": "2025-02-09T13:10:00.000Z",
+          "wordCount": null,
+          "title": "Go Away Green",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "1B8DCCB3-67EF-4D0C-8EBF-B6A76F203B33",
           "author": "Louie Mantia",
@@ -5105,6 +5297,16 @@
       "siteUrl": "https://lucvandonkersgoed.com",
       "articles": [
         {
+          "id": "http://lucvandonkersgoed.com/?p=1116",
+          "author": "donkersgoed",
+          "description": "For software developers foundational models and LLMs have become helpful tools. But they are far from making us 10x more productive. In this essay we will explore why AI seems to have reached a productivity cap for devs, and what needs to change to break through that ceiling.",
+          "link": "https://lucvandonkersgoed.com/2025/02/09/are-humans-the-limiting-factor-in-ai-assisted-software-development/",
+          "publishedOn": "2025-02-09T17:06:07.000Z",
+          "wordCount": null,
+          "title": "Are humans the limiting factor in AI-assisted software development?",
+          "imageUrl": null
+        },
+        {
           "id": "http://lucvandonkersgoed.com/?p=1097",
           "author": "donkersgoed",
           "description": "Is 2025 going to be the year of broad IPv6 adoption? For AWS, it might just be. In the past months many services have gained IPv6 support, which paves the way for IPv6-only VPC configurations.",
@@ -5214,6 +5416,216 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.reflectorbital.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reflectorbital.com/",
+          "publishedOn": "2025-02-09T23:52:32.000Z",
+          "wordCount": null,
+          "title": "Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pypi.org/project/py3-tts-wrapper/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pypi.org/project/py3-tts-wrapper/",
+          "publishedOn": "2025-02-09T22:36:56.000Z",
+          "wordCount": null,
+          "title": "One Text to Speech wrapper for Python for all (?) TTS engines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://booksearch.party/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://booksearch.party/",
+          "publishedOn": "2025-02-09T21:52:33.000Z",
+          "wordCount": null,
+          "title": "Show HN: Searchable Library of Free Audiobooks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.samaltman.com/three-observations",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.samaltman.com/three-observations",
+          "publishedOn": "2025-02-09T21:06:55.000Z",
+          "wordCount": null,
+          "title": "Three Observations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://onmilwaukee.com/articles/recombobulationsigns",
+          "author": null,
+          "description": "Comments",
+          "link": "https://onmilwaukee.com/articles/recombobulationsigns",
+          "publishedOn": "2025-02-09T20:44:09.000Z",
+          "wordCount": null,
+          "title": "The Recombobulation Area (2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.rybarix.com/2025/02/09/noaidecember.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.rybarix.com/2025/02/09/noaidecember.html",
+          "publishedOn": "2025-02-09T20:17:41.000Z",
+          "wordCount": null,
+          "title": "No AI December Reflections",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced",
+          "publishedOn": "2025-02-09T19:37:38.000Z",
+          "wordCount": null,
+          "title": "Ada crate of the year 2024 announced",
+          "imageUrl": null
+        },
+        {
+          "id": "https://osmcal.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://osmcal.org/",
+          "publishedOn": "2025-02-09T19:32:57.000Z",
+          "wordCount": null,
+          "title": "OpenStreetMap Calendar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aidemos.meta.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aidemos.meta.com/",
+          "publishedOn": "2025-02-09T18:49:06.000Z",
+          "wordCount": null,
+          "title": "AI Demos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix",
+          "publishedOn": "2025-02-09T18:15:44.000Z",
+          "wordCount": null,
+          "title": "Persistent packages on Steam Deck using Nix",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2502.01584",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2502.01584",
+          "publishedOn": "2025-02-09T18:14:01.000Z",
+          "wordCount": null,
+          "title": "PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://andysblog.uk/why-blog-if-nobody-reads-it/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://andysblog.uk/why-blog-if-nobody-reads-it/",
+          "publishedOn": "2025-02-09T17:50:10.000Z",
+          "wordCount": null,
+          "title": "Why Blog If Nobody Reads It?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2502.03387",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2502.03387",
+          "publishedOn": "2025-02-09T16:33:28.000Z",
+          "wordCount": null,
+          "title": "LIMO: Less Is More for Reasoning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us",
+          "publishedOn": "2025-02-09T16:17:01.000Z",
+          "wordCount": null,
+          "title": "Advanced Magnet Manufacturing Begins in the United States",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/jtroo/kanata",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/jtroo/kanata",
+          "publishedOn": "2025-02-09T14:52:54.000Z",
+          "wordCount": null,
+          "title": "Kanata: Cross-platform multi-layer keyboard remapper with advanced customization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://booktalk.club/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://booktalk.club/",
+          "publishedOn": "2025-02-09T13:28:10.000Z",
+          "wordCount": null,
+          "title": "Show HN: My first side project, streamlined book clubs on Slack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://iquilezles.org/articles/gpuconditionals/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://iquilezles.org/articles/gpuconditionals/",
+          "publishedOn": "2025-02-09T12:42:54.000Z",
+          "wordCount": null,
+          "title": "Don't \"optimize\" conditional moves in shaders with mix()+step()",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples",
+          "publishedOn": "2025-02-09T11:39:38.000Z",
+          "wordCount": null,
+          "title": "Classic Data science pipelines built with LLMs",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.colinux.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.colinux.org/",
+          "publishedOn": "2025-02-09T11:07:52.000Z",
+          "wordCount": null,
+          "title": "Linux as co-operative Windows process (2017)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://asteriskmag.com/issues/08/chimes-at-midnight",
+          "author": null,
+          "description": "Comments",
+          "link": "https://asteriskmag.com/issues/08/chimes-at-midnight",
+          "publishedOn": "2025-02-09T09:45:57.000Z",
+          "wordCount": null,
+          "title": "Chimes at Midnight (2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thebullshitmachines.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thebullshitmachines.com/",
+          "publishedOn": "2025-02-09T08:24:17.000Z",
+          "wordCount": null,
+          "title": "Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world",
+          "imageUrl": null
+        },
+        {
           "id": "https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/",
           "author": null,
           "description": "Comments",
@@ -5284,6 +5696,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html",
+          "publishedOn": "2025-02-08T19:09:21.000Z",
+          "wordCount": null,
+          "title": "Rwandan scientists develop local yeast for banana wine-makers",
+          "imageUrl": null
+        },
+        {
           "id": "https://git.sr.ht/~egtann/txtar/",
           "author": null,
           "description": "Comments",
@@ -5351,6 +5773,16 @@
           "publishedOn": "2025-02-08T10:41:17.000Z",
           "wordCount": null,
           "title": "Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/",
+          "publishedOn": "2025-02-08T09:34:24.000Z",
+          "wordCount": null,
+          "title": "Teen on Musk's DOGE team graduated from 'The Com'",
           "imageUrl": null
         },
         {
@@ -5604,6 +6036,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://rudyfaile.com/2020/07/06/building-an-easy-web-application/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rudyfaile.com/2020/07/06/building-an-easy-web-application/",
+          "publishedOn": "2025-02-07T00:40:31.000Z",
+          "wordCount": null,
+          "title": "Building an \"Easy\" Web Application",
+          "imageUrl": null
+        },
+        {
           "id": "https://tillitis.se/products/tkey/",
           "author": null,
           "description": "Comments",
@@ -5644,6 +6086,16 @@
           "imageUrl": "https://trailsofwind.figures.cc/trailsOfWind_openGraph.jpg"
         },
         {
+          "id": "https://ricotta.affineur.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ricotta.affineur.io/",
+          "publishedOn": "2025-02-06T22:02:03.000Z",
+          "wordCount": null,
+          "title": "Show HN: Ricotta – Language Learning to Replace Anki",
+          "imageUrl": null
+        },
+        {
           "id": "https://magazine.sebastianraschka.com/p/understanding-reasoning-llms",
           "author": null,
           "description": "Comments",
@@ -5671,6 +6123,16 @@
           "publishedOn": "2025-02-06T20:54:10.000Z",
           "wordCount": 2874,
           "title": "The Inevitability of the Borrow Checker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/",
+          "publishedOn": "2025-02-06T19:13:34.000Z",
+          "wordCount": null,
+          "title": "Grafana: Why observability needs FinOps, and vice versa",
           "imageUrl": null
         },
         {
@@ -5734,6 +6196,26 @@
           "imageUrl": "/blog/media/simulating-water-over-terrain/cover.png"
         },
         {
+          "id": "https://twitter.com/abhi9u/status/1887010136155414602",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/abhi9u/status/1887010136155414602",
+          "publishedOn": "2025-02-06T14:03:39.000Z",
+          "wordCount": null,
+          "title": "Douglas McIlroy responds to Unix spell article with new implementation details",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.goto10retro.com/p/atari-2600-vs-atari-7800-which-should",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.goto10retro.com/p/atari-2600-vs-atari-7800-which-should",
+          "publishedOn": "2025-02-06T13:51:35.000Z",
+          "wordCount": null,
+          "title": "Atari 2600 vs. Atari 7800 Which Should You Get?",
+          "imageUrl": null
+        },
+        {
           "id": "http://loki3.com/flex/explore/",
           "author": null,
           "description": "Comments",
@@ -5741,6 +6223,16 @@
           "publishedOn": "2025-02-06T12:39:37.000Z",
           "wordCount": 811,
           "title": "Explorable Flexagons: Learn to create and flex flexagons (2020)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://codepen.io/AAMutlu20/pen/mdYxroj",
+          "author": null,
+          "description": "Comments",
+          "link": "https://codepen.io/AAMutlu20/pen/mdYxroj",
+          "publishedOn": "2025-02-06T12:02:18.000Z",
+          "wordCount": null,
+          "title": "HTML Kaleidoscope",
           "imageUrl": null
         },
         {
@@ -6021,6 +6513,16 @@
           "publishedOn": "2025-02-05T15:45:30.000Z",
           "wordCount": null,
           "title": "You're missing your near misses",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tenochtitlan.thomaskole.nl/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tenochtitlan.thomaskole.nl/",
+          "publishedOn": "2025-02-05T15:40:27.000Z",
+          "wordCount": null,
+          "title": "3D reconstruction of the capital of the Aztec empire",
           "imageUrl": null
         },
         {
@@ -14586,6 +15088,16 @@
       "siteUrl": "https://shkspr.mobi/blog",
       "articles": [
         {
+          "id": "https://shkspr.mobi/blog/2025/02/presenting-activitybot-at-fosdem/",
+          "author": null,
+          "description": "Because I&#039;m an optimist, I submitted a few talks to FOSDEM in the hope one might be accepted.  Because I&#039;m lucky, I got two speaking slots. Because I&#039;m an idiot, I decided to do both talks. On the same day. An hour apart. On opposite ends of the venue.  Fool!  My first talk was at the Social Web Birds-of-a-Feather session. I told people about my ActivityBot social networking server and how I built it into a single file. In the spirit of minimalism, I only had 8 minutes to present.  Time for a…",
+          "link": "https://shkspr.mobi/blog/2025/02/presenting-activitybot-at-fosdem/",
+          "publishedOn": "2025-02-09T12:34:17.000Z",
+          "wordCount": null,
+          "title": "Presenting ActivityBot at FOSDEM",
+          "imageUrl": null
+        },
+        {
           "id": "https://shkspr.mobi/blog/2025/02/endless-downward-spiral-is-this-the-beginning-of-the-end-of-what3words/",
           "author": null,
           "description": "Long-time readers know that I am not a fan of What Three Words. I think it is a closed, proprietary, and user-unfriendly attempt to enclose the commons. I consider that it has some dangerous failure modes.  A year ago, The Financial Times wrote about What3Words&#039; business woes. But it looks like things are about to get a lot worse.  As reported by a user on Reddit, Mercedes cars no longer support What3words.    I was in touch with What3words customer support and they confirmed me that Mercedes…",
@@ -14754,16 +15266,6 @@
           "wordCount": null,
           "title": "It is time to ban email",
           "imageUrl": null
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2025/01/review-pebblebee-clip-universal-and-android-find-my-device-tracker/",
-          "author": null,
-          "description": "Android is belatedly getting a Bluetooth tracker feature which doesn&#039;t rely on proprietary apps. Long-time readers will know that back in 2016 I reviewed both the Chipolo and the TinTag.  Both of those were adequate at finding things which were in range of your phone, but hopeless at finding lost items - because they required everyone to have a special app installed.  But now, under pressure from Apple&#039;s incredible Find My network, Google has started rolling out a similar service to modern…",
-          "link": "https://shkspr.mobi/blog/2025/01/review-pebblebee-clip-universal-and-android-find-my-device-tracker/",
-          "publishedOn": "2025-01-11T12:34:15.000Z",
-          "wordCount": null,
-          "title": "Review: Pebblebee Clip Universal - and Android \"Find My Device\" Tracker ★★★⯪☆",
-          "imageUrl": null
         }
       ]
     },
@@ -14772,6 +15274,16 @@
       "feedUrl": "https://simonwillison.net/atom/everything/",
       "siteUrl": "http://simonwillison.net/",
       "articles": [
+        {
+          "id": "https://simonwillison.net/2025/Feb/9/sam-altman/#atom-everything",
+          "author": null,
+          "description": "<blockquote cite=\"https://blog.samaltman.com/three-observations\"><p><strong>The cost to use a given level of AI falls about 10x every 12 months, and lower prices lead to much more use.</strong> You can see this in the token cost from GPT-4 in early 2023 to GPT-4o in mid-2024, where the price per token dropped about 150x in that time period. Moore’s law changed the world at 2x every 18 months; this is unbelievably stronger.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://blog.samaltman.com/three-observations\">Sam Altman</a>, Three Observations</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/openai\">openai</a>, <a href=\"https://simonwillison.net/tags/llm-pricing\">llm-pricing</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/9/sam-altman/#atom-everything",
+          "publishedOn": "2025-02-09T21:41:49.000Z",
+          "wordCount": null,
+          "title": "Quoting Sam Altman",
+          "imageUrl": null
+        },
         {
           "id": "https://simonwillison.net/2025/Feb/8/salvatore-sanfilippo/#atom-everything",
           "author": null,
@@ -15448,6 +15960,16 @@
       "feedUrl": "https://www.bentasker.co.uk/rss.xml",
       "siteUrl": "https://www.bentasker.co.uk/",
       "articles": [
+        {
+          "id": "https://www.bentasker.co.uk/posts/blog/law/doing-an-osa-assessment-for-my-single-user-fedi-server.html",
+          "author": "Ben Tasker",
+          "description": "I've been having a bit of a paperworky Sunday, sitting down and catching up with some of the admin on my list.\nIt's never a fun day, but needs doing once in a while.\nOne of the things on that list, was to look at what an Online Safety Act (OSA) assessment might look for my single-user Mastodon instance (mastodon.bentasker.co.uk). Unlike some other legislation, OSA doesn't include size thresholds, so being small doesn't exempt me.\nThis (hopefully) short blog post talks about my take-aways from that process as well as a quick look at how the OSA defines \"pornographic services\".\nObligatory Preface\nI am a parent and, despite being technically inclined, I am fully aware that controlling kid's access to the internet can be extremely challenging.\nI cannot begin to imagine the utter torment that p…",
+          "link": "https://www.bentasker.co.uk/posts/blog/law/doing-an-osa-assessment-for-my-single-user-fedi-server.html?utm_source=rss",
+          "publishedOn": "2025-02-09T19:14:00.000Z",
+          "wordCount": null,
+          "title": "Performing an Online Safety Act Assessment For mastodon.bentasker.co.uk",
+          "imageUrl": null
+        },
         {
           "id": "https://www.bentasker.co.uk/posts/blog/general/blog-question-challenge-jan-2025.html",
           "author": "Ben Tasker",
