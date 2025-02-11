@@ -6,6 +6,206 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43007564",
+          "author": "blipr",
+          "description": "Article URL: https://www.theverge.com/news/608858/google-calendar-missing-events-holidays\nComments URL: https://news.ycombinator.com/item?id=43007564\nPoints: 12\n# Comments: 4",
+          "link": "https://www.theverge.com/news/608858/google-calendar-missing-events-holidays",
+          "publishedOn": "2025-02-11T00:57:22.000Z",
+          "wordCount": 6624,
+          "title": "Google Calendar removed events like Pride and BHM; retains Black Friday",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43006605",
+          "author": "ipnon",
+          "description": "Article URL: https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf\nComments URL: https://news.ycombinator.com/item?id=43006605\nPoints: 17\n# Comments: 1",
+          "link": "https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf",
+          "publishedOn": "2025-02-10T23:23:58.000Z",
+          "wordCount": 309058,
+          "title": "Large Nuclear-Powered Subsonic Aircraft for Transoceanic Commerce (1971) [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43006536",
+          "author": "HeliumHydride",
+          "description": "Article URL: https://pydong.org/posts/KwArgs/\nComments URL: https://news.ycombinator.com/item?id=43006536\nPoints: 37\n# Comments: 5",
+          "link": "https://pydong.org/posts/KwArgs/",
+          "publishedOn": "2025-02-10T23:16:33.000Z",
+          "wordCount": 5055,
+          "title": "Fun with C++26 reflection: Keyword Arguments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43006390",
+          "author": "wslh",
+          "description": "Article URL: https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/\nComments URL: https://news.ycombinator.com/item?id=43006390\nPoints: 74\n# Comments: 54",
+          "link": "https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/",
+          "publishedOn": "2025-02-10T22:57:31.000Z",
+          "wordCount": null,
+          "title": "Hedge Funds Are Pocketing Much of Their Clients' Gains with 'No Limit' Fees",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43005096",
+          "author": "tptacek",
+          "description": "Comments URL: https://news.ycombinator.com/item?id=43005096\nPoints: 0\n# Comments: 0",
+          "link": "https://news.ycombinator.com/item?id=43005096",
+          "publishedOn": "2025-02-10T21:00:29.000Z",
+          "wordCount": 247,
+          "title": "Fly.io (YC W20) Is Hiring a Customer Support Director",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43004889",
+          "author": "jdoliner",
+          "description": "Article URL: https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/\nComments URL: https://news.ycombinator.com/item?id=43004889\nPoints: 424\n# Comments: 467",
+          "link": "https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/",
+          "publishedOn": "2025-02-10T20:42:18.000Z",
+          "wordCount": null,
+          "title": "Musk-led group makes $97B bid for control of OpenAI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43004435",
+          "author": "nateb2022",
+          "description": "Article URL: https://github.com/tinycorelinux/tinyx\nComments URL: https://news.ycombinator.com/item?id=43004435\nPoints: 20\n# Comments: 1",
+          "link": "https://github.com/tinycorelinux/tinyx",
+          "publishedOn": "2025-02-10T19:52:02.000Z",
+          "wordCount": 1167,
+          "title": "TinyX: Small Featured X Server",
+          "imageUrl": "https://opengraph.githubassets.com/cc45092714f5ab73e885d5a97d953a960b6d7e39992e92b800154ac1f5aa3f8e/tinycorelinux/tinyx"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43004416",
+          "author": "timbilt",
+          "description": "Article URL: https://arxiv.org/abs/2502.05171\nComments URL: https://news.ycombinator.com/item?id=43004416\nPoints: 71\n# Comments: 15",
+          "link": "https://arxiv.org/abs/2502.05171",
+          "publishedOn": "2025-02-10T19:50:20.000Z",
+          "wordCount": 703,
+          "title": "Scaling up test-time compute with latent reasoning: A recurrent depth approach",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43004373",
+          "author": "stephencoyner",
+          "description": "Article URL: https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing\nComments URL: https://news.ycombinator.com/item?id=43004373\nPoints: 66\n# Comments: 56",
+          "link": "https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing",
+          "publishedOn": "2025-02-10T19:45:35.000Z",
+          "wordCount": null,
+          "title": "What happens to SaaS in a world with computer-using agents?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43004334",
+          "author": "zknill",
+          "description": "Article URL: https://zknill.io/posts/patterns-for-building-realtime/\nComments URL: https://news.ycombinator.com/item?id=43004334\nPoints: 71\n# Comments: 18",
+          "link": "https://zknill.io/posts/patterns-for-building-realtime/",
+          "publishedOn": "2025-02-10T19:42:02.000Z",
+          "wordCount": 1156,
+          "title": "Patterns for Building Realtime Features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43004147",
+          "author": "geox",
+          "description": "Article URL: https://www.nativesunnews.today/articles/the-return-of-the-buffalo-is-reviving-portions-of-the-ecosystem/\nComments URL: https://news.ycombinator.com/item?id=43004147\nPoints: 53\n# Comments: 22",
+          "link": "https://www.nativesunnews.today/articles/the-return-of-the-buffalo-is-reviving-portions-of-the-ecosystem/",
+          "publishedOn": "2025-02-10T19:24:42.000Z",
+          "wordCount": 8577,
+          "title": "The return of the buffalo is reviving portions of the ecosystem",
+          "imageUrl": "https://www.nativesunnews.today/wp-content/uploads/images/2025-02-05/2p1.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43002906",
+          "author": "rbanffy",
+          "description": "Article URL: https://www.abortretry.fail/p/work-at-the-mill\nComments URL: https://news.ycombinator.com/item?id=43002906\nPoints: 76\n# Comments: 29",
+          "link": "https://www.abortretry.fail/p/work-at-the-mill",
+          "publishedOn": "2025-02-10T17:39:28.000Z",
+          "wordCount": 27950,
+          "title": "Work at the Mill Or, the Story of Digital Equipment Corporation",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0a2532e-8e94-41b8-8401-af9c2ae41402_640x475.jpeg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43002511",
+          "author": "Jhsto",
+          "description": "Article URL: https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/\nComments URL: https://news.ycombinator.com/item?id=43002511\nPoints: 469\n# Comments: 208",
+          "link": "https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/",
+          "publishedOn": "2025-02-10T17:05:09.000Z",
+          "wordCount": 2563,
+          "title": "Undergraduate shows that searches within hash tables can be much faster",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/02/Hash-Tables-Redux_cr_Nash-Weerasekera-Social.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43002440",
+          "author": "ghuroo1",
+          "description": "Article URL: https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/\nComments URL: https://news.ycombinator.com/item?id=43002440\nPoints: 122\n# Comments: 77",
+          "link": "https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/",
+          "publishedOn": "2025-02-10T16:59:27.000Z",
+          "wordCount": 16083,
+          "title": "CAPTCHAs: 'a tracking cookie farm for profit masquerading as a security service'",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/hpd4LbGpm6MBXYawDj9vwf-1200-80.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43001688",
+          "author": "jessekv",
+          "description": "I made a web app to generate 3D models of real places on earth from land cover and elevation data.\nClick anywhere on the map to get a polygon, and then click \"generate\".\nIt should work at most scales, but if your watershed or region selection is too large, the result can be less exciting because it's so flat.\nAs a warning, the 3D models can sometimes be too much for my phone. It's nicer on desktop. I'm still working better on mobile support.\nThe land cover data I'm using gives a cool effect, but at some point I'd like to add in global imagery and clouds.\nThe backend is a Python thread running on an old Lenovo Thinkcentre in my closet, so if it goes down, this is why. (I also sometimes need to restart it when the network card stops working... I really should figure out why sometime.)\nIf you find a really cool island or watershed, let me know and I can add it to the \"favorites\".\nComments URL: https://news.ycombinator.com/item?id=43001688\nPoints: 77\n# Comments: 30",
+          "link": "https://topography.jessekv.com/",
+          "publishedOn": "2025-02-10T15:54:45.000Z",
+          "wordCount": 451,
+          "title": "Show HN: Global 3D topography explorer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43000529",
+          "author": "meetpateltech",
+          "description": "Article URL: https://www.anthropic.com/news/the-anthropic-economic-index\nComments URL: https://news.ycombinator.com/item?id=43000529\nPoints: 404\n# Comments: 186",
+          "link": "https://www.anthropic.com/news/the-anthropic-economic-index",
+          "publishedOn": "2025-02-10T14:14:22.000Z",
+          "wordCount": 4612,
+          "title": "The Anthropic Economic Index",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/cf37534d043f4ce407b102ec287483f53732372c-1200x675.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43000316",
+          "author": "JNRowe",
+          "description": "Article URL: https://blog.plover.com/lang/etym/nickname-names.html\nComments URL: https://news.ycombinator.com/item?id=43000316\nPoints: 691\n# Comments: 342",
+          "link": "https://blog.plover.com/lang/etym/nickname-names.html",
+          "publishedOn": "2025-02-10T13:54:38.000Z",
+          "wordCount": 1620,
+          "title": "Surnames from nicknames nobody has any more",
+          "imageUrl": "https://pic.blog.plover.com/FIRST_IMAGE_DEFAULT.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43000303",
+          "author": "desgeeko",
+          "description": "Hi,\nI've just finished a rebuild of this function and added a lot of new features: info, page index, minimap, inverted index,... \nI think it may be useful for inspection, debugging or just as a learning resource showcasing the PDF file format.\nThis is a pet project and I would be happy to receive some feedback!\nRegards\nComments URL: https://news.ycombinator.com/item?id=43000303\nPoints: 317\n# Comments: 43",
+          "link": "https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md",
+          "publishedOn": "2025-02-10T13:52:53.000Z",
+          "wordCount": 2218,
+          "title": "Show HN: HTML visualization of a PDF file's internal structure",
+          "imageUrl": "https://opengraph.githubassets.com/5943487743034a507c638a7f868bc03b1c44b820f6e3534908c64232cc15d880/desgeeko/pdfsyntax"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43000275",
+          "author": "sorentwo",
+          "description": "Article URL: https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/\nComments URL: https://news.ycombinator.com/item?id=43000275\nPoints: 60\n# Comments: 208",
+          "link": "https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/",
+          "publishedOn": "2025-02-10T13:50:40.000Z",
+          "wordCount": null,
+          "title": "Why hasn't commercial air travel gotten any faster since the 1960s? (2009)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42999650",
+          "author": "tosh",
+          "description": "Article URL: https://xpqz.github.io/kbook/Introduction.html\nComments URL: https://news.ycombinator.com/item?id=42999650\nPoints: 175\n# Comments: 107",
+          "link": "https://xpqz.github.io/kbook/Introduction.html",
+          "publishedOn": "2025-02-10T12:51:34.000Z",
+          "wordCount": 2329,
+          "title": "What about K?",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42995403",
           "author": "nateb2022",
           "description": "Article URL: https://www.reflectorbital.com/\nComments URL: https://news.ycombinator.com/item?id=42995403\nPoints: 8\n# Comments: 10",
@@ -2098,6 +2298,36 @@
       "siteUrl": "https://aws.amazon.com/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "a209e6092db87d541758d7809bd64ffc5e9430d8",
+          "author": "aws@amazon.com",
+          "description": "A new minor version of Microsoft SQL Server is now available on Amazon RDS for SQL Server, providing performance enhancements and security fixes. Amazon RDS for SQL Server now supports this latest minor version of SQL Server 2022 across the Express, Web, Standard, and Enterprise editions.\n  We encourage you to upgrade your Amazon RDS for SQL Server database instances at your convenience. You can upgrade with just a few clicks in the Amazon RDS Management Console or by using the AWS CLI. Learn more about upgrading your database instances from the Amazon RDS User Guide. The new minor version is SQL Server 2022 CU17 - 16.0.4175.1.\n  This minor version is available in all AWS commercial regions where Amazon RDS for SQL Server databases are available, including the AWS GovCloud (US) Regions.\n  Amazon RDS for SQL Server makes it simple to set up, operate, and scale SQL Server deployments in the cloud. See Amazon RDS for SQL Server Pricing for pricing details and regional availability.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-sql-server-minor-version-january-2025",
+          "publishedOn": "2025-02-10T18:45:00.000Z",
+          "wordCount": null,
+          "title": "Amazon RDS for SQL Server supports new minor version in January 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "ec41a143ad75914688baf9d75ea792978ce90edb",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic File System (Amazon EFS) has now increased the access points limit from 1,000 to 10,000 per file system, a 10x increase. This launch makes it even easier for customers to manage application-specific access to shared datasets, enabling them to seamlessly scale access management to thousands of users, on a single EFS file system.\n  Amazon EFS is a fully elastic file storage service that makes it simple to set up and run file workloads in the AWS cloud. Access points are application-specific entry points that enforce a user identity and root directory, and logically isolate data between applications. The new EFS access point limits automatically apply to all file systems and require no action from customers.\n  The new access point limits are immediately available in all commercial AWS regions, except in AWS China Regions. To learn more, see the Amazon EFS Documentation or create a file system using the Amazon EFS Console, API, or AWS CLI.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-efs-access-points-file-system/",
+          "publishedOn": "2025-02-10T18:00:00.000Z",
+          "wordCount": 954,
+          "title": "Amazon EFS now supports up to 10,000 access points per EFS file system",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "45e745f49c8fa8d0350a939145d924009e8a10ee",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudWatch Database Insights now provides lock contention diagnostics for Aurora PostgreSQL instances. This feature helps you identify the root cause behind both ongoing and historical lock contention issues within minutes. The lock contention diagnostics feature is available exclusively in the Advanced mode of CloudWatch Database Insights.\n  With this launch, you can visualize a locking condition in the Database Insights console, which shows the relationship between blocking and waiting sessions. The visualization helps you quickly identify the dominating sessions, queries, or objects causing lock contention. Additionally, this feature persists historical locking data for 15 months, allowing you to analyze and investigate historical locking conditions. You no longer need to manually run custom queries or rely on application logs to diagnose lock contention issues, streamlining the troubleshooting process.\n  You can get started with this feature by enabling the Advanced mode of CloudWatch Database Insights on your Aurora PostgreSQL clusters using the Aurora service console, AWS APIs, or the AWS SDK. CloudWatch Database Insights delivers database health monitoring aggregated at the fleet level, as well as instance-level dashboards for detailed database and SQL query analysis.\n  CloudWatch Database Insights is available in all public AWS Regions and offers vCPU-based pricing – see the pricing page for details. For further information, visit the Database Insights documentation.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-cloudwatch-lock-contention-diagnostics-aurora-postgresql",
+          "publishedOn": "2025-02-10T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Amazon CloudWatch now provides lock contention diagnostics for Aurora PostgreSQL",
+          "imageUrl": null
+        },
+        {
           "id": "a63466a33cba5606f378c83ac9d072b5e368eb8a",
           "author": "aws@amazon.com",
           "description": "AWS Step Functions now supports additional data sources and output options for Distributed Map, enabling more flexible large-scale parallel processing workflows. Distributed map can now process data from JSON Lines (JSONL) and a broader range of delimited file formats stored in Amazon S3. Additionally, distributed map offers new output transformations for greater control over result formatting.\n  AWS Step Functions is a visual workflow service capable of orchestrating over 14,000+ API actions from over 220 AWS services to build distributed applications and data processing workloads. With this update, you can more easily iterate over and process diverse datasets using Step Functions distributed map. In addition to existing JSON and comma separated value (CSV) file support, distributed map now supports JSONL, and new delimited file formats, such as semicolon-delimited files and tab-delimited files. This expands processing capabilities to a wider range of data formats without custom pre-processing. The new flexible output transformations give you more control over how results are formatted, enabling easier aggregation of results and simplifying integration with downstream systems.\n  To get started, you can use the distributed map mode today in the AWS Step Functions console or read this blog post. To learn more, visit the Step Functions developer guide.",
@@ -3515,6 +3745,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/aws/",
       "articles": [
         {
+          "id": "0030c50b5a1ed66591d4de6f3dcf83bcc7c52fe6",
+          "author": "Matheus Guimaraes",
+          "description": "We are well settled into 2025 by now, but many people are still catching up with all the exciting new releases and announcements that came out of re:Invent last year. There have been hundreds of re:Invent recap events around the world since the beginning of the year, including in-person all-day official AWS events with multiple […]",
+          "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-step-functions-aws-cloudformation-amazon-q-developer-and-more-february-10-2024/",
+          "publishedOn": "2025-02-10T19:27:49.000Z",
+          "wordCount": 1909,
+          "title": "AWS Weekly Roundup: AWS Step Functions, AWS CloudFormation, Amazon Q Developer, and more (February 10, 2024)",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2023/08/13/AWS-WIR-default.png"
+        },
+        {
           "id": "45df78d6e1541d0e1dafd59a8eab514e9f34e36a",
           "author": "Sébastien Stormacq",
           "description": "AWS CodeBuild now includes pre-installed Fastlane in macOS environments, streamlining mobile app development by providing built-in access to automated tools for code signing, testing, and app distribution, without manual setup requirements.",
@@ -3606,6 +3846,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/big-data/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/big-data/",
       "articles": [
+        {
+          "id": "c2f1602739502a7612928404eedc3896c59903b7",
+          "author": "Ricardo Serafim",
+          "description": "In this post, we explore the new higher base capacity of 1024 RPUs in Redshift Serverless, which doubles the previous maximum of 512 RPUs. This enhancement empowers you to get high performance for your workload containing highly complex queries and write-intensive workloads, with concurrent data ingestion and transformation tasks that require high throughput and low latency with Redshift Serverless.",
+          "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-serverless-adds-higher-base-capacity-of-up-to-1024-rpus/",
+          "publishedOn": "2025-02-10T18:40:25.000Z",
+          "wordCount": 3171,
+          "title": "Amazon Redshift Serverless adds higher base capacity of up to 1024 RPUs",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/13/BDB-4672-Graph1.png"
+        },
         {
           "id": "957cea24955174b5949c58ae8aaea48ac12d63c5",
           "author": "Jon Handler",
@@ -3850,6 +4100,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/security/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/security/",
       "articles": [
+        {
+          "id": "04994fccd4a57d6d024ab352b55577e9cd3bdd2d",
+          "author": "Rodrigo Bersa",
+          "description": "In 2021, Amazon Web Services (AWS) introduced the AWS Secrets and Configuration Provider (ASCP) for the Kubernetes Secrets Store Container Storage Interface (CSI) Driver, offering a reliable way to manage secrets in Amazon Elastic Kubernetes Service (Amazon EKS). Today, we’re excited to announce the integration of ASCP with Pod Identity, the new standard for AWS […]",
+          "link": "https://aws.amazon.com/blogs/security/announcing-ascp-integration-with-pod-identity-enhanced-security-for-secrets-management-in-amazon-eks/",
+          "publishedOn": "2025-02-10T20:32:49.000Z",
+          "wordCount": 3490,
+          "title": "Announcing ASCP integration with Pod Identity: Enhanced security for secrets management in Amazon EKS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2024/12/10/aws_secrets_manager_800x400.png"
+        },
         {
           "id": "4aa5418e1bcdc9a42fff386b04323f7b130b0ece",
           "author": "Kal Krishnan",
@@ -4103,7 +4363,18 @@
       "title": "Aidan Steele’s blog (usually about AWS)",
       "feedUrl": "https://awsteele.com/feed.xml",
       "siteUrl": "https://awsteele.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://awsteele.com/blog/2025/02/10/cloudfront-triggered-s3-data-event-formats.html",
+          "author": null,
+          "description": "There are several ways that CloudFront can be configured with an S3 origin. There are functionality differences between them, but the focus in this blog post is how activity is represented in CloudTrail, specifically the differences in S3 data-level events for each CloudFront option. Those options in CloudFront are (in decreasing order of desirability):",
+          "link": "https://awsteele.com/blog/2025/02/10/cloudfront-triggered-s3-data-event-formats.html",
+          "publishedOn": "2025-02-10T05:32:00.000Z",
+          "wordCount": 549,
+          "title": "CloudFront-triggered S3 data event formats",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Be a Better Dev",
@@ -4116,6 +4387,16 @@
       "feedUrl": "https://birming.com/feed/",
       "siteUrl": "https://birming.com/",
       "articles": [
+        {
+          "id": "https://birming.com/hit-blog-button/",
+          "author": null,
+          "description": "I recently released the BearMin theme, and it wasn't long before a new idea sparked. More on that later.\nThe point is that one thing leads to another. This is a fact easily forgotten. We sometimes think we're standing still, when in reality, we're moving forward.\nWe sometimes need to make mistakes to get things right, endure difficulties to gain valuable experience. And occasionally, we need to start without a clear plan for the best strategy to reveal itself.\nOften, it's better to do something than nothing.\nIf you're considering starting a blog but don't know what to write about, set aside your hesitations and begin. If you persevere, the answers will come with time.\nYou might discover that blogging without a specific focus works perfectly well, or perhaps you'll find that blogging isn't the right fit for you.\nWhatever you ultimately decide, there's a defining moment: the instant you click \"Publish\" for the first time. That moment, however small it seems, marks the beginning of your journey as a blogger.",
+          "link": "https://birming.com/hit-blog-button/",
+          "publishedOn": "2025-02-10T15:25:00.000Z",
+          "wordCount": 752,
+          "title": "Hit the Blog Button",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
+        },
         {
           "id": "https://birming.com/freedom-less/",
           "author": null,
@@ -4299,18 +4580,7 @@
       "title": "Kristian Glass - Do I Smell Burning?",
       "feedUrl": "https://blog.doismellburning.co.uk/atom.xml",
       "siteUrl": "https://blog.doismellburning.co.uk/atom.xml",
-      "articles": [
-        {
-          "id": "https://blog.doismellburning.co.uk/incidents-are-like-dirty-nappies/",
-          "author": null,
-          "description": "<p>The start of this year sees me thinking about KPIs and goals for my engineering org in my role as VP of Engineering,\nwhile also reading a book on potty training in my role as “Daddy”.</p>\n\n<p>As such, the following analogy occurred to me,\nand now I inflict it upon you:</p>\n\n<!-- more -->\n\n<h2 id=\"dealing-with-an-incident-is-like-dealing-with-a-dirty-nappy\">Dealing with an incident is like dealing with a dirty nappy</h2>\n\n<ul>\n  <li>It’s tempting to think of them as “bad” but fundamentally they’re a healthy and natural, if unglamorous, process</li>\n  <li>You want them somewhat regularly - too often is bad, but so is too rarely</li>\n  <li>Sometimes they go really smoothly and it’s great</li>\n  <li>Sometimes they can be a bit gnarly</li>\n  <li>Sometimes they go so badly you want to just burn it all down and run away screaming</li>\n  <li>If your other processes are healthy, they’re more likely to go better</li>\n  <li>You aim to be prepared for them and have them in a comfortable place, but sometimes they surprise you in the early hours of the morning when you’re somewhere you really don’t want to be (thanks twom)</li>\n  <li>Having other folks with you for support is really helpful</li>\n  <li>Sometimes, whether you like it or not, you get pooped on (thanks twom)</li>\n</ul>\n\n<p>Fundamentally incidents are a fact of life for an engineering org, and dirty nappies a fact of life for the parents of a small child.\nIt’s how you deal with them that counts!</p>",
-          "link": "https://blog.doismellburning.co.uk/incidents-are-like-dirty-nappies/",
-          "publishedOn": "2025-01-12T00:11:00.000Z",
-          "wordCount": 532,
-          "title": "Incidents are like dirty nappies",
-          "imageUrl": "https://blog.doismellburning.co.uk/images/kglass_400x400.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "https://blog.miguelgrinberg.com/feed",
@@ -4464,6 +4734,16 @@
       "feedUrl": "https://dev.to/feed/vkazulkin",
       "siteUrl": "https://dev.to/vkazulkin",
       "articles": [
+        {
+          "id": "https://dev.to/aws-heroes/lambda-function-with-graalvm-native-image-part-5-measuring-cold-and-warm-starts-with-graalvm-23-3bn",
+          "author": "Vadym Kazulkin",
+          "description": "Introduction\n\n\nIn the part 2 of this article series we explained how to develop and deploy Lambda function based on GraalVM Native Image with Custom Runtime using GraalVM version 21 and in the part 3 we measured the Lambda performance (cold and warm starts) with this approach. Since then, GraalVM 23 was released, and many dependencies used in our sample application got their version updates. So, it was time for me to update the application to the newest versions available end of December 2024 and to re-measure Lambda performance.\nGeneral setup and the idea of the sample application described in the part 2 remained the same, but I published the updated version of the sample application here. It not only uses GraalVM 23.0.1 as its base but also includes all updated AWS dependencies like bom …",
+          "link": "https://dev.to/aws-heroes/lambda-function-with-graalvm-native-image-part-5-measuring-cold-and-warm-starts-with-graalvm-23-3bn",
+          "publishedOn": "2025-02-10T15:03:58.000Z",
+          "wordCount": 1430,
+          "title": "Lambda function with GraalVM Native Image - Part 5 Measuring cold and warm starts with GraalVM 23",
+          "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fow18wsgbtu47urq2ymsy.png"
+        },
         {
           "id": "https://dev.to/aws-heroes/data-api-for-amazon-aurora-serverless-v2-with-aws-sdk-for-java-part-12-data-api-quotas-11h2",
           "author": "Vadym Kazulkin",
@@ -4957,26 +5237,6 @@
           "wordCount": null,
           "title": "📝 12 January 2025 at 15:54 - Quickly switching to the new monitor has turned into a...",
           "imageUrl": null
-        },
-        {
-          "id": "notes/20250112-1241",
-          "author": null,
-          "description": "Out with the dogs in the fields, kids are sword fighting with some sticks in the background (can you find them?) this is what Sundays are all about.\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
-          "link": "https://kevquirk.com/notes/20250112-1241",
-          "publishedOn": "2025-01-12T12:45:00.000Z",
-          "wordCount": null,
-          "title": "📝 12 January 2025 at 12:41 - Out with the dogs in the fields kids are sword...",
-          "imageUrl": null
-        },
-        {
-          "id": "blog/automatically-pulling-multiple-repos-from-github-on-mac",
-          "author": null,
-          "description": "I have a number of GitHub repositories on my Mac and I wanted a way to auto-pull them on a regular basis. Here's how I did it.\nAny regular readers of my waffle will know that I'm not the sharpest tool in the box. Git is a core part of my workflow for a number of my projects, but being the sausage that I am, I often forget to pull the latest changes from GitHub before doing some work locally. Git then inevitably gets itself confused and it becomes a whole thing to resolve the conflict(s).\nSo I needed a way to bypass my sausageness, by automatically pulling from all my repositories on a regular basis. I ended up doing this in 2 steps:\nCreating a way to pull from all repos in one go\nAutomating that pull\nPulling from GitHub\nMy first instinct was to build a shell script, then run that script re…",
-          "link": "https://kevquirk.com/blog/automatically-pulling-multiple-repos-from-github-on-mac",
-          "publishedOn": "2025-01-12T11:45:00.000Z",
-          "wordCount": null,
-          "title": "Automatically Pulling Multiple Repos From GitHub on Mac",
-          "imageUrl": null
         }
       ]
     },
@@ -5272,22 +5532,6 @@
           "title": "Ichō",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5D19C853-BBA2-4EF1-997C-3059A247F968",
-          "author": "Louie Mantia",
-          "description": "As Mark Zuckerberg changes content moderation policies at Meta, I wanted to re-read my post from last year.\nme\n\t\t\t\t\nThe necessity around content moderation is based on the extended reach provided by platforms. Even the companies that claim to care about decentralization—for some reason—still make space for trending content, universal search, and unrestricted replies. These features do not support decentralization. They support platforming.\nContent moderation is a much bigger issue for platforms than it is for independent, decentralized websites. Without those features mentioned above, posts have limited range and have a hard time gaining traction. Surfacing those posts by functioning as a platform is what enables potential harm.\nme\n\t\t\t\t\nMy ears have limited range. I can’t hear into infinit…",
-          "link": "https://lmnt.me/blog/range.html",
-          "publishedOn": "2025-01-12T01:50:00.000Z",
-          "wordCount": null,
-          "title": "Range",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://lmnt.me/files/audio/range.m4a",
-            "type": "audio/x-m4a",
-            "length": "6005708"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -5380,16 +5624,6 @@
           "wordCount": null,
           "title": "🏈 The best NFL broadcast teams and telecast quality, ranked",
           "imageUrl": null
-        },
-        {
-          "id": "http://webology.micro.blog/2025/01/11/djangotemplatedemailmd-notes-aka-if-you/",
-          "author": null,
-          "description": "I launched Django News Jobs two DjangoCon USs ago, and I somehow put off deploying emails until this week. So, every day or two, I check my Review Jobs queue to see if there’s anything new to approve or reject.\n✅ Sending emails with Django is straightforward and not very painful.\n🤔 Working with most email providers and troubleshooting issues is painful.\n🤔 Starting with a blank page and styling emails is painful.\nI tried a few third-party apps that I fought with before landing on Jack Linke’s django-templated-email-md (DTEM), which just worked. DTEM doesn’t re-invent the wheel, but it does let me write my email messages with Markdown, which turns out to be all I need.\nTo add email support, I followed the Usage Guide and then I added one send email function per email that I wanted to send.…",
-          "link": "https://micro.webology.dev/2025/01/11/djangotemplatedemailmd-notes-aka-if-you/",
-          "publishedOn": "2025-01-11T16:22:36.000Z",
-          "wordCount": null,
-          "title": "django-templated-email-md notes aka if you want to format emails with Markdown, use it",
-          "imageUrl": null
         }
       ]
     },
@@ -5415,6 +5649,226 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/",
+          "publishedOn": "2025-02-11T01:19:14.000Z",
+          "wordCount": 975,
+          "title": "How Copyover MUD Servers Worked",
+          "imageUrl": null
+        },
+        {
+          "id": "https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/",
+          "publishedOn": "2025-02-11T01:02:48.000Z",
+          "wordCount": 4521,
+          "title": "The Floppotron 3.0 (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theverge.com/news/608858/google-calendar-missing-events-holidays",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/news/608858/google-calendar-missing-events-holidays",
+          "publishedOn": "2025-02-11T00:57:22.000Z",
+          "wordCount": 6624,
+          "title": "Google Calendar removed events like Pride and BHM; retains Black Friday",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "id": "https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf",
+          "publishedOn": "2025-02-10T23:23:58.000Z",
+          "wordCount": 309058,
+          "title": "Large Nuclear-Powered Subsonic Aircraft for Transoceanic Commerce (1971) [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pydong.org/posts/KwArgs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pydong.org/posts/KwArgs/",
+          "publishedOn": "2025-02-10T23:16:33.000Z",
+          "wordCount": 5055,
+          "title": "Fun with C++26 reflection: Keyword Arguments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/",
+          "publishedOn": "2025-02-10T22:57:31.000Z",
+          "wordCount": null,
+          "title": "Hedge Funds Are Pocketing Much of Their Clients' Gains with 'No Limit' Fees",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43005096",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=43005096",
+          "publishedOn": "2025-02-10T21:00:29.000Z",
+          "wordCount": 247,
+          "title": "Fly.io (YC W20) Is Hiring a Customer Support Director",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/",
+          "publishedOn": "2025-02-10T20:42:18.000Z",
+          "wordCount": null,
+          "title": "Musk-led group makes $97B bid for control of OpenAI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/tinycorelinux/tinyx",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/tinycorelinux/tinyx",
+          "publishedOn": "2025-02-10T19:52:02.000Z",
+          "wordCount": 1167,
+          "title": "TinyX: Small Featured X Server",
+          "imageUrl": "https://opengraph.githubassets.com/cc45092714f5ab73e885d5a97d953a960b6d7e39992e92b800154ac1f5aa3f8e/tinycorelinux/tinyx"
+        },
+        {
+          "id": "https://arxiv.org/abs/2502.05171",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2502.05171",
+          "publishedOn": "2025-02-10T19:50:20.000Z",
+          "wordCount": 703,
+          "title": "Scaling up test-time compute with latent reasoning: A recurrent depth approach",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing",
+          "author": null,
+          "description": "Comments",
+          "link": "https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing",
+          "publishedOn": "2025-02-10T19:45:35.000Z",
+          "wordCount": 4233,
+          "title": "What happens to SaaS in a world with computer-using agents?",
+          "imageUrl": "https://lh7-us.googleusercontent.com/docs/AHkbwyLyarb9hJBtQjH-uCZuu-lHgc2-daRe7PzvZZOGf_3JBa5Ncvn2WaC0arzKF5Smn5u6xFTQfXO9owqFUiRD8M1mJphWWQ3Fw9Eu3KQ5Mi2fnAweKtv-=w1200-h630-p"
+        },
+        {
+          "id": "https://zknill.io/posts/patterns-for-building-realtime/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://zknill.io/posts/patterns-for-building-realtime/",
+          "publishedOn": "2025-02-10T19:42:02.000Z",
+          "wordCount": 1156,
+          "title": "Patterns for Building Realtime Features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.abortretry.fail/p/work-at-the-mill",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.abortretry.fail/p/work-at-the-mill",
+          "publishedOn": "2025-02-10T17:39:28.000Z",
+          "wordCount": 27950,
+          "title": "Work at the Mill Or, the Story of Digital Equipment Corporation",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0a2532e-8e94-41b8-8401-af9c2ae41402_640x475.jpeg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/",
+          "publishedOn": "2025-02-10T17:05:09.000Z",
+          "wordCount": 2563,
+          "title": "Undergraduate shows that searches within hash tables can be much faster",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/02/Hash-Tables-Redux_cr_Nash-Weerasekera-Social.jpg"
+        },
+        {
+          "id": "https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/",
+          "publishedOn": "2025-02-10T16:59:27.000Z",
+          "wordCount": 16083,
+          "title": "CAPTCHAs: 'a tracking cookie farm for profit masquerading as a security service'",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/hpd4LbGpm6MBXYawDj9vwf-1200-80.jpg"
+        },
+        {
+          "id": "https://topography.jessekv.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://topography.jessekv.com/",
+          "publishedOn": "2025-02-10T15:54:45.000Z",
+          "wordCount": 451,
+          "title": "Show HN: Global 3D topography explorer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.anthropic.com/news/the-anthropic-economic-index",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anthropic.com/news/the-anthropic-economic-index",
+          "publishedOn": "2025-02-10T14:14:22.000Z",
+          "wordCount": 4612,
+          "title": "The Anthropic Economic Index",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/cf37534d043f4ce407b102ec287483f53732372c-1200x675.png"
+        },
+        {
+          "id": "https://blog.plover.com/lang/etym/nickname-names.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.plover.com/lang/etym/nickname-names.html",
+          "publishedOn": "2025-02-10T13:54:38.000Z",
+          "wordCount": 1620,
+          "title": "Surnames from nicknames nobody has any more",
+          "imageUrl": "https://pic.blog.plover.com/FIRST_IMAGE_DEFAULT.jpg"
+        },
+        {
+          "id": "https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md",
+          "publishedOn": "2025-02-10T13:52:53.000Z",
+          "wordCount": 2218,
+          "title": "Show HN: HTML visualization of a PDF file's internal structure",
+          "imageUrl": "https://opengraph.githubassets.com/b6e54c117104e5a1ff7edbe7d2dc6d3cdfc561a5ea5aefe8ef0dcf604f1c4801/desgeeko/pdfsyntax"
+        },
+        {
+          "id": "https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/",
+          "publishedOn": "2025-02-10T13:50:40.000Z",
+          "wordCount": 2522,
+          "title": "Why hasn't commercial air travel gotten any faster since the 1960s? (2009)",
+          "imageUrl": "https://engineering.mit.edu/wp-content/uploads/2017/01/square_transportation.jpg"
+        },
+        {
+          "id": "https://xpqz.github.io/kbook/Introduction.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://xpqz.github.io/kbook/Introduction.html",
+          "publishedOn": "2025-02-10T12:51:34.000Z",
+          "wordCount": 2329,
+          "title": "What about K?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years",
+          "publishedOn": "2025-02-10T03:38:29.000Z",
+          "wordCount": 3471,
+          "title": "Thomas Aquinas' skull reveals appearance and cause of death",
+          "imageUrl": "https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20250207050244_2d24c5f3-deb4-436b-a1ae-d91d1907a2ba.jpg"
+        },
         {
           "id": "https://www.reflectorbital.com/",
           "author": null,
@@ -5604,6 +6058,16 @@
           "wordCount": null,
           "title": "Linux as co-operative Windows process (2017)",
           "imageUrl": null
+        },
+        {
+          "id": "https://scroll-driven-animations.style/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scroll-driven-animations.style/",
+          "publishedOn": "2025-02-09T09:51:51.000Z",
+          "wordCount": 1213,
+          "title": "Scroll-Driven Animations",
+          "imageUrl": "https://scroll-driven-animations.style/social.jpg"
         },
         {
           "id": "https://asteriskmag.com/issues/08/chimes-at-midnight",
@@ -5856,6 +6320,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.70786",
+          "author": null,
+          "description": "Comments",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.70786",
+          "publishedOn": "2025-02-07T19:40:36.000Z",
+          "wordCount": null,
+          "title": "Genetic Evidence of Killer Whale Predation on White Sharks in Australia",
+          "imageUrl": null
+        },
+        {
           "id": "https://theretowhere.com/",
           "author": null,
           "description": "Comments",
@@ -5976,6 +6450,16 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c669bd2-4243-4c39-b7c0-2dd3ccb255a4_1094x884.png"
         },
         {
+          "id": "https://cerncourier.com/a/the-other-99/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cerncourier.com/a/the-other-99/",
+          "publishedOn": "2025-02-07T14:48:42.000Z",
+          "wordCount": 3295,
+          "title": "The other 99% – CERN Courier",
+          "imageUrl": "https://cerncourier.com/wp-content/uploads/2025/01/CCJanFeb25_GLUON_frontis.jpg"
+        },
+        {
           "id": "https://www.nature.com/articles/s41586-024-08502-w",
           "author": null,
           "description": "Comments",
@@ -6016,6 +6500,26 @@
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-459404787-1152x648.jpg"
         },
         {
+          "id": "https://www.nuanced.dev/blog/system-wide-context",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nuanced.dev/blog/system-wide-context",
+          "publishedOn": "2025-02-07T09:57:57.000Z",
+          "wordCount": 2402,
+          "title": "Memory profilers, call graphs, exception reports, and telemetry",
+          "imageUrl": "https://portfolio-blog-starter.vercel.app/og?title=Memory%20profilers%2C%20call%20graphs%2C%20exception%20reports%2C%20and%20telemetry%3A%20here%E2%80%99s%20what%20happened%20when%20we%20gave%20AI%20coding%20tools%20system-wide%20context"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2024/dec/18/if-a-million-germans-have-them-there-must-be-something-in-it-how-balcony-solar-is-taking-off",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/environment/2024/dec/18/if-a-million-germans-have-them-there-must-be-something-in-it-how-balcony-solar-is-taking-off",
+          "publishedOn": "2025-02-07T09:23:49.000Z",
+          "wordCount": 4710,
+          "title": "Balcony solar is taking off",
+          "imageUrl": "https://i.guim.co.uk/img/media/2d2dfb332fe9a6c97890c961de8e818346c62298/135_0_3841_2305/master/3841.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=daaba4083c67dd6fa5fa3022463c0a77"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Hi8r_63LGyg",
           "author": null,
           "description": "Comments",
@@ -6026,6 +6530,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.mend.io/blog/fake-vs-code-extension-on-npm-spreads-multi-stage-malware/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.mend.io/blog/fake-vs-code-extension-on-npm-spreads-multi-stage-malware/",
+          "publishedOn": "2025-02-07T06:58:10.000Z",
+          "wordCount": null,
+          "title": "Fake VS Code Extension on NPM Spreads Multi-Stage Malware",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012",
+          "publishedOn": "2025-02-07T06:23:36.000Z",
+          "wordCount": 10231,
+          "title": "Indigenous engineers are using AI to preserve their culture",
+          "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-11/241126-indigenous-AI-ms-e2056e.png"
+        },
+        {
           "id": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
           "author": null,
           "description": "Comments",
@@ -6034,6 +6558,16 @@
           "wordCount": null,
           "title": "A whirlwind tutorial on creating teensy ELF executables for Linux (1999)",
           "imageUrl": null
+        },
+        {
+          "id": "https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family",
+          "publishedOn": "2025-02-07T03:30:10.000Z",
+          "wordCount": 2112,
+          "title": "Ancient-DNA study identifies originators of Indo-European language family",
+          "imageUrl": "https://hms.harvard.edu/sites/default/files/2025-02/Uberti%20proto-indo%20wheel%20750.jpg"
         },
         {
           "id": "https://rudyfaile.com/2020/07/06/building-an-easy-web-application/",
@@ -8659,6 +9193,16 @@
       "feedUrl": "https://passo.uno/index.xml",
       "siteUrl": "https://passo.uno/",
       "articles": [
+        {
+          "id": "https://passo.uno/retrocomputing-tech-writing-lab/",
+          "author": null,
+          "description": "This past weekend I’ve been experimenting with AI-assisted coding to port basic docs-as-code elements to old operating systems and platforms, such as the venerable Intel 386. While this might strike you as a bizarre display of futility, I find this sort of retrocomputing exercise to be quite beneficial, if not enlightening. Something just clicks when you stop and walk backwards.",
+          "link": "https://passo.uno/retrocomputing-tech-writing-lab/",
+          "publishedOn": "2025-02-10T12:00:00.000Z",
+          "wordCount": 755,
+          "title": "My time machine runs on technical writing",
+          "imageUrl": "/thumb.png"
+        },
         {
           "id": "https://passo.uno/writing-for-llms-ai-chatbots/",
           "author": null,
@@ -15088,6 +15632,16 @@
       "siteUrl": "https://shkspr.mobi/blog",
       "articles": [
         {
+          "id": "https://shkspr.mobi/blog/2025/02/review-phantom-peak-jonacon-london-2025/",
+          "author": null,
+          "description": "I was lucky enough to score playtest tickets for the new season of Phantom Peak - the open world, interactive and immersive puzzle experience in London.  I&#039;d never been before and generally have a mixed reaction to these sorts of immersive shows. I loved Doctor Who - Time Fracture but found 1984 to be underwhelming.  Phantom Peak takes you inside an Old West mining town in a weird steam-punk alternate reality. The corrupt mayor is on the prowl, demons stalk the land, love is in the air, but can …",
+          "link": "https://shkspr.mobi/blog/2025/02/review-phantom-peak-jonacon-london-2025/",
+          "publishedOn": "2025-02-10T12:34:12.000Z",
+          "wordCount": null,
+          "title": "Review: Phantom Peak - JONACON London 2025 ★★★★★",
+          "imageUrl": null
+        },
+        {
           "id": "https://shkspr.mobi/blog/2025/02/presenting-activitybot-at-fosdem/",
           "author": null,
           "description": "Because I&#039;m an optimist, I submitted a few talks to FOSDEM in the hope one might be accepted.  Because I&#039;m lucky, I got two speaking slots. Because I&#039;m an idiot, I decided to do both talks. On the same day. An hour apart. On opposite ends of the venue.  Fool!  My first talk was at the Social Web Birds-of-a-Feather session. I told people about my ActivityBot social networking server and how I built it into a single file. In the spirit of minimalism, I only had 8 minutes to present.  Time for a…",
@@ -15256,16 +15810,6 @@
           "wordCount": null,
           "title": "Do you understand how fast computers are?",
           "imageUrl": null
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2025/01/it-is-time-to-ban-email/",
-          "author": null,
-          "description": "I think everyone reading this post has accidentally messed up when sending an email, right?  I noticed this story recently:    The Metropolitan Police has apologised to victims of the Westminster &#34;honeytrap&#34; scandal after it accidentally sent an email which named all of them.   …   the sender, a detective sergeant in the Met’s Diplomatic and Parliamentary Protection unit, included the recipients’ names in the CC section of the email, rather than BCC, which would have concealed their identities. …",
-          "link": "https://shkspr.mobi/blog/2025/01/it-is-time-to-ban-email/",
-          "publishedOn": "2025-01-12T12:34:03.000Z",
-          "wordCount": null,
-          "title": "It is time to ban email",
-          "imageUrl": null
         }
       ]
     },
@@ -15274,6 +15818,16 @@
       "feedUrl": "https://simonwillison.net/atom/everything/",
       "siteUrl": "http://simonwillison.net/",
       "articles": [
+        {
+          "id": "https://simonwillison.net/2025/Feb/10/cerebras-mistral/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://cerebras.ai/blog/mistral-le-chat\">Cerebras brings instant inference to Mistral Le Chat</a></strong></p>\nMistral <a href=\"https://mistral.ai/en/news/all-new-le-chat\">announced a major upgrade</a> to their <a href=\"https://chat.mistral.ai/chat\">Le Chat</a> web UI (their version of ChatGPT) a few days ago, and one of the signature features was performance.</p>\n<p>It turns out that performance boost comes from hosting their model on Cerebras:</p>\n<blockquote>\n<p>We are excited to bring our technology to Mistral – specifically the flagship 123B parameter Mistral Large 2 model. Using our Wafer Scale Engine technology, we achieve over 1,100 tokens per second on text queries.</p>\n</blockquote>\n<p>Given Cerebras's so far unrivaled inference performance I'm surprised that no other AI lab has formed a partnership like this already.\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/mistral\">mistral</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/cerebras\">cerebras</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/10/cerebras-mistral/#atom-everything",
+          "publishedOn": "2025-02-10T03:50:18.000Z",
+          "wordCount": 298,
+          "title": "Cerebras brings instant inference to Mistral Le Chat",
+          "imageUrl": null
+        },
         {
           "id": "https://simonwillison.net/2025/Feb/9/sam-altman/#atom-everything",
           "author": null,

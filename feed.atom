@@ -2,10 +2,646 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsoros.github.io/rss-feeds-hackernews/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-10T01:38:45.363Z</updated>
+    <updated>2025-02-11T01:37:52.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jsoros.github.io/rss-feeds-hackernews/index.html"/>
     <link rel="self" href="https://jsoros.github.io/rss-feeds-hackernews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Copyover MUD Servers Worked]]></title>
+        <id>http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/</id>
+        <link href="http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/"/>
+        <updated>2025-02-11T01:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Floppotron 3.0 (2022)]]></title>
+        <id>https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/</id>
+        <link href="https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/"/>
+        <updated>2025-02-11T01:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Calendar removed events like Pride and BHM; retains Black Friday]]></title>
+        <id>https://news.ycombinator.com/item?id=43007564</id>
+        <link href="https://www.theverge.com/news/608858/google-calendar-missing-events-holidays"/>
+        <updated>2025-02-11T00:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/news/608858/google-calendar-missing-events-holidays
+Comments URL: https://news.ycombinator.com/item?id=43007564
+Points: 12
+# Comments: 4]]></summary>
+        <author>
+            <name>blipr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Calendar removed events like Pride and BHM; retains Black Friday]]></title>
+        <id>https://www.theverge.com/news/608858/google-calendar-missing-events-holidays</id>
+        <link href="https://www.theverge.com/news/608858/google-calendar-missing-events-holidays"/>
+        <updated>2025-02-11T00:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large Nuclear-Powered Subsonic Aircraft for Transoceanic Commerce (1971) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=43006605</id>
+        <link href="https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf"/>
+        <updated>2025-02-10T23:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf
+Comments URL: https://news.ycombinator.com/item?id=43006605
+Points: 17
+# Comments: 1]]></summary>
+        <author>
+            <name>ipnon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large Nuclear-Powered Subsonic Aircraft for Transoceanic Commerce (1971) [pdf]]]></title>
+        <id>https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf</id>
+        <link href="https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf"/>
+        <updated>2025-02-10T23:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fun with C++26 reflection: Keyword Arguments]]></title>
+        <id>https://news.ycombinator.com/item?id=43006536</id>
+        <link href="https://pydong.org/posts/KwArgs/"/>
+        <updated>2025-02-10T23:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pydong.org/posts/KwArgs/
+Comments URL: https://news.ycombinator.com/item?id=43006536
+Points: 37
+# Comments: 5]]></summary>
+        <author>
+            <name>HeliumHydride</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fun with C++26 reflection: Keyword Arguments]]></title>
+        <id>https://pydong.org/posts/KwArgs/</id>
+        <link href="https://pydong.org/posts/KwArgs/"/>
+        <updated>2025-02-10T23:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hedge Funds Are Pocketing Much of Their Clients' Gains with 'No Limit' Fees]]></title>
+        <id>https://news.ycombinator.com/item?id=43006390</id>
+        <link href="https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/"/>
+        <updated>2025-02-10T22:57:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/
+Comments URL: https://news.ycombinator.com/item?id=43006390
+Points: 74
+# Comments: 54]]></summary>
+        <author>
+            <name>wslh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hedge Funds Are Pocketing Much of Their Clients' Gains with 'No Limit' Fees]]></title>
+        <id>https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/</id>
+        <link href="https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/"/>
+        <updated>2025-02-10T22:57:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fly.io (YC W20) Is Hiring a Customer Support Director]]></title>
+        <id>https://news.ycombinator.com/item?id=43005096</id>
+        <link href="https://news.ycombinator.com/item?id=43005096"/>
+        <updated>2025-02-10T21:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments URL: https://news.ycombinator.com/item?id=43005096
+Points: 0
+# Comments: 0]]></summary>
+        <author>
+            <name>tptacek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fly.io (YC W20) Is Hiring a Customer Support Director]]></title>
+        <id>https://news.ycombinator.com/item?id=43005096</id>
+        <link href="https://news.ycombinator.com/item?id=43005096"/>
+        <updated>2025-02-10T21:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk-led group makes $97B bid for control of OpenAI]]></title>
+        <id>https://news.ycombinator.com/item?id=43004889</id>
+        <link href="https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/"/>
+        <updated>2025-02-10T20:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/
+Comments URL: https://news.ycombinator.com/item?id=43004889
+Points: 424
+# Comments: 467]]></summary>
+        <author>
+            <name>jdoliner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk-led group makes $97B bid for control of OpenAI]]></title>
+        <id>https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/</id>
+        <link href="https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/"/>
+        <updated>2025-02-10T20:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing ASCP integration with Pod Identity: Enhanced security for secrets management in Amazon EKS]]></title>
+        <id>04994fccd4a57d6d024ab352b55577e9cd3bdd2d</id>
+        <link href="https://aws.amazon.com/blogs/security/announcing-ascp-integration-with-pod-identity-enhanced-security-for-secrets-management-in-amazon-eks/"/>
+        <updated>2025-02-10T20:32:49.000Z</updated>
+        <summary type="html"><![CDATA[In 2021, Amazon Web Services (AWS) introduced the AWS Secrets and Configuration Provider (ASCP) for the Kubernetes Secrets Store Container Storage Interface (CSI) Driver, offering a reliable way to manage secrets in Amazon Elastic Kubernetes Service (Amazon EKS). Today, we’re excited to announce the integration of ASCP with Pod Identity, the new standard for AWS […]]]></summary>
+        <author>
+            <name>Rodrigo Bersa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TinyX: Small Featured X Server]]></title>
+        <id>https://news.ycombinator.com/item?id=43004435</id>
+        <link href="https://github.com/tinycorelinux/tinyx"/>
+        <updated>2025-02-10T19:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/tinycorelinux/tinyx
+Comments URL: https://news.ycombinator.com/item?id=43004435
+Points: 20
+# Comments: 1]]></summary>
+        <author>
+            <name>nateb2022</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TinyX: Small Featured X Server]]></title>
+        <id>https://github.com/tinycorelinux/tinyx</id>
+        <link href="https://github.com/tinycorelinux/tinyx"/>
+        <updated>2025-02-10T19:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling up test-time compute with latent reasoning: A recurrent depth approach]]></title>
+        <id>https://news.ycombinator.com/item?id=43004416</id>
+        <link href="https://arxiv.org/abs/2502.05171"/>
+        <updated>2025-02-10T19:50:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2502.05171
+Comments URL: https://news.ycombinator.com/item?id=43004416
+Points: 71
+# Comments: 15]]></summary>
+        <author>
+            <name>timbilt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling up test-time compute with latent reasoning: A recurrent depth approach]]></title>
+        <id>https://arxiv.org/abs/2502.05171</id>
+        <link href="https://arxiv.org/abs/2502.05171"/>
+        <updated>2025-02-10T19:50:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What happens to SaaS in a world with computer-using agents?]]></title>
+        <id>https://news.ycombinator.com/item?id=43004373</id>
+        <link href="https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing"/>
+        <updated>2025-02-10T19:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing
+Comments URL: https://news.ycombinator.com/item?id=43004373
+Points: 66
+# Comments: 56]]></summary>
+        <author>
+            <name>stephencoyner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What happens to SaaS in a world with computer-using agents?]]></title>
+        <id>https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing</id>
+        <link href="https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing"/>
+        <updated>2025-02-10T19:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patterns for Building Realtime Features]]></title>
+        <id>https://news.ycombinator.com/item?id=43004334</id>
+        <link href="https://zknill.io/posts/patterns-for-building-realtime/"/>
+        <updated>2025-02-10T19:42:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zknill.io/posts/patterns-for-building-realtime/
+Comments URL: https://news.ycombinator.com/item?id=43004334
+Points: 71
+# Comments: 18]]></summary>
+        <author>
+            <name>zknill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patterns for Building Realtime Features]]></title>
+        <id>https://zknill.io/posts/patterns-for-building-realtime/</id>
+        <link href="https://zknill.io/posts/patterns-for-building-realtime/"/>
+        <updated>2025-02-10T19:42:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Weekly Roundup: AWS Step Functions, AWS CloudFormation, Amazon Q Developer, and more (February 10, 2024)]]></title>
+        <id>0030c50b5a1ed66591d4de6f3dcf83bcc7c52fe6</id>
+        <link href="https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-step-functions-aws-cloudformation-amazon-q-developer-and-more-february-10-2024/"/>
+        <updated>2025-02-10T19:27:49.000Z</updated>
+        <summary type="html"><![CDATA[We are well settled into 2025 by now, but many people are still catching up with all the exciting new releases and announcements that came out of re:Invent last year. There have been hundreds of re:Invent recap events around the world since the beginning of the year, including in-person all-day official AWS events with multiple […]]]></summary>
+        <author>
+            <name>Matheus Guimaraes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The return of the buffalo is reviving portions of the ecosystem]]></title>
+        <id>https://news.ycombinator.com/item?id=43004147</id>
+        <link href="https://www.nativesunnews.today/articles/the-return-of-the-buffalo-is-reviving-portions-of-the-ecosystem/"/>
+        <updated>2025-02-10T19:24:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nativesunnews.today/articles/the-return-of-the-buffalo-is-reviving-portions-of-the-ecosystem/
+Comments URL: https://news.ycombinator.com/item?id=43004147
+Points: 53
+# Comments: 22]]></summary>
+        <author>
+            <name>geox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for SQL Server supports new minor version in January 2025]]></title>
+        <id>a209e6092db87d541758d7809bd64ffc5e9430d8</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-sql-server-minor-version-january-2025"/>
+        <updated>2025-02-10T18:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A new minor version of Microsoft SQL Server is now available on Amazon RDS for SQL Server, providing performance enhancements and security fixes. Amazon RDS for SQL Server now supports this latest minor version of SQL Server 2022 across the Express, Web, Standard, and Enterprise editions.
+  We encourage you to upgrade your Amazon RDS for SQL Server database instances at your convenience. You can upgrade with just a few clicks in the Amazon RDS Management Console or by using the AWS CLI. Learn more about upgrading your database instances from the Amazon RDS User Guide. The new minor version is SQL Server 2022 CU17 - 16.0.4175.1.
+  This minor version is available in all AWS commercial regions where Amazon RDS for SQL Server databases are available, including the AWS GovCloud (US) Regions.
+  Amazon RDS for SQL Server makes it simple to set up, operate, and scale SQL Server deployments in the cloud. See Amazon RDS for SQL Server Pricing for pricing details and regional availability.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift Serverless adds higher base capacity of up to 1024 RPUs]]></title>
+        <id>c2f1602739502a7612928404eedc3896c59903b7</id>
+        <link href="https://aws.amazon.com/blogs/big-data/amazon-redshift-serverless-adds-higher-base-capacity-of-up-to-1024-rpus/"/>
+        <updated>2025-02-10T18:40:25.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore the new higher base capacity of 1024 RPUs in Redshift Serverless, which doubles the previous maximum of 512 RPUs. This enhancement empowers you to get high performance for your workload containing highly complex queries and write-intensive workloads, with concurrent data ingestion and transformation tasks that require high throughput and low latency with Redshift Serverless.]]></summary>
+        <author>
+            <name>Ricardo Serafim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EFS now supports up to 10,000 access points per EFS file system]]></title>
+        <id>ec41a143ad75914688baf9d75ea792978ce90edb</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-efs-access-points-file-system/"/>
+        <updated>2025-02-10T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic File System (Amazon EFS) has now increased the access points limit from 1,000 to 10,000 per file system, a 10x increase. This launch makes it even easier for customers to manage application-specific access to shared datasets, enabling them to seamlessly scale access management to thousands of users, on a single EFS file system.
+  Amazon EFS is a fully elastic file storage service that makes it simple to set up and run file workloads in the AWS cloud. Access points are application-specific entry points that enforce a user identity and root directory, and logically isolate data between applications. The new EFS access point limits automatically apply to all file systems and require no action from customers.
+  The new access point limits are immediately available in all commercial AWS regions, except in AWS China Regions. To learn more, see the Amazon EFS Documentation or create a file system using the Amazon EFS Console, API, or AWS CLI.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch now provides lock contention diagnostics for Aurora PostgreSQL]]></title>
+        <id>45e745f49c8fa8d0350a939145d924009e8a10ee</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-cloudwatch-lock-contention-diagnostics-aurora-postgresql"/>
+        <updated>2025-02-10T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CloudWatch Database Insights now provides lock contention diagnostics for Aurora PostgreSQL instances. This feature helps you identify the root cause behind both ongoing and historical lock contention issues within minutes. The lock contention diagnostics feature is available exclusively in the Advanced mode of CloudWatch Database Insights.
+  With this launch, you can visualize a locking condition in the Database Insights console, which shows the relationship between blocking and waiting sessions. The visualization helps you quickly identify the dominating sessions, queries, or objects causing lock contention. Additionally, this feature persists historical locking data for 15 months, allowing you to analyze and investigate historical locking conditions. You no longer need to manually run custom queries or rely on application logs to diagnose lock contention issues, streamlining the troubleshooting process.
+  You can get started with this feature by enabling the Advanced mode of CloudWatch Database Insights on your Aurora PostgreSQL clusters using the Aurora service console, AWS APIs, or the AWS SDK. CloudWatch Database Insights delivers database health monitoring aggregated at the fleet level, as well as instance-level dashboards for detailed database and SQL query analysis.
+  CloudWatch Database Insights is available in all public AWS Regions and offers vCPU-based pricing – see the pricing page for details. For further information, visit the Database Insights documentation.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Work at the Mill Or, the Story of Digital Equipment Corporation]]></title>
+        <id>https://news.ycombinator.com/item?id=43002906</id>
+        <link href="https://www.abortretry.fail/p/work-at-the-mill"/>
+        <updated>2025-02-10T17:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.abortretry.fail/p/work-at-the-mill
+Comments URL: https://news.ycombinator.com/item?id=43002906
+Points: 76
+# Comments: 29]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Work at the Mill Or, the Story of Digital Equipment Corporation]]></title>
+        <id>https://www.abortretry.fail/p/work-at-the-mill</id>
+        <link href="https://www.abortretry.fail/p/work-at-the-mill"/>
+        <updated>2025-02-10T17:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Undergraduate shows that searches within hash tables can be much faster]]></title>
+        <id>https://news.ycombinator.com/item?id=43002511</id>
+        <link href="https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/"/>
+        <updated>2025-02-10T17:05:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/
+Comments URL: https://news.ycombinator.com/item?id=43002511
+Points: 469
+# Comments: 208]]></summary>
+        <author>
+            <name>Jhsto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Undergraduate shows that searches within hash tables can be much faster]]></title>
+        <id>https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/</id>
+        <link href="https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/"/>
+        <updated>2025-02-10T17:05:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CAPTCHAs: 'a tracking cookie farm for profit masquerading as a security service']]></title>
+        <id>https://news.ycombinator.com/item?id=43002440</id>
+        <link href="https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/"/>
+        <updated>2025-02-10T16:59:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/
+Comments URL: https://news.ycombinator.com/item?id=43002440
+Points: 122
+# Comments: 77]]></summary>
+        <author>
+            <name>ghuroo1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CAPTCHAs: 'a tracking cookie farm for profit masquerading as a security service']]></title>
+        <id>https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/</id>
+        <link href="https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/"/>
+        <updated>2025-02-10T16:59:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Global 3D topography explorer]]></title>
+        <id>https://news.ycombinator.com/item?id=43001688</id>
+        <link href="https://topography.jessekv.com/"/>
+        <updated>2025-02-10T15:54:45.000Z</updated>
+        <summary type="html"><![CDATA[I made a web app to generate 3D models of real places on earth from land cover and elevation data.
+Click anywhere on the map to get a polygon, and then click "generate".
+It should work at most scales, but if your watershed or region selection is too large, the result can be less exciting because it's so flat.
+As a warning, the 3D models can sometimes be too much for my phone. It's nicer on desktop. I'm still working better on mobile support.
+The land cover data I'm using gives a cool effect, but at some point I'd like to add in global imagery and clouds.
+The backend is a Python thread running on an old Lenovo Thinkcentre in my closet, so if it goes down, this is why. (I also sometimes need to restart it when the network card stops working... I really should figure out why sometime.)
+If you find a really cool island or watershed, let me know and I can add it to the "favorites".
+Comments URL: https://news.ycombinator.com/item?id=43001688
+Points: 77
+# Comments: 30]]></summary>
+        <author>
+            <name>jessekv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Global 3D topography explorer]]></title>
+        <id>https://topography.jessekv.com/</id>
+        <link href="https://topography.jessekv.com/"/>
+        <updated>2025-02-10T15:54:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hit the Blog Button]]></title>
+        <id>https://birming.com/hit-blog-button/</id>
+        <link href="https://birming.com/hit-blog-button/"/>
+        <updated>2025-02-10T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[I recently released the BearMin theme, and it wasn't long before a new idea sparked. More on that later.
+The point is that one thing leads to another. This is a fact easily forgotten. We sometimes think we're standing still, when in reality, we're moving forward.
+We sometimes need to make mistakes to get things right, endure difficulties to gain valuable experience. And occasionally, we need to start without a clear plan for the best strategy to reveal itself.
+Often, it's better to do something than nothing.
+If you're considering starting a blog but don't know what to write about, set aside your hesitations and begin. If you persevere, the answers will come with time.
+You might discover that blogging without a specific focus works perfectly well, or perhaps you'll find that blogging isn't the right fit for you.
+Whatever you ultimately decide, there's a defining moment: the instant you click "Publish" for the first time. That moment, however small it seems, marks the beginning of your journey as a blogger.]]></summary>
+        <author>
+            <name>Robert Birming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lambda function with GraalVM Native Image - Part 5 Measuring cold and warm starts with GraalVM 23]]></title>
+        <id>https://dev.to/aws-heroes/lambda-function-with-graalvm-native-image-part-5-measuring-cold-and-warm-starts-with-graalvm-23-3bn</id>
+        <link href="https://dev.to/aws-heroes/lambda-function-with-graalvm-native-image-part-5-measuring-cold-and-warm-starts-with-graalvm-23-3bn"/>
+        <updated>2025-02-10T15:03:58.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+
+
+In the part 2 of this article series we explained how to develop and deploy Lambda function based on GraalVM Native Image with Custom Runtime using GraalVM version 21 and in the part 3 we measured the Lambda performance (cold and warm starts) with this approach. Since then, GraalVM 23 was released, and many dependencies used in our sample application got their version updates. So, it was time for me to update the application to the newest versions available end of December 2024 and to re-measure Lambda performance.
+General setup and the idea of the sample application described in the part 2 remained the same, but I published the updated version of the sample application here. It not only uses GraalVM 23.0.1 as its base but also includes all updated AWS dependencies like bom …]]></summary>
+        <author>
+            <name>Vadym Kazulkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Anthropic Economic Index]]></title>
+        <id>https://news.ycombinator.com/item?id=43000529</id>
+        <link href="https://www.anthropic.com/news/the-anthropic-economic-index"/>
+        <updated>2025-02-10T14:14:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/the-anthropic-economic-index
+Comments URL: https://news.ycombinator.com/item?id=43000529
+Points: 404
+# Comments: 186]]></summary>
+        <author>
+            <name>meetpateltech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Anthropic Economic Index]]></title>
+        <id>https://www.anthropic.com/news/the-anthropic-economic-index</id>
+        <link href="https://www.anthropic.com/news/the-anthropic-economic-index"/>
+        <updated>2025-02-10T14:14:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surnames from nicknames nobody has any more]]></title>
+        <id>https://news.ycombinator.com/item?id=43000316</id>
+        <link href="https://blog.plover.com/lang/etym/nickname-names.html"/>
+        <updated>2025-02-10T13:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.plover.com/lang/etym/nickname-names.html
+Comments URL: https://news.ycombinator.com/item?id=43000316
+Points: 691
+# Comments: 342]]></summary>
+        <author>
+            <name>JNRowe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surnames from nicknames nobody has any more]]></title>
+        <id>https://blog.plover.com/lang/etym/nickname-names.html</id>
+        <link href="https://blog.plover.com/lang/etym/nickname-names.html"/>
+        <updated>2025-02-10T13:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: HTML visualization of a PDF file's internal structure]]></title>
+        <id>https://news.ycombinator.com/item?id=43000303</id>
+        <link href="https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md"/>
+        <updated>2025-02-10T13:52:53.000Z</updated>
+        <summary type="html"><![CDATA[Hi,
+I've just finished a rebuild of this function and added a lot of new features: info, page index, minimap, inverted index,... 
+I think it may be useful for inspection, debugging or just as a learning resource showcasing the PDF file format.
+This is a pet project and I would be happy to receive some feedback!
+Regards
+Comments URL: https://news.ycombinator.com/item?id=43000303
+Points: 317
+# Comments: 43]]></summary>
+        <author>
+            <name>desgeeko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: HTML visualization of a PDF file's internal structure]]></title>
+        <id>https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md</id>
+        <link href="https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md"/>
+        <updated>2025-02-10T13:52:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why hasn't commercial air travel gotten any faster since the 1960s? (2009)]]></title>
+        <id>https://news.ycombinator.com/item?id=43000275</id>
+        <link href="https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/"/>
+        <updated>2025-02-10T13:50:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/
+Comments URL: https://news.ycombinator.com/item?id=43000275
+Points: 60
+# Comments: 208]]></summary>
+        <author>
+            <name>sorentwo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why hasn't commercial air travel gotten any faster since the 1960s? (2009)]]></title>
+        <id>https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/</id>
+        <link href="https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/"/>
+        <updated>2025-02-10T13:50:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What about K?]]></title>
+        <id>https://news.ycombinator.com/item?id=42999650</id>
+        <link href="https://xpqz.github.io/kbook/Introduction.html"/>
+        <updated>2025-02-10T12:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://xpqz.github.io/kbook/Introduction.html
+Comments URL: https://news.ycombinator.com/item?id=42999650
+Points: 175
+# Comments: 107]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What about K?]]></title>
+        <id>https://xpqz.github.io/kbook/Introduction.html</id>
+        <link href="https://xpqz.github.io/kbook/Introduction.html"/>
+        <updated>2025-02-10T12:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Phantom Peak - JONACON London 2025 ★★★★★]]></title>
+        <id>https://shkspr.mobi/blog/2025/02/review-phantom-peak-jonacon-london-2025/</id>
+        <link href="https://shkspr.mobi/blog/2025/02/review-phantom-peak-jonacon-london-2025/"/>
+        <updated>2025-02-10T12:34:12.000Z</updated>
+        <summary type="html"><![CDATA[I was lucky enough to score playtest tickets for the new season of Phantom Peak - the open world, interactive and immersive puzzle experience in London.  I&#039;d never been before and generally have a mixed reaction to these sorts of immersive shows. I loved Doctor Who - Time Fracture but found 1984 to be underwhelming.  Phantom Peak takes you inside an Old West mining town in a weird steam-punk alternate reality. The corrupt mayor is on the prowl, demons stalk the land, love is in the air, but can …]]></summary>
+        <author>
+            <name>Terence Eden’s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My time machine runs on technical writing]]></title>
+        <id>https://passo.uno/retrocomputing-tech-writing-lab/</id>
+        <link href="https://passo.uno/retrocomputing-tech-writing-lab/"/>
+        <updated>2025-02-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This past weekend I’ve been experimenting with AI-assisted coding to port basic docs-as-code elements to old operating systems and platforms, such as the venerable Intel 386. While this might strike you as a bizarre display of futility, I find this sort of retrocomputing exercise to be quite beneficial, if not enlightening. Something just clicks when you stop and walk backwards.]]></summary>
+        <author>
+            <name>passo.uno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CloudFront-triggered S3 data event formats]]></title>
+        <id>https://awsteele.com/blog/2025/02/10/cloudfront-triggered-s3-data-event-formats.html</id>
+        <link href="https://awsteele.com/blog/2025/02/10/cloudfront-triggered-s3-data-event-formats.html"/>
+        <updated>2025-02-10T05:32:00.000Z</updated>
+        <summary type="html"><![CDATA[There are several ways that CloudFront can be configured with an S3 origin. There are functionality differences between them, but the focus in this blog post is how activity is represented in CloudTrail, specifically the differences in S3 data-level events for each CloudFront option. Those options in CloudFront are (in decreasing order of desirability):]]></summary>
+        <author>
+            <name>Aidan Steele’s blog (usually about AWS)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cerebras brings instant inference to Mistral Le Chat]]></title>
+        <id>https://simonwillison.net/2025/Feb/10/cerebras-mistral/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/10/cerebras-mistral/#atom-everything"/>
+        <updated>2025-02-10T03:50:18.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong><a href="https://cerebras.ai/blog/mistral-le-chat">Cerebras brings instant inference to Mistral Le Chat</a></strong></p>
+Mistral <a href="https://mistral.ai/en/news/all-new-le-chat">announced a major upgrade</a> to their <a href="https://chat.mistral.ai/chat">Le Chat</a> web UI (their version of ChatGPT) a few days ago, and one of the signature features was performance.</p>
+<p>It turns out that performance boost comes from hosting their model on Cerebras:</p>
+<blockquote>
+<p>We are excited to bring our technology to Mistral – specifically the flagship 123B parameter Mistral Large 2 model. Using our Wafer Scale Engine technology, we achieve over 1,100 tokens per second on text queries.</p>
+</blockquote>
+<p>Given Cerebras's so far unrivaled inference performance I'm surprised that no other AI lab has formed a partnership like this already.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/mistral">mistral</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/cerebras">cerebras</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thomas Aquinas' skull reveals appearance and cause of death]]></title>
+        <id>https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years</id>
+        <link href="https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years"/>
+        <updated>2025-02-10T03:38:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors]]></title>
         <id>https://news.ycombinator.com/item?id=42995403</id>
@@ -533,6 +1169,16 @@ Points: 95
         <id>http://www.colinux.org/</id>
         <link href="http://www.colinux.org/"/>
         <updated>2025-02-09T11:07:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scroll-Driven Animations]]></title>
+        <id>https://scroll-driven-animations.style/</id>
+        <link href="https://scroll-driven-animations.style/"/>
+        <updated>2025-02-09T09:51:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1242,6 +1888,16 @@ Points: 363
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Genetic Evidence of Killer Whale Predation on White Sharks in Australia]]></title>
+        <id>https://onlinelibrary.wiley.com/doi/10.1002/ece3.70786</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1002/ece3.70786"/>
+        <updated>2025-02-07T19:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Twenty Years of Glasses]]></title>
         <id>https://brainbaking.com/post/2025/02/twenty-years-of-glasses/</id>
         <link href="https://brainbaking.com/post/2025/02/twenty-years-of-glasses/"/>
@@ -1663,6 +2319,16 @@ Points: 87
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The other 99% – CERN Courier]]></title>
+        <id>https://cerncourier.com/a/the-other-99/</id>
+        <link href="https://cerncourier.com/a/the-other-99/"/>
+        <updated>2025-02-07T14:48:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Children's arithmetic skills do not transfer between applied and academic math]]></title>
         <id>https://news.ycombinator.com/item?id=42972781</id>
         <link href="https://www.nature.com/articles/s41586-024-08502-w"/>
@@ -1765,6 +2431,26 @@ Points: 1078
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Memory profilers, call graphs, exception reports, and telemetry]]></title>
+        <id>https://www.nuanced.dev/blog/system-wide-context</id>
+        <link href="https://www.nuanced.dev/blog/system-wide-context"/>
+        <updated>2025-02-07T09:57:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Balcony solar is taking off]]></title>
+        <id>https://www.theguardian.com/environment/2024/dec/18/if-a-million-germans-have-them-there-must-be-something-in-it-how-balcony-solar-is-taking-off</id>
+        <link href="https://www.theguardian.com/environment/2024/dec/18/if-a-million-germans-have-them-there-must-be-something-in-it-how-balcony-solar-is-taking-off"/>
+        <updated>2025-02-07T09:23:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pastrami Pork]]></title>
         <id>1B8DCCB3-67EF-4D0C-8EBF-B6A76F203B33</id>
         <link href="https://lmnt.me/blog/pastrami-pork.html"/>
@@ -1827,6 +2513,16 @@ Points: 366
         <id>https://www.youtube.com/watch?v=Hi8r_63LGyg</id>
         <link href="https://www.youtube.com/watch?v=Hi8r_63LGyg"/>
         <updated>2025-02-07T07:11:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake VS Code Extension on NPM Spreads Multi-Stage Malware]]></title>
+        <id>https://www.mend.io/blog/fake-vs-code-extension-on-npm-spreads-multi-stage-malware/</id>
+        <link href="https://www.mend.io/blog/fake-vs-code-extension-on-npm-spreads-multi-stage-malware/"/>
+        <updated>2025-02-07T06:58:10.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -2012,6 +2708,16 @@ People need to become comfortable with the idea of violence as a means to politi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Indigenous engineers are using AI to preserve their culture]]></title>
+        <id>https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012</id>
+        <link href="https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012"/>
+        <updated>2025-02-07T06:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A whirlwind tutorial on creating teensy ELF executables for Linux (1999)]]></title>
         <id>https://news.ycombinator.com/item?id=42969322</id>
         <link href="https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html"/>
@@ -2029,6 +2735,16 @@ Points: 40
         <id>https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html</id>
         <link href="https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html"/>
         <updated>2025-02-07T04:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ancient-DNA study identifies originators of Indo-European language family]]></title>
+        <id>https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family</id>
+        <link href="https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family"/>
+        <updated>2025-02-07T03:30:10.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -19942,110 +20658,6 @@ Reply to this post by email ●
               Sign my guestbook]]></summary>
         <author>
             <name>Kev Quirk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📝 12 January 2025 at 12:41 - Out with the dogs in the fields kids are sword...]]></title>
-        <id>notes/20250112-1241</id>
-        <link href="https://kevquirk.com/notes/20250112-1241"/>
-        <updated>2025-01-12T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Out with the dogs in the fields, kids are sword fighting with some sticks in the background (can you find them?) this is what Sundays are all about.
-Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️
-Reply to this post by email ● 
-              Sign my guestbook]]></summary>
-        <author>
-            <name>Kev Quirk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It is time to ban email]]></title>
-        <id>https://shkspr.mobi/blog/2025/01/it-is-time-to-ban-email/</id>
-        <link href="https://shkspr.mobi/blog/2025/01/it-is-time-to-ban-email/"/>
-        <updated>2025-01-12T12:34:03.000Z</updated>
-        <summary type="html"><![CDATA[I think everyone reading this post has accidentally messed up when sending an email, right?  I noticed this story recently:    The Metropolitan Police has apologised to victims of the Westminster &#34;honeytrap&#34; scandal after it accidentally sent an email which named all of them.   …   the sender, a detective sergeant in the Met’s Diplomatic and Parliamentary Protection unit, included the recipients’ names in the CC section of the email, rather than BCC, which would have concealed their identities. …]]></summary>
-        <author>
-            <name>Terence Eden’s Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatically Pulling Multiple Repos From GitHub on Mac]]></title>
-        <id>blog/automatically-pulling-multiple-repos-from-github-on-mac</id>
-        <link href="https://kevquirk.com/blog/automatically-pulling-multiple-repos-from-github-on-mac"/>
-        <updated>2025-01-12T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[I have a number of GitHub repositories on my Mac and I wanted a way to auto-pull them on a regular basis. Here's how I did it.
-Any regular readers of my waffle will know that I'm not the sharpest tool in the box. Git is a core part of my workflow for a number of my projects, but being the sausage that I am, I often forget to pull the latest changes from GitHub before doing some work locally. Git then inevitably gets itself confused and it becomes a whole thing to resolve the conflict(s).
-So I needed a way to bypass my sausageness, by automatically pulling from all my repositories on a regular basis. I ended up doing this in 2 steps:
-Creating a way to pull from all repos in one go
-Automating that pull
-Pulling from GitHub
-My first instinct was to build a shell script, then run that script re…]]></summary>
-        <author>
-            <name>Kev Quirk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Range]]></title>
-        <id>5D19C853-BBA2-4EF1-997C-3059A247F968</id>
-        <link href="https://lmnt.me/blog/range.html"/>
-        <updated>2025-01-12T01:50:00.000Z</updated>
-        <summary type="html"><![CDATA[As Mark Zuckerberg changes content moderation policies at Meta, I wanted to re-read my post from last year.
-me
-				
-The necessity around content moderation is based on the extended reach provided by platforms. Even the companies that claim to care about decentralization—for some reason—still make space for trending content, universal search, and unrestricted replies. These features do not support decentralization. They support platforming.
-Content moderation is a much bigger issue for platforms than it is for independent, decentralized websites. Without those features mentioned above, posts have limited range and have a hard time gaining traction. Surfacing those posts by functioning as a platform is what enables potential harm.
-me
-				
-My ears have limited range. I can’t hear into infinit…]]></summary>
-        <author>
-            <name>Louie Mantia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incidents are like dirty nappies]]></title>
-        <id>https://blog.doismellburning.co.uk/incidents-are-like-dirty-nappies/</id>
-        <link href="https://blog.doismellburning.co.uk/incidents-are-like-dirty-nappies/"/>
-        <updated>2025-01-12T00:11:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>The start of this year sees me thinking about KPIs and goals for my engineering org in my role as VP of Engineering,
-while also reading a book on potty training in my role as “Daddy”.</p>
-
-<p>As such, the following analogy occurred to me,
-and now I inflict it upon you:</p>
-
-<!-- more -->
-
-<h2 id="dealing-with-an-incident-is-like-dealing-with-a-dirty-nappy">Dealing with an incident is like dealing with a dirty nappy</h2>
-
-<ul>
-  <li>It’s tempting to think of them as “bad” but fundamentally they’re a healthy and natural, if unglamorous, process</li>
-  <li>You want them somewhat regularly - too often is bad, but so is too rarely</li>
-  <li>Sometimes they go really smoothly and it’s great</li>
-  <li>Sometimes they can be a bit gnarly</li>
-  <li>Sometimes they go so badly you want to just burn it all down and run away screaming</li>
-  <li>If your other processes are healthy, they’re more likely to go better</li>
-  <li>You aim to be prepared for them and have them in a comfortable place, but sometimes they surprise you in the early hours of the morning when you’re somewhere you really don’t want to be (thanks twom)</li>
-  <li>Having other folks with you for support is really helpful</li>
-  <li>Sometimes, whether you like it or not, you get pooped on (thanks twom)</li>
-</ul>
-
-<p>Fundamentally incidents are a fact of life for an engineering org, and dirty nappies a fact of life for the parents of a small child.
-It’s how you deal with them that counts!</p>]]></summary>
-        <author>
-            <name>Kristian Glass - Do I Smell Burning?</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[django-templated-email-md notes aka if you want to format emails with Markdown, use it]]></title>
-        <id>http://webology.micro.blog/2025/01/11/djangotemplatedemailmd-notes-aka-if-you/</id>
-        <link href="https://micro.webology.dev/2025/01/11/djangotemplatedemailmd-notes-aka-if-you/"/>
-        <updated>2025-01-11T16:22:36.000Z</updated>
-        <summary type="html"><![CDATA[I launched Django News Jobs two DjangoCon USs ago, and I somehow put off deploying emails until this week. So, every day or two, I check my Review Jobs queue to see if there’s anything new to approve or reject.
-✅ Sending emails with Django is straightforward and not very painful.
-🤔 Working with most email providers and troubleshooting issues is painful.
-🤔 Starting with a blank page and styling emails is painful.
-I tried a few third-party apps that I fought with before landing on Jack Linke’s django-templated-email-md (DTEM), which just worked. DTEM doesn’t re-invent the wheel, but it does let me write my email messages with Markdown, which turns out to be all I need.
-To add email support, I followed the Usage Guide and then I added one send email function per email that I wanted to send.…]]></summary>
-        <author>
-            <name>Jeff Triplett's Micro.blog</name>
         </author>
     </entry>
 </feed>
