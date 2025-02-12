@@ -6,6 +6,206 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43020469",
+          "author": "zerr",
+          "description": "Article URL: https://www.cato.org/policy-analysis/why-legal-immigration-nearly-impossible?resubmit=hn\nComments URL: https://news.ycombinator.com/item?id=43020469\nPoints: 21\n# Comments: 10",
+          "link": "https://www.cato.org/policy-analysis/why-legal-immigration-nearly-impossible?resubmit=hn",
+          "publishedOn": "2025-02-12T00:57:10.000Z",
+          "wordCount": 38850,
+          "title": "Why Legal Immigration Is Nearly Impossible: US Legal Immigration Rules Explained",
+          "imageUrl": "https://www.cato.org/sites/cato.org/files/styles/optimized/public/2023-06/immigration-paperwork-Cropped.jpg?itok=SSD3F7Sb"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43020180",
+          "author": "justinpombrio",
+          "description": "Article URL: https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html\nComments URL: https://news.ycombinator.com/item?id=43020180\nPoints: 11\n# Comments: 0",
+          "link": "https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html",
+          "publishedOn": "2025-02-12T00:23:16.000Z",
+          "wordCount": 445,
+          "title": "JJ Cheat Sheet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43019352",
+          "author": "julianh65",
+          "description": "Article URL: https://neuralink.com/blog/a-year-of-telepathy/\nComments URL: https://news.ycombinator.com/item?id=43019352\nPoints: 33\n# Comments: 33",
+          "link": "https://neuralink.com/blog/a-year-of-telepathy/",
+          "publishedOn": "2025-02-11T22:46:31.000Z",
+          "wordCount": 2036,
+          "title": "A Year of Telepathy",
+          "imageUrl": "https://neuralink.com/assets/static/default.Cp3rD03M.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43018643",
+          "author": "rntn",
+          "description": "Article URL: https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451\nComments URL: https://news.ycombinator.com/item?id=43018643\nPoints: 92\n# Comments: 52",
+          "link": "https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451",
+          "publishedOn": "2025-02-11T21:31:43.000Z",
+          "wordCount": 4773,
+          "title": "NOAA's public weather data powers the local forecasts on your phone and TV",
+          "imageUrl": "https://images.theconversation.com/files/647813/original/file-20250209-17-cu14ik.jpg?ixlib=rb-4.1.0&rect=32%2C64%2C3600%2C1800&q=45&auto=format&w=1356&h=668&fit=crop"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43018312",
+          "author": "SoKamil",
+          "description": "Article URL: https://nickgrossman.xyz/the-butter-thesis\nComments URL: https://news.ycombinator.com/item?id=43018312\nPoints: 20\n# Comments: 11",
+          "link": "https://nickgrossman.xyz/the-butter-thesis",
+          "publishedOn": "2025-02-11T21:02:12.000Z",
+          "wordCount": 1567,
+          "title": "The Butter Thesis (2019)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43018293",
+          "author": "brandonb",
+          "description": "Article URL: https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer\nComments URL: https://news.ycombinator.com/item?id=43018293\nPoints: 0\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer",
+          "publishedOn": "2025-02-11T21:00:32.000Z",
+          "wordCount": 1785,
+          "title": "Empirical Health (YC S23) Is Hiring Design Engineers in NYC",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43018251",
+          "author": "johnneville",
+          "description": "Article URL: https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/\nComments URL: https://news.ycombinator.com/item?id=43018251\nPoints: 213\n# Comments: 88",
+          "link": "https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/",
+          "publishedOn": "2025-02-11T20:56:21.000Z",
+          "wordCount": 21308,
+          "title": "Thomson Reuters wins first major AI copyright case in the US",
+          "imageUrl": "https://media.wired.com/photos/67abae4e99ebae2e3bcfd8a3/191:100/w_1280,c_limit/Reuters-AI-Lawsuit-Win-Business-1993633254.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43017739",
+          "author": "ccakes",
+          "description": "Article URL: https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly\nComments URL: https://news.ycombinator.com/item?id=43017739\nPoints: 27\n# Comments: 18",
+          "link": "https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly",
+          "publishedOn": "2025-02-11T20:11:37.000Z",
+          "wordCount": null,
+          "title": "Zeroperl: Sandboxing Perl with WebAssembly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43017612",
+          "author": "LorenDB",
+          "description": "Article URL: https://www.tomshardware.com/pc-components/cpus/passmark-sees-the-first-yearly-drop-in-average-cpu-performance-in-its-20-years-of-benchmark-results\nComments URL: https://news.ycombinator.com/item?id=43017612\nPoints: 77\n# Comments: 21",
+          "link": "https://www.tomshardware.com/pc-components/cpus/passmark-sees-the-first-yearly-drop-in-average-cpu-performance-in-its-20-years-of-benchmark-results",
+          "publishedOn": "2025-02-11T20:00:13.000Z",
+          "wordCount": 16847,
+          "title": "The first yearly drop in average CPU performance in its 20 years of benchmarks",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/7accr9pcZLik7eHpuBtKBY-1200-80.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43017599",
+          "author": "sijuntan",
+          "description": "Article URL: https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2\nComments URL: https://news.ycombinator.com/item?id=43017599\nPoints: 257\n# Comments: 107",
+          "link": "https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2",
+          "publishedOn": "2025-02-11T19:59:00.000Z",
+          "wordCount": 1942,
+          "title": "DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL",
+          "imageUrl": "https://www.notion.so/images/meta/default.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43017010",
+          "author": "vsdlrd",
+          "description": "Article URL: https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/\nComments URL: https://news.ycombinator.com/item?id=43017010\nPoints: 174\n# Comments: 96",
+          "link": "https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/",
+          "publishedOn": "2025-02-11T19:15:02.000Z",
+          "wordCount": 5153,
+          "title": "The subtle art of designing physical controls for cars",
+          "imageUrl": "https://theturnsignalblog.com/static/744153fbeaba39ca0d8c106ddc1ffdb2/3b869/featured.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43016574",
+          "author": "kevincox",
+          "description": "Article URL: https://obscura.net/blog/bootstrapping-trust/\nComments URL: https://news.ycombinator.com/item?id=43016574\nPoints: 47\n# Comments: 31",
+          "link": "https://obscura.net/blog/bootstrapping-trust/",
+          "publishedOn": "2025-02-11T18:44:48.000Z",
+          "wordCount": 1499,
+          "title": "Trust, 2-Party Relays, and QUIC",
+          "imageUrl": "https://obscura.net/og.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43016353",
+          "author": "rntn",
+          "description": "Article URL: https://www.nature.com/articles/d41586-025-00394-8\nComments URL: https://news.ycombinator.com/item?id=43016353\nPoints: 107\n# Comments: 31",
+          "link": "https://www.nature.com/articles/d41586-025-00394-8",
+          "publishedOn": "2025-02-11T18:30:13.000Z",
+          "wordCount": null,
+          "title": "Japan can be a science heavyweight once more if it rethinks funding",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43016248",
+          "author": "skadamat",
+          "description": "Article URL: https://richmond.com/holmberg-reviving-the-joy-and-honor-of-working-with-your-hands-will-strengthen-our-nation/article_d8130166-855d-53b6-94e1-cb735edcd7cc.html\nComments URL: https://news.ycombinator.com/item?id=43016248\nPoints: 85\n# Comments: 45",
+          "link": "https://richmond.com/holmberg-reviving-the-joy-and-honor-of-working-with-your-hands-will-strengthen-our-nation/article_d8130166-855d-53b6-94e1-cb735edcd7cc.html",
+          "publishedOn": "2025-02-11T18:23:03.000Z",
+          "wordCount": 12082,
+          "title": "Reviving the joy and honor of working with your hands (2015)",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/c/e0/ce0f0ff8-8c5e-5ca0-b9c7-62a551d9059c/56186e17d0585.preview.jpg?crop=920%2C483%2C0%2C11"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43015631",
+          "author": "rvivek",
+          "description": "We help companies hire & upskill developers. A customer recently asked: What % of HackerRank problems can LLMs solve? That got us thinking—how should hiring evolve when AI can translate natural language to code?\nOur belief: AI will handle much of code generation, so developers will be assessed more on SDLC skills with AI assistants.\nTo explore this, we’re benchmarking LLMs on real-world software dev scenarios—starting with 65 unseen problems across 10 domains. Beyond correctness, we evaluated consistency—an often overlooked aspect of AI reliability. We’re open-sourcing the dataset on Huggingface and expanding it to cover more domains, ambiguous specs, and harder challenges.\nWould love the HN community’s take on this!\nComments URL: https://news.ycombinator.com/item?id=43015631\nPoints: 18\n# Comments: 6",
+          "link": "https://www.hackerrank.com/ai/astra-reports",
+          "publishedOn": "2025-02-11T17:37:38.000Z",
+          "wordCount": null,
+          "title": "ASTRA: HackerRank's coding benchmark for LLMs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43015585",
+          "author": "danso",
+          "description": "Article URL: https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-\nComments URL: https://news.ycombinator.com/item?id=43015585\nPoints: 57\n# Comments: 8",
+          "link": "https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-",
+          "publishedOn": "2025-02-11T17:34:31.000Z",
+          "wordCount": 12479,
+          "title": "Postmortem: The singular design of Namco's Katamari Damacy (2004)",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt675f149cc038eb59/6765ed135684e0832ab298f2/Game_Developer_Magazine_Cover_December_2004.png?disable=upscale&width=1200&height=630&fit=crop"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43015267",
+          "author": "sethburster",
+          "description": "Hi HN — we’re Seth and Ayo and we’re building a0.dev (https://a0.dev). a0.dev is a platform built to cut down React Native development time from weeks to just a few hours.\nWe’ve been building mobile apps together for seven years and have had several successes. One thing that’s always bothered us though is how much harder it is to build a mobile app than a website. If you’ve built an app with React Native before you’re familiar with the pains of working with both Xcode and Android Studio, writing tons of boilerplate before you can even start making the app, setting up state management, and of course going through the dreaded app review. We decided to build a platform that would make the app development process faster.\nWe’ve seen the success of new code-gen platforms like v0 and wanted somet…",
+          "link": "https://news.ycombinator.com/item?id=43015267",
+          "publishedOn": "2025-02-11T17:08:35.000Z",
+          "wordCount": 3152,
+          "title": "Launch HN: A0.dev (YC W25) – React Native App Generator",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43014918",
+          "author": "bturtel",
+          "description": "Article URL: https://arxiv.org/abs/2502.05253\nComments URL: https://news.ycombinator.com/item?id=43014918\nPoints: 136\n# Comments: 60",
+          "link": "https://arxiv.org/abs/2502.05253",
+          "publishedOn": "2025-02-11T16:40:20.000Z",
+          "wordCount": 649,
+          "title": "LLMs can teach themselves to better predict the future",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43014408",
+          "author": "ksec",
+          "description": "Article URL: https://chipsandcheese.com/p/intels-battlemage-architecture\nComments URL: https://news.ycombinator.com/item?id=43014408\nPoints: 148\n# Comments: 102",
+          "link": "https://chipsandcheese.com/p/intels-battlemage-architecture",
+          "publishedOn": "2025-02-11T16:00:59.000Z",
+          "wordCount": 12252,
+          "title": "Intel's Battlemage Architecture",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa01015c1-e904-4218-a331-f80fc0852a4a_688x458.jpeg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43013615",
+          "author": "voxadam",
+          "description": "Article URL: https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling\nComments URL: https://news.ycombinator.com/item?id=43013615\nPoints: 1069\n# Comments: 326",
+          "link": "https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling",
+          "publishedOn": "2025-02-11T15:08:08.000Z",
+          "wordCount": null,
+          "title": "I tasted Honda's spicy rodent-repelling tape and I will do it again (2021)",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43007564",
           "author": "blipr",
           "description": "Article URL: https://www.theverge.com/news/608858/google-calendar-missing-events-holidays\nComments URL: https://news.ycombinator.com/item?id=43007564\nPoints: 12\n# Comments: 4",
@@ -4101,6 +4301,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/security/",
       "articles": [
         {
+          "id": "7484427d04ecb6111584557c6425db75032cf731",
+          "author": "Jonathan Jenkyn",
+          "description": "Generative AI applications often involve a combination of various services and features—such as Amazon Bedrock and large language models (LLMs)—to generate content and to access potentially confidential data. This combination requires strong identity and access management controls and is special in the sense that those controls need to be applied on various levels. In this […]",
+          "link": "https://aws.amazon.com/blogs/security/implementing-least-privilege-access-for-amazon-bedrock/",
+          "publishedOn": "2025-02-11T18:11:37.000Z",
+          "wordCount": 6364,
+          "title": "Implementing least privilege access for Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/02/11/Least-privilege-Amazon-Bedrock-1260x630.jpeg"
+        },
+        {
           "id": "04994fccd4a57d6d024ab352b55577e9cd3bdd2d",
           "author": "Rodrigo Bersa",
           "description": "In 2021, Amazon Web Services (AWS) introduced the AWS Secrets and Configuration Provider (ASCP) for the Kubernetes Secrets Store Container Storage Interface (CSI) Driver, offering a reliable way to manage secrets in Amazon Elastic Kubernetes Service (Amazon EKS). Today, we’re excited to announce the integration of ASCP with Pod Identity, the new standard for AWS […]",
@@ -4379,7 +4589,7 @@
     {
       "title": "Be a Better Dev",
       "feedUrl": "https://beabetterdev.com/feed/",
-      "siteUrl": "https://www.beabetterdev.com/",
+      "siteUrl": "https://beabetterdev.com/",
       "articles": []
     },
     {
@@ -4387,6 +4597,16 @@
       "feedUrl": "https://birming.com/feed/",
       "siteUrl": "https://birming.com/",
       "articles": [
+        {
+          "id": "https://birming.com/when-words-ran-out/",
+          "author": null,
+          "description": "At lunch, I stopped by McDonald's to buy a coffee. The place buzzed with lively schoolchildren. Suddenly, everything went silent.\nIt was a moment of silence to honor the victims of the tragic mass shooting here in Sweden last week. The silence that ensued spoke volumes, conveying more than any words could have.\nIt was both beautiful and sad.\nSomething about that silence lingered for the rest of the day. Partly a reminder of life's fragility. But also a reminder of how eloquent silence can communicate.\nSometimes, when words fail us, it is in that shared silence that we find connection and consolation.\nIn Örebro, where the tragedy occurred, thousands of people had gathered at Stortorget. A memorial service was held with speeches and music to honor the victims. A newly written poem, \"When the words ran out\" by Örebro resident Michael Horwath, was read aloud. It ended with:\n\"Now we must hold each other, without hands if necessary. Because now the words have run out.\"",
+          "link": "https://birming.com/when-words-ran-out/",
+          "publishedOn": "2025-02-11T16:30:00.000Z",
+          "wordCount": 733,
+          "title": "When the words ran out",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
+        },
         {
           "id": "https://birming.com/hit-blog-button/",
           "author": null,
@@ -4630,6 +4850,16 @@
       "feedUrl": "https://brainbaking.com/index.xml",
       "siteUrl": "https://brainbaking.com/",
       "articles": [
+        {
+          "id": "https://brainbaking.com/post/2025/02/roll-and-writes-board-games-lite/",
+          "author": "Wouter Groeneveld",
+          "description": "Since COVID, we’ve seen a huge surge in board game popularity, especially within the subgenre called roll & write (or flip & write) games. These games are easily recognized by the sheet(s) of paper (or wipeable surface) you’ll be writing/drawing on as part of the “board interaction” of the game, and of course, the involvement of dice—although that is not always the case. Picture evolved versions of Yahtzee and you’ll have a general idea.\nThese roll & write games are popular because they’re much easier to pull out: most components are fully integrated into the paper, the box is usually smaller, the game plays quicker, the games usually lean on the lighter side that are easier to get into, and most even have a theoretical unlimited number of maximum players. Just like Bingo, everyone just ha…",
+          "link": "https://brainbaking.com/post/2025/02/roll-and-writes-board-games-lite/",
+          "publishedOn": "2025-02-11T15:40:00.000Z",
+          "wordCount": null,
+          "title": "Roll & Writes: Board Games Lite",
+          "imageUrl": null
+        },
         {
           "id": "https://brainbaking.com/post/2025/02/twenty-years-of-glasses/",
           "author": "Wouter Groeneveld",
@@ -5227,16 +5457,6 @@
           "wordCount": null,
           "title": "📝 13 January 2025 at 21:27 - With all the shit going on at the moment with...",
           "imageUrl": null
-        },
-        {
-          "id": "notes/20250112-1554",
-          "author": null,
-          "description": "\"Quickly switching to the new monitor\" has turned into a bit more of a thing. 🤦🏼‍♂️\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
-          "link": "https://kevquirk.com/notes/20250112-1554",
-          "publishedOn": "2025-01-12T15:55:00.000Z",
-          "wordCount": null,
-          "title": "📝 12 January 2025 at 15:54 - Quickly switching to the new monitor has turned into a...",
-          "imageUrl": null
         }
       ]
     },
@@ -5349,6 +5569,28 @@
       "siteUrl": "https://lmnt.me/",
       "articles": [
         {
+          "id": "9E4FEA6A-043C-4F07-837B-A881804907F7",
+          "author": "Louie Mantia",
+          "description": "I was thinking how I’d like to tackle the complexity of this Daruma app icon at smaller sizes. As real daruma decrease in size, brush strokes are simplified. Real life optical sizes!\nSo for this app icon, sizes 128×128 and above feature a visually complex facial hair design, akin to medium-large daruma, but the smaller sizes are simplified in the same way real ones are. You might have to zoom in to see the non-retina 16×16!\nIf you like this, you can make a one-time donation, donate monthly, or buy something from my shop.",
+          "link": "https://lmnt.me/blog/sketchbook/daruma.html",
+          "publishedOn": "2025-02-12T00:25:00.000Z",
+          "wordCount": null,
+          "title": "Daruma",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "07CB3930-6637-438D-9D1B-1B69E7CFB156",
+          "author": "Louie Mantia",
+          "description": "Just like last year, I went to watch the children’s sumo tournament at Ryōgoku Kokugikan. It’s super charming to see children from around the world come to wrestle in this place. Some of these kids are 14 or so, but there were kids as young as 6 or 7, many of which have already bulked up quite a bit!\nIf you like this, you can make a one-time donation, donate monthly, or buy something from my shop.",
+          "link": "https://lmnt.me/blog/photos/hakuho-cup-2025.html",
+          "publishedOn": "2025-02-11T09:15:00.000Z",
+          "wordCount": null,
+          "title": "Hakuho Cup 2025",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "0E89975A-253A-4EB7-B786-51B18C0E2F37",
           "author": "Louie Mantia",
           "description": "Download wallpaper from LMNT\nThere’s something about the way the PlayStation 2 menu system was. Towers of memory blocks, sparks spiraling, and crystal bars telling the time. It’s such a mood.\nGoes great with PlayStation Controllers icons.\nIf you like this, you can make a one-time donation, donate monthly, or buy something from my shop.",
@@ -5400,6 +5642,17 @@
           "publishedOn": "2025-02-06T09:35:00.000Z",
           "wordCount": null,
           "title": "Two and a Half Kids",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "3E3641C2-3374-4FD1-95B5-652CE41CCB8A",
+          "author": "Louie Mantia",
+          "description": "Justa Burger started having “smash bacon” on the menu, which is like a thin layer of pork belly added to the burger.\nI just got this awesome new Game Boy Color color-matched to Pokémon Crystal, which I started playing casually. Almost want to ride around on the Yamanote line all day to just play Pokémon on the train.\nIf you like this, you can make a one-time donation, donate monthly, or buy something from my shop.",
+          "link": "https://lmnt.me/blog/photos/justa-burger-with-pokemon.html",
+          "publishedOn": "2025-02-04T07:30:00.000Z",
+          "wordCount": null,
+          "title": "Justa Burger with Pokémon",
           "itunes": {},
           "imageUrl": null
         },
@@ -5614,16 +5867,6 @@
           "wordCount": null,
           "title": "📩 Email, Calendars, and the Chaos of Modern Workflows",
           "imageUrl": null
-        },
-        {
-          "id": "http://webology.micro.blog/2025/01/12/the-best-nfl-broadcast-teams/",
-          "author": null,
-          "description": "John Gruber posted his picks a few weeks ago, and I couldn’t disagree more.\n2024 NFL broadcast teams and telecast quality, ranked:\nMike Tirico and Chris Collinsworth, NBC (the best duo by a lot)\nAl Michaels and Kirk Herbstreit, Amazon\nJim Nantz and Tony Romo, CBS\n– the floor –\nKevin Burkhardt and Tom Brady, Fox\nThe Manning Cast. If not for a paint-dryingly bad combo of Joe Buck and Troy Aikman, I would never have put the Manning Cast above anyone. This isn’t even fair to Aikman, who isn’t that bad, but Joe Buck should stick with baseball.\nJoe Buck and Troy Aikman, ABC, aka paint drying\nAl Michaels, Mike Tirico, and Chris Collinsworth are what football sounds like to me after Madden. Damn, I miss Madden. Even boringly one-sided games he made special.",
-          "link": "https://micro.webology.dev/2025/01/12/the-best-nfl-broadcast-teams/",
-          "publishedOn": "2025-01-13T02:00:08.000Z",
-          "wordCount": null,
-          "title": "🏈 The best NFL broadcast teams and telecast quality, ranked",
-          "imageUrl": null
         }
       ]
     },
@@ -5649,6 +5892,236 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.dailydot.com/debug/lexipol-data-leak-puppygirl-hacker-polycule/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dailydot.com/debug/lexipol-data-leak-puppygirl-hacker-polycule/",
+          "publishedOn": "2025-02-12T00:33:51.000Z",
+          "wordCount": null,
+          "title": "Hackers leak cop manuals for departments after breaching major provider",
+          "imageUrl": null
+        },
+        {
+          "id": "https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html",
+          "publishedOn": "2025-02-12T00:23:16.000Z",
+          "wordCount": null,
+          "title": "JJ Cheat Sheet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://neuralink.com/blog/a-year-of-telepathy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://neuralink.com/blog/a-year-of-telepathy/",
+          "publishedOn": "2025-02-11T22:46:31.000Z",
+          "wordCount": null,
+          "title": "A Year of Telepathy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451",
+          "author": null,
+          "description": "Comments",
+          "link": "https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451",
+          "publishedOn": "2025-02-11T21:31:43.000Z",
+          "wordCount": null,
+          "title": "NOAA's public weather data powers the local forecasts on your phone and TV",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nickgrossman.xyz/the-butter-thesis",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nickgrossman.xyz/the-butter-thesis",
+          "publishedOn": "2025-02-11T21:02:12.000Z",
+          "wordCount": null,
+          "title": "The Butter Thesis (2019)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer",
+          "publishedOn": "2025-02-11T21:00:32.000Z",
+          "wordCount": null,
+          "title": "Empirical Health (YC S23) Is Hiring Design Engineers in NYC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/",
+          "publishedOn": "2025-02-11T20:56:21.000Z",
+          "wordCount": null,
+          "title": "Thomson Reuters wins first major AI copyright case in the US",
+          "imageUrl": null
+        },
+        {
+          "id": "https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly",
+          "author": null,
+          "description": "Comments",
+          "link": "https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly",
+          "publishedOn": "2025-02-11T20:11:37.000Z",
+          "wordCount": null,
+          "title": "Zeroperl: Sandboxing Perl with WebAssembly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tomshardware.com/pc-components/cpus/passmark-sees-the-first-yearly-drop-in-average-cpu-performance-in-its-20-years-of-benchmark-results",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tomshardware.com/pc-components/cpus/passmark-sees-the-first-yearly-drop-in-average-cpu-performance-in-its-20-years-of-benchmark-results",
+          "publishedOn": "2025-02-11T20:00:13.000Z",
+          "wordCount": null,
+          "title": "The first yearly drop in average CPU performance in its 20 years of benchmarks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2",
+          "publishedOn": "2025-02-11T19:59:00.000Z",
+          "wordCount": null,
+          "title": "DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/",
+          "publishedOn": "2025-02-11T19:15:02.000Z",
+          "wordCount": null,
+          "title": "The subtle art of designing physical controls for cars",
+          "imageUrl": null
+        },
+        {
+          "id": "https://obscura.net/blog/bootstrapping-trust/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://obscura.net/blog/bootstrapping-trust/",
+          "publishedOn": "2025-02-11T18:44:48.000Z",
+          "wordCount": null,
+          "title": "Trust, 2-Party Relays, and QUIC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nature.com/articles/d41586-025-00394-8",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-025-00394-8",
+          "publishedOn": "2025-02-11T18:30:13.000Z",
+          "wordCount": null,
+          "title": "Japan can be a science heavyweight once more if it rethinks funding",
+          "imageUrl": null
+        },
+        {
+          "id": "https://richmond.com/holmberg-reviving-the-joy-and-honor-of-working-with-your-hands-will-strengthen-our-nation/article_d8130166-855d-53b6-94e1-cb735edcd7cc.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://richmond.com/holmberg-reviving-the-joy-and-honor-of-working-with-your-hands-will-strengthen-our-nation/article_d8130166-855d-53b6-94e1-cb735edcd7cc.html",
+          "publishedOn": "2025-02-11T18:23:03.000Z",
+          "wordCount": null,
+          "title": "Reviving the joy and honor of working with your hands (2015)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hackerrank.com/ai/astra-reports",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.hackerrank.com/ai/astra-reports",
+          "publishedOn": "2025-02-11T17:37:38.000Z",
+          "wordCount": null,
+          "title": "ASTRA: HackerRank's coding benchmark for LLMs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-",
+          "publishedOn": "2025-02-11T17:34:31.000Z",
+          "wordCount": null,
+          "title": "Postmortem: The singular design of Namco's Katamari Damacy (2004)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43015267",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=43015267",
+          "publishedOn": "2025-02-11T17:08:35.000Z",
+          "wordCount": null,
+          "title": "Launch HN: A0.dev (YC W25) – React Native App Generator",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2502.05253",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2502.05253",
+          "publishedOn": "2025-02-11T16:40:20.000Z",
+          "wordCount": null,
+          "title": "LLMs can teach themselves to better predict the future",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chipsandcheese.com/p/intels-battlemage-architecture",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chipsandcheese.com/p/intels-battlemage-architecture",
+          "publishedOn": "2025-02-11T16:00:59.000Z",
+          "wordCount": null,
+          "title": "Intel's Battlemage Architecture",
+          "imageUrl": null
+        },
+        {
+          "id": "https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling",
+          "author": null,
+          "description": "Comments",
+          "link": "https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling",
+          "publishedOn": "2025-02-11T15:08:08.000Z",
+          "wordCount": null,
+          "title": "I tasted Honda's spicy rodent-repelling tape and I will do it again (2021)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/",
+          "publishedOn": "2025-02-11T14:55:45.000Z",
+          "wordCount": null,
+          "title": "Backblaze Drive Stats for 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://bernsteinbear.com/blog/ssa/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bernsteinbear.com/blog/ssa/",
+          "publishedOn": "2025-02-11T07:21:21.000Z",
+          "wordCount": null,
+          "title": "Ways to generate SSA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theverge.com/news/609207/nvidia-rtx-5090-power-connector-melting-burning-issues",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/news/609207/nvidia-rtx-5090-power-connector-melting-burning-issues",
+          "publishedOn": "2025-02-11T04:13:47.000Z",
+          "wordCount": null,
+          "title": "Nvidia's RTX 5090 power connectors are melting",
+          "imageUrl": null
+        },
         {
           "id": "http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/",
           "author": null,
@@ -5850,6 +6323,16 @@
           "imageUrl": "https://engineering.mit.edu/wp-content/uploads/2017/01/square_transportation.jpg"
         },
         {
+          "id": "https://thereader.mitpress.mit.edu/the-hallucinatory-thoughts-of-the-dying-mind/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thereader.mitpress.mit.edu/the-hallucinatory-thoughts-of-the-dying-mind/",
+          "publishedOn": "2025-02-10T13:11:28.000Z",
+          "wordCount": null,
+          "title": "The hallucinatory thoughts of the dying mind",
+          "imageUrl": null
+        },
+        {
           "id": "https://xpqz.github.io/kbook/Introduction.html",
           "author": null,
           "description": "Comments",
@@ -5857,6 +6340,26 @@
           "publishedOn": "2025-02-10T12:51:34.000Z",
           "wordCount": 2329,
           "title": "What about K?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/",
+          "publishedOn": "2025-02-10T11:59:41.000Z",
+          "wordCount": null,
+          "title": "Building a personal, private AI computer on a budget",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pinballnirvana.com/forums/threads/the-pinball-philosophy-john-mcphee-1975.22239/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pinballnirvana.com/forums/threads/the-pinball-philosophy-john-mcphee-1975.22239/",
+          "publishedOn": "2025-02-10T05:57:53.000Z",
+          "wordCount": null,
+          "title": "The Pinball Philosophy (1975)",
           "imageUrl": null
         },
         {
@@ -5887,6 +6390,16 @@
           "publishedOn": "2025-02-09T22:36:56.000Z",
           "wordCount": null,
           "title": "One Text to Speech wrapper for Python for all (?) TTS engines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=swlVkYVSlIE",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=swlVkYVSlIE",
+          "publishedOn": "2025-02-09T22:12:01.000Z",
+          "wordCount": null,
+          "title": "Smoke in the cabin of two 737 MAX caused by Load Reduction Device system [video]",
           "imageUrl": null
         },
         {
@@ -6007,6 +6520,16 @@
           "publishedOn": "2025-02-09T16:17:01.000Z",
           "wordCount": null,
           "title": "Advanced Magnet Manufacturing Begins in the United States",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bbc.com/future/article/20250207-sky-skimmers-the-race-to-send-satellites-into-very-low-earth-orbits",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/future/article/20250207-sky-skimmers-the-race-to-send-satellites-into-very-low-earth-orbits",
+          "publishedOn": "2025-02-09T15:00:37.000Z",
+          "wordCount": null,
+          "title": "Sky skimmers: The race to fly satellites at the lowest orbits yet",
           "imageUrl": null
         },
         {
@@ -6200,6 +6723,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://literaryreview.co.uk/no-way-home",
+          "author": null,
+          "description": "Comments",
+          "link": "https://literaryreview.co.uk/no-way-home",
+          "publishedOn": "2025-02-08T16:04:06.000Z",
+          "wordCount": null,
+          "title": "No Way Home",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/xajik/thedeck",
           "author": null,
           "description": "Comments",
@@ -6217,6 +6750,16 @@
           "publishedOn": "2025-02-08T14:48:25.000Z",
           "wordCount": null,
           "title": "We are destroying software",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ohmjs.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ohmjs.org/",
+          "publishedOn": "2025-02-08T13:15:26.000Z",
+          "wordCount": null,
+          "title": "Ohm: A user-friendly parsing toolkit for JavaScript and TypeScript",
           "imageUrl": null
         },
         {
@@ -9337,6 +9880,46 @@
       "feedUrl": "https://seclists.org/rss/fulldisclosure.rss",
       "siteUrl": "https://seclists.org/#fulldisclosure",
       "articles": [
+        {
+          "id": "https://seclists.org/fulldisclosure/2025/Feb/8",
+          "author": null,
+          "description": "Posted by Apple Product Security via Fulldisclosure on Feb 10\nAPPLE-SA-02-10-2025-2 iPadOS 17.7.5\nhttps://support.apple.com/122173.\nhttps://support.apple.com/100100 which lists recent\nsoftware updates with security advisories.\n\nAccessibility\nAvailable for: iPad Pro 12.9-inch 2nd generation, iPad Pro 10.5-inch,\nand iPad 6th generation\nImpact: A physical...",
+          "link": "https://seclists.org/fulldisclosure/2025/Feb/8",
+          "publishedOn": "2025-02-11T03:50:49.000Z",
+          "wordCount": 481,
+          "title": "APPLE-SA-02-10-2025-2 iPadOS 17.7.5",
+          "imageUrl": "https://seclists.org/images/fulldisclosure-img.png"
+        },
+        {
+          "id": "https://seclists.org/fulldisclosure/2025/Feb/7",
+          "author": null,
+          "description": "Posted by Apple Product Security via Fulldisclosure on Feb 10\nAPPLE-SA-02-10-2025-1 iOS 18.3.1 and iPadOS 18.3.1\nhttps://support.apple.com/122174.\nhttps://support.apple.com/100100 which lists recent\nsoftware updates with security advisories.\n\nAccessibility\nAvailable for: iPhone XS and later, iPad Pro 13-inch, iPad Pro 12.9-inch\n3rd generation...",
+          "link": "https://seclists.org/fulldisclosure/2025/Feb/7",
+          "publishedOn": "2025-02-11T03:50:47.000Z",
+          "wordCount": 526,
+          "title": "APPLE-SA-02-10-2025-1 iOS 18.3.1 and iPadOS 18.3.1",
+          "imageUrl": "https://seclists.org/images/fulldisclosure-img.png"
+        },
+        {
+          "id": "https://seclists.org/fulldisclosure/2025/Feb/6",
+          "author": null,
+          "description": "Posted by Jeroen Hermans via Fulldisclosure on Feb 10\nCloudAware Security Advisory\n\nCVE-2024-55447: Potential PII leak and incorrect access control in \nPaxton Net2 software\n\n========================================================================\nSummary\n========================================================================\nInsecure backend database in the Paxton Net2 software.\nPossible leaking of PII incorrect access control.\nAccess cards can be cloned without physical access to the original...",
+          "link": "https://seclists.org/fulldisclosure/2025/Feb/6",
+          "publishedOn": "2025-02-11T03:50:19.000Z",
+          "wordCount": 584,
+          "title": "CVE-2024-55447: Access Control in Paxton Net2 software (update)",
+          "imageUrl": "https://seclists.org/images/fulldisclosure-img.png"
+        },
+        {
+          "id": "https://seclists.org/fulldisclosure/2025/Feb/5",
+          "author": null,
+          "description": "Posted by Georgi Guninski on Feb 10\nSummary:  On 2025-02-09 ChatGPT AI found \"security concern\" (XSS) in\nDeepSeek's AI python code.\n\nBackground:\n\nConsider the simple coding question (Q):\n\nWrite Python CGI which takes as an argument NAME and outputs: \"Hello NAME\".\n\nFirst page and results on google for \"python CGI\" return for me\ntutorials, which are flawed and textbook examples of the cross site\nscripting (XSS) vulnerability. This is a...",
+          "link": "https://seclists.org/fulldisclosure/2025/Feb/5",
+          "publishedOn": "2025-02-11T03:50:02.000Z",
+          "wordCount": 433,
+          "title": "ChatGPT AI finds \"security concern\" (XSS) in DeepSeek's code",
+          "imageUrl": "https://seclists.org/images/fulldisclosure-img.png"
+        },
         {
           "id": "https://seclists.org/fulldisclosure/2025/Feb/4",
           "author": null,
@@ -15632,6 +16215,16 @@
       "siteUrl": "https://shkspr.mobi/blog",
       "articles": [
         {
+          "id": "https://shkspr.mobi/blog/2025/02/a-small-contribution-to-curl/",
+          "author": null,
+          "description": "The venerable curl is one of the most fundamental pieces of code in the modern world.  A seemingly simply utility - it enables other programs to interact with URls - it runs on millions of cars, is inside nearly every TV, used by billions of people, and is even in use on Mars.  And, as of last week, features a small contribution by me!  Look, I&#039;m not an experienced bit-twiddler. I can&#039;t micro-optimise algorithms or spot intricate C-based memory leaks. What I can do is get annoyed at poor…",
+          "link": "https://shkspr.mobi/blog/2025/02/a-small-contribution-to-curl/",
+          "publishedOn": "2025-02-11T12:34:13.000Z",
+          "wordCount": null,
+          "title": "A small contribution to curl",
+          "imageUrl": null
+        },
+        {
           "id": "https://shkspr.mobi/blog/2025/02/review-phantom-peak-jonacon-london-2025/",
           "author": null,
           "description": "I was lucky enough to score playtest tickets for the new season of Phantom Peak - the open world, interactive and immersive puzzle experience in London.  I&#039;d never been before and generally have a mixed reaction to these sorts of immersive shows. I loved Doctor Who - Time Fracture but found 1984 to be underwhelming.  Phantom Peak takes you inside an Old West mining town in a weird steam-punk alternate reality. The corrupt mayor is on the prowl, demons stalk the land, love is in the air, but can …",
@@ -15800,16 +16393,6 @@
           "wordCount": null,
           "title": "Minimum Viable Clustered-Marker Globe using OpenFreeMap and MapLibre GL",
           "imageUrl": null
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2025/01/do-you-understand-how-fast-computers-are/",
-          "author": null,
-          "description": "A million years ago, I was helping advise an analogue office who were thinking about making the great leap forward to the digital future. I was sat in the boss&#039;s office extolling the virtues of digitisation.  &#34;How long does it take you to look up a file from your archives?&#34; I asked, impudently.  &#34;Let me show you,&#34; said the kindly old proprietor. A wizened man straight out of the pages of a Dickens novel. He pressed a switch on his (landline) phone. &#34;Miss Moneypenny? Could you bring us, let&#039;s…",
-          "link": "https://shkspr.mobi/blog/2025/01/do-you-understand-how-fast-computers-are/",
-          "publishedOn": "2025-01-13T12:34:29.000Z",
-          "wordCount": null,
-          "title": "Do you understand how fast computers are?",
-          "imageUrl": null
         }
       ]
     },
@@ -15818,6 +16401,16 @@
       "feedUrl": "https://simonwillison.net/atom/everything/",
       "siteUrl": "http://simonwillison.net/",
       "articles": [
+        {
+          "id": "https://simonwillison.net/2025/Feb/11/llm-sort/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://github.com/vagos/llm-sort\">llm-sort</a></strong></p>\nDelightful <a href=\"https://llm.datasette.io/\">LLM</a> plugin by Evangelos Lamprou which adds the ability to perform \"semantic search\" - allowing you to sort the contents of a file based on using a prompt against an LLM to determine sort order.</p>\n<p>Best illustrated by these examples from the README:</p>\n<pre><code>llm sort --query \"Which names is more suitable for a pet monkey?\" names.txt\n\ncat titles.txt | llm sort --query \"Which book should I read to cook better?\"\n</code></pre>\n<p>It works using this pairwise prompt, which is executed multiple times using Python's <code>sorted(documents, key=functools.cmp_to_key(compare_callback))</code> mechanism:</p>\n<pre><code>Given the query:\n{query}\n\nCompare the following two lines:\n\nLine A:\n{docA}\n\nLine B:\n{docB}\n\nWhich line is more relevant to the query? Please answer with \"Line A\" or \"Line B\".\n</code></pre>\n\n    <p><small></small>Via <a href=\"https://lobste.rs/s/yxlisx/llm_sort_sort_input_lines_semantically\">lobste.rs</a></small></p>\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/plugins\">plugins</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/python\">python</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/11/llm-sort/#atom-everything",
+          "publishedOn": "2025-02-11T20:50:21.000Z",
+          "wordCount": 309,
+          "title": "llm-sort",
+          "imageUrl": null
+        },
         {
           "id": "https://simonwillison.net/2025/Feb/10/cerebras-mistral/#atom-everything",
           "author": null,

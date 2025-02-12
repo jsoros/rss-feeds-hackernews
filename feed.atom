@@ -2,10 +2,687 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsoros.github.io/rss-feeds-hackernews/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-11T01:37:52.780Z</updated>
+    <updated>2025-02-12T01:37:28.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jsoros.github.io/rss-feeds-hackernews/index.html"/>
     <link rel="self" href="https://jsoros.github.io/rss-feeds-hackernews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Legal Immigration Is Nearly Impossible: US Legal Immigration Rules Explained]]></title>
+        <id>https://news.ycombinator.com/item?id=43020469</id>
+        <link href="https://www.cato.org/policy-analysis/why-legal-immigration-nearly-impossible?resubmit=hn"/>
+        <updated>2025-02-12T00:57:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cato.org/policy-analysis/why-legal-immigration-nearly-impossible?resubmit=hn
+Comments URL: https://news.ycombinator.com/item?id=43020469
+Points: 21
+# Comments: 10]]></summary>
+        <author>
+            <name>zerr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers leak cop manuals for departments after breaching major provider]]></title>
+        <id>https://www.dailydot.com/debug/lexipol-data-leak-puppygirl-hacker-polycule/</id>
+        <link href="https://www.dailydot.com/debug/lexipol-data-leak-puppygirl-hacker-polycule/"/>
+        <updated>2025-02-12T00:33:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daruma]]></title>
+        <id>9E4FEA6A-043C-4F07-837B-A881804907F7</id>
+        <link href="https://lmnt.me/blog/sketchbook/daruma.html"/>
+        <updated>2025-02-12T00:25:00.000Z</updated>
+        <summary type="html"><![CDATA[I was thinking how I’d like to tackle the complexity of this Daruma app icon at smaller sizes. As real daruma decrease in size, brush strokes are simplified. Real life optical sizes!
+So for this app icon, sizes 128×128 and above feature a visually complex facial hair design, akin to medium-large daruma, but the smaller sizes are simplified in the same way real ones are. You might have to zoom in to see the non-retina 16×16!
+If you like this, you can make a one-time donation, donate monthly, or buy something from my shop.]]></summary>
+        <author>
+            <name>Louie Mantia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JJ Cheat Sheet]]></title>
+        <id>https://news.ycombinator.com/item?id=43020180</id>
+        <link href="https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html"/>
+        <updated>2025-02-12T00:23:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html
+Comments URL: https://news.ycombinator.com/item?id=43020180
+Points: 11
+# Comments: 0]]></summary>
+        <author>
+            <name>justinpombrio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JJ Cheat Sheet]]></title>
+        <id>https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html</id>
+        <link href="https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html"/>
+        <updated>2025-02-12T00:23:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Year of Telepathy]]></title>
+        <id>https://news.ycombinator.com/item?id=43019352</id>
+        <link href="https://neuralink.com/blog/a-year-of-telepathy/"/>
+        <updated>2025-02-11T22:46:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neuralink.com/blog/a-year-of-telepathy/
+Comments URL: https://news.ycombinator.com/item?id=43019352
+Points: 33
+# Comments: 33]]></summary>
+        <author>
+            <name>julianh65</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Year of Telepathy]]></title>
+        <id>https://neuralink.com/blog/a-year-of-telepathy/</id>
+        <link href="https://neuralink.com/blog/a-year-of-telepathy/"/>
+        <updated>2025-02-11T22:46:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOAA's public weather data powers the local forecasts on your phone and TV]]></title>
+        <id>https://news.ycombinator.com/item?id=43018643</id>
+        <link href="https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451"/>
+        <updated>2025-02-11T21:31:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451
+Comments URL: https://news.ycombinator.com/item?id=43018643
+Points: 92
+# Comments: 52]]></summary>
+        <author>
+            <name>rntn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOAA's public weather data powers the local forecasts on your phone and TV]]></title>
+        <id>https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451</id>
+        <link href="https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451"/>
+        <updated>2025-02-11T21:31:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Butter Thesis (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=43018312</id>
+        <link href="https://nickgrossman.xyz/the-butter-thesis"/>
+        <updated>2025-02-11T21:02:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nickgrossman.xyz/the-butter-thesis
+Comments URL: https://news.ycombinator.com/item?id=43018312
+Points: 20
+# Comments: 11]]></summary>
+        <author>
+            <name>SoKamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Butter Thesis (2019)]]></title>
+        <id>https://nickgrossman.xyz/the-butter-thesis</id>
+        <link href="https://nickgrossman.xyz/the-butter-thesis"/>
+        <updated>2025-02-11T21:02:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empirical Health (YC S23) Is Hiring Design Engineers in NYC]]></title>
+        <id>https://news.ycombinator.com/item?id=43018293</id>
+        <link href="https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer"/>
+        <updated>2025-02-11T21:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer
+Comments URL: https://news.ycombinator.com/item?id=43018293
+Points: 0
+# Comments: 0]]></summary>
+        <author>
+            <name>brandonb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empirical Health (YC S23) Is Hiring Design Engineers in NYC]]></title>
+        <id>https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer</id>
+        <link href="https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer"/>
+        <updated>2025-02-11T21:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thomson Reuters wins first major AI copyright case in the US]]></title>
+        <id>https://news.ycombinator.com/item?id=43018251</id>
+        <link href="https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/"/>
+        <updated>2025-02-11T20:56:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/
+Comments URL: https://news.ycombinator.com/item?id=43018251
+Points: 213
+# Comments: 88]]></summary>
+        <author>
+            <name>johnneville</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thomson Reuters wins first major AI copyright case in the US]]></title>
+        <id>https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/</id>
+        <link href="https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/"/>
+        <updated>2025-02-11T20:56:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[llm-sort]]></title>
+        <id>https://simonwillison.net/2025/Feb/11/llm-sort/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/11/llm-sort/#atom-everything"/>
+        <updated>2025-02-11T20:50:21.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong><a href="https://github.com/vagos/llm-sort">llm-sort</a></strong></p>
+Delightful <a href="https://llm.datasette.io/">LLM</a> plugin by Evangelos Lamprou which adds the ability to perform "semantic search" - allowing you to sort the contents of a file based on using a prompt against an LLM to determine sort order.</p>
+<p>Best illustrated by these examples from the README:</p>
+<pre><code>llm sort --query "Which names is more suitable for a pet monkey?" names.txt
+
+cat titles.txt | llm sort --query "Which book should I read to cook better?"
+</code></pre>
+<p>It works using this pairwise prompt, which is executed multiple times using Python's <code>sorted(documents, key=functools.cmp_to_key(compare_callback))</code> mechanism:</p>
+<pre><code>Given the query:
+{query}
+
+Compare the following two lines:
+
+Line A:
+{docA}
+
+Line B:
+{docB}
+
+Which line is more relevant to the query? Please answer with "Line A" or "Line B".
+</code></pre>
+
+    <p><small></small>Via <a href="https://lobste.rs/s/yxlisx/llm_sort_sort_input_lines_semantically">lobste.rs</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/python">python</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zeroperl: Sandboxing Perl with WebAssembly]]></title>
+        <id>https://news.ycombinator.com/item?id=43017739</id>
+        <link href="https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly"/>
+        <updated>2025-02-11T20:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly
+Comments URL: https://news.ycombinator.com/item?id=43017739
+Points: 27
+# Comments: 18]]></summary>
+        <author>
+            <name>ccakes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zeroperl: Sandboxing Perl with WebAssembly]]></title>
+        <id>https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly</id>
+        <link href="https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly"/>
+        <updated>2025-02-11T20:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The first yearly drop in average CPU performance in its 20 years of benchmarks]]></title>
+        <id>https://news.ycombinator.com/item?id=43017612</id>
+        <link href="https://www.tomshardware.com/pc-components/cpus/passmark-sees-the-first-yearly-drop-in-average-cpu-performance-in-its-20-years-of-benchmark-results"/>
+        <updated>2025-02-11T20:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tomshardware.com/pc-components/cpus/passmark-sees-the-first-yearly-drop-in-average-cpu-performance-in-its-20-years-of-benchmark-results
+Comments URL: https://news.ycombinator.com/item?id=43017612
+Points: 77
+# Comments: 21]]></summary>
+        <author>
+            <name>LorenDB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The first yearly drop in average CPU performance in its 20 years of benchmarks]]></title>
+        <id>https://www.tomshardware.com/pc-components/cpus/passmark-sees-the-first-yearly-drop-in-average-cpu-performance-in-its-20-years-of-benchmark-results</id>
+        <link href="https://www.tomshardware.com/pc-components/cpus/passmark-sees-the-first-yearly-drop-in-average-cpu-performance-in-its-20-years-of-benchmark-results"/>
+        <updated>2025-02-11T20:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL]]></title>
+        <id>https://news.ycombinator.com/item?id=43017599</id>
+        <link href="https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2"/>
+        <updated>2025-02-11T19:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2
+Comments URL: https://news.ycombinator.com/item?id=43017599
+Points: 257
+# Comments: 107]]></summary>
+        <author>
+            <name>sijuntan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL]]></title>
+        <id>https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2</id>
+        <link href="https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2"/>
+        <updated>2025-02-11T19:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The subtle art of designing physical controls for cars]]></title>
+        <id>https://news.ycombinator.com/item?id=43017010</id>
+        <link href="https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/"/>
+        <updated>2025-02-11T19:15:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/
+Comments URL: https://news.ycombinator.com/item?id=43017010
+Points: 174
+# Comments: 96]]></summary>
+        <author>
+            <name>vsdlrd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The subtle art of designing physical controls for cars]]></title>
+        <id>https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/</id>
+        <link href="https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/"/>
+        <updated>2025-02-11T19:15:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trust, 2-Party Relays, and QUIC]]></title>
+        <id>https://news.ycombinator.com/item?id=43016574</id>
+        <link href="https://obscura.net/blog/bootstrapping-trust/"/>
+        <updated>2025-02-11T18:44:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://obscura.net/blog/bootstrapping-trust/
+Comments URL: https://news.ycombinator.com/item?id=43016574
+Points: 47
+# Comments: 31]]></summary>
+        <author>
+            <name>kevincox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trust, 2-Party Relays, and QUIC]]></title>
+        <id>https://obscura.net/blog/bootstrapping-trust/</id>
+        <link href="https://obscura.net/blog/bootstrapping-trust/"/>
+        <updated>2025-02-11T18:44:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan can be a science heavyweight once more if it rethinks funding]]></title>
+        <id>https://news.ycombinator.com/item?id=43016353</id>
+        <link href="https://www.nature.com/articles/d41586-025-00394-8"/>
+        <updated>2025-02-11T18:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-025-00394-8
+Comments URL: https://news.ycombinator.com/item?id=43016353
+Points: 107
+# Comments: 31]]></summary>
+        <author>
+            <name>rntn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan can be a science heavyweight once more if it rethinks funding]]></title>
+        <id>https://www.nature.com/articles/d41586-025-00394-8</id>
+        <link href="https://www.nature.com/articles/d41586-025-00394-8"/>
+        <updated>2025-02-11T18:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reviving the joy and honor of working with your hands (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=43016248</id>
+        <link href="https://richmond.com/holmberg-reviving-the-joy-and-honor-of-working-with-your-hands-will-strengthen-our-nation/article_d8130166-855d-53b6-94e1-cb735edcd7cc.html"/>
+        <updated>2025-02-11T18:23:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://richmond.com/holmberg-reviving-the-joy-and-honor-of-working-with-your-hands-will-strengthen-our-nation/article_d8130166-855d-53b6-94e1-cb735edcd7cc.html
+Comments URL: https://news.ycombinator.com/item?id=43016248
+Points: 85
+# Comments: 45]]></summary>
+        <author>
+            <name>skadamat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reviving the joy and honor of working with your hands (2015)]]></title>
+        <id>https://richmond.com/holmberg-reviving-the-joy-and-honor-of-working-with-your-hands-will-strengthen-our-nation/article_d8130166-855d-53b6-94e1-cb735edcd7cc.html</id>
+        <link href="https://richmond.com/holmberg-reviving-the-joy-and-honor-of-working-with-your-hands-will-strengthen-our-nation/article_d8130166-855d-53b6-94e1-cb735edcd7cc.html"/>
+        <updated>2025-02-11T18:23:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing least privilege access for Amazon Bedrock]]></title>
+        <id>7484427d04ecb6111584557c6425db75032cf731</id>
+        <link href="https://aws.amazon.com/blogs/security/implementing-least-privilege-access-for-amazon-bedrock/"/>
+        <updated>2025-02-11T18:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Generative AI applications often involve a combination of various services and features—such as Amazon Bedrock and large language models (LLMs)—to generate content and to access potentially confidential data. This combination requires strong identity and access management controls and is special in the sense that those controls need to be applied on various levels. In this […]]]></summary>
+        <author>
+            <name>Jonathan Jenkyn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASTRA: HackerRank's coding benchmark for LLMs]]></title>
+        <id>https://news.ycombinator.com/item?id=43015631</id>
+        <link href="https://www.hackerrank.com/ai/astra-reports"/>
+        <updated>2025-02-11T17:37:38.000Z</updated>
+        <summary type="html"><![CDATA[We help companies hire & upskill developers. A customer recently asked: What % of HackerRank problems can LLMs solve? That got us thinking—how should hiring evolve when AI can translate natural language to code?
+Our belief: AI will handle much of code generation, so developers will be assessed more on SDLC skills with AI assistants.
+To explore this, we’re benchmarking LLMs on real-world software dev scenarios—starting with 65 unseen problems across 10 domains. Beyond correctness, we evaluated consistency—an often overlooked aspect of AI reliability. We’re open-sourcing the dataset on Huggingface and expanding it to cover more domains, ambiguous specs, and harder challenges.
+Would love the HN community’s take on this!
+Comments URL: https://news.ycombinator.com/item?id=43015631
+Points: 18
+# Comments: 6]]></summary>
+        <author>
+            <name>rvivek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASTRA: HackerRank's coding benchmark for LLMs]]></title>
+        <id>https://www.hackerrank.com/ai/astra-reports</id>
+        <link href="https://www.hackerrank.com/ai/astra-reports"/>
+        <updated>2025-02-11T17:37:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postmortem: The singular design of Namco's Katamari Damacy (2004)]]></title>
+        <id>https://news.ycombinator.com/item?id=43015585</id>
+        <link href="https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-"/>
+        <updated>2025-02-11T17:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-
+Comments URL: https://news.ycombinator.com/item?id=43015585
+Points: 57
+# Comments: 8]]></summary>
+        <author>
+            <name>danso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postmortem: The singular design of Namco's Katamari Damacy (2004)]]></title>
+        <id>https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-</id>
+        <link href="https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-"/>
+        <updated>2025-02-11T17:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: A0.dev (YC W25) – React Native App Generator]]></title>
+        <id>https://news.ycombinator.com/item?id=43015267</id>
+        <link href="https://news.ycombinator.com/item?id=43015267"/>
+        <updated>2025-02-11T17:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN — we’re Seth and Ayo and we’re building a0.dev (https://a0.dev). a0.dev is a platform built to cut down React Native development time from weeks to just a few hours.
+We’ve been building mobile apps together for seven years and have had several successes. One thing that’s always bothered us though is how much harder it is to build a mobile app than a website. If you’ve built an app with React Native before you’re familiar with the pains of working with both Xcode and Android Studio, writing tons of boilerplate before you can even start making the app, setting up state management, and of course going through the dreaded app review. We decided to build a platform that would make the app development process faster.
+We’ve seen the success of new code-gen platforms like v0 and wanted somet…]]></summary>
+        <author>
+            <name>sethburster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: A0.dev (YC W25) – React Native App Generator]]></title>
+        <id>https://news.ycombinator.com/item?id=43015267</id>
+        <link href="https://news.ycombinator.com/item?id=43015267"/>
+        <updated>2025-02-11T17:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMs can teach themselves to better predict the future]]></title>
+        <id>https://news.ycombinator.com/item?id=43014918</id>
+        <link href="https://arxiv.org/abs/2502.05253"/>
+        <updated>2025-02-11T16:40:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2502.05253
+Comments URL: https://news.ycombinator.com/item?id=43014918
+Points: 136
+# Comments: 60]]></summary>
+        <author>
+            <name>bturtel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMs can teach themselves to better predict the future]]></title>
+        <id>https://arxiv.org/abs/2502.05253</id>
+        <link href="https://arxiv.org/abs/2502.05253"/>
+        <updated>2025-02-11T16:40:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When the words ran out]]></title>
+        <id>https://birming.com/when-words-ran-out/</id>
+        <link href="https://birming.com/when-words-ran-out/"/>
+        <updated>2025-02-11T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[At lunch, I stopped by McDonald's to buy a coffee. The place buzzed with lively schoolchildren. Suddenly, everything went silent.
+It was a moment of silence to honor the victims of the tragic mass shooting here in Sweden last week. The silence that ensued spoke volumes, conveying more than any words could have.
+It was both beautiful and sad.
+Something about that silence lingered for the rest of the day. Partly a reminder of life's fragility. But also a reminder of how eloquent silence can communicate.
+Sometimes, when words fail us, it is in that shared silence that we find connection and consolation.
+In Örebro, where the tragedy occurred, thousands of people had gathered at Stortorget. A memorial service was held with speeches and music to honor the victims. A newly written poem, "When the words ran out" by Örebro resident Michael Horwath, was read aloud. It ended with:
+"Now we must hold each other, without hands if necessary. Because now the words have run out."]]></summary>
+        <author>
+            <name>Robert Birming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's Battlemage Architecture]]></title>
+        <id>https://news.ycombinator.com/item?id=43014408</id>
+        <link href="https://chipsandcheese.com/p/intels-battlemage-architecture"/>
+        <updated>2025-02-11T16:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://chipsandcheese.com/p/intels-battlemage-architecture
+Comments URL: https://news.ycombinator.com/item?id=43014408
+Points: 148
+# Comments: 102]]></summary>
+        <author>
+            <name>ksec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's Battlemage Architecture]]></title>
+        <id>https://chipsandcheese.com/p/intels-battlemage-architecture</id>
+        <link href="https://chipsandcheese.com/p/intels-battlemage-architecture"/>
+        <updated>2025-02-11T16:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roll & Writes: Board Games Lite]]></title>
+        <id>https://brainbaking.com/post/2025/02/roll-and-writes-board-games-lite/</id>
+        <link href="https://brainbaking.com/post/2025/02/roll-and-writes-board-games-lite/"/>
+        <updated>2025-02-11T15:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Since COVID, we’ve seen a huge surge in board game popularity, especially within the subgenre called roll & write (or flip & write) games. These games are easily recognized by the sheet(s) of paper (or wipeable surface) you’ll be writing/drawing on as part of the “board interaction” of the game, and of course, the involvement of dice—although that is not always the case. Picture evolved versions of Yahtzee and you’ll have a general idea.
+These roll & write games are popular because they’re much easier to pull out: most components are fully integrated into the paper, the box is usually smaller, the game plays quicker, the games usually lean on the lighter side that are easier to get into, and most even have a theoretical unlimited number of maximum players. Just like Bingo, everyone just ha…]]></summary>
+        <author>
+            <name>Wouter Groeneveld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tasted Honda's spicy rodent-repelling tape and I will do it again (2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=43013615</id>
+        <link href="https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling"/>
+        <updated>2025-02-11T15:08:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling
+Comments URL: https://news.ycombinator.com/item?id=43013615
+Points: 1069
+# Comments: 326]]></summary>
+        <author>
+            <name>voxadam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tasted Honda's spicy rodent-repelling tape and I will do it again (2021)]]></title>
+        <id>https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling</id>
+        <link href="https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling"/>
+        <updated>2025-02-11T15:08:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backblaze Drive Stats for 2024]]></title>
+        <id>https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/</id>
+        <link href="https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/"/>
+        <updated>2025-02-11T14:55:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A small contribution to curl]]></title>
+        <id>https://shkspr.mobi/blog/2025/02/a-small-contribution-to-curl/</id>
+        <link href="https://shkspr.mobi/blog/2025/02/a-small-contribution-to-curl/"/>
+        <updated>2025-02-11T12:34:13.000Z</updated>
+        <summary type="html"><![CDATA[The venerable curl is one of the most fundamental pieces of code in the modern world.  A seemingly simply utility - it enables other programs to interact with URls - it runs on millions of cars, is inside nearly every TV, used by billions of people, and is even in use on Mars.  And, as of last week, features a small contribution by me!  Look, I&#039;m not an experienced bit-twiddler. I can&#039;t micro-optimise algorithms or spot intricate C-based memory leaks. What I can do is get annoyed at poor…]]></summary>
+        <author>
+            <name>Terence Eden’s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hakuho Cup 2025]]></title>
+        <id>07CB3930-6637-438D-9D1B-1B69E7CFB156</id>
+        <link href="https://lmnt.me/blog/photos/hakuho-cup-2025.html"/>
+        <updated>2025-02-11T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Just like last year, I went to watch the children’s sumo tournament at Ryōgoku Kokugikan. It’s super charming to see children from around the world come to wrestle in this place. Some of these kids are 14 or so, but there were kids as young as 6 or 7, many of which have already bulked up quite a bit!
+If you like this, you can make a one-time donation, donate monthly, or buy something from my shop.]]></summary>
+        <author>
+            <name>Louie Mantia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ways to generate SSA]]></title>
+        <id>https://bernsteinbear.com/blog/ssa/</id>
+        <link href="https://bernsteinbear.com/blog/ssa/"/>
+        <updated>2025-02-11T07:21:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia's RTX 5090 power connectors are melting]]></title>
+        <id>https://www.theverge.com/news/609207/nvidia-rtx-5090-power-connector-melting-burning-issues</id>
+        <link href="https://www.theverge.com/news/609207/nvidia-rtx-5090-power-connector-melting-burning-issues"/>
+        <updated>2025-02-11T04:13:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APPLE-SA-02-10-2025-2 iPadOS 17.7.5]]></title>
+        <id>https://seclists.org/fulldisclosure/2025/Feb/8</id>
+        <link href="https://seclists.org/fulldisclosure/2025/Feb/8"/>
+        <updated>2025-02-11T03:50:49.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Apple Product Security via Fulldisclosure on Feb 10
+APPLE-SA-02-10-2025-2 iPadOS 17.7.5
+https://support.apple.com/122173.
+https://support.apple.com/100100 which lists recent
+software updates with security advisories.
+
+Accessibility
+Available for: iPad Pro 12.9-inch 2nd generation, iPad Pro 10.5-inch,
+and iPad 6th generation
+Impact: A physical...]]></summary>
+        <author>
+            <name>Full Disclosure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APPLE-SA-02-10-2025-1 iOS 18.3.1 and iPadOS 18.3.1]]></title>
+        <id>https://seclists.org/fulldisclosure/2025/Feb/7</id>
+        <link href="https://seclists.org/fulldisclosure/2025/Feb/7"/>
+        <updated>2025-02-11T03:50:47.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Apple Product Security via Fulldisclosure on Feb 10
+APPLE-SA-02-10-2025-1 iOS 18.3.1 and iPadOS 18.3.1
+https://support.apple.com/122174.
+https://support.apple.com/100100 which lists recent
+software updates with security advisories.
+
+Accessibility
+Available for: iPhone XS and later, iPad Pro 13-inch, iPad Pro 12.9-inch
+3rd generation...]]></summary>
+        <author>
+            <name>Full Disclosure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2024-55447: Access Control in Paxton Net2 software (update)]]></title>
+        <id>https://seclists.org/fulldisclosure/2025/Feb/6</id>
+        <link href="https://seclists.org/fulldisclosure/2025/Feb/6"/>
+        <updated>2025-02-11T03:50:19.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Jeroen Hermans via Fulldisclosure on Feb 10
+CloudAware Security Advisory
+
+CVE-2024-55447: Potential PII leak and incorrect access control in 
+Paxton Net2 software
+
+========================================================================
+Summary
+========================================================================
+Insecure backend database in the Paxton Net2 software.
+Possible leaking of PII incorrect access control.
+Access cards can be cloned without physical access to the original...]]></summary>
+        <author>
+            <name>Full Disclosure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT AI finds "security concern" (XSS) in DeepSeek's code]]></title>
+        <id>https://seclists.org/fulldisclosure/2025/Feb/5</id>
+        <link href="https://seclists.org/fulldisclosure/2025/Feb/5"/>
+        <updated>2025-02-11T03:50:02.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Georgi Guninski on Feb 10
+Summary:  On 2025-02-09 ChatGPT AI found "security concern" (XSS) in
+DeepSeek's AI python code.
+
+Background:
+
+Consider the simple coding question (Q):
+
+Write Python CGI which takes as an argument NAME and outputs: "Hello NAME".
+
+First page and results on google for "python CGI" return for me
+tutorials, which are flawed and textbook examples of the cross site
+scripting (XSS) vulnerability. This is a...]]></summary>
+        <author>
+            <name>Full Disclosure</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Copyover MUD Servers Worked]]></title>
         <id>http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/</id>
@@ -561,6 +1238,16 @@ Points: 60
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The hallucinatory thoughts of the dying mind]]></title>
+        <id>https://thereader.mitpress.mit.edu/the-hallucinatory-thoughts-of-the-dying-mind/</id>
+        <link href="https://thereader.mitpress.mit.edu/the-hallucinatory-thoughts-of-the-dying-mind/"/>
+        <updated>2025-02-10T13:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What about K?]]></title>
         <id>https://news.ycombinator.com/item?id=42999650</id>
         <link href="https://xpqz.github.io/kbook/Introduction.html"/>
@@ -601,6 +1288,26 @@ Points: 175
         <summary type="html"><![CDATA[This past weekend I’ve been experimenting with AI-assisted coding to port basic docs-as-code elements to old operating systems and platforms, such as the venerable Intel 386. While this might strike you as a bizarre display of futility, I find this sort of retrocomputing exercise to be quite beneficial, if not enlightening. Something just clicks when you stop and walk backwards.]]></summary>
         <author>
             <name>passo.uno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a personal, private AI computer on a budget]]></title>
+        <id>https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/</id>
+        <link href="https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/"/>
+        <updated>2025-02-10T11:59:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pinball Philosophy (1975)]]></title>
+        <id>https://pinballnirvana.com/forums/threads/the-pinball-philosophy-john-mcphee-1975.22239/</id>
+        <link href="https://pinballnirvana.com/forums/threads/the-pinball-philosophy-john-mcphee-1975.22239/"/>
+        <updated>2025-02-10T05:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -699,6 +1406,16 @@ Goes great with PlayStation Controllers icons.
 If you like this, you can make a one-time donation, donate monthly, or buy something from my shop.]]></summary>
         <author>
             <name>Louie Mantia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smoke in the cabin of two 737 MAX caused by Load Reduction Device system [video]]]></title>
+        <id>https://www.youtube.com/watch?v=swlVkYVSlIE</id>
+        <link href="https://www.youtube.com/watch?v=swlVkYVSlIE"/>
+        <updated>2025-02-09T22:12:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -1013,6 +1730,16 @@ Points: 62
         <id>https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us</id>
         <link href="https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us"/>
         <updated>2025-02-09T16:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sky skimmers: The race to fly satellites at the lowest orbits yet]]></title>
+        <id>https://www.bbc.com/future/article/20250207-sky-skimmers-the-race-to-send-satellites-into-very-low-earth-orbits</id>
+        <link href="https://www.bbc.com/future/article/20250207-sky-skimmers-the-race-to-send-satellites-into-very-low-earth-orbits"/>
+        <updated>2025-02-09T15:00:37.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1516,6 +2243,16 @@ Points: 155
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[No Way Home]]></title>
+        <id>https://literaryreview.co.uk/no-way-home</id>
+        <link href="https://literaryreview.co.uk/no-way-home"/>
+        <updated>2025-02-08T16:04:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Deck: An open-source cross-platform multiplayer card game engine in Flutter]]></title>
         <id>https://news.ycombinator.com/item?id=42983699</id>
         <link href="https://github.com/xajik/thedeck"/>
@@ -1556,6 +2293,16 @@ Points: 462
         <id>https://antirez.com/news/145</id>
         <link href="https://antirez.com/news/145"/>
         <updated>2025-02-08T14:48:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ohm: A user-friendly parsing toolkit for JavaScript and TypeScript]]></title>
+        <id>https://ohmjs.org/</id>
+        <link href="https://ohmjs.org/"/>
+        <updated>2025-02-08T13:15:26.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -5611,6 +6358,18 @@ Xuanwo started <a href="https://xuanwo.io/links/">a link blog</a> inspired by my
         <summary type="html"><![CDATA[Using the Rebrickable database downloads and sqlite-utils, I can quickly create spreadsheets that let me tick off the parts in each set.]]></summary>
         <author>
             <name>alexwlchan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Justa Burger with Pokémon]]></title>
+        <id>3E3641C2-3374-4FD1-95B5-652CE41CCB8A</id>
+        <link href="https://lmnt.me/blog/photos/justa-burger-with-pokemon.html"/>
+        <updated>2025-02-04T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Justa Burger started having “smash bacon” on the menu, which is like a thin layer of pork belly added to the burger.
+I just got this awesome new Game Boy Color color-matched to Pokémon Crystal, which I started playing casually. Almost want to ride around on the Yamanote line all day to just play Pokémon on the train.
+If you like this, you can make a one-time donation, donate monthly, or buy something from my shop.]]></summary>
+        <author>
+            <name>Louie Mantia</name>
         </author>
     </entry>
     <entry>
@@ -20616,48 +21375,6 @@ This article isn’t named “How to become AWS Hero” as I don’t exactly kno
 This tutorial applies to any hosting solution that uses Nginx as web server or reverse proxy, running on a Debian based distribution of Linux such as Ubuntu. The SSL Certificate provider that I use is Let's Encrypt, which is trusted by all major web browsers and issues certificates for free.]]></summary>
         <author>
             <name>Miguel Grinberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you understand how fast computers are?]]></title>
-        <id>https://shkspr.mobi/blog/2025/01/do-you-understand-how-fast-computers-are/</id>
-        <link href="https://shkspr.mobi/blog/2025/01/do-you-understand-how-fast-computers-are/"/>
-        <updated>2025-01-13T12:34:29.000Z</updated>
-        <summary type="html"><![CDATA[A million years ago, I was helping advise an analogue office who were thinking about making the great leap forward to the digital future. I was sat in the boss&#039;s office extolling the virtues of digitisation.  &#34;How long does it take you to look up a file from your archives?&#34; I asked, impudently.  &#34;Let me show you,&#34; said the kindly old proprietor. A wizened man straight out of the pages of a Dickens novel. He pressed a switch on his (landline) phone. &#34;Miss Moneypenny? Could you bring us, let&#039;s…]]></summary>
-        <author>
-            <name>Terence Eden’s Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🏈 The best NFL broadcast teams and telecast quality, ranked]]></title>
-        <id>http://webology.micro.blog/2025/01/12/the-best-nfl-broadcast-teams/</id>
-        <link href="https://micro.webology.dev/2025/01/12/the-best-nfl-broadcast-teams/"/>
-        <updated>2025-01-13T02:00:08.000Z</updated>
-        <summary type="html"><![CDATA[John Gruber posted his picks a few weeks ago, and I couldn’t disagree more.
-2024 NFL broadcast teams and telecast quality, ranked:
-Mike Tirico and Chris Collinsworth, NBC (the best duo by a lot)
-Al Michaels and Kirk Herbstreit, Amazon
-Jim Nantz and Tony Romo, CBS
-– the floor –
-Kevin Burkhardt and Tom Brady, Fox
-The Manning Cast. If not for a paint-dryingly bad combo of Joe Buck and Troy Aikman, I would never have put the Manning Cast above anyone. This isn’t even fair to Aikman, who isn’t that bad, but Joe Buck should stick with baseball.
-Joe Buck and Troy Aikman, ABC, aka paint drying
-Al Michaels, Mike Tirico, and Chris Collinsworth are what football sounds like to me after Madden. Damn, I miss Madden. Even boringly one-sided games he made special.]]></summary>
-        <author>
-            <name>Jeff Triplett's Micro.blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📝 12 January 2025 at 15:54 - Quickly switching to the new monitor has turned into a...]]></title>
-        <id>notes/20250112-1554</id>
-        <link href="https://kevquirk.com/notes/20250112-1554"/>
-        <updated>2025-01-12T15:55:00.000Z</updated>
-        <summary type="html"><![CDATA["Quickly switching to the new monitor" has turned into a bit more of a thing. 🤦🏼‍♂️
-Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️
-Reply to this post by email ● 
-              Sign my guestbook]]></summary>
-        <author>
-            <name>Kev Quirk</name>
         </author>
     </entry>
 </feed>
