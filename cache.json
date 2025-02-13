@@ -6,6 +6,206 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43031545",
+          "author": "xnx",
+          "description": "Article URL: https://design.google/library/youtube-new-red-color\nComments URL: https://news.ycombinator.com/item?id=43031545\nPoints: 15\n# Comments: 33",
+          "link": "https://design.google/library/youtube-new-red-color",
+          "publishedOn": "2025-02-13T00:55:26.000Z",
+          "wordCount": 4167,
+          "title": "YouTube's New Hue",
+          "imageUrl": "https://storage.googleapis.com/gd-prod/images/76c29efe-e54b-4fcb-b1e4-a27a54fd2a3a.0db06b6b53a87fb0.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43031372",
+          "author": "blintz",
+          "description": "Article URL: https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/\nComments URL: https://news.ycombinator.com/item?id=43031372\nPoints: 7\n# Comments: 0",
+          "link": "https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/",
+          "publishedOn": "2025-02-13T00:24:08.000Z",
+          "wordCount": 1232,
+          "title": "Why cryptography is not based on NP-complete problems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43030388",
+          "author": "hahahacorn",
+          "description": "Article URL: https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/\nComments URL: https://news.ycombinator.com/item?id=43030388\nPoints: 117\n# Comments: 38",
+          "link": "https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/",
+          "publishedOn": "2025-02-12T22:20:19.000Z",
+          "wordCount": 1919,
+          "title": "Tiny JITs for a Faster FFI",
+          "imageUrl": "https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/b179fca8f6d604ee598a5b481f19d917070f281a.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43029686",
+          "author": "Jotalea",
+          "description": "I've wanted to make my own OS since I started programming. Now, 5 years later, I did it (kind of).\nSure, it is really basic, has very little functionality, but I made it and I'm proud of that. Oh, and I'm just 16 btw.\nComments URL: https://news.ycombinator.com/item?id=43029686\nPoints: 59\n# Comments: 22",
+          "link": "https://jotalea.com.ar/misc/jotaleaos/",
+          "publishedOn": "2025-02-12T20:55:12.000Z",
+          "wordCount": 620,
+          "title": "Show HN: I made my own OS from scratch because I was bored",
+          "imageUrl": "https://jotalea.com.ar/misc/jotaleaos/icon.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43029474",
+          "author": "doener",
+          "description": "Article URL: https://www.cpubenchmark.net/year-on-year.html\nComments URL: https://news.ycombinator.com/item?id=43029474\nPoints: 92\n# Comments: 59",
+          "link": "https://www.cpubenchmark.net/year-on-year.html",
+          "publishedOn": "2025-02-12T20:34:41.000Z",
+          "wordCount": 5277,
+          "title": "The average CPU performance of PCs and notebooks fell for the first time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43029385",
+          "author": "noperator",
+          "description": "Article URL: https://github.com/noperator/yknotify\nComments URL: https://news.ycombinator.com/item?id=43029385\nPoints: 36\n# Comments: 13",
+          "link": "https://github.com/noperator/yknotify",
+          "publishedOn": "2025-02-12T20:24:59.000Z",
+          "wordCount": 1924,
+          "title": "Show HN: yknotify – Notify when YubiKey needs touch on macOS",
+          "imageUrl": "https://opengraph.githubassets.com/dd9092cbd4d1313549371a3197408c9331f1b1680da66c19246d37b56651fa00/noperator/yknotify"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43029089",
+          "author": "thesephi",
+          "description": "Hi HN!\nI'd love to seek your insights on a fullstack web framework that employs a different approach: no build.\nIt's not a new concept. The folks as Preact mentioned it: https://preactjs.com/guide/v10/no-build-workflows/\nHowever, in the Web Framework market, I've yet to find many that support both \"no build\" and \"SSR\". There's always some sorts of \"client mount\" and \"server mount\" and either has (or both have) to go through a build (bundling) process.\nWith the build process, there comes additional maintenance efforts and cognitive load. I've enjoyed wrestling with tsconfig, webpack config, all sorts of presets and plugins countless times... When things work, they just work, but when we need sth a bit custom or unconventional, then we're almost always in for a tough ride. (or it's just me )\nNot to say I'm against any existing build workflow. In fact I benefited a lot in the past from webpack, and i'm very positive about modern bundlers like Parcel 2, Turbopack, rspack, etc.\nI just feel it'd be fair to save some slots for the \"no build\" route :)\nTo this end, I spent the last month working on a prototype of a TypeScript fullstack SSR web framework. It's compatible with Deno and Bun runtimes. I'd love to make it compatible with Node.js as well (at some point).\nThe framework registry page (https://jsr.io/@fullsoak/fullsoak) summarizes the motives expressed so far.\nAn example deployment is available at: https://fullsoak.onrender.com/app\nThe code behind the deployment above: https://github.com/fullsoak/bun-examples\nPS: you may see Preact being used & mentioned everywhere but I'm positive that React is 100% supported as well (just drop-in & use). I just happened to choose Preact to experience it more for myself.\nI look forward to your thoughts :) and learning if this might (or might not) be a feasible idea at scale. And perhaps, which future directions you would see this (or something like it) goes. Thank you much for any insight!\nComments URL: https://news.ycombinator.com/item?id=43029089\nPoints: 55\n# Comments: 54",
+          "link": "https://jsr.io/@fullsoak/fullsoak",
+          "publishedOn": "2025-02-12T19:54:52.000Z",
+          "wordCount": null,
+          "title": "Show HN: A no-build fullstack SSR TypeScript web framework",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43028468",
+          "author": "mooreds",
+          "description": "Article URL: https://imapsync.lamiral.info/\nComments URL: https://news.ycombinator.com/item?id=43028468\nPoints: 79\n# Comments: 33",
+          "link": "https://imapsync.lamiral.info/",
+          "publishedOn": "2025-02-12T18:54:35.000Z",
+          "wordCount": 2942,
+          "title": "Imapsync",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43028200",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/\nComments URL: https://news.ycombinator.com/item?id=43028200\nPoints: 36\n# Comments: 29",
+          "link": "https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/",
+          "publishedOn": "2025-02-12T18:27:41.000Z",
+          "wordCount": 2261,
+          "title": "Are efficiency and horizontal scalability at odds?",
+          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-subject?subject=&author=Computer%20Things&date=2025-02-12&img="
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43028057",
+          "author": "f14t",
+          "description": "Article URL: https://arxiv.org/abs/2502.07577\nComments URL: https://news.ycombinator.com/item?id=43028057\nPoints: 38\n# Comments: 11",
+          "link": "https://arxiv.org/abs/2502.07577",
+          "publishedOn": "2025-02-12T18:14:34.000Z",
+          "wordCount": 734,
+          "title": "Automated Capability Discovery via Foundation Model Self-Exploration",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43027335",
+          "author": "elipsitz",
+          "description": "Hey HN,\nOver the past ~1.5 years, I built an open-source FPGA retro emulation handheld that can play Game Boy, Game Boy Color, and Game Boy Advance cartridges. To my knowledge, there isn't an existing open-source FPGA emulator that can play physical cartridges like this.\nOne of my main goals was to do all of the pieces myself, and be able to understand every component of it, so I designed my own PCB, wrote the firmware, wrote a Game Boy and Game Boy Advance emulator for the FPGA (using the Chisel HDL), and designed a 3D-printed case.\nI detailed the design and development process in the linked post. It's quite long, but there are a lot of pictures and videos.\nCode and design files available on GitHub: https://github.com/elipsitz/gamebub, and an overview of the architecture: https://github.com/elipsitz/gamebub/blob/handheld/docs/archi...\nComments URL: https://news.ycombinator.com/item?id=43027335\nPoints: 169\n# Comments: 44",
+          "link": "https://eli.lipsitz.net/posts/introducing-gamebub/",
+          "publishedOn": "2025-02-12T17:11:25.000Z",
+          "wordCount": 25451,
+          "title": "Show HN: Game Bub – open-source FPGA retro emulation handheld",
+          "imageUrl": "https://eli.lipsitz.net/posts/introducing-gamebub/media/poster.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43027266",
+          "author": "saigovardhan",
+          "description": "Article URL: https://spectrum.ieee.org/5g-bandwidth\nComments URL: https://news.ycombinator.com/item?id=43027266\nPoints: 153\n# Comments: 216",
+          "link": "https://spectrum.ieee.org/5g-bandwidth",
+          "publishedOn": "2025-02-12T17:04:22.000Z",
+          "wordCount": 11994,
+          "title": "5G networks meet consumer needs as mobile data growth slows",
+          "imageUrl": "https://spectrum.ieee.org/media-library/an-illustration-of-person-sitting-at-a-table-with-number-of-icons-sitting-on-it.png?id=56130041&width=1200&height=600&coordinates=0%2C413%2C0%2C413"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43027230",
+          "author": "j-cheong",
+          "description": "Article URL: https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations\nComments URL: https://news.ycombinator.com/item?id=43027230\nPoints: 0\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations",
+          "publishedOn": "2025-02-12T17:00:48.000Z",
+          "wordCount": 1329,
+          "title": "Artie (YC S23) Is Hiring Business Operations",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43027150",
+          "author": "lnauta",
+          "description": "Article URL: https://www.nature.com/articles/d41586-025-00444-1\nComments URL: https://news.ycombinator.com/item?id=43027150\nPoints: 161\n# Comments: 92",
+          "link": "https://www.nature.com/articles/d41586-025-00444-1",
+          "publishedOn": "2025-02-12T16:52:57.000Z",
+          "wordCount": null,
+          "title": "Record-breaking neutrino is most energetic ever detected",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43026934",
+          "author": "comebhack",
+          "description": "Article URL: https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/\nComments URL: https://news.ycombinator.com/item?id=43026934\nPoints: 88\n# Comments: 117",
+          "link": "https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/",
+          "publishedOn": "2025-02-12T16:32:37.000Z",
+          "wordCount": null,
+          "title": "How Nissan and Honda's $60B merger talks collapsed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43026920",
+          "author": "herbertl",
+          "description": "Article URL: https://www.worksinprogress.news/p/the-prophet-of-parking\nComments URL: https://news.ycombinator.com/item?id=43026920\nPoints: 184\n# Comments: 212",
+          "link": "https://www.worksinprogress.news/p/the-prophet-of-parking",
+          "publishedOn": "2025-02-12T16:31:04.000Z",
+          "wordCount": 9438,
+          "title": "The Prophet of Parking: A eulogy for the great Donald Shoup",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75ed47c7-e9a4-4761-ac58-3768ac8291a4_3025x2212.jpeg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43026036",
+          "author": "justinclift",
+          "description": "Article URL: https://github.com/nexsol-technologies/pgassistant\nComments URL: https://news.ycombinator.com/item?id=43026036\nPoints: 168\n# Comments: 31",
+          "link": "https://github.com/nexsol-technologies/pgassistant",
+          "publishedOn": "2025-02-12T15:01:40.000Z",
+          "wordCount": 3159,
+          "title": "PgAssistant: OSS tool to help devs understand and optimize PG performance",
+          "imageUrl": "https://opengraph.githubassets.com/c6412e4772ce7630a1d34dd17c8f080fd0f586018cf541c2a3e64359fe00ee12/nexsol-technologies/pgassistant"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43025645",
+          "author": "skadamat",
+          "description": "Article URL: https://perthirtysix.com/visualizing-data-is-an-art\nComments URL: https://news.ycombinator.com/item?id=43025645\nPoints: 85\n# Comments: 32",
+          "link": "https://perthirtysix.com/visualizing-data-is-an-art",
+          "publishedOn": "2025-02-12T14:17:48.000Z",
+          "wordCount": 4125,
+          "title": "Visualizing Data Is an Art – We Should Treat It Like One",
+          "imageUrl": "https://perthirtysix.com/img/datavizart-cover.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43024961",
+          "author": "theden",
+          "description": "Article URL: https://deadbeef.sourceforge.io/\nComments URL: https://news.ycombinator.com/item?id=43024961\nPoints: 125\n# Comments: 91",
+          "link": "https://deadbeef.sourceforge.io/",
+          "publishedOn": "2025-02-12T12:58:13.000Z",
+          "wordCount": 605,
+          "title": "DeaDBeeF: The Ultimate Music Player",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43024221",
+          "author": "brutecat",
+          "description": "Article URL: https://brutecat.com/articles/leaking-youtube-emails\nComments URL: https://news.ycombinator.com/item?id=43024221\nPoints: 1222\n# Comments: 361",
+          "link": "https://brutecat.com/articles/leaking-youtube-emails",
+          "publishedOn": "2025-02-12T11:19:42.000Z",
+          "wordCount": 2796,
+          "title": "Leaking the email of any YouTube user for $10k",
+          "imageUrl": "/assets/youtube-email-disclosure.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43020469",
           "author": "zerr",
           "description": "Article URL: https://www.cato.org/policy-analysis/why-legal-immigration-nearly-impossible?resubmit=hn\nComments URL: https://news.ycombinator.com/item?id=43020469\nPoints: 21\n# Comments: 10",
@@ -2498,6 +2698,116 @@
       "siteUrl": "https://aws.amazon.com/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "72c9212c6f5da6f1f6ca6492793241697bc3f47b",
+          "author": "aws@amazon.com",
+          "description": "Amazon FSx for Lustre, a service that provides high-performance, cost-effective, and scalable file storage for compute workloads, now enables you to upgrade the Lustre version of your FSx for Lustre file systems. This feature allows you to benefit from the enhancements available in newer Lustre versions on your existing file systems.\n  FSx for Lustre provides fully-managed file systems built on Lustre, the world's most popular open-source high performance file system. FSx for Lustre supports multiple long-term support Lustre versions released by the Lustre community. Newer Lustre versions provide benefits such as performance enhancements, new features, and support for the latest Linux kernel versions for your client instances. Starting today, you can upgrade your file systems to newer Lustre versions within minutes using the AWS management console or the AWS CLI/SDK .\n  The feature is now available on all file systems at no additional cost in all AWS Regions where FSx for Lustre is available. For more information, see Amazon FSx for Lustre documentation.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-lustre-lustre-version-upgrades",
+          "publishedOn": "2025-02-12T21:00:00.000Z",
+          "wordCount": null,
+          "title": "Amazon FSx for Lustre now supports Lustre version upgrades",
+          "imageUrl": null
+        },
+        {
+          "id": "9351c0d9b54d700c07b2aefcfc313595c042c8ea",
+          "author": "aws@amazon.com",
+          "description": "AWS AppSync, a fully managed GraphQL service that helps customers build scalable APIs, announces improvements to its EvaluateCode and EvaluateMappingTemplate APIs. This update enables developers to comprehensively mock all properties of the context object during resolver and function unit testing, including identity information, stash variables, and error handling. The enhancement also introduces improved JSON input validation with clear, actionable error messages, making it easier for developers to identify and fix issues in their context setup.\n  These improvements simplify the setup and configuration requirements. Developers can now efficiently test functions and resolvers by accessing and validating resolver stash (ctx.stash) and error tracking (ctx.outErrors) in their test environments. The update also simplifies identity mocking by allowing developers to include only the relevant caller information in ctx.identity. The updated console experience provides better visibility into the resolver test results, helping developers troubleshoot and optimize their resolver implementations more effectively.\n  This enhancement is available in all AWS Regions where AWS AppSync is currently supported.\n \n\n To learn more about these new features, visit the AWS AppSync documentation and explore the context object reference. You can also explore examples and best practices in the AWS AppSync Developer Guide or get started by visiting the AWS AppSync console.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-resolver-testing-comprehensive-context-object-mocking",
+          "publishedOn": "2025-02-12T19:12:00.000Z",
+          "wordCount": null,
+          "title": "AWS AppSync enhances resolver testing with comprehensive context object mocking",
+          "imageUrl": null
+        },
+        {
+          "id": "f6073cc038cc636af2924a06da28d23d246e02af",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Block Store (Amazon EBS) now displays the full snapshot size for EBS Snapshots. With this enhancement, customers can now retrieve full snapshot sizes programmatically through the DescribeSnapshots API using the new field, full-snapshot-size-in-bytes. The full snapshot size is also displayed in the EBS Snapshots console under the new 'Full snapshot size' column.\n  Since EBS Snapshots are incremental in nature, if you take multiple snapshots of a volume over time, each snapshot only stores the new or modified blocks while maintaining references to unchanged blocks from previous snapshots.\n The ‘full snapshot size’ field shows you the total size of all blocks that make up a snapshot, including both the blocks stored directly in that snapshot and all blocks referenced from previous snapshots. For instance, if you have a 100 GB volume with 50 GB of data, the ‘full snapshot size’ would show 50 GB regardless of whether it's the first snapshot or a subsequent one.\n  The ‘full snapshot size’ field provides crucial information about your EBS snapshot storage, such as the total size of the snapshot in the archived tier or the amount of data written to the source volume at the time the snapshot was created. Please note that this is different from the incremental snapshot size, which only refers to the size of newly changed blocks stored in that specific snapshot.\n  This feature is now generally available in all commercial AWS regions and the AWS GovCloud (US) Regions. To get started, see the EBS Snapshots user guide and API specification.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ebs-full-snapshot-size-information-console-api",
+          "publishedOn": "2025-02-12T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Amazon Elastic Block Store (EBS) now adds full snapshot size information in Console and API",
+          "imageUrl": null
+        },
+        {
+          "id": "158229aeb316d61b65dae6e44b16ff120b070433",
+          "author": "aws@amazon.com",
+          "description": "AWS HealthScribe is a generative AI-powered service that automatically generates summarized clinical notes and transcripts from patient-clinician conversations. Documentation for behavioral health related encounters follows a goal centric format based on GIRPP (Goal, Intervention, Response, Progress, Plan) format. With this launch, AWS HealthScribe customers can directly convert a behavioral health related patient-clinician conversation to a GIRPP format note. This can potentially save clinicians hours daily in manually documenting behavioral health related encounters.\n  Customers using the HealthScribe StartMedicalScribeJob and StartMedicalScribeStream API can simply set note template type parameter as “GIRPP” in the ClinicalNoteGenerationSettings for both async and streaming jobs and will share the output note in GIRPP format as the conversation ends.\n  This feature is available in US East (N.Virginia) Region. To learn more refer to our documentation.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-healthscribe-girpp-note-template-behavioral-health",
+          "publishedOn": "2025-02-12T18:00:00.000Z",
+          "wordCount": null,
+          "title": "AWS HealthScribe now supports GIRPP note template for behavioral health",
+          "imageUrl": null
+        },
+        {
+          "id": "54f1252748a570aa891e4ce422769c7bc97fd58c",
+          "author": "aws@amazon.com",
+          "description": "Today, we are excited to announce the general availability of Jasmine - new Singaporean English Neural Text-to-Speech (NTTS) female voice for Amazon Polly.\n  Amazon Polly is a service that turns text into lifelike speech, allowing you to create applications that talk and to build entirely new categories of speech-enabled products.\n  Jasmine is our first voice for the Singaporean variant of English. Even though Singaporean English is reported to be close to British English, there are some unique pronunciation patterns that we captured while training this voice, such as pronunciation of telephone numbers or postal codes, to make sure that Jasmine sounds like a local speaker. With this launch, we continue building a variety of voice and language options for Amazon Polly customers.\n  Jasmine and all the other NTTS voices are available in AWS regions supporting Neural TTS. For more details, please read the Amazon Polly documentation and visit our pricing page.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-polly-new-voice-singaporean-english",
+          "publishedOn": "2025-02-11T22:43:00.000Z",
+          "wordCount": null,
+          "title": "Amazon Polly launches a new voice in Singaporean English",
+          "imageUrl": null
+        },
+        {
+          "id": "196ed37ccd7b7bcd9a26b6a56c93538143efe812",
+          "author": "aws@amazon.com",
+          "description": "AWS AppSync GraphQL now offers operation-level caching, a new feature that allows customers to cache entire GraphQL query operation responses. This enhancement enables developers to optimize read-heavy GraphQL APIs, delivering faster response times and improved application performance.\n  Operation-level caching in AWS AppSync GraphQL streamlines the caching process by storing complete query responses. This approach is particularly beneficial for complex queries or high-traffic scenarios, where it can significantly reduce latency and enhance the overall user experience. By caching at the operation level, developers can easily boost API efficiency and create more responsive applications without additional code changes.\n  Operation-level caching is now available in all AWS Regions where AWS AppSync is offered.\n  To learn more about operation-level caching in AWS AppSync GraphQL, visit the AWS AppSync documentation. You can start using this feature today by configuring caching settings in the AWS AppSync GraphQL console or through the AWS CLI.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-graphql-operation-level-caching-api-responses",
+          "publishedOn": "2025-02-11T22:00:00.000Z",
+          "wordCount": null,
+          "title": "AWS AppSync GraphQL introduces operation-level caching for faster GraphQL API responses",
+          "imageUrl": null
+        },
+        {
+          "id": "d8e41edf96e70281edcc6b4dce8f22d020cc5796",
+          "author": "aws@amazon.com",
+          "description": "Today, AWS Secrets Manager announces that AWS Secrets and Configuration Provider (ASCP) now integrates with Amazon Elastic Kubernetes Service (Amazon EKS) Pod Identity. This integration simplifies IAM authentication for Amazon EKS when retrieving secrets from AWS Secrets Manager or parameters from AWS Systems Manager Parameter Store. With this new capability, you can manage IAM permissions for Kubernetes applications more efficiently and securely, enabling granular access control through role session tags on secrets.\n  ASCP is a plugin for the industry-standard Kubernetes Secrets Store CSI Driver. It enables applications running in Kubernetes pods to retrieve secrets from AWS Secrets Manager easily, without the need for custom code or restarting containers when secrets are rotated. The AWS EKS Pod Identity, streamlines the process of configuring IAM permissions for Kubernetes applications in a more efficient and secure way. This integration combines the strengths of both components, enhancing secret management in Amazon EKS environments.\n  Previously, ASCP relied on IAM Roles for Service Accounts (IRSA) for authentication. Now, you can choose between IRSA and Pod Identity for IAM authentication using the new optional parameter \"usePodIdentity\". This flexibility allows you to adopt the authentication method that best suits your security requirements and operational needs.\n  The integration of ASCP with Pod Identity is available in all AWS Regions where AWS Secrets Manager and Amazon EKS Pod Identity are supported. To get started with this new feature, see the following resources AWS Secrets Manager documentation, Amazon EKS Pod Identity documentation and launch blog post.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-secrets-configuration-provider-pod-identity-eks/",
+          "publishedOn": "2025-02-11T18:00:00.000Z",
+          "wordCount": 1135,
+          "title": "AWS Secrets and Configuration Provider now integrates with Pod Identity for Amazon EKS",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f136ced2b86eef76e0080937a696c98f0ca12d58",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect Contact Lens now enables managers to create rules based on patterns of customer hold time and agent interaction duration, to take automated actions such as categorizing contacts, evaluating agent performance and notifying supervisors. With this launch, managers can create rules to check how well agents comply with guidelines on placing customers on hold. For example, did the agent set expectations on hold duration, before placing the customer on hold for more than 5 minutes? In addition, managers can check if the agent interaction lasted long enough to warrant assessment of complex agent behaviors such as building customer rapport, customer issue root cause analysis, etc. By excluding contacts that were too short, such as less than 30 seconds, managers can get more meaningful insights from automated contact categorization and agent performance evaluations.\n  This feature is available in all regions where Contact Lens performance evaluations are already available. To learn more, please visit our documentation and our webpage. For information about Contact Lens pricing, please visit our pricing page.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-automated-actions-based-hold-times-agent-interaction-time",
+          "publishedOn": "2025-02-11T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Amazon Connect Contact Lens can now take automated actions based on hold times and agent interaction time",
+          "imageUrl": null
+        },
+        {
+          "id": "08c3954fcfa78711c3437e0aa58ddb8ca47a7a8a",
+          "author": "aws@amazon.com",
+          "description": "Contact Lens now provides managers with an agent performance evaluation dashboard, to view aggregations of agent performance, and insights across cohorts of agents over time. With this launch, managers can access a unified dashboard on agent performance across evaluation scores, productivity (e.g., contacts handled, average handle time, etc.) and operational metrics. Through detailed performance scorecards at both team and individual levels, managers can dive deep into specific performance criteria, and compare performance with similar cohorts and over time, to identify agent strengths and improvement opportunities. The dashboard also provides managers with insights into agent time allocation and contact handling efficiency, so they can drive improvements in agent productivity.\n  This feature is available in all regions where Contact Lens performance evaluations are already available. To learn more, please visit our documentation and our webpage. For information about Contact Lens pricing, please visit our pricing page.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-dashboard-agent-evaluations/",
+          "publishedOn": "2025-02-11T18:00:00.000Z",
+          "wordCount": 933,
+          "title": "Amazon Connect Contact Lens now provides a dashboard with aggregated insights on agent performance evaluations",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "903645d9c70bf6a4bd566049a4962d7863a327c8",
+          "author": "aws@amazon.com",
+          "description": "You can now request for Amazon DynamoDB account-level and table-level throughput quota adjustments using AWS Service Quotas in all AWS Commercial Regions and the AWS GovCloud (US) Regions, and get auto-approved within minutes.\n \nPreviously, when requesting a quota adjustment, Service Quotas allowed you to indicate the Amazon DynamoDB quota and desired value to be adjusted to. AWS Support would then review your request, approve, and make the adjustments. With this launch, when you make updates to your DynamoDB account-level and table-level throughput quotas using AWS Service Quotas, your adjustments will get automatically approved and adjusted with just a few clicks. AWS Service Quotas is available at no additional charge.\n  To learn more about Amazon DynamoDB, the Serverless, NoSQL, fully managed database with single-digit millisecond performance at any scale, please visit the Amazon DynamoDB website.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-dynamodb-supports-auto-approval-quota-adjustments/",
+          "publishedOn": "2025-02-11T18:00:00.000Z",
+          "wordCount": 890,
+          "title": "Amazon DynamoDB now supports auto-approval of quota adjustments",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "91ca46f16327753d615fed58eb5b72b42a2536d7",
+          "author": "aws@amazon.com",
+          "description": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8g instances are available in AWS Europe (London) region. These instances are powered by AWS Graviton4 processors and deliver up to 30% better performance compared to AWS Graviton3-based instances. Amazon EC2 M8g instances are built for general-purpose workloads, such as application servers, microservices, gaming servers, midsize data stores, and caching fleets. These instances are built on the AWS Nitro System, which oﬄoads CPU virtualization, storage, and networking functions to dedicated hardware and software to enhance the performance and security of your workloads.\n  AWS Graviton4-based Amazon EC2 instances deliver the best performance and energy efficiency for a broad range of workloads running on Amazon EC2. These instances offer larger instance sizes with up to 3x more vCPUs and memory compared to Graviton3-based Amazon M7g instances. AWS Graviton4 processors are up to 40% faster for databases, 30% faster for web applications, and 45% faster for large Java applications than AWS Graviton3 processors. M8g instances are available in 12 different instance sizes, including two bare metal sizes. They offer up to 50 Gbps enhanced networking bandwidth and up to 40 Gbps of bandwidth to the Amazon Elastic Block Store (Amazon EBS).\n  To learn more, see Amazon EC2 M8g Instances. To explore how to migrate your workloads to Graviton-based instances, see AWS Graviton Fast Start program and Porting Advisor for Graviton. To get started, see the AWS Management Console.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-m8g-instances-aws-europe-london",
+          "publishedOn": "2025-02-10T22:05:00.000Z",
+          "wordCount": null,
+          "title": "Amazon EC2 M8g instances now available in AWS Europe (London)",
+          "imageUrl": null
+        },
+        {
           "id": "a209e6092db87d541758d7809bd64ffc5e9430d8",
           "author": "aws@amazon.com",
           "description": "A new minor version of Microsoft SQL Server is now available on Amazon RDS for SQL Server, providing performance enhancements and security fixes. Amazon RDS for SQL Server now supports this latest minor version of SQL Server 2022 across the Express, Web, Standard, and Enterprise editions.\n  We encourage you to upgrade your Amazon RDS for SQL Server database instances at your convenience. You can upgrade with just a few clicks in the Amazon RDS Management Console or by using the AWS CLI. Learn more about upgrading your database instances from the Amazon RDS User Guide. The new minor version is SQL Server 2022 CU17 - 16.0.4175.1.\n  This minor version is available in all AWS commercial regions where Amazon RDS for SQL Server databases are available, including the AWS GovCloud (US) Regions.\n  Amazon RDS for SQL Server makes it simple to set up, operate, and scale SQL Server deployments in the cloud. See Amazon RDS for SQL Server Pricing for pricing details and regional availability.",
@@ -2506,6 +2816,46 @@
           "wordCount": null,
           "title": "Amazon RDS for SQL Server supports new minor version in January 2025",
           "imageUrl": null
+        },
+        {
+          "id": "581ea04057be7a7a8b7acd4476c5302247de8ca3",
+          "author": "aws@amazon.com",
+          "description": "Today, AWS is announcing the general availability of runtime metrics for .NET applications in Amazon CloudWatch Application Signals, an OpenTelemetry (OTel)-compatible application performance monitoring (APM) feature in CloudWatch. Without requiring any source code changes, you can now collect runtime metrics such as Garbage Collection and Heap usage from .NET applications and correlate with application metrics, traces, and logs for applications running across EKS, EC2, ECS and on-premise servers.\n  Runtime metrics enable real-time monitoring of your application’s resource consumption, such as memory and CPU usage. Now, for .NET applications, developers and SREs can determine whether anomalies in runtime metrics affect key application metrics—such as errors, latency, and throughput. For example, they can identify if a service latency spike is a result of an increase in garbage collection pauses by viewing these metric graphs side by side. Additionally you will be able to identify thread contention, track memory allocation patterns, and pinpoint memory or CPU spikes that may lead to application slowdown, impacting end-user experience.\n  Runtime metrics support is available for Java, Python and now .NET applications across all regions Application Signals is available in.\n  See documentation to learn more about the standard and runtime metrics collected by Application Signals. Don’t forget to opt in to the new, cost-effective pricing for Application Signals. For more details, visit the Amazon CloudWatch pricing page and look for the “Application Signals  (including complete visibility into application transaction spans)” section.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-application-signals-runtime-metrics-net-applications/",
+          "publishedOn": "2025-02-10T18:00:00.000Z",
+          "wordCount": 1099,
+          "title": "CloudWatch Application Signals now supports Runtime Metrics for .NET Applications",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c038129468dc318429789536482322d077b8c51e",
+          "author": "aws@amazon.com",
+          "description": "You can now use AWS CloudFormation templates to create and manage your AWS Transfer Family web apps. This enables you to define and deploy Transfer Family web apps via infrastructure-as-code so you can automate centralized management at scale.\n  With CloudFormation templates, you can programmatically provision and configure your Transfer Family web app, associated customizations, and S3 access grants in a single deployment. This eliminates time-consuming manual configurations and ensures you maintain consistent, secure implementations across departments. You can rapidly scale your file transfer interfaces from hundreds to thousands of users while maintaining strict security and compliance standards through version-controlled infrastructure templates.\n  AWS CloudFormation support is available in all regions where Transfer Family web apps are available. To learn more about Transfer Family web apps, visit the Transfer Family User Guide and read our blog. For sample templates and detailed documentation, visit the AWS CloudFormation documentation.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cloudformation-aws-transfer-family-web-apps",
+          "publishedOn": "2025-02-10T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Announcing AWS CloudFormation support for AWS Transfer Family web apps",
+          "imageUrl": null
+        },
+        {
+          "id": "cb888bd8fef564250911956e7e266b17aac58acb",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift Serverless announces reduction in IP Address Requirements to 3 per Subnet. When using Amazon Redshift Serverless without Enhanced VPC Routing (EVR) enabled, you only need 3 free IP addresses in each subnet in your Amazon VPC. The new enhancement makes starting with Amazon Redshift Serverless easier, and you do not have to worry about free IP addresses in your Amazon VPC subnet network.\n  Before this announcement, you must have at least 9 free IP addresses in your subnet when creating an Amazon Redshift Serverless workgroup (workgroup) or when updating your workgroup for the Redshift Processing Units (RPUs), you must have at least 10 free IP addresses in your subnets. With this announcement, you only need 3 free IP addresses in your subnets when creating or updating the workgroup without EVR regardless of the size of the base RPU (8 to 1024 RPUs) or the RPU usage of your workgroup or workgroups enabled with AI-driven scaling and optimizations. Any existing workgroup will also benefit from the decreased IP address needs, regardless of the base RPU size or RPU usage, and including workgroups enabled with AI-driven scaling and optimizations. Your administrative overhead is reduced when RPUs for your workgroup increase as the free IP address requirements are reduced significantly, and you do not need to take steps to free up IP addresses.\n  The need for 3 free IP addresses in Amazon Redshift Serverless applies to all commercial AWS regions and AWS GovCloud (US) Regions where Amazon Redshift Serverless is available.\n  Refer to this documentation to learn more about the free IP address in Amazon Redshift Serverless.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-redshift-serverless-ip-address-3-per-subnet/",
+          "publishedOn": "2025-02-10T18:00:00.000Z",
+          "wordCount": 1173,
+          "title": "Amazon Redshift Serverless announces reduction in IP Address Requirements to 3 per Subnet",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b79f2bd1c1dc229c432ff5a57d149a2266dc2663",
+          "author": "aws@amazon.com",
+          "description": "Anthropic’s upgraded Claude 3.5 Sonnet model is now available in Amazon Bedrock in the Asia Pacific (Sydney) AWS Region. According to Anthropic, the model delivers across-the-board improvements over its predecessor, with significant gains in coding—an area where it already led the field.\n  The upgraded Claude 3.5 Sonnet model shows wide-ranging improvements on industry benchmarks. On coding the model improves performance on SWE-bench Verified from 33% to 49%. It also improves performance on TAU-bench, an agentic tool use task, from 62.6% to 69.2% in the retail domain, and from 36.0% to 46.0% in the airline domain. The model offers these advancements at the same price of its predecessor. Additionally, Claude 3.5 Sonnet now offers computer use capabilities in Amazon Bedrock in public beta, allowing Claude to perceive and interact with computer interfaces. Developers can direct Claude to use computers the way people do—by looking at a screen, moving a cursor, clicking buttons, and typing text. Given this technology is early stage, developers are encouraged to explore lower-risk tasks.\n \nTo learn more, read the AWS News launch blog, Claude in Amazon Bedrock product page, and documentation. To get started with Claude, visit the Amazon Bedrock console.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/anthropics-upgraded-claude-3-5-sonnet-sydney-region/",
+          "publishedOn": "2025-02-10T18:00:00.000Z",
+          "wordCount": 1030,
+          "title": "Anthropic’s upgraded Claude 3.5 Sonnet now available in the Asia Pacific (Sydney) Region",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
           "id": "ec41a143ad75914688baf9d75ea792978ce90edb",
@@ -4028,16 +4378,6 @@
           "wordCount": 1949,
           "title": "Now open — AWS Mexico (Central) Region",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2024/12/05/mexico-fine-arts-feat-img.png"
-        },
-        {
-          "id": "1acc45900a7fda30d9bf8fb9760ddc9d5552bb16",
-          "author": "Betty Zheng (郑予彬)",
-          "description": "As we move into the second week of 2025, China is celebrating Laba Festival (腊八节), a traditional holiday, which marks the beginning of Chinese New Year preparations. On this day, Chinese people prepare Laba congee, a special porridge combining various grains, dried fruits, and nuts. This nutritious mixture symbolizes harmony, prosperity, and good fortune — […]",
-          "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-asia-pacific-region-dynamodb-updates-amazon-q-developer-and-more-january-13-2025/",
-          "publishedOn": "2025-01-13T17:29:48.000Z",
-          "wordCount": 1726,
-          "title": "AWS Weekly Roundup: New Asia Pacific Region, DynamoDB updates, Amazon Q developer, and more (January 13, 2025)",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2023/08/13/AWS-WIR-default.png"
         }
       ]
     },
@@ -4165,16 +4505,6 @@
           "wordCount": 2022,
           "title": "Juicebox recruits Amazon OpenSearch Service’s vector database for improved talent search",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/15/featured-images-juicebox-1120x630.jpg"
-        },
-        {
-          "id": "d5a1e74a1b04255e74436a077622eeaf619041ed",
-          "author": "Ravikiran Rao",
-          "description": "This post showcases how to use Spark on AWS Glue to seamlessly ingest data into OpenSearch Service. We cover batch ingestion methods, share practical examples, and discuss best practices to help you build optimized and scalable data pipelines on AWS.",
-          "link": "https://aws.amazon.com/blogs/big-data/batch-data-ingestion-into-amazon-opensearch-service-using-aws-glue/",
-          "publishedOn": "2025-01-13T20:50:32.000Z",
-          "wordCount": 3302,
-          "title": "Batch data ingestion into Amazon OpenSearch Service using AWS Glue",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/13/featured-images-BDB-4806-1120x630.jpg"
         }
       ]
     },
@@ -4300,6 +4630,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/security/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/security/",
       "articles": [
+        {
+          "id": "913c7d1e9895ea5476abef600fce9539bc74195d",
+          "author": "Ken Beer",
+          "description": "February 12, 2025: This post was republished to include new services and features that have launched since the original publication date of June 11, 2020. Encryption is a critical component of a defense-in-depth security strategy that uses multiple defensive mechanisms to protect workloads, data, and assets. As organizations look to innovate while building trust with […]",
+          "link": "https://aws.amazon.com/blogs/security/importance-of-encryption-and-how-aws-can-help/",
+          "publishedOn": "2025-02-12T19:18:47.000Z",
+          "wordCount": 4288,
+          "title": "The importance of encryption and how AWS can help",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/02/12/Encryption-image-1260x630.jpg"
+        },
         {
           "id": "7484427d04ecb6111584557c6425db75032cf731",
           "author": "Jonathan Jenkyn",
@@ -4519,26 +4859,6 @@
           "wordCount": 2948,
           "title": "How to implement IAM policy checks with Visual Studio Code and IAM Access Analyzer",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/01/11/IAM-policy-checks-image-1260x630.png"
-        },
-        {
-          "id": "24f85a9ada2a6d2a41f61b0b3bd6b8908f9e8ef7",
-          "author": "Marshall Jones",
-          "description": "AWS re:Invent 2024 was held in Las Vegas December 2–6, with over 54,000 attendees participating in more than 2,300 sessions and hands-on labs. The conference was a hub of innovation and learning hosted by AWS for the global cloud computing community. In this blog post, we cover on-demand sessions and major security, identity, and compliance announcements that […]",
-          "link": "https://aws.amazon.com/blogs/security/aws-reinvent-2024-security-identity-and-compliance-recap/",
-          "publishedOn": "2025-01-13T18:04:17.000Z",
-          "wordCount": 2442,
-          "title": "AWS re:Invent 2024: Security, identity, and compliance recap",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/01/13/Security-identify-compliance-recap-image.jpg"
-        },
-        {
-          "id": "9b8c969163217c175b91bcd75e81d5e063bad7d5",
-          "author": "Abrom Douglas",
-          "description": "Amazon Cognito is a developer-centric and security-focused customer identity and access management (CIAM) service that simplifies the process of adding user sign-up, sign-in, and access control to your mobile and web applications. Cognito is a highly available service that supports a range of use cases, from managing user authentication and authorization to enabling secure access […]",
-          "link": "https://aws.amazon.com/blogs/security/how-to-monitor-optimize-and-secure-amazon-cognito-machine-to-machine-authorization/",
-          "publishedOn": "2025-01-13T17:20:23.000Z",
-          "wordCount": 4204,
-          "title": "How to monitor, optimize, and secure Amazon Cognito machine-to-machine authorization",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/01/07/Cognito-M2M-Optimization-featured-image-1260x630.jpeg"
         }
       ]
     },
@@ -4597,6 +4917,16 @@
       "feedUrl": "https://birming.com/feed/",
       "siteUrl": "https://birming.com/",
       "articles": [
+        {
+          "id": "https://birming.com/rarity-friendliness/",
+          "author": null,
+          "description": "Today, after a house inspection, a client remarked on how nice and helpful I was. It's not uncommon; I frequently receive positive feedback and high ratings for my work.\nWhy does something as simple as friendliness seem to surprise people so much? Shouldn't it be the norm?\nIt's not like friendliness requires special skills or a huge investment. It costs neither time nor money. In fact, it can save both.\nThink about it: when you're attentive to a client's needs, you avoid misunderstandings and potential problems down the line, saving time on corrections or complaints.\nIt also builds trust, potentially leading to more business in the future, which definitely has a positive economic effect.\nMaybe this fast-paced world has made people so focused on efficiency and deadlines that they've forgotten the importance of human connection. Perhaps the emphasis on productivity has overshadowed the value of interpersonal skills.\nWhatever the reason, it's a loss.\nThe world needs more friendliness!",
+          "link": "https://birming.com/rarity-friendliness/",
+          "publishedOn": "2025-02-12T15:13:00.000Z",
+          "wordCount": 723,
+          "title": "The Rarity of Friendliness",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
+        },
         {
           "id": "https://birming.com/when-words-ran-out/",
           "author": null,
@@ -4826,16 +5156,6 @@
           "wordCount": 2951,
           "title": "Encryption at Rest with SQLAlchemy",
           "imageUrl": "https://blog.miguelgrinberg.com/static/cards/encryption-at-rest-with-sqlalchemy.jpg"
-        },
-        {
-          "id": "https://blog.miguelgrinberg.com/post/using-free-let-s-encrypt-ssl-certificates-in-2025",
-          "author": "Miguel Grinberg",
-          "description": "In this article I'm going to review the steps you need to take to obtain an A+ SSL security rating for your website, as mine has.\n\nThis tutorial applies to any hosting solution that uses Nginx as web server or reverse proxy, running on a Debian based distribution of Linux such as Ubuntu. The SSL Certificate provider that I use is Let's Encrypt, which is trusted by all major web browsers and issues certificates for free.",
-          "link": "https://blog.miguelgrinberg.com/post/using-free-let-s-encrypt-ssl-certificates-in-2025",
-          "publishedOn": "2025-01-13T14:09:03.000Z",
-          "wordCount": 2863,
-          "title": "Using Free Let's Encrypt SSL Certificates in 2025",
-          "imageUrl": "https://blog.miguelgrinberg.com/static/cards/using-free-let-s-encrypt-ssl-certificates-in-2025.jpg"
         }
       ]
     },
@@ -4946,16 +5266,6 @@
           "wordCount": 1433,
           "title": "10th anniversary - our story",
           "imageUrl": "https://cloudonaut.io/images/2025/01/move-party.jpg"
-        },
-        {
-          "id": "https://cloudonaut.io/dynamodb-move-region-account-backup-restore/",
-          "author": null,
-          "description": "Need to move your DynamoDB table? Learn about three migration methods: backup and restore, S3 export/import, and DynamoDB CLI tool dynein.",
-          "link": "https://cloudonaut.io/dynamodb-move-region-account-backup-restore/",
-          "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 1612,
-          "title": "How to move a DynamoDB table to another region or account?",
-          "imageUrl": "https://cloudonaut.io/images/2025/01/move-social.jpg"
         }
       ]
     },
@@ -4983,16 +5293,6 @@
           "wordCount": 1926,
           "title": "Data API for Amazon Aurora Serverless v2 with AWS SDK for Java - Part 12 Data API quotas, limitations and pricing",
           "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8dspgqkx17n2hz2cn9ya.png"
-        },
-        {
-          "id": "https://dev.to/aws-heroes/becoming-an-aws-serverless-hero-2b8g",
-          "author": "Vadym Kazulkin",
-          "description": "Introduction\n\n\nIn the beginning of November 2024, I was named AWS Serverless Hero. I decided to write a small article series to reflect AWS journey of me and the company ip.labs from the perspective of my public contributions. In this part of the series, I mainly focused on the art of contributions that I accomplished followed by some general advice how I found out to effectively contribute to the AWS community. If I have time in the future I’ll break those contributions down in more detail in the subsequent part.\nThis article isn’t named “How to become AWS Hero” as I don’t exactly know how such nominations work as the process isn’t public and you can’t nominate yourself. To be honest, I dreamed to become AWS Hero, but I wasn’t obsessed about it. I have been focusing on contributing to the…",
-          "link": "https://dev.to/aws-heroes/becoming-an-aws-serverless-hero-2b8g",
-          "publishedOn": "2025-01-13T14:41:43.000Z",
-          "wordCount": 3061,
-          "title": "Becoming an AWS (Serverless) Hero",
-          "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6tai529pr22svjl8o1pd.png"
         }
       ]
     },
@@ -5155,6 +5455,16 @@
       "feedUrl": "https://hamatti.org/feed/feed.xml",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://hamatti.org/posts/how-long-does-it-take-me-to-write-a-blog-post/",
+          "author": null,
+          "description": "a talk about blogging\n  in\n  a mobile development meetup\n  and after the talks, I got asked: \"how long does it take me to write a blog post?\".\n\n\nA seemingly simple question to which there's no easy answer.\nLiving life\n\n\n  Sometimes when I set out to do the actual writing of a blog post, I have 95%\n  of it already written in my notes and I just need to copy-paste and edit a bit\n  to move text around and make it coherent for a blog post. In calendar time,\n  sometimes it can take year or two for an idea to become a blog post.\n\n\n\n  If the question is about how much of my life is spent in blogging, the answer\n  is difficult. I don’t consider most of the activities listed above as\n  something specific to blogging. Blogging is just a public outcome of things I\n  do.\n\n\n\n  I find it impossible to s…",
+          "link": "https://hamatti.org/posts/how-long-does-it-take-me-to-write-a-blog-post/",
+          "publishedOn": "2025-02-12T00:00:00.000Z",
+          "wordCount": null,
+          "title": "How long does it take me to write a blog post?",
+          "imageUrl": null
+        },
         {
           "id": "https://hamatti.org/posts/on-mentorships/",
           "author": null,
@@ -5437,26 +5747,6 @@
           "wordCount": null,
           "title": "📝 15 January 2025 at 11:56 - There's a big yellow thing in the sky that has...",
           "imageUrl": null
-        },
-        {
-          "id": "notes/20250113-2135",
-          "author": null,
-          "description": "I don’t understand services like Instagram and their ilk. They’re photo sharing services, right? But I can share photos here AND write text AND add links. See, I just did both below.\nDon’t get it. 🤷‍♂️\nhttps://kevquirk.com\n(yes, that is an evil looking chicken)\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
-          "link": "https://kevquirk.com/notes/20250113-2135",
-          "publishedOn": "2025-01-13T21:40:00.000Z",
-          "wordCount": null,
-          "title": "📝 13 January 2025 at 21:35 - I don t understand services like Instagram and their ilk...",
-          "imageUrl": null
-        },
-        {
-          "id": "notes/20250113-2127",
-          "author": null,
-          "description": "With all the shit going on at the moment with #WordPress and #Facebook, this is a welcome change.\nLove this.\nhttps://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
-          "link": "https://kevquirk.com/notes/20250113-2127",
-          "publishedOn": "2025-01-13T21:30:00.000Z",
-          "wordCount": null,
-          "title": "📝 13 January 2025 at 21:27 - With all the shit going on at the moment with...",
-          "imageUrl": null
         }
       ]
     },
@@ -5465,6 +5755,16 @@
       "feedUrl": "https://krebsonsecurity.com/feed/",
       "siteUrl": "https://krebsonsecurity.com",
       "articles": [
+        {
+          "id": "https://krebsonsecurity.com/?p=70396",
+          "author": "BrianKrebs",
+          "description": "Microsoft today issued security updates to fix at least 56 vulnerabilities in its Windows operating systems and supported software, including two zero-day flaws that are being actively exploited.",
+          "link": "https://krebsonsecurity.com/2025/02/microsoft-patch-tuesday-february-2025-edition/",
+          "publishedOn": "2025-02-12T04:58:37.000Z",
+          "wordCount": null,
+          "title": "Microsoft Patch Tuesday, February 2025 Edition",
+          "imageUrl": null
+        },
         {
           "id": "https://krebsonsecurity.com/?p=70358",
           "author": "BrianKrebs",
@@ -5892,6 +6192,256 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://design.google/library/youtube-new-red-color",
+          "author": null,
+          "description": "Comments",
+          "link": "https://design.google/library/youtube-new-red-color",
+          "publishedOn": "2025-02-13T00:55:26.000Z",
+          "wordCount": null,
+          "title": "YouTube's New Hue",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/",
+          "publishedOn": "2025-02-13T00:24:08.000Z",
+          "wordCount": null,
+          "title": "Why cryptography is not based on NP-complete problems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/",
+          "publishedOn": "2025-02-12T22:20:19.000Z",
+          "wordCount": null,
+          "title": "Tiny JITs for a Faster FFI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jotalea.com.ar/misc/jotaleaos/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jotalea.com.ar/misc/jotaleaos/",
+          "publishedOn": "2025-02-12T20:55:12.000Z",
+          "wordCount": null,
+          "title": "Show HN: I made my own OS from scratch because I was bored",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cpubenchmark.net/year-on-year.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cpubenchmark.net/year-on-year.html",
+          "publishedOn": "2025-02-12T20:34:41.000Z",
+          "wordCount": null,
+          "title": "The average CPU performance of PCs and notebooks fell for the first time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/noperator/yknotify",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/noperator/yknotify",
+          "publishedOn": "2025-02-12T20:24:59.000Z",
+          "wordCount": null,
+          "title": "Show HN: yknotify – Notify when YubiKey needs touch on macOS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jsr.io/@fullsoak/fullsoak",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jsr.io/@fullsoak/fullsoak",
+          "publishedOn": "2025-02-12T19:54:52.000Z",
+          "wordCount": null,
+          "title": "Show HN: A no-build fullstack SSR TypeScript web framework",
+          "imageUrl": null
+        },
+        {
+          "id": "https://imapsync.lamiral.info/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://imapsync.lamiral.info/",
+          "publishedOn": "2025-02-12T18:54:35.000Z",
+          "wordCount": null,
+          "title": "Imapsync",
+          "imageUrl": null
+        },
+        {
+          "id": "https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/",
+          "publishedOn": "2025-02-12T18:27:41.000Z",
+          "wordCount": null,
+          "title": "Are efficiency and horizontal scalability at odds?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2502.07577",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2502.07577",
+          "publishedOn": "2025-02-12T18:14:34.000Z",
+          "wordCount": null,
+          "title": "Automated Capability Discovery via Foundation Model Self-Exploration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://eli.lipsitz.net/posts/introducing-gamebub/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://eli.lipsitz.net/posts/introducing-gamebub/",
+          "publishedOn": "2025-02-12T17:11:25.000Z",
+          "wordCount": null,
+          "title": "Show HN: Game Bub – open-source FPGA retro emulation handheld",
+          "imageUrl": null
+        },
+        {
+          "id": "https://spectrum.ieee.org/5g-bandwidth",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/5g-bandwidth",
+          "publishedOn": "2025-02-12T17:04:22.000Z",
+          "wordCount": null,
+          "title": "5G networks meet consumer needs as mobile data growth slows",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations",
+          "publishedOn": "2025-02-12T17:00:48.000Z",
+          "wordCount": null,
+          "title": "Artie (YC S23) Is Hiring Business Operations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nature.com/articles/d41586-025-00444-1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-025-00444-1",
+          "publishedOn": "2025-02-12T16:52:57.000Z",
+          "wordCount": null,
+          "title": "Record-breaking neutrino is most energetic ever detected",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/",
+          "publishedOn": "2025-02-12T16:32:37.000Z",
+          "wordCount": null,
+          "title": "How Nissan and Honda's $60B merger talks collapsed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.worksinprogress.news/p/the-prophet-of-parking",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.worksinprogress.news/p/the-prophet-of-parking",
+          "publishedOn": "2025-02-12T16:31:04.000Z",
+          "wordCount": null,
+          "title": "The Prophet of Parking: A eulogy for the great Donald Shoup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/nexsol-technologies/pgassistant",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/nexsol-technologies/pgassistant",
+          "publishedOn": "2025-02-12T15:01:40.000Z",
+          "wordCount": null,
+          "title": "PgAssistant: OSS tool to help devs understand and optimize PG performance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://perthirtysix.com/visualizing-data-is-an-art",
+          "author": null,
+          "description": "Comments",
+          "link": "https://perthirtysix.com/visualizing-data-is-an-art",
+          "publishedOn": "2025-02-12T14:17:48.000Z",
+          "wordCount": null,
+          "title": "Visualizing Data Is an Art – We Should Treat It Like One",
+          "imageUrl": null
+        },
+        {
+          "id": "https://deadbeef.sourceforge.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://deadbeef.sourceforge.io/",
+          "publishedOn": "2025-02-12T12:58:13.000Z",
+          "wordCount": null,
+          "title": "DeaDBeeF: The Ultimate Music Player",
+          "imageUrl": null
+        },
+        {
+          "id": "https://brutecat.com/articles/leaking-youtube-emails",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brutecat.com/articles/leaking-youtube-emails",
+          "publishedOn": "2025-02-12T11:19:42.000Z",
+          "wordCount": null,
+          "title": "Leaking the email of any YouTube user for $10k",
+          "imageUrl": null
+        },
+        {
+          "id": "https://maknee.github.io/blog/2025/League-Data-Scraping/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://maknee.github.io/blog/2025/League-Data-Scraping/",
+          "publishedOn": "2025-02-12T11:11:38.000Z",
+          "wordCount": null,
+          "title": "League of Legends data scraping the hard and tedious way for fun",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43023875",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=43023875",
+          "publishedOn": "2025-02-12T10:22:21.000Z",
+          "wordCount": null,
+          "title": "Ask HN: What's the best implementation of Conway's Game of Life?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2111.12800",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2111.12800",
+          "publishedOn": "2025-02-12T09:43:48.000Z",
+          "wordCount": null,
+          "title": "Tiny Pointers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/",
+          "publishedOn": "2025-02-12T09:33:29.000Z",
+          "wordCount": null,
+          "title": "US and UK refuse to sign AI safety declaration at summit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/",
+          "publishedOn": "2025-02-12T09:24:08.000Z",
+          "wordCount": null,
+          "title": "Smuggling arbitrary data through an emoji",
+          "imageUrl": null
+        },
         {
           "id": "https://www.dailydot.com/debug/lexipol-data-leak-puppygirl-hacker-polycule/",
           "author": null,
@@ -6343,6 +6893,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://bucket.co/blog/trunk-based-development",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bucket.co/blog/trunk-based-development",
+          "publishedOn": "2025-02-10T12:15:51.000Z",
+          "wordCount": null,
+          "title": "Trunk-Based Development",
+          "imageUrl": null
+        },
+        {
           "id": "https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/",
           "author": null,
           "description": "Comments",
@@ -6443,6 +7003,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://linux-howto.org/article/dangerous-dependencies-in-third-party-software-the-underestimated-risk",
+          "author": null,
+          "description": "Comments",
+          "link": "https://linux-howto.org/article/dangerous-dependencies-in-third-party-software-the-underestimated-risk",
+          "publishedOn": "2025-02-09T20:06:32.000Z",
+          "wordCount": null,
+          "title": "Dangerous dependencies in third-party software – the underestimated risk",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced",
           "author": null,
           "description": "Comments",
@@ -6523,6 +7093,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://digitalseams.com/blog/what-happens-to-your-online-accounts-when-you-die",
+          "author": null,
+          "description": "Comments",
+          "link": "https://digitalseams.com/blog/what-happens-to-your-online-accounts-when-you-die",
+          "publishedOn": "2025-02-09T15:09:41.000Z",
+          "wordCount": null,
+          "title": "What happens to your online accounts when you die?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.bbc.com/future/article/20250207-sky-skimmers-the-race-to-send-satellites-into-very-low-earth-orbits",
           "author": null,
           "description": "Comments",
@@ -6540,6 +7120,16 @@
           "publishedOn": "2025-02-09T14:52:54.000Z",
           "wordCount": null,
           "title": "Kanata: Cross-platform multi-layer keyboard remapper with advanced customization",
+          "imageUrl": null
+        },
+        {
+          "id": "http://vmchale.com/static/serve/simd.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "http://vmchale.com/static/serve/simd.pdf",
+          "publishedOn": "2025-02-09T13:54:50.000Z",
+          "wordCount": null,
+          "title": "Compiling Array Languages for SIMD [pdf]",
           "imageUrl": null
         },
         {
@@ -6580,6 +7170,16 @@
           "publishedOn": "2025-02-09T11:07:52.000Z",
           "wordCount": null,
           "title": "Linux as co-operative Windows process (2017)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://luj.fr/blog/is-nixos-truly-reproducible.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://luj.fr/blog/is-nixos-truly-reproducible.html",
+          "publishedOn": "2025-02-09T09:56:13.000Z",
+          "wordCount": null,
+          "title": "Is NixOS truly reproducible?",
           "imageUrl": null
         },
         {
@@ -9660,6 +10260,22 @@
       "siteUrl": "https://newsletter.pragmaticengineer.com",
       "articles": [
         {
+          "id": "https://newsletter.pragmaticengineer.com/p/live-streaming-at-world-record-scale",
+          "author": "Gergely Orosz",
+          "description": "In May 2023, a live streaming world record was set with 32 million concurrent viewers watching the finale of the Indian Premier League cricket finale. A chat with the architect behind this system",
+          "link": "https://newsletter.pragmaticengineer.com/p/live-streaming-at-world-record-scale",
+          "publishedOn": "2025-02-12T19:00:49.000Z",
+          "wordCount": null,
+          "title": "Live streaming at world-record scale with Ashutosh Agrawal",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/156974373/29a08beb75beb4ca5dc9e019257915ee.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://newsletter.pragmaticengineer.com/p/ai-engineering-with-chip-huyen",
           "author": "Gergely Orosz",
           "description": "On today’s episode of The Pragmatic Engineer, I’m joined by Chip Huyen, a computer scientist, author of the freshly published O’Reilly book AI Engineering, and an expert in applied machine learning.",
@@ -9764,6 +10380,16 @@
       "siteUrl": "https://rknight.me",
       "articles": [
         {
+          "id": "https://rknight.me/blog/lihit-labs-compact-pen-case-review/",
+          "author": "Robb Knight",
+          "description": "I started bullet journalling a month ago and it's my understanding that part of getting into analogue tools is buying too many pens and shit. Well I have bought a lot of pens and shit since I started.\nI feel like \"a lot of pens\" is underselling it\nThanks for that, Lewis.\nI needed a case for the handful of pens, pencils, and a ruler I want to use in my journal so I went on a hunt for something slim and came across the Lihit Lab Compact Pen Case.\n\nIt has a double zip, two pockets for pens, plus smaller slots for other things. The website says it's water and stain repellent although I haven't tested that claim. I imagine it could hold maybe ten pens but it might be a bit of a tight squeeze - with two fountain pens on the left hand side and a full right side made it a bit too bulky for my liking.\nIt comes in four relatively boring colors so I went with red. It costs ~£10 which is very reasonable, the build quality seems solid, and it does exactly what I wanted. I'm also considering buying a second one for some of my smaller DIY stuff.\n\nCult Pens have it available for £9.50 right now.",
+          "link": "https://rknight.me/blog/lihit-labs-compact-pen-case-review/",
+          "publishedOn": "2025-02-12T12:32:15.000Z",
+          "wordCount": null,
+          "title": "Lihit Labs Compact Pen Case Review",
+          "imageUrl": null
+        },
+        {
           "id": "https://rknight.me/blog/my-first-digital-photo/",
           "author": "Robb Knight",
           "description": "Adam tooted earlier about the first photo he ever took with a digital camera and it got me thinking about what mine was. Initially I thought it was this photo of Manhattan take from the Empire State Building in February 2006 taken with a Fujifilm FinePix A345.\n\nHowever, when I got onto a proper computer and I could check, I found this photo of my dad's MGZS which I took on his Fujifilm DX 5, a month prior to the New York photo.\n\nA couple of years before at school I had used a Sony Mavica FD75 - this fucker took a 3.5\" floppy disk for storage. What a time to be alive. Sadly I don't have any photos from it but I suspect they were not good.",
@@ -9861,16 +10487,6 @@
           "publishedOn": "2025-01-14T23:00:00.000Z",
           "wordCount": null,
           "title": "Now (January 2025)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://rknight.me/blog/on-transient-slash-pages/",
-          "author": "Robb Knight",
-          "description": "A couple of weeks ago Chris said this about slash pages:\nI think it makes more sense to me to write about what I carry around right now and if I did it again later, it doesn’t have to replace what I’ve written before\nSlash Pages is a site I maintain that is a \"guide to common pages you can add to your website\". So /uses, /now, and so on. Chris' quote above was about /edc but it applies to all of them. It was also discussed on episode 647 of ShopTalk.\nMy post on automating my /now page was very popular and I am proud of what I managed to do but I've been thinking for a while it's very impersonal. It's data. It's not a page written by me in any meaningful way.\nLeon had some similar thoughts on this with an idea for each blog post being a section of a page but rendered as one. The end goal for him, and me, is that the new additions get syndicated via RSS, POSSE, and so forth. I like the idea of redirecting /now to the latest post tagged as now so one could see the latest version of what I'm doing now.\nFor a /now page, this makes a lot of sense - on a regular schedule I can add a new post about what I'm up to and update things as required but when thinking about my /uses page, what does an update to that look like? Assuming a short /uses page like this:\n- MacBook Pro\n- AirPods Max\n- iPhone 14 Pro\nThe first blog post is easy, it would include all of that but if I change my phone to a 16 Pro do I duplicate the whole thing but update just that one line? If I just post a diff of what's changed then there isn't a single place to see everything I've used.\nI'm going to start with my /now page while I mull over how to handle some others.",
-          "link": "https://rknight.me/blog/on-transient-slash-pages/",
-          "publishedOn": "2025-01-13T22:11:53.000Z",
-          "wordCount": null,
-          "title": "On Transient Slash Pages",
           "imageUrl": null
         }
       ]
@@ -16402,6 +17018,36 @@
       "siteUrl": "http://simonwillison.net/",
       "articles": [
         {
+          "id": "https://simonwillison.net/2025/Feb/12/sam-altman/#atom-everything",
+          "author": null,
+          "description": "<blockquote cite=\"https://twitter.com/sama/status/1889755723078443244\"><p>We want AI to “just work” for you; we realize how complicated our model and product offerings have gotten.</p>\n<p>We hate the model picker as much as you do and want to return to magic unified intelligence.</p>\n<p>We will next ship GPT-4.5, the model we called Orion internally, as our last non-chain-of-thought model.</p>\n<p>After that, a top goal for us is to unify o-series models and GPT-series models by creating systems that can use all our tools, know when to think for a long time or not, and generally be useful for a very wide range of tasks.</p>\n<p>In both ChatGPT and our API, we will release GPT-5 as a system that integrates a lot of our technology, including o3. We will no longer ship o3 as a standalone model.</p>\n<p>[<em>When <a href=\"https://twitter.com/kimmonismus/status/1889756564145238124\">asked about release dates</a> for GPT 4.5 / GPT 5:</em>] <a href=\"https://twitter.com/sama/status/1889757267425370415\">weeks / months</a></p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://twitter.com/sama/status/1889755723078443244\">Sam Altman</a></p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/openai\">openai</a>, <a href=\"https://simonwillison.net/tags/o3\">o3</a>, <a href=\"https://simonwillison.net/tags/chatgpt\">chatgpt</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/sam-altman\">sam-altman</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/12/sam-altman/#atom-everything",
+          "publishedOn": "2025-02-12T22:43:19.000Z",
+          "wordCount": null,
+          "title": "Quoting Sam Altman",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/12/nomic-embed-text-v2/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://www.nomic.ai/blog/posts/nomic-embed-text-v2\">Nomic Embed Text V2: An Open Source, Multilingual, Mixture-of-Experts Embedding Model</a></strong></p>\nNomic continue to release the most interesting and powerful embedding models. Their latest is Embed Text V2, an Apache 2.0 licensed multi-lingual 1.9GB model (here it is <a href=\"https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe\">on Hugging Face</a>) trained on \"1.6 billion high-quality data pairs\", which is the first embedding model I've seen to use a Mixture of Experts architecture:</p>\n<blockquote>\n<p>In our experiments, we found that alternating MoE layers with 8 experts and top-2 routing provides the optimal balance between performance and efficiency. This results in 475M total parameters in the model, but only 305M active during training and inference.</p>\n</blockquote>\n<p>I first tried it out using <code>uv run</code> like this:</p>\n<div class=\"highlight highlight-source-shell\"><pre>uv run \\\n  --with einops \\\n  --with sentence-transformers \\\n  --python 3.13 python</pre></div>\n<p>Then:</p>\n<pre><span class=\"pl-k\">from</span> <span class=\"pl-s1\">sentence_transformers</span> <span class=\"pl-k\">import</span> <span class=\"pl-v\">SentenceTransformer</span>\n<span class=\"pl-s1\">model</span> <span class=\"pl-c1\">=</span> <span class=\"pl-en\">SentenceTransformer</span>(<span class=\"pl-s\">\"nomic-ai/nomic-embed-text-v2-moe\"</span>, <span class=\"pl-s1\">trust_remote_code</span><span class=\"pl-c1\">=</span><span class=\"pl-c1\">True</span>)\n<span class=\"pl-s1\">sentences</span> <span class=\"pl-c1\">=</span> [<span class=\"pl-s\">\"Hello!\"</span>, <span class=\"pl-s\">\"¡Hola!\"</span>]\n<span class=\"pl-s1\">embeddings</span> <span class=\"pl-c1\">=</span> <span class=\"pl-s1\">model</span>.<span class=\"pl-c1\">encode</span>(<span class=\"pl-s1\">sentences</span>, <span class=\"pl-s1\">prompt_name</span><span class=\"pl-c1\">=</span><span class=\"pl-s\">\"passage\"</span>)\n<span class=\"pl-en\">print</span>(<span class=\"pl-s1\">embeddings</span>)</pre>\n\n<p>Then I got it working on my laptop using the <a href=\"https://github.com/simonw/llm-sentence-transformers\">llm-sentence-tranformers</a> plugin like this:</p>\n<pre><code>llm install llm-sentence-transformers\nllm install einops # additional necessary package\nllm sentence-transformers register nomic-ai/nomic-embed-text-v2-moe --trust-remote-code\n\nllm embed -m sentence-transformers/nomic-ai/nomic-embed-text-v2-moe -c 'string to embed'\n</code></pre>\n<p>This outputs a 768 item JSON array of floating point numbers to the terminal. These are <a href=\"https://huggingface.co/blog/matryoshka\">Matryoshka embeddings</a> which means you can truncate that down to just the first 256 items and get similarity calculations that still work albeit slightly less well.</p>\n<p>To use this for RAG you'll need to conform to Nomic's custom prompt format. For documents to be searched:</p>\n<pre><code>search_document: text of document goes here\n</code></pre>\n<p>And for search queries:</p>\n<pre><code>search_query: term to search for\n</code></pre>\n<p>I <a href=\"https://github.com/simonw/llm/issues/745\">landed a new --prepend option</a> for the <a href=\"https://llm.datasette.io/en/stable/embeddings/cli.html#llm-embed-multi\">llm embed-multi</a> command to help with that, but it's not out in a full release just yet.</p>\n<p>I also released <a href=\"https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3\">llm-sentence-transformers 0.3</a> with some minor improvements to make running this model more smooth.\n\n    <p><small></small>Via <a href=\"https://twitter.com/nomic_ai/status/1889721439948820665\">@nomic_ai</a></small></p>\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/embeddings\">embeddings</a>, <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/nomic\">nomic</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/rag\">rag</a>, <a href=\"https://simonwillison.net/tags/uv\">uv</a>, <a href=\"https://simonwillison.net/tags/python\">python</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/12/nomic-embed-text-v2/#atom-everything",
+          "publishedOn": "2025-02-12T22:24:19.000Z",
+          "wordCount": null,
+          "title": "Nomic Embed Text V2: An Open Source, Multilingual, Mixture-of-Experts Embedding Model",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/12/building-a-snap-llm/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://www.propel.app/insights/building-a-snap-llm-eval-part-1/\">Building a SNAP LLM eval: part 1</a></strong></p>\nDave Guarino (<a href=\"https://simonwillison.net/2023/Jul/26/dave-guarino/\">previously</a>) has been exploring using LLM-driven systems to help people apply for <a href=\"https://en.wikipedia.org/wiki/Supplemental_Nutrition_Assistance_Program\">SNAP</a>, the US Supplemental Nutrition Assistance Program (aka food stamps).</p>\n<p>This is a domain which existing models know <em>some</em> things about, but which is full of critical details around things like eligibility criteria where accuracy really matters.</p>\n<p>Domain-specific evals like this are still pretty rare. As Dave puts it:</p>\n<blockquote>\n<p>There is also not a lot of public, easily digestible writing out there on building evals in specific domains. So one of our hopes in sharing this is that it helps others build evals for domains they know deeply.</p>\n</blockquote>\n<p>Having robust evals addresses multiple challenges. The first is establishing how good the raw models are for a particular domain. A more important one is to help in developing additional systems on top of these models, where an eval is crucial for understanding if RAG or prompt engineering tricks are paying off.</p>\n<p>Step 1 doesn't involve writing any code at all:</p>\n<blockquote>\n<p>Meaningful, real problem spaces inevitably have a lot of <em>nuance</em>. So in working on our SNAP eval, the first step has just been using lots of models — a lot. [...]</p>\n<p>Just using the models and taking notes on the nuanced “good”, “meh”, “bad!” is a much faster way to get to a useful starting eval set than writing or automating evals in code.</p>\n</blockquote>\n<p>I've been complaining for a while that there isn't nearly enough guidance about evals out there. This piece is an excellent step towards filling that gap.\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/evals\">evals</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/12/building-a-snap-llm/#atom-everything",
+          "publishedOn": "2025-02-12T22:01:42.000Z",
+          "wordCount": null,
+          "title": "Building a SNAP LLM eval: part 1",
+          "imageUrl": null
+        },
+        {
           "id": "https://simonwillison.net/2025/Feb/11/llm-sort/#atom-everything",
           "author": null,
           "description": "<p><strong><a href=\"https://github.com/vagos/llm-sort\">llm-sort</a></strong></p>\nDelightful <a href=\"https://llm.datasette.io/\">LLM</a> plugin by Evangelos Lamprou which adds the ability to perform \"semantic search\" - allowing you to sort the contents of a file based on using a prompt against an LLM to determine sort order.</p>\n<p>Best illustrated by these examples from the README:</p>\n<pre><code>llm sort --query \"Which names is more suitable for a pet monkey?\" names.txt\n\ncat titles.txt | llm sort --query \"Which book should I read to cook better?\"\n</code></pre>\n<p>It works using this pairwise prompt, which is executed multiple times using Python's <code>sorted(documents, key=functools.cmp_to_key(compare_callback))</code> mechanism:</p>\n<pre><code>Given the query:\n{query}\n\nCompare the following two lines:\n\nLine A:\n{docA}\n\nLine B:\n{docB}\n\nWhich line is more relevant to the query? Please answer with \"Line A\" or \"Line B\".\n</code></pre>\n\n    <p><small></small>Via <a href=\"https://lobste.rs/s/yxlisx/llm_sort_sort_input_lines_semantically\">lobste.rs</a></small></p>\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/plugins\">plugins</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/python\">python</a></p>",
@@ -17107,6 +17753,16 @@
       "feedUrl": "https://www.bentasker.co.uk/rss.xml",
       "siteUrl": "https://www.bentasker.co.uk/",
       "articles": [
+        {
+          "id": "https://www.bentasker.co.uk/posts/blog/general/marking-bonnies-first-year-with-us.html",
+          "author": "Ben Tasker",
+          "description": "A year ago, my son and I started the day by standing in the park waiting for Bonnie to be brought over by her (soon to be) ex-owner. As we waited, we wondered how much stuff we were going to need to carry back (turns out, almost nothing).\nBy the start of the school day, Bonnie was at home to start her new life with us.\nNot unexpectedly, the process of integrating Bonnie into our home and getting to know her has featured various ups and downs, from learning that she likes to sleep the wrong way up to finding out that she is scared of towels.\nThis short post is to mark the day and wish our border collie Bonn Anniversaire (geddit?)\nIf you're wondering, the picture is the look that we get if there's any chance of a treat or a walk: ears tucked back and neck stretched forward expectantly.\nImpro…",
+          "link": "https://www.bentasker.co.uk/posts/blog/general/marking-bonnies-first-year-with-us.html?utm_source=rss",
+          "publishedOn": "2025-02-12T12:37:00.000Z",
+          "wordCount": null,
+          "title": "A Year of Bonnie",
+          "imageUrl": null
+        },
         {
           "id": "https://www.bentasker.co.uk/posts/blog/law/doing-an-osa-assessment-for-my-single-user-fedi-server.html",
           "author": "Ben Tasker",

@@ -2,10 +2,761 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsoros.github.io/rss-feeds-hackernews/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-12T01:37:28.476Z</updated>
+    <updated>2025-02-13T01:38:37.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jsoros.github.io/rss-feeds-hackernews/index.html"/>
     <link rel="self" href="https://jsoros.github.io/rss-feeds-hackernews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YouTube's New Hue]]></title>
+        <id>https://news.ycombinator.com/item?id=43031545</id>
+        <link href="https://design.google/library/youtube-new-red-color"/>
+        <updated>2025-02-13T00:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://design.google/library/youtube-new-red-color
+Comments URL: https://news.ycombinator.com/item?id=43031545
+Points: 15
+# Comments: 33]]></summary>
+        <author>
+            <name>xnx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube's New Hue]]></title>
+        <id>https://design.google/library/youtube-new-red-color</id>
+        <link href="https://design.google/library/youtube-new-red-color"/>
+        <updated>2025-02-13T00:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why cryptography is not based on NP-complete problems]]></title>
+        <id>https://news.ycombinator.com/item?id=43031372</id>
+        <link href="https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/"/>
+        <updated>2025-02-13T00:24:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/
+Comments URL: https://news.ycombinator.com/item?id=43031372
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>blintz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why cryptography is not based on NP-complete problems]]></title>
+        <id>https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/</id>
+        <link href="https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/"/>
+        <updated>2025-02-13T00:24:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting Sam Altman]]></title>
+        <id>https://simonwillison.net/2025/Feb/12/sam-altman/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/12/sam-altman/#atom-everything"/>
+        <updated>2025-02-12T22:43:19.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote cite="https://twitter.com/sama/status/1889755723078443244"><p>We want AI to “just work” for you; we realize how complicated our model and product offerings have gotten.</p>
+<p>We hate the model picker as much as you do and want to return to magic unified intelligence.</p>
+<p>We will next ship GPT-4.5, the model we called Orion internally, as our last non-chain-of-thought model.</p>
+<p>After that, a top goal for us is to unify o-series models and GPT-series models by creating systems that can use all our tools, know when to think for a long time or not, and generally be useful for a very wide range of tasks.</p>
+<p>In both ChatGPT and our API, we will release GPT-5 as a system that integrates a lot of our technology, including o3. We will no longer ship o3 as a standalone model.</p>
+<p>[<em>When <a href="https://twitter.com/kimmonismus/status/1889756564145238124">asked about release dates</a> for GPT 4.5 / GPT 5:</em>] <a href="https://twitter.com/sama/status/1889757267425370415">weeks / months</a></p></blockquote>
+<p class="cite">&mdash; <a href="https://twitter.com/sama/status/1889755723078443244">Sam Altman</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/o3">o3</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/sam-altman">sam-altman</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nomic Embed Text V2: An Open Source, Multilingual, Mixture-of-Experts Embedding Model]]></title>
+        <id>https://simonwillison.net/2025/Feb/12/nomic-embed-text-v2/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/12/nomic-embed-text-v2/#atom-everything"/>
+        <updated>2025-02-12T22:24:19.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong><a href="https://www.nomic.ai/blog/posts/nomic-embed-text-v2">Nomic Embed Text V2: An Open Source, Multilingual, Mixture-of-Experts Embedding Model</a></strong></p>
+Nomic continue to release the most interesting and powerful embedding models. Their latest is Embed Text V2, an Apache 2.0 licensed multi-lingual 1.9GB model (here it is <a href="https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe">on Hugging Face</a>) trained on "1.6 billion high-quality data pairs", which is the first embedding model I've seen to use a Mixture of Experts architecture:</p>
+<blockquote>
+<p>In our experiments, we found that alternating MoE layers with 8 experts and top-2 routing provides the optimal balance between performance and efficiency. This results in 475M total parameters in the model, but only 305M active during training and inference.</p>
+</blockquote>
+<p>I first tried it out using <code>uv run</code> like this:</p>
+<div class="highlight highlight-source-shell"><pre>uv run \
+  --with einops \
+  --with sentence-transformers \
+  --python 3.13 python</pre></div>
+<p>Then:</p>
+<pre><span class="pl-k">from</span> <span class="pl-s1">sentence_transformers</span> <span class="pl-k">import</span> <span class="pl-v">SentenceTransformer</span>
+<span class="pl-s1">model</span> <span class="pl-c1">=</span> <span class="pl-en">SentenceTransformer</span>(<span class="pl-s">"nomic-ai/nomic-embed-text-v2-moe"</span>, <span class="pl-s1">trust_remote_code</span><span class="pl-c1">=</span><span class="pl-c1">True</span>)
+<span class="pl-s1">sentences</span> <span class="pl-c1">=</span> [<span class="pl-s">"Hello!"</span>, <span class="pl-s">"¡Hola!"</span>]
+<span class="pl-s1">embeddings</span> <span class="pl-c1">=</span> <span class="pl-s1">model</span>.<span class="pl-c1">encode</span>(<span class="pl-s1">sentences</span>, <span class="pl-s1">prompt_name</span><span class="pl-c1">=</span><span class="pl-s">"passage"</span>)
+<span class="pl-en">print</span>(<span class="pl-s1">embeddings</span>)</pre>
+
+<p>Then I got it working on my laptop using the <a href="https://github.com/simonw/llm-sentence-transformers">llm-sentence-tranformers</a> plugin like this:</p>
+<pre><code>llm install llm-sentence-transformers
+llm install einops # additional necessary package
+llm sentence-transformers register nomic-ai/nomic-embed-text-v2-moe --trust-remote-code
+
+llm embed -m sentence-transformers/nomic-ai/nomic-embed-text-v2-moe -c 'string to embed'
+</code></pre>
+<p>This outputs a 768 item JSON array of floating point numbers to the terminal. These are <a href="https://huggingface.co/blog/matryoshka">Matryoshka embeddings</a> which means you can truncate that down to just the first 256 items and get similarity calculations that still work albeit slightly less well.</p>
+<p>To use this for RAG you'll need to conform to Nomic's custom prompt format. For documents to be searched:</p>
+<pre><code>search_document: text of document goes here
+</code></pre>
+<p>And for search queries:</p>
+<pre><code>search_query: term to search for
+</code></pre>
+<p>I <a href="https://github.com/simonw/llm/issues/745">landed a new --prepend option</a> for the <a href="https://llm.datasette.io/en/stable/embeddings/cli.html#llm-embed-multi">llm embed-multi</a> command to help with that, but it's not out in a full release just yet.</p>
+<p>I also released <a href="https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3">llm-sentence-transformers 0.3</a> with some minor improvements to make running this model more smooth.
+
+    <p><small></small>Via <a href="https://twitter.com/nomic_ai/status/1889721439948820665">@nomic_ai</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/embeddings">embeddings</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/nomic">nomic</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/rag">rag</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/python">python</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny JITs for a Faster FFI]]></title>
+        <id>https://news.ycombinator.com/item?id=43030388</id>
+        <link href="https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/"/>
+        <updated>2025-02-12T22:20:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/
+Comments URL: https://news.ycombinator.com/item?id=43030388
+Points: 117
+# Comments: 38]]></summary>
+        <author>
+            <name>hahahacorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny JITs for a Faster FFI]]></title>
+        <id>https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/</id>
+        <link href="https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/"/>
+        <updated>2025-02-12T22:20:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a SNAP LLM eval: part 1]]></title>
+        <id>https://simonwillison.net/2025/Feb/12/building-a-snap-llm/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/12/building-a-snap-llm/#atom-everything"/>
+        <updated>2025-02-12T22:01:42.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong><a href="https://www.propel.app/insights/building-a-snap-llm-eval-part-1/">Building a SNAP LLM eval: part 1</a></strong></p>
+Dave Guarino (<a href="https://simonwillison.net/2023/Jul/26/dave-guarino/">previously</a>) has been exploring using LLM-driven systems to help people apply for <a href="https://en.wikipedia.org/wiki/Supplemental_Nutrition_Assistance_Program">SNAP</a>, the US Supplemental Nutrition Assistance Program (aka food stamps).</p>
+<p>This is a domain which existing models know <em>some</em> things about, but which is full of critical details around things like eligibility criteria where accuracy really matters.</p>
+<p>Domain-specific evals like this are still pretty rare. As Dave puts it:</p>
+<blockquote>
+<p>There is also not a lot of public, easily digestible writing out there on building evals in specific domains. So one of our hopes in sharing this is that it helps others build evals for domains they know deeply.</p>
+</blockquote>
+<p>Having robust evals addresses multiple challenges. The first is establishing how good the raw models are for a particular domain. A more important one is to help in developing additional systems on top of these models, where an eval is crucial for understanding if RAG or prompt engineering tricks are paying off.</p>
+<p>Step 1 doesn't involve writing any code at all:</p>
+<blockquote>
+<p>Meaningful, real problem spaces inevitably have a lot of <em>nuance</em>. So in working on our SNAP eval, the first step has just been using lots of models — a lot. [...]</p>
+<p>Just using the models and taking notes on the nuanced “good”, “meh”, “bad!” is a much faster way to get to a useful starting eval set than writing or automating evals in code.</p>
+</blockquote>
+<p>I've been complaining for a while that there isn't nearly enough guidance about evals out there. This piece is an excellent step towards filling that gap.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for Lustre now supports Lustre version upgrades]]></title>
+        <id>72c9212c6f5da6f1f6ca6492793241697bc3f47b</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-lustre-lustre-version-upgrades"/>
+        <updated>2025-02-12T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for Lustre, a service that provides high-performance, cost-effective, and scalable file storage for compute workloads, now enables you to upgrade the Lustre version of your FSx for Lustre file systems. This feature allows you to benefit from the enhancements available in newer Lustre versions on your existing file systems.
+  FSx for Lustre provides fully-managed file systems built on Lustre, the world's most popular open-source high performance file system. FSx for Lustre supports multiple long-term support Lustre versions released by the Lustre community. Newer Lustre versions provide benefits such as performance enhancements, new features, and support for the latest Linux kernel versions for your client instances. Starting today, you can upgrade your file systems to newer Lustre versions within minutes using the AWS management console or the AWS CLI/SDK .
+  The feature is now available on all file systems at no additional cost in all AWS Regions where FSx for Lustre is available. For more information, see Amazon FSx for Lustre documentation.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made my own OS from scratch because I was bored]]></title>
+        <id>https://news.ycombinator.com/item?id=43029686</id>
+        <link href="https://jotalea.com.ar/misc/jotaleaos/"/>
+        <updated>2025-02-12T20:55:12.000Z</updated>
+        <summary type="html"><![CDATA[I've wanted to make my own OS since I started programming. Now, 5 years later, I did it (kind of).
+Sure, it is really basic, has very little functionality, but I made it and I'm proud of that. Oh, and I'm just 16 btw.
+Comments URL: https://news.ycombinator.com/item?id=43029686
+Points: 59
+# Comments: 22]]></summary>
+        <author>
+            <name>Jotalea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made my own OS from scratch because I was bored]]></title>
+        <id>https://jotalea.com.ar/misc/jotaleaos/</id>
+        <link href="https://jotalea.com.ar/misc/jotaleaos/"/>
+        <updated>2025-02-12T20:55:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The average CPU performance of PCs and notebooks fell for the first time]]></title>
+        <id>https://news.ycombinator.com/item?id=43029474</id>
+        <link href="https://www.cpubenchmark.net/year-on-year.html"/>
+        <updated>2025-02-12T20:34:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cpubenchmark.net/year-on-year.html
+Comments URL: https://news.ycombinator.com/item?id=43029474
+Points: 92
+# Comments: 59]]></summary>
+        <author>
+            <name>doener</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The average CPU performance of PCs and notebooks fell for the first time]]></title>
+        <id>https://www.cpubenchmark.net/year-on-year.html</id>
+        <link href="https://www.cpubenchmark.net/year-on-year.html"/>
+        <updated>2025-02-12T20:34:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: yknotify – Notify when YubiKey needs touch on macOS]]></title>
+        <id>https://news.ycombinator.com/item?id=43029385</id>
+        <link href="https://github.com/noperator/yknotify"/>
+        <updated>2025-02-12T20:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/noperator/yknotify
+Comments URL: https://news.ycombinator.com/item?id=43029385
+Points: 36
+# Comments: 13]]></summary>
+        <author>
+            <name>noperator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: yknotify – Notify when YubiKey needs touch on macOS]]></title>
+        <id>https://github.com/noperator/yknotify</id>
+        <link href="https://github.com/noperator/yknotify"/>
+        <updated>2025-02-12T20:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A no-build fullstack SSR TypeScript web framework]]></title>
+        <id>https://news.ycombinator.com/item?id=43029089</id>
+        <link href="https://jsr.io/@fullsoak/fullsoak"/>
+        <updated>2025-02-12T19:54:52.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN!
+I'd love to seek your insights on a fullstack web framework that employs a different approach: no build.
+It's not a new concept. The folks as Preact mentioned it: https://preactjs.com/guide/v10/no-build-workflows/
+However, in the Web Framework market, I've yet to find many that support both "no build" and "SSR". There's always some sorts of "client mount" and "server mount" and either has (or both have) to go through a build (bundling) process.
+With the build process, there comes additional maintenance efforts and cognitive load. I've enjoyed wrestling with tsconfig, webpack config, all sorts of presets and plugins countless times... When things work, they just work, but when we need sth a bit custom or unconventional, then we're almost always in for a tough ride. (or it's just me )
+Not to say I'm against any existing build workflow. In fact I benefited a lot in the past from webpack, and i'm very positive about modern bundlers like Parcel 2, Turbopack, rspack, etc.
+I just feel it'd be fair to save some slots for the "no build" route :)
+To this end, I spent the last month working on a prototype of a TypeScript fullstack SSR web framework. It's compatible with Deno and Bun runtimes. I'd love to make it compatible with Node.js as well (at some point).
+The framework registry page (https://jsr.io/@fullsoak/fullsoak) summarizes the motives expressed so far.
+An example deployment is available at: https://fullsoak.onrender.com/app
+The code behind the deployment above: https://github.com/fullsoak/bun-examples
+PS: you may see Preact being used & mentioned everywhere but I'm positive that React is 100% supported as well (just drop-in & use). I just happened to choose Preact to experience it more for myself.
+I look forward to your thoughts :) and learning if this might (or might not) be a feasible idea at scale. And perhaps, which future directions you would see this (or something like it) goes. Thank you much for any insight!
+Comments URL: https://news.ycombinator.com/item?id=43029089
+Points: 55
+# Comments: 54]]></summary>
+        <author>
+            <name>thesephi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A no-build fullstack SSR TypeScript web framework]]></title>
+        <id>https://jsr.io/@fullsoak/fullsoak</id>
+        <link href="https://jsr.io/@fullsoak/fullsoak"/>
+        <updated>2025-02-12T19:54:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The importance of encryption and how AWS can help]]></title>
+        <id>913c7d1e9895ea5476abef600fce9539bc74195d</id>
+        <link href="https://aws.amazon.com/blogs/security/importance-of-encryption-and-how-aws-can-help/"/>
+        <updated>2025-02-12T19:18:47.000Z</updated>
+        <summary type="html"><![CDATA[February 12, 2025: This post was republished to include new services and features that have launched since the original publication date of June 11, 2020. Encryption is a critical component of a defense-in-depth security strategy that uses multiple defensive mechanisms to protect workloads, data, and assets. As organizations look to innovate while building trust with […]]]></summary>
+        <author>
+            <name>Ken Beer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS AppSync enhances resolver testing with comprehensive context object mocking]]></title>
+        <id>9351c0d9b54d700c07b2aefcfc313595c042c8ea</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-resolver-testing-comprehensive-context-object-mocking"/>
+        <updated>2025-02-12T19:12:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS AppSync, a fully managed GraphQL service that helps customers build scalable APIs, announces improvements to its EvaluateCode and EvaluateMappingTemplate APIs. This update enables developers to comprehensively mock all properties of the context object during resolver and function unit testing, including identity information, stash variables, and error handling. The enhancement also introduces improved JSON input validation with clear, actionable error messages, making it easier for developers to identify and fix issues in their context setup.
+  These improvements simplify the setup and configuration requirements. Developers can now efficiently test functions and resolvers by accessing and validating resolver stash (ctx.stash) and error tracking (ctx.outErrors) in their test environments. The update also simplifies identity mocking by allowing developers to include only the relevant caller information in ctx.identity. The updated console experience provides better visibility into the resolver test results, helping developers troubleshoot and optimize their resolver implementations more effectively.
+  This enhancement is available in all AWS Regions where AWS AppSync is currently supported.
+ 
+
+ To learn more about these new features, visit the AWS AppSync documentation and explore the context object reference. You can also explore examples and best practices in the AWS AppSync Developer Guide or get started by visiting the AWS AppSync console.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live streaming at world-record scale with Ashutosh Agrawal]]></title>
+        <id>https://newsletter.pragmaticengineer.com/p/live-streaming-at-world-record-scale</id>
+        <link href="https://newsletter.pragmaticengineer.com/p/live-streaming-at-world-record-scale"/>
+        <updated>2025-02-12T19:00:49.000Z</updated>
+        <summary type="html"><![CDATA[In May 2023, a live streaming world record was set with 32 million concurrent viewers watching the finale of the Indian Premier League cricket finale. A chat with the architect behind this system]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imapsync]]></title>
+        <id>https://news.ycombinator.com/item?id=43028468</id>
+        <link href="https://imapsync.lamiral.info/"/>
+        <updated>2025-02-12T18:54:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://imapsync.lamiral.info/
+Comments URL: https://news.ycombinator.com/item?id=43028468
+Points: 79
+# Comments: 33]]></summary>
+        <author>
+            <name>mooreds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imapsync]]></title>
+        <id>https://imapsync.lamiral.info/</id>
+        <link href="https://imapsync.lamiral.info/"/>
+        <updated>2025-02-12T18:54:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are efficiency and horizontal scalability at odds?]]></title>
+        <id>https://news.ycombinator.com/item?id=43028200</id>
+        <link href="https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/"/>
+        <updated>2025-02-12T18:27:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/
+Comments URL: https://news.ycombinator.com/item?id=43028200
+Points: 36
+# Comments: 29]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are efficiency and horizontal scalability at odds?]]></title>
+        <id>https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/"/>
+        <updated>2025-02-12T18:27:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Capability Discovery via Foundation Model Self-Exploration]]></title>
+        <id>https://news.ycombinator.com/item?id=43028057</id>
+        <link href="https://arxiv.org/abs/2502.07577"/>
+        <updated>2025-02-12T18:14:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2502.07577
+Comments URL: https://news.ycombinator.com/item?id=43028057
+Points: 38
+# Comments: 11]]></summary>
+        <author>
+            <name>f14t</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Capability Discovery via Foundation Model Self-Exploration]]></title>
+        <id>https://arxiv.org/abs/2502.07577</id>
+        <link href="https://arxiv.org/abs/2502.07577"/>
+        <updated>2025-02-12T18:14:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Elastic Block Store (EBS) now adds full snapshot size information in Console and API]]></title>
+        <id>f6073cc038cc636af2924a06da28d23d246e02af</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ebs-full-snapshot-size-information-console-api"/>
+        <updated>2025-02-12T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Block Store (Amazon EBS) now displays the full snapshot size for EBS Snapshots. With this enhancement, customers can now retrieve full snapshot sizes programmatically through the DescribeSnapshots API using the new field, full-snapshot-size-in-bytes. The full snapshot size is also displayed in the EBS Snapshots console under the new 'Full snapshot size' column.
+  Since EBS Snapshots are incremental in nature, if you take multiple snapshots of a volume over time, each snapshot only stores the new or modified blocks while maintaining references to unchanged blocks from previous snapshots.
+ The ‘full snapshot size’ field shows you the total size of all blocks that make up a snapshot, including both the blocks stored directly in that snapshot and all blocks referenced from previous snapshots. For instance, if you have a 100 GB volume with 50 GB of data, the ‘full snapshot size’ would show 50 GB regardless of whether it's the first snapshot or a subsequent one.
+  The ‘full snapshot size’ field provides crucial information about your EBS snapshot storage, such as the total size of the snapshot in the archived tier or the amount of data written to the source volume at the time the snapshot was created. Please note that this is different from the incremental snapshot size, which only refers to the size of newly changed blocks stored in that specific snapshot.
+  This feature is now generally available in all commercial AWS regions and the AWS GovCloud (US) Regions. To get started, see the EBS Snapshots user guide and API specification.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS HealthScribe now supports GIRPP note template for behavioral health]]></title>
+        <id>158229aeb316d61b65dae6e44b16ff120b070433</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-healthscribe-girpp-note-template-behavioral-health"/>
+        <updated>2025-02-12T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS HealthScribe is a generative AI-powered service that automatically generates summarized clinical notes and transcripts from patient-clinician conversations. Documentation for behavioral health related encounters follows a goal centric format based on GIRPP (Goal, Intervention, Response, Progress, Plan) format. With this launch, AWS HealthScribe customers can directly convert a behavioral health related patient-clinician conversation to a GIRPP format note. This can potentially save clinicians hours daily in manually documenting behavioral health related encounters.
+  Customers using the HealthScribe StartMedicalScribeJob and StartMedicalScribeStream API can simply set note template type parameter as “GIRPP” in the ClinicalNoteGenerationSettings for both async and streaming jobs and will share the output note in GIRPP format as the conversation ends.
+  This feature is available in US East (N.Virginia) Region. To learn more refer to our documentation.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Game Bub – open-source FPGA retro emulation handheld]]></title>
+        <id>https://news.ycombinator.com/item?id=43027335</id>
+        <link href="https://eli.lipsitz.net/posts/introducing-gamebub/"/>
+        <updated>2025-02-12T17:11:25.000Z</updated>
+        <summary type="html"><![CDATA[Hey HN,
+Over the past ~1.5 years, I built an open-source FPGA retro emulation handheld that can play Game Boy, Game Boy Color, and Game Boy Advance cartridges. To my knowledge, there isn't an existing open-source FPGA emulator that can play physical cartridges like this.
+One of my main goals was to do all of the pieces myself, and be able to understand every component of it, so I designed my own PCB, wrote the firmware, wrote a Game Boy and Game Boy Advance emulator for the FPGA (using the Chisel HDL), and designed a 3D-printed case.
+I detailed the design and development process in the linked post. It's quite long, but there are a lot of pictures and videos.
+Code and design files available on GitHub: https://github.com/elipsitz/gamebub, and an overview of the architecture: https://github.com/elipsitz/gamebub/blob/handheld/docs/archi...
+Comments URL: https://news.ycombinator.com/item?id=43027335
+Points: 169
+# Comments: 44]]></summary>
+        <author>
+            <name>elipsitz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Game Bub – open-source FPGA retro emulation handheld]]></title>
+        <id>https://eli.lipsitz.net/posts/introducing-gamebub/</id>
+        <link href="https://eli.lipsitz.net/posts/introducing-gamebub/"/>
+        <updated>2025-02-12T17:11:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5G networks meet consumer needs as mobile data growth slows]]></title>
+        <id>https://news.ycombinator.com/item?id=43027266</id>
+        <link href="https://spectrum.ieee.org/5g-bandwidth"/>
+        <updated>2025-02-12T17:04:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/5g-bandwidth
+Comments URL: https://news.ycombinator.com/item?id=43027266
+Points: 153
+# Comments: 216]]></summary>
+        <author>
+            <name>saigovardhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5G networks meet consumer needs as mobile data growth slows]]></title>
+        <id>https://spectrum.ieee.org/5g-bandwidth</id>
+        <link href="https://spectrum.ieee.org/5g-bandwidth"/>
+        <updated>2025-02-12T17:04:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artie (YC S23) Is Hiring Business Operations]]></title>
+        <id>https://news.ycombinator.com/item?id=43027230</id>
+        <link href="https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations"/>
+        <updated>2025-02-12T17:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations
+Comments URL: https://news.ycombinator.com/item?id=43027230
+Points: 0
+# Comments: 0]]></summary>
+        <author>
+            <name>j-cheong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artie (YC S23) Is Hiring Business Operations]]></title>
+        <id>https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations</id>
+        <link href="https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations"/>
+        <updated>2025-02-12T17:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Record-breaking neutrino is most energetic ever detected]]></title>
+        <id>https://news.ycombinator.com/item?id=43027150</id>
+        <link href="https://www.nature.com/articles/d41586-025-00444-1"/>
+        <updated>2025-02-12T16:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-025-00444-1
+Comments URL: https://news.ycombinator.com/item?id=43027150
+Points: 161
+# Comments: 92]]></summary>
+        <author>
+            <name>lnauta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Record-breaking neutrino is most energetic ever detected]]></title>
+        <id>https://www.nature.com/articles/d41586-025-00444-1</id>
+        <link href="https://www.nature.com/articles/d41586-025-00444-1"/>
+        <updated>2025-02-12T16:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Nissan and Honda's $60B merger talks collapsed]]></title>
+        <id>https://news.ycombinator.com/item?id=43026934</id>
+        <link href="https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/"/>
+        <updated>2025-02-12T16:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/
+Comments URL: https://news.ycombinator.com/item?id=43026934
+Points: 88
+# Comments: 117]]></summary>
+        <author>
+            <name>comebhack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Nissan and Honda's $60B merger talks collapsed]]></title>
+        <id>https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/</id>
+        <link href="https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/"/>
+        <updated>2025-02-12T16:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Prophet of Parking: A eulogy for the great Donald Shoup]]></title>
+        <id>https://news.ycombinator.com/item?id=43026920</id>
+        <link href="https://www.worksinprogress.news/p/the-prophet-of-parking"/>
+        <updated>2025-02-12T16:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.worksinprogress.news/p/the-prophet-of-parking
+Comments URL: https://news.ycombinator.com/item?id=43026920
+Points: 184
+# Comments: 212]]></summary>
+        <author>
+            <name>herbertl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Prophet of Parking: A eulogy for the great Donald Shoup]]></title>
+        <id>https://www.worksinprogress.news/p/the-prophet-of-parking</id>
+        <link href="https://www.worksinprogress.news/p/the-prophet-of-parking"/>
+        <updated>2025-02-12T16:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rarity of Friendliness]]></title>
+        <id>https://birming.com/rarity-friendliness/</id>
+        <link href="https://birming.com/rarity-friendliness/"/>
+        <updated>2025-02-12T15:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, after a house inspection, a client remarked on how nice and helpful I was. It's not uncommon; I frequently receive positive feedback and high ratings for my work.
+Why does something as simple as friendliness seem to surprise people so much? Shouldn't it be the norm?
+It's not like friendliness requires special skills or a huge investment. It costs neither time nor money. In fact, it can save both.
+Think about it: when you're attentive to a client's needs, you avoid misunderstandings and potential problems down the line, saving time on corrections or complaints.
+It also builds trust, potentially leading to more business in the future, which definitely has a positive economic effect.
+Maybe this fast-paced world has made people so focused on efficiency and deadlines that they've forgotten the importance of human connection. Perhaps the emphasis on productivity has overshadowed the value of interpersonal skills.
+Whatever the reason, it's a loss.
+The world needs more friendliness!]]></summary>
+        <author>
+            <name>Robert Birming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PgAssistant: OSS tool to help devs understand and optimize PG performance]]></title>
+        <id>https://news.ycombinator.com/item?id=43026036</id>
+        <link href="https://github.com/nexsol-technologies/pgassistant"/>
+        <updated>2025-02-12T15:01:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/nexsol-technologies/pgassistant
+Comments URL: https://news.ycombinator.com/item?id=43026036
+Points: 168
+# Comments: 31]]></summary>
+        <author>
+            <name>justinclift</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PgAssistant: OSS tool to help devs understand and optimize PG performance]]></title>
+        <id>https://github.com/nexsol-technologies/pgassistant</id>
+        <link href="https://github.com/nexsol-technologies/pgassistant"/>
+        <updated>2025-02-12T15:01:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualizing Data Is an Art – We Should Treat It Like One]]></title>
+        <id>https://news.ycombinator.com/item?id=43025645</id>
+        <link href="https://perthirtysix.com/visualizing-data-is-an-art"/>
+        <updated>2025-02-12T14:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://perthirtysix.com/visualizing-data-is-an-art
+Comments URL: https://news.ycombinator.com/item?id=43025645
+Points: 85
+# Comments: 32]]></summary>
+        <author>
+            <name>skadamat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualizing Data Is an Art – We Should Treat It Like One]]></title>
+        <id>https://perthirtysix.com/visualizing-data-is-an-art</id>
+        <link href="https://perthirtysix.com/visualizing-data-is-an-art"/>
+        <updated>2025-02-12T14:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeaDBeeF: The Ultimate Music Player]]></title>
+        <id>https://news.ycombinator.com/item?id=43024961</id>
+        <link href="https://deadbeef.sourceforge.io/"/>
+        <updated>2025-02-12T12:58:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://deadbeef.sourceforge.io/
+Comments URL: https://news.ycombinator.com/item?id=43024961
+Points: 125
+# Comments: 91]]></summary>
+        <author>
+            <name>theden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeaDBeeF: The Ultimate Music Player]]></title>
+        <id>https://deadbeef.sourceforge.io/</id>
+        <link href="https://deadbeef.sourceforge.io/"/>
+        <updated>2025-02-12T12:58:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Year of Bonnie]]></title>
+        <id>https://www.bentasker.co.uk/posts/blog/general/marking-bonnies-first-year-with-us.html</id>
+        <link href="https://www.bentasker.co.uk/posts/blog/general/marking-bonnies-first-year-with-us.html?utm_source=rss"/>
+        <updated>2025-02-12T12:37:00.000Z</updated>
+        <summary type="html"><![CDATA[A year ago, my son and I started the day by standing in the park waiting for Bonnie to be brought over by her (soon to be) ex-owner. As we waited, we wondered how much stuff we were going to need to carry back (turns out, almost nothing).
+By the start of the school day, Bonnie was at home to start her new life with us.
+Not unexpectedly, the process of integrating Bonnie into our home and getting to know her has featured various ups and downs, from learning that she likes to sleep the wrong way up to finding out that she is scared of towels.
+This short post is to mark the day and wish our border collie Bonn Anniversaire (geddit?)
+If you're wondering, the picture is the look that we get if there's any chance of a treat or a walk: ears tucked back and neck stretched forward expectantly.
+Impro…]]></summary>
+        <author>
+            <name>Ben Tasker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lihit Labs Compact Pen Case Review]]></title>
+        <id>https://rknight.me/blog/lihit-labs-compact-pen-case-review/</id>
+        <link href="https://rknight.me/blog/lihit-labs-compact-pen-case-review/"/>
+        <updated>2025-02-12T12:32:15.000Z</updated>
+        <summary type="html"><![CDATA[I started bullet journalling a month ago and it's my understanding that part of getting into analogue tools is buying too many pens and shit. Well I have bought a lot of pens and shit since I started.
+I feel like "a lot of pens" is underselling it
+Thanks for that, Lewis.
+I needed a case for the handful of pens, pencils, and a ruler I want to use in my journal so I went on a hunt for something slim and came across the Lihit Lab Compact Pen Case.
+
+It has a double zip, two pockets for pens, plus smaller slots for other things. The website says it's water and stain repellent although I haven't tested that claim. I imagine it could hold maybe ten pens but it might be a bit of a tight squeeze - with two fountain pens on the left hand side and a full right side made it a bit too bulky for my liking.
+It comes in four relatively boring colors so I went with red. It costs ~£10 which is very reasonable, the build quality seems solid, and it does exactly what I wanted. I'm also considering buying a second one for some of my smaller DIY stuff.
+
+Cult Pens have it available for £9.50 right now.]]></summary>
+        <author>
+            <name>Robb Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaking the email of any YouTube user for $10k]]></title>
+        <id>https://news.ycombinator.com/item?id=43024221</id>
+        <link href="https://brutecat.com/articles/leaking-youtube-emails"/>
+        <updated>2025-02-12T11:19:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brutecat.com/articles/leaking-youtube-emails
+Comments URL: https://news.ycombinator.com/item?id=43024221
+Points: 1222
+# Comments: 361]]></summary>
+        <author>
+            <name>brutecat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaking the email of any YouTube user for $10k]]></title>
+        <id>https://brutecat.com/articles/leaking-youtube-emails</id>
+        <link href="https://brutecat.com/articles/leaking-youtube-emails"/>
+        <updated>2025-02-12T11:19:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[League of Legends data scraping the hard and tedious way for fun]]></title>
+        <id>https://maknee.github.io/blog/2025/League-Data-Scraping/</id>
+        <link href="https://maknee.github.io/blog/2025/League-Data-Scraping/"/>
+        <updated>2025-02-12T11:11:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What's the best implementation of Conway's Game of Life?]]></title>
+        <id>https://news.ycombinator.com/item?id=43023875</id>
+        <link href="https://news.ycombinator.com/item?id=43023875"/>
+        <updated>2025-02-12T10:22:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny Pointers]]></title>
+        <id>https://arxiv.org/abs/2111.12800</id>
+        <link href="https://arxiv.org/abs/2111.12800"/>
+        <updated>2025-02-12T09:43:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US and UK refuse to sign AI safety declaration at summit]]></title>
+        <id>https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/</id>
+        <link href="https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/"/>
+        <updated>2025-02-12T09:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smuggling arbitrary data through an emoji]]></title>
+        <id>https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/</id>
+        <link href="https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/"/>
+        <updated>2025-02-12T09:24:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Patch Tuesday, February 2025 Edition]]></title>
+        <id>https://krebsonsecurity.com/?p=70396</id>
+        <link href="https://krebsonsecurity.com/2025/02/microsoft-patch-tuesday-february-2025-edition/"/>
+        <updated>2025-02-12T04:58:37.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft today issued security updates to fix at least 56 vulnerabilities in its Windows operating systems and supported software, including two zero-day flaws that are being actively exploited.]]></summary>
+        <author>
+            <name>BrianKrebs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Legal Immigration Is Nearly Impossible: US Legal Immigration Rules Explained]]></title>
         <id>https://news.ycombinator.com/item?id=43020469</id>
@@ -65,6 +816,40 @@ Points: 11
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How long does it take me to write a blog post?]]></title>
+        <id>https://hamatti.org/posts/how-long-does-it-take-me-to-write-a-blog-post/</id>
+        <link href="https://hamatti.org/posts/how-long-does-it-take-me-to-write-a-blog-post/"/>
+        <updated>2025-02-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[a talk about blogging
+  in
+  a mobile development meetup
+  and after the talks, I got asked: "how long does it take me to write a blog post?".
+
+
+A seemingly simple question to which there's no easy answer.
+Living life
+
+
+  Sometimes when I set out to do the actual writing of a blog post, I have 95%
+  of it already written in my notes and I just need to copy-paste and edit a bit
+  to move text around and make it coherent for a blog post. In calendar time,
+  sometimes it can take year or two for an idea to become a blog post.
+
+
+
+  If the question is about how much of my life is spent in blogging, the answer
+  is difficult. I don’t consider most of the activities listed above as
+  something specific to blogging. Blogging is just a public outcome of things I
+  do.
+
+
+
+  I find it impossible to s…]]></summary>
+        <author>
+            <name>Juha-Matti Santala - Community Builder. Dreamer. Adventurer.</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Year of Telepathy]]></title>
         <id>https://news.ycombinator.com/item?id=43019352</id>
         <link href="https://neuralink.com/blog/a-year-of-telepathy/"/>
@@ -85,6 +870,32 @@ Points: 33
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Polly launches a new voice in Singaporean English]]></title>
+        <id>54f1252748a570aa891e4ce422769c7bc97fd58c</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-polly-new-voice-singaporean-english"/>
+        <updated>2025-02-11T22:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are excited to announce the general availability of Jasmine - new Singaporean English Neural Text-to-Speech (NTTS) female voice for Amazon Polly.
+  Amazon Polly is a service that turns text into lifelike speech, allowing you to create applications that talk and to build entirely new categories of speech-enabled products.
+  Jasmine is our first voice for the Singaporean variant of English. Even though Singaporean English is reported to be close to British English, there are some unique pronunciation patterns that we captured while training this voice, such as pronunciation of telephone numbers or postal codes, to make sure that Jasmine sounds like a local speaker. With this launch, we continue building a variety of voice and language options for Amazon Polly customers.
+  Jasmine and all the other NTTS voices are available in AWS regions supporting Neural TTS. For more details, please read the Amazon Polly documentation and visit our pricing page.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS AppSync GraphQL introduces operation-level caching for faster GraphQL API responses]]></title>
+        <id>196ed37ccd7b7bcd9a26b6a56c93538143efe812</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-graphql-operation-level-caching-api-responses"/>
+        <updated>2025-02-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS AppSync GraphQL now offers operation-level caching, a new feature that allows customers to cache entire GraphQL query operation responses. This enhancement enables developers to optimize read-heavy GraphQL APIs, delivering faster response times and improved application performance.
+  Operation-level caching in AWS AppSync GraphQL streamlines the caching process by storing complete query responses. This approach is particularly beneficial for complex queries or high-traffic scenarios, where it can significantly reduce latency and enhance the overall user experience. By caching at the operation level, developers can easily boost API efficiency and create more responsive applications without additional code changes.
+  Operation-level caching is now available in all AWS Regions where AWS AppSync is offered.
+  To learn more about operation-level caching in AWS AppSync GraphQL, visit the AWS AppSync documentation. You can start using this feature today by configuring caching settings in the AWS AppSync GraphQL console or through the AWS CLI.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -383,6 +1194,54 @@ Points: 85
         <summary type="html"><![CDATA[Generative AI applications often involve a combination of various services and features—such as Amazon Bedrock and large language models (LLMs)—to generate content and to access potentially confidential data. This combination requires strong identity and access management controls and is special in the sense that those controls need to be applied on various levels. In this […]]]></summary>
         <author>
             <name>Jonathan Jenkyn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Secrets and Configuration Provider now integrates with Pod Identity for Amazon EKS]]></title>
+        <id>d8e41edf96e70281edcc6b4dce8f22d020cc5796</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-secrets-configuration-provider-pod-identity-eks/"/>
+        <updated>2025-02-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, AWS Secrets Manager announces that AWS Secrets and Configuration Provider (ASCP) now integrates with Amazon Elastic Kubernetes Service (Amazon EKS) Pod Identity. This integration simplifies IAM authentication for Amazon EKS when retrieving secrets from AWS Secrets Manager or parameters from AWS Systems Manager Parameter Store. With this new capability, you can manage IAM permissions for Kubernetes applications more efficiently and securely, enabling granular access control through role session tags on secrets.
+  ASCP is a plugin for the industry-standard Kubernetes Secrets Store CSI Driver. It enables applications running in Kubernetes pods to retrieve secrets from AWS Secrets Manager easily, without the need for custom code or restarting containers when secrets are rotated. The AWS EKS Pod Identity, streamlines the process of configuring IAM permissions for Kubernetes applications in a more efficient and secure way. This integration combines the strengths of both components, enhancing secret management in Amazon EKS environments.
+  Previously, ASCP relied on IAM Roles for Service Accounts (IRSA) for authentication. Now, you can choose between IRSA and Pod Identity for IAM authentication using the new optional parameter "usePodIdentity". This flexibility allows you to adopt the authentication method that best suits your security requirements and operational needs.
+  The integration of ASCP with Pod Identity is available in all AWS Regions where AWS Secrets Manager and Amazon EKS Pod Identity are supported. To get started with this new feature, see the following resources AWS Secrets Manager documentation, Amazon EKS Pod Identity documentation and launch blog post.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect Contact Lens can now take automated actions based on hold times and agent interaction time]]></title>
+        <id>f136ced2b86eef76e0080937a696c98f0ca12d58</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-automated-actions-based-hold-times-agent-interaction-time"/>
+        <updated>2025-02-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect Contact Lens now enables managers to create rules based on patterns of customer hold time and agent interaction duration, to take automated actions such as categorizing contacts, evaluating agent performance and notifying supervisors. With this launch, managers can create rules to check how well agents comply with guidelines on placing customers on hold. For example, did the agent set expectations on hold duration, before placing the customer on hold for more than 5 minutes? In addition, managers can check if the agent interaction lasted long enough to warrant assessment of complex agent behaviors such as building customer rapport, customer issue root cause analysis, etc. By excluding contacts that were too short, such as less than 30 seconds, managers can get more meaningful insights from automated contact categorization and agent performance evaluations.
+  This feature is available in all regions where Contact Lens performance evaluations are already available. To learn more, please visit our documentation and our webpage. For information about Contact Lens pricing, please visit our pricing page.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect Contact Lens now provides a dashboard with aggregated insights on agent performance evaluations]]></title>
+        <id>08c3954fcfa78711c3437e0aa58ddb8ca47a7a8a</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-dashboard-agent-evaluations/"/>
+        <updated>2025-02-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Contact Lens now provides managers with an agent performance evaluation dashboard, to view aggregations of agent performance, and insights across cohorts of agents over time. With this launch, managers can access a unified dashboard on agent performance across evaluation scores, productivity (e.g., contacts handled, average handle time, etc.) and operational metrics. Through detailed performance scorecards at both team and individual levels, managers can dive deep into specific performance criteria, and compare performance with similar cohorts and over time, to identify agent strengths and improvement opportunities. The dashboard also provides managers with insights into agent time allocation and contact handling efficiency, so they can drive improvements in agent productivity.
+  This feature is available in all regions where Contact Lens performance evaluations are already available. To learn more, please visit our documentation and our webpage. For information about Contact Lens pricing, please visit our pricing page.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DynamoDB now supports auto-approval of quota adjustments]]></title>
+        <id>903645d9c70bf6a4bd566049a4962d7863a327c8</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-dynamodb-supports-auto-approval-quota-adjustments/"/>
+        <updated>2025-02-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You can now request for Amazon DynamoDB account-level and table-level throughput quota adjustments using AWS Service Quotas in all AWS Commercial Regions and the AWS GovCloud (US) Regions, and get auto-approved within minutes.
+ 
+Previously, when requesting a quota adjustment, Service Quotas allowed you to indicate the Amazon DynamoDB quota and desired value to be adjusted to. AWS Support would then review your request, approve, and make the adjustments. With this launch, when you make updates to your DynamoDB account-level and table-level throughput quotas using AWS Service Quotas, your adjustments will get automatically approved and adjusted with just a few clicks. AWS Service Quotas is available at no additional charge.
+  To learn more about Amazon DynamoDB, the Serverless, NoSQL, fully managed database with single-digit millisecond performance at any scale, please visit the Amazon DynamoDB website.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -796,6 +1655,18 @@ Points: 74
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Amazon EC2 M8g instances now available in AWS Europe (London)]]></title>
+        <id>91ca46f16327753d615fed58eb5b72b42a2536d7</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-m8g-instances-aws-europe-london"/>
+        <updated>2025-02-10T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8g instances are available in AWS Europe (London) region. These instances are powered by AWS Graviton4 processors and deliver up to 30% better performance compared to AWS Graviton3-based instances. Amazon EC2 M8g instances are built for general-purpose workloads, such as application servers, microservices, gaming servers, midsize data stores, and caching fleets. These instances are built on the AWS Nitro System, which oﬄoads CPU virtualization, storage, and networking functions to dedicated hardware and software to enhance the performance and security of your workloads.
+  AWS Graviton4-based Amazon EC2 instances deliver the best performance and energy efficiency for a broad range of workloads running on Amazon EC2. These instances offer larger instance sizes with up to 3x more vCPUs and memory compared to Graviton3-based Amazon M7g instances. AWS Graviton4 processors are up to 40% faster for databases, 30% faster for web applications, and 45% faster for large Java applications than AWS Graviton3 processors. M8g instances are available in 12 different instance sizes, including two bare metal sizes. They offer up to 50 Gbps enhanced networking bandwidth and up to 40 Gbps of bandwidth to the Amazon Elastic Block Store (Amazon EBS).
+  To learn more, see Amazon EC2 M8g Instances. To explore how to migrate your workloads to Graviton-based instances, see AWS Graviton Fast Start program and Porting Advisor for Graviton. To get started, see the AWS Management Console.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fly.io (YC W20) Is Hiring a Customer Support Director]]></title>
         <id>https://news.ycombinator.com/item?id=43005096</id>
         <link href="https://news.ycombinator.com/item?id=43005096"/>
@@ -986,6 +1857,57 @@ Points: 53
         <summary type="html"><![CDATA[In this post, we explore the new higher base capacity of 1024 RPUs in Redshift Serverless, which doubles the previous maximum of 512 RPUs. This enhancement empowers you to get high performance for your workload containing highly complex queries and write-intensive workloads, with concurrent data ingestion and transformation tasks that require high throughput and low latency with Redshift Serverless.]]></summary>
         <author>
             <name>Ricardo Serafim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CloudWatch Application Signals now supports Runtime Metrics for .NET Applications]]></title>
+        <id>581ea04057be7a7a8b7acd4476c5302247de8ca3</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-application-signals-runtime-metrics-net-applications/"/>
+        <updated>2025-02-10T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, AWS is announcing the general availability of runtime metrics for .NET applications in Amazon CloudWatch Application Signals, an OpenTelemetry (OTel)-compatible application performance monitoring (APM) feature in CloudWatch. Without requiring any source code changes, you can now collect runtime metrics such as Garbage Collection and Heap usage from .NET applications and correlate with application metrics, traces, and logs for applications running across EKS, EC2, ECS and on-premise servers.
+  Runtime metrics enable real-time monitoring of your application’s resource consumption, such as memory and CPU usage. Now, for .NET applications, developers and SREs can determine whether anomalies in runtime metrics affect key application metrics—such as errors, latency, and throughput. For example, they can identify if a service latency spike is a result of an increase in garbage collection pauses by viewing these metric graphs side by side. Additionally you will be able to identify thread contention, track memory allocation patterns, and pinpoint memory or CPU spikes that may lead to application slowdown, impacting end-user experience.
+  Runtime metrics support is available for Java, Python and now .NET applications across all regions Application Signals is available in.
+  See documentation to learn more about the standard and runtime metrics collected by Application Signals. Don’t forget to opt in to the new, cost-effective pricing for Application Signals. For more details, visit the Amazon CloudWatch pricing page and look for the “Application Signals  (including complete visibility into application transaction spans)” section.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing AWS CloudFormation support for AWS Transfer Family web apps]]></title>
+        <id>c038129468dc318429789536482322d077b8c51e</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cloudformation-aws-transfer-family-web-apps"/>
+        <updated>2025-02-10T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You can now use AWS CloudFormation templates to create and manage your AWS Transfer Family web apps. This enables you to define and deploy Transfer Family web apps via infrastructure-as-code so you can automate centralized management at scale.
+  With CloudFormation templates, you can programmatically provision and configure your Transfer Family web app, associated customizations, and S3 access grants in a single deployment. This eliminates time-consuming manual configurations and ensures you maintain consistent, secure implementations across departments. You can rapidly scale your file transfer interfaces from hundreds to thousands of users while maintaining strict security and compliance standards through version-controlled infrastructure templates.
+  AWS CloudFormation support is available in all regions where Transfer Family web apps are available. To learn more about Transfer Family web apps, visit the Transfer Family User Guide and read our blog. For sample templates and detailed documentation, visit the AWS CloudFormation documentation.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift Serverless announces reduction in IP Address Requirements to 3 per Subnet]]></title>
+        <id>cb888bd8fef564250911956e7e266b17aac58acb</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-redshift-serverless-ip-address-3-per-subnet/"/>
+        <updated>2025-02-10T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift Serverless announces reduction in IP Address Requirements to 3 per Subnet. When using Amazon Redshift Serverless without Enhanced VPC Routing (EVR) enabled, you only need 3 free IP addresses in each subnet in your Amazon VPC. The new enhancement makes starting with Amazon Redshift Serverless easier, and you do not have to worry about free IP addresses in your Amazon VPC subnet network.
+  Before this announcement, you must have at least 9 free IP addresses in your subnet when creating an Amazon Redshift Serverless workgroup (workgroup) or when updating your workgroup for the Redshift Processing Units (RPUs), you must have at least 10 free IP addresses in your subnets. With this announcement, you only need 3 free IP addresses in your subnets when creating or updating the workgroup without EVR regardless of the size of the base RPU (8 to 1024 RPUs) or the RPU usage of your workgroup or workgroups enabled with AI-driven scaling and optimizations. Any existing workgroup will also benefit from the decreased IP address needs, regardless of the base RPU size or RPU usage, and including workgroups enabled with AI-driven scaling and optimizations. Your administrative overhead is reduced when RPUs for your workgroup increase as the free IP address requirements are reduced significantly, and you do not need to take steps to free up IP addresses.
+  The need for 3 free IP addresses in Amazon Redshift Serverless applies to all commercial AWS regions and AWS GovCloud (US) Regions where Amazon Redshift Serverless is available.
+  Refer to this documentation to learn more about the free IP address in Amazon Redshift Serverless.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic’s upgraded Claude 3.5 Sonnet now available in the Asia Pacific (Sydney) Region]]></title>
+        <id>b79f2bd1c1dc229c432ff5a57d149a2266dc2663</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/anthropics-upgraded-claude-3-5-sonnet-sydney-region/"/>
+        <updated>2025-02-10T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic’s upgraded Claude 3.5 Sonnet model is now available in Amazon Bedrock in the Asia Pacific (Sydney) AWS Region. According to Anthropic, the model delivers across-the-board improvements over its predecessor, with significant gains in coding—an area where it already led the field.
+  The upgraded Claude 3.5 Sonnet model shows wide-ranging improvements on industry benchmarks. On coding the model improves performance on SWE-bench Verified from 33% to 49%. It also improves performance on TAU-bench, an agentic tool use task, from 62.6% to 69.2% in the retail domain, and from 36.0% to 46.0% in the airline domain. The model offers these advancements at the same price of its predecessor. Additionally, Claude 3.5 Sonnet now offers computer use capabilities in Amazon Bedrock in public beta, allowing Claude to perceive and interact with computer interfaces. Developers can direct Claude to use computers the way people do—by looking at a screen, moving a cursor, clicking buttons, and typing text. Given this technology is early stage, developers are encouraged to explore lower-risk tasks.
+ 
+To learn more, read the AWS News launch blog, Claude in Amazon Bedrock product page, and documentation. To get started with Claude, visit the Amazon Bedrock console.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -1281,6 +2203,16 @@ Points: 175
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Trunk-Based Development]]></title>
+        <id>https://bucket.co/blog/trunk-based-development</id>
+        <link href="https://bucket.co/blog/trunk-based-development"/>
+        <updated>2025-02-10T12:15:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[My time machine runs on technical writing]]></title>
         <id>https://passo.uno/retrocomputing-tech-writing-lab/</id>
         <link href="https://passo.uno/retrocomputing-tech-writing-lab/"/>
@@ -1526,6 +2458,16 @@ Points: 26
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dangerous dependencies in third-party software – the underestimated risk]]></title>
+        <id>https://linux-howto.org/article/dangerous-dependencies-in-third-party-software-the-underestimated-risk</id>
+        <link href="https://linux-howto.org/article/dangerous-dependencies-in-third-party-software-the-underestimated-risk"/>
+        <updated>2025-02-09T20:06:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ada crate of the year 2024 announced]]></title>
         <id>https://news.ycombinator.com/item?id=42993086</id>
         <link href="https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced"/>
@@ -1736,6 +2678,16 @@ Points: 62
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What happens to your online accounts when you die?]]></title>
+        <id>https://digitalseams.com/blog/what-happens-to-your-online-accounts-when-you-die</id>
+        <link href="https://digitalseams.com/blog/what-happens-to-your-online-accounts-when-you-die"/>
+        <updated>2025-02-09T15:09:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sky skimmers: The race to fly satellites at the lowest orbits yet]]></title>
         <id>https://www.bbc.com/future/article/20250207-sky-skimmers-the-race-to-send-satellites-into-very-low-earth-orbits</id>
         <link href="https://www.bbc.com/future/article/20250207-sky-skimmers-the-race-to-send-satellites-into-very-low-earth-orbits"/>
@@ -1763,6 +2715,16 @@ Points: 108
         <id>https://github.com/jtroo/kanata</id>
         <link href="https://github.com/jtroo/kanata"/>
         <updated>2025-02-09T14:52:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compiling Array Languages for SIMD [pdf]]]></title>
+        <id>http://vmchale.com/static/serve/simd.pdf</id>
+        <link href="http://vmchale.com/static/serve/simd.pdf"/>
+        <updated>2025-02-09T13:54:50.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1896,6 +2858,16 @@ Points: 95
         <id>http://www.colinux.org/</id>
         <link href="http://www.colinux.org/"/>
         <updated>2025-02-09T11:07:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is NixOS truly reproducible?]]></title>
+        <id>https://luj.fr/blog/is-nixos-truly-reproducible.html</id>
+        <link href="https://luj.fr/blog/is-nixos-truly-reproducible.html"/>
+        <updated>2025-02-09T09:56:13.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -21248,133 +22220,6 @@ You can do that in Europe ⤾]]></summary>
         <summary type="html"><![CDATA[I love OpenFreeMap it is a quick, easy, and free way to add beautiful maps to your Open Source projects.  With the latest release of MapLibre-GL I wanted to see if there was an easy way to use both to make an interactive globe with clustered markers.  Spoiler alert: yes!  Basic Globe  Here&#039;s a basic example which I&#039;ve trimmed down from this example.    When you load the below code, you&#039;ll get a globe which you can spin and zoom. Nifty!  &#60;!DOCTYPE html&#62; &#60;html&#62;     &#60;head&#62;         &#60;title&#62;Globe…]]></summary>
         <author>
             <name>Terence Eden’s Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to move a DynamoDB table to another region or account?]]></title>
-        <id>https://cloudonaut.io/dynamodb-move-region-account-backup-restore/</id>
-        <link href="https://cloudonaut.io/dynamodb-move-region-account-backup-restore/"/>
-        <updated>2025-01-14T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Need to move your DynamoDB table? Learn about three migration methods: backup and restore, S3 export/import, and DynamoDB CLI tool dynein.]]></summary>
-        <author>
-            <name>cloudonaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Transient Slash Pages]]></title>
-        <id>https://rknight.me/blog/on-transient-slash-pages/</id>
-        <link href="https://rknight.me/blog/on-transient-slash-pages/"/>
-        <updated>2025-01-13T22:11:53.000Z</updated>
-        <summary type="html"><![CDATA[A couple of weeks ago Chris said this about slash pages:
-I think it makes more sense to me to write about what I carry around right now and if I did it again later, it doesn’t have to replace what I’ve written before
-Slash Pages is a site I maintain that is a "guide to common pages you can add to your website". So /uses, /now, and so on. Chris' quote above was about /edc but it applies to all of them. It was also discussed on episode 647 of ShopTalk.
-My post on automating my /now page was very popular and I am proud of what I managed to do but I've been thinking for a while it's very impersonal. It's data. It's not a page written by me in any meaningful way.
-Leon had some similar thoughts on this with an idea for each blog post being a section of a page but rendered as one. The end goal for him, and me, is that the new additions get syndicated via RSS, POSSE, and so forth. I like the idea of redirecting /now to the latest post tagged as now so one could see the latest version of what I'm doing now.
-For a /now page, this makes a lot of sense - on a regular schedule I can add a new post about what I'm up to and update things as required but when thinking about my /uses page, what does an update to that look like? Assuming a short /uses page like this:
-- MacBook Pro
-- AirPods Max
-- iPhone 14 Pro
-The first blog post is easy, it would include all of that but if I change my phone to a 16 Pro do I duplicate the whole thing but update just that one line? If I just post a diff of what's changed then there isn't a single place to see everything I've used.
-I'm going to start with my /now page while I mull over how to handle some others.]]></summary>
-        <author>
-            <name>Robb Knight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📝 13 January 2025 at 21:35 - I don t understand services like Instagram and their ilk...]]></title>
-        <id>notes/20250113-2135</id>
-        <link href="https://kevquirk.com/notes/20250113-2135"/>
-        <updated>2025-01-13T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[I don’t understand services like Instagram and their ilk. They’re photo sharing services, right? But I can share photos here AND write text AND add links. See, I just did both below.
-Don’t get it. 🤷‍♂️
-https://kevquirk.com
-(yes, that is an evil looking chicken)
-Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️
-Reply to this post by email ● 
-              Sign my guestbook]]></summary>
-        <author>
-            <name>Kev Quirk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📝 13 January 2025 at 21:27 - With all the shit going on at the moment with...]]></title>
-        <id>notes/20250113-2127</id>
-        <link href="https://kevquirk.com/notes/20250113-2127"/>
-        <updated>2025-01-13T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With all the shit going on at the moment with #WordPress and #Facebook, this is a welcome change.
-Love this.
-https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/
-Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️
-Reply to this post by email ● 
-              Sign my guestbook]]></summary>
-        <author>
-            <name>Kev Quirk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Batch data ingestion into Amazon OpenSearch Service using AWS Glue]]></title>
-        <id>d5a1e74a1b04255e74436a077622eeaf619041ed</id>
-        <link href="https://aws.amazon.com/blogs/big-data/batch-data-ingestion-into-amazon-opensearch-service-using-aws-glue/"/>
-        <updated>2025-01-13T20:50:32.000Z</updated>
-        <summary type="html"><![CDATA[This post showcases how to use Spark on AWS Glue to seamlessly ingest data into OpenSearch Service. We cover batch ingestion methods, share practical examples, and discuss best practices to help you build optimized and scalable data pipelines on AWS.]]></summary>
-        <author>
-            <name>Ravikiran Rao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS re:Invent 2024: Security, identity, and compliance recap]]></title>
-        <id>24f85a9ada2a6d2a41f61b0b3bd6b8908f9e8ef7</id>
-        <link href="https://aws.amazon.com/blogs/security/aws-reinvent-2024-security-identity-and-compliance-recap/"/>
-        <updated>2025-01-13T18:04:17.000Z</updated>
-        <summary type="html"><![CDATA[AWS re:Invent 2024 was held in Las Vegas December 2–6, with over 54,000 attendees participating in more than 2,300 sessions and hands-on labs. The conference was a hub of innovation and learning hosted by AWS for the global cloud computing community. In this blog post, we cover on-demand sessions and major security, identity, and compliance announcements that […]]]></summary>
-        <author>
-            <name>Marshall Jones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Weekly Roundup: New Asia Pacific Region, DynamoDB updates, Amazon Q developer, and more (January 13, 2025)]]></title>
-        <id>1acc45900a7fda30d9bf8fb9760ddc9d5552bb16</id>
-        <link href="https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-asia-pacific-region-dynamodb-updates-amazon-q-developer-and-more-january-13-2025/"/>
-        <updated>2025-01-13T17:29:48.000Z</updated>
-        <summary type="html"><![CDATA[As we move into the second week of 2025, China is celebrating Laba Festival (腊八节), a traditional holiday, which marks the beginning of Chinese New Year preparations. On this day, Chinese people prepare Laba congee, a special porridge combining various grains, dried fruits, and nuts. This nutritious mixture symbolizes harmony, prosperity, and good fortune — […]]]></summary>
-        <author>
-            <name>Betty Zheng (郑予彬)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to monitor, optimize, and secure Amazon Cognito machine-to-machine authorization]]></title>
-        <id>9b8c969163217c175b91bcd75e81d5e063bad7d5</id>
-        <link href="https://aws.amazon.com/blogs/security/how-to-monitor-optimize-and-secure-amazon-cognito-machine-to-machine-authorization/"/>
-        <updated>2025-01-13T17:20:23.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Cognito is a developer-centric and security-focused customer identity and access management (CIAM) service that simplifies the process of adding user sign-up, sign-in, and access control to your mobile and web applications. Cognito is a highly available service that supports a range of use cases, from managing user authentication and authorization to enabling secure access […]]]></summary>
-        <author>
-            <name>Abrom Douglas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Becoming an AWS (Serverless) Hero]]></title>
-        <id>https://dev.to/aws-heroes/becoming-an-aws-serverless-hero-2b8g</id>
-        <link href="https://dev.to/aws-heroes/becoming-an-aws-serverless-hero-2b8g"/>
-        <updated>2025-01-13T14:41:43.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-
-
-In the beginning of November 2024, I was named AWS Serverless Hero. I decided to write a small article series to reflect AWS journey of me and the company ip.labs from the perspective of my public contributions. In this part of the series, I mainly focused on the art of contributions that I accomplished followed by some general advice how I found out to effectively contribute to the AWS community. If I have time in the future I’ll break those contributions down in more detail in the subsequent part.
-This article isn’t named “How to become AWS Hero” as I don’t exactly know how such nominations work as the process isn’t public and you can’t nominate yourself. To be honest, I dreamed to become AWS Hero, but I wasn’t obsessed about it. I have been focusing on contributing to the…]]></summary>
-        <author>
-            <name>Vadym Kazulkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Free Let's Encrypt SSL Certificates in 2025]]></title>
-        <id>https://blog.miguelgrinberg.com/post/using-free-let-s-encrypt-ssl-certificates-in-2025</id>
-        <link href="https://blog.miguelgrinberg.com/post/using-free-let-s-encrypt-ssl-certificates-in-2025"/>
-        <updated>2025-01-13T14:09:03.000Z</updated>
-        <summary type="html"><![CDATA[In this article I'm going to review the steps you need to take to obtain an A+ SSL security rating for your website, as mine has.
-
-This tutorial applies to any hosting solution that uses Nginx as web server or reverse proxy, running on a Debian based distribution of Linux such as Ubuntu. The SSL Certificate provider that I use is Let's Encrypt, which is trusted by all major web browsers and issues certificates for free.]]></summary>
-        <author>
-            <name>Miguel Grinberg</name>
         </author>
     </entry>
 </feed>
