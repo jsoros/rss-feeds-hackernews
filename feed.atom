@@ -2,10 +2,736 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsoros.github.io/rss-feeds-hackernews/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T01:37:51.915Z</updated>
+    <updated>2025-02-15T01:36:30.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jsoros.github.io/rss-feeds-hackernews/index.html"/>
     <link rel="self" href="https://jsoros.github.io/rss-feeds-hackernews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The IRS Is Buying an AI Supercomputer from Nvidia]]></title>
+        <id>https://news.ycombinator.com/item?id=43054766</id>
+        <link href="https://theintercept.com/2025/02/14/irs-ai-nvidia-tax/"/>
+        <updated>2025-02-15T00:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://theintercept.com/2025/02/14/irs-ai-nvidia-tax/
+Comments URL: https://news.ycombinator.com/item?id=43054766
+Points: 15
+# Comments: 5]]></summary>
+        <author>
+            <name>jbegley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The IRS Is Buying an AI Supercomputer from Nvidia]]></title>
+        <id>https://theintercept.com/2025/02/14/irs-ai-nvidia-tax/</id>
+        <link href="https://theintercept.com/2025/02/14/irs-ai-nvidia-tax/"/>
+        <updated>2025-02-15T00:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wyden Releases Draft Bill to Secure Americans' Communications]]></title>
+        <id>https://news.ycombinator.com/item?id=43054632</id>
+        <link href="https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-bill-to-secure-americans-communications-against-foreign-surveillance-demands"/>
+        <updated>2025-02-15T00:33:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-bill-to-secure-americans-communications-against-foreign-surveillance-demands
+Comments URL: https://news.ycombinator.com/item?id=43054632
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>commandersaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Msxbook OneChipMSX MSX2 Computer]]></title>
+        <id>https://news.ycombinator.com/item?id=43054473</id>
+        <link href="https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/"/>
+        <updated>2025-02-15T00:08:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/
+Comments URL: https://news.ycombinator.com/item?id=43054473
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Msxbook OneChipMSX MSX2 Computer]]></title>
+        <id>https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/</id>
+        <link href="https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/"/>
+        <updated>2025-02-15T00:08:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: VimLM – A Local, Offline Coding Assistant for Vim]]></title>
+        <id>https://news.ycombinator.com/item?id=43054244</id>
+        <link href="https://github.com/JosefAlbers/VimLM"/>
+        <updated>2025-02-14T23:34:41.000Z</updated>
+        <summary type="html"><![CDATA[VimLM is a local, offline coding assistant for Vim. It’s like Copilot but runs entirely on your machine—no APIs, no tracking, no cloud.
+- Deep Context: Understands your codebase (current file, selections, references).  
+- Conversational: Iterate with follow-ups like "Add error handling".  
+- Vim-Native: Keybindings like `Ctrl-l` for prompts, `Ctrl-p` to replace code.  
+- Inline Commands: `!include` files, `!deploy` code, `!continue` long responses.
+Perfect for privacy-conscious devs or air-gapped environments.
+Try it:  
+```
+pip install vimlm
+vimlm
+```
+[GitHub](https://github.com/JosefAlbers/VimLM)
+Comments URL: https://news.ycombinator.com/item?id=43054244
+Points: 14
+# Comments: 0]]></summary>
+        <author>
+            <name>JosefAlbers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: VimLM – A Local, Offline Coding Assistant for Vim]]></title>
+        <id>https://github.com/JosefAlbers/VimLM</id>
+        <link href="https://github.com/JosefAlbers/VimLM"/>
+        <updated>2025-02-14T23:34:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A decade later, a decade lost]]></title>
+        <id>https://news.ycombinator.com/item?id=43054069</id>
+        <link href="https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/"/>
+        <updated>2025-02-14T23:10:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/
+Comments URL: https://news.ycombinator.com/item?id=43054069
+Points: 117
+# Comments: 22]]></summary>
+        <author>
+            <name>ZeWaka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A decade later, a decade lost]]></title>
+        <id>https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/</id>
+        <link href="https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/"/>
+        <updated>2025-02-14T23:10:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you ever stacked cups in gym class, blame my dad]]></title>
+        <id>https://news.ycombinator.com/item?id=43053908</id>
+        <link href="https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad"/>
+        <updated>2025-02-14T22:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad
+Comments URL: https://news.ycombinator.com/item?id=43053908
+Points: 63
+# Comments: 7]]></summary>
+        <author>
+            <name>nonoobs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you ever stacked cups in gym class, blame my dad]]></title>
+        <id>https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad</id>
+        <link href="https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad"/>
+        <updated>2025-02-14T22:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We were wrong about GPUs]]></title>
+        <id>https://news.ycombinator.com/item?id=43053844</id>
+        <link href="https://fly.io/blog/wrong-about-gpu/"/>
+        <updated>2025-02-14T22:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fly.io/blog/wrong-about-gpu/
+Comments URL: https://news.ycombinator.com/item?id=43053844
+Points: 259
+# Comments: 154]]></summary>
+        <author>
+            <name>mxstbr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We were wrong about GPUs]]></title>
+        <id>https://fly.io/blog/wrong-about-gpu/</id>
+        <link href="https://fly.io/blog/wrong-about-gpu/"/>
+        <updated>2025-02-14T22:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex dynamics require complex solutions]]></title>
+        <id>https://news.ycombinator.com/item?id=43053625</id>
+        <link href="https://mathstodon.xyz/@tao/113873092369347147"/>
+        <updated>2025-02-14T22:05:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mathstodon.xyz/@tao/113873092369347147
+Comments URL: https://news.ycombinator.com/item?id=43053625
+Points: 102
+# Comments: 42]]></summary>
+        <author>
+            <name>ckemere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex dynamics require complex solutions]]></title>
+        <id>https://mathstodon.xyz/@tao/113873092369347147</id>
+        <link href="https://mathstodon.xyz/@tao/113873092369347147"/>
+        <updated>2025-02-14T22:05:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codeberg appears to be under a DDoS attack]]></title>
+        <id>https://news.ycombinator.com/item?id=43053466</id>
+        <link href="https://status.codeberg.eu/status/codeberg"/>
+        <updated>2025-02-14T21:50:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://status.codeberg.eu/status/codeberg
+Comments URL: https://news.ycombinator.com/item?id=43053466
+Points: 32
+# Comments: 5]]></summary>
+        <author>
+            <name>urda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codeberg appears to be under a DDoS attack]]></title>
+        <id>https://status.codeberg.eu/status/codeberg</id>
+        <link href="https://status.codeberg.eu/status/codeberg"/>
+        <updated>2025-02-14T21:50:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The hardest working font in Manhattan]]></title>
+        <id>https://news.ycombinator.com/item?id=43053419</id>
+        <link href="https://aresluna.org/the-hardest-working-font-in-manhattan/"/>
+        <updated>2025-02-14T21:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://aresluna.org/the-hardest-working-font-in-manhattan/
+Comments URL: https://news.ycombinator.com/item?id=43053419
+Points: 132
+# Comments: 28]]></summary>
+        <author>
+            <name>robinhouston</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The hardest working font in Manhattan]]></title>
+        <id>https://aresluna.org/the-hardest-working-font-in-manhattan/</id>
+        <link href="https://aresluna.org/the-hardest-working-font-in-manhattan/"/>
+        <updated>2025-02-14T21:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Iconic 3DBenchy Enters the Public Domain]]></title>
+        <id>https://news.ycombinator.com/item?id=43053350</id>
+        <link href="https://www.nti-group.com/home/information/news/3dbenchy/"/>
+        <updated>2025-02-14T21:39:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nti-group.com/home/information/news/3dbenchy/
+Comments URL: https://news.ycombinator.com/item?id=43053350
+Points: 49
+# Comments: 1]]></summary>
+        <author>
+            <name>kotaKat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Iconic 3DBenchy Enters the Public Domain]]></title>
+        <id>https://www.nti-group.com/home/information/news/3dbenchy/</id>
+        <link href="https://www.nti-group.com/home/information/news/3dbenchy/"/>
+        <updated>2025-02-14T21:39:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to restrict Amazon S3 bucket access to a specific IAM role]]></title>
+        <id>1f3e04a275dc36419c5981b580e58341bba5cfd6</id>
+        <link href="https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/"/>
+        <updated>2025-02-14T21:18:59.000Z</updated>
+        <summary type="html"><![CDATA[February 14, 2025: This post was updated with the recommendation to restrict S3 bucket access to an IAM role by using the aws:PrincipalArn condition key instead of the aws:userid condition key. April 2, 2021: In the section “Granting cross-account bucket access to a specific IAM role,” we updated the second policy to fix an error. […]]]></summary>
+        <author>
+            <name>Chris Craig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: OpenSCAD configurable calendar 3D model]]></title>
+        <id>https://news.ycombinator.com/item?id=43052997</id>
+        <link href="https://chrastecky.dev/3d-printing/open-scad-configurable-calendar-3d-model"/>
+        <updated>2025-02-14T20:57:36.000Z</updated>
+        <summary type="html"><![CDATA[I created a highly configurable calendar 3D model using OpenSCAD. This project uses Zeller’s Congruence to automatically adjust the calendar layout for any year. Just change the year in the configurator, and the model updates accordingly.
+The link contains a little more of the backstory and the downloadable model from a 3rd-party site, additionally the full source code is included in the post.
+Some highlights:
+- Implemented date calculations entirely in OpenSCAD (with no built-in date support, which was challenging but fun).
+- Customizable layout, multi-material printing support, and translation for all text elements.
+- Configurable holes for magnets/screws to mount on a fridge or wall.
+- Utilizes JustinSDK/dotSCAD and davidson16807/relativity.scad for string manipulation.
+- Correctly takes into account leap years.
+Would love to hear your feedback. Thanks for checking it out!
+Comments URL: https://news.ycombinator.com/item?id=43052997
+Points: 30
+# Comments: 10]]></summary>
+        <author>
+            <name>Rikudou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: OpenSCAD configurable calendar 3D model]]></title>
+        <id>https://chrastecky.dev/3d-printing/open-scad-configurable-calendar-3d-model</id>
+        <link href="https://chrastecky.dev/3d-printing/open-scad-configurable-calendar-3d-model"/>
+        <updated>2025-02-14T20:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yash: Yet Another Shell]]></title>
+        <id>https://news.ycombinator.com/item?id=43052728</id>
+        <link href="https://github.com/magicant/yash"/>
+        <updated>2025-02-14T20:26:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/magicant/yash
+Comments URL: https://news.ycombinator.com/item?id=43052728
+Points: 14
+# Comments: 12]]></summary>
+        <author>
+            <name>InitEnabler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yash: Yet Another Shell]]></title>
+        <id>https://github.com/magicant/yash</id>
+        <link href="https://github.com/magicant/yash"/>
+        <updated>2025-02-14T20:26:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Is anybody building an alternative transformer?]]></title>
+        <id>https://news.ycombinator.com/item?id=43052427</id>
+        <link href="https://news.ycombinator.com/item?id=43052427"/>
+        <updated>2025-02-14T20:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Curious if anybody out there is trying to build a new model/architecture that would succeed the transformer?
+I geek out on this subject in my spare time.  Curious if anybody else is doing so and if you're willing to share ideas?
+Comments URL: https://news.ycombinator.com/item?id=43052427
+Points: 96
+# Comments: 66]]></summary>
+        <author>
+            <name>taiboku256</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Is anybody building an alternative transformer?]]></title>
+        <id>https://news.ycombinator.com/item?id=43052427</id>
+        <link href="https://news.ycombinator.com/item?id=43052427"/>
+        <updated>2025-02-14T20:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diffusion Without Tears]]></title>
+        <id>https://news.ycombinator.com/item?id=43052107</id>
+        <link href="https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c"/>
+        <updated>2025-02-14T19:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c
+Comments URL: https://news.ycombinator.com/item?id=43052107
+Points: 40
+# Comments: 10]]></summary>
+        <author>
+            <name>jxmorris12</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diffusion Without Tears]]></title>
+        <id>https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c</id>
+        <link href="https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c"/>
+        <updated>2025-02-14T19:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SES now offers tiered pricing for Virtual Deliverability Manager]]></title>
+        <id>971f8d55e6ec41125aa65b903624f7d30af057f5</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ses-tiered-pricing-virtual-deliverability-manager"/>
+        <updated>2025-02-14T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, Amazon Simple Email Service (SES) launched a new pricing structure for Virtual Deliverability Manager (VDM), giving customers reduced charges at higher levels of usage. Customers can benefit from lower total VDM charges without the need to change account configuration, sending practices, or billing setup. This can lower customer total cost of ownership for VDM as their usage increases.
+  Previously, all customers using VDM paid a fixed price per message sent. Customers could turn VDM on or off whenever needed, and they paid only for what they used without any commitment or fixed monthly charges. Now, customers will see their charges per message for VDM decrease as their sending volume exceeds specific thresholds each month. After crossing each threshold in a given billing month, each subsequent message processed by VDM is charged at a lower rate. This reduces the total cost of using VDM for high volume senders.
+  SES supports tiered pricing for VDM in all AWS regions where SES is available.
+  For more information, see the documentation for the SES pricing page.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kevin Mitnik FOIA Final]]></title>
+        <id>https://news.ycombinator.com/item?id=43051802</id>
+        <link href="https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view"/>
+        <updated>2025-02-14T19:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view
+Comments URL: https://news.ycombinator.com/item?id=43051802
+Points: 125
+# Comments: 72]]></summary>
+        <author>
+            <name>thembones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kevin Mitnik FOIA Final]]></title>
+        <id>https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view</id>
+        <link href="https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view"/>
+        <updated>2025-02-14T19:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The NBA Apple Vision Pro app now has a 3D tabletop view]]></title>
+        <id>https://news.ycombinator.com/item?id=43051765</id>
+        <link href="https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/"/>
+        <updated>2025-02-14T18:58:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/
+Comments URL: https://news.ycombinator.com/item?id=43051765
+Points: 102
+# Comments: 95]]></summary>
+        <author>
+            <name>matheussampaio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The NBA Apple Vision Pro app now has a 3D tabletop view]]></title>
+        <id>https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/</id>
+        <link href="https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/"/>
+        <updated>2025-02-14T18:58:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A study on how turtles navigate using the Earth’s magnetic field]]></title>
+        <id>https://news.ycombinator.com/item?id=43051465</id>
+        <link href="https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/"/>
+        <updated>2025-02-14T18:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/
+Comments URL: https://news.ycombinator.com/item?id=43051465
+Points: 124
+# Comments: 43]]></summary>
+        <author>
+            <name>gmays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A study on how turtles navigate using the Earth’s magnetic field]]></title>
+        <id>https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/</id>
+        <link href="https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/"/>
+        <updated>2025-02-14T18:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CloudTrail network activity events for VPC endpoints are now generally available]]></title>
+        <id>adaa98412d1da9cbc91e1c7c5d2f82521592bf80</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cloudtrail-network-activity-events-vpc-endpoints-generally-available"/>
+        <updated>2025-02-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the launch of AWS CloudTrail network activity for VPC endpoints, you now have additional visibility into AWS API activity that traverses your VPC endpoints, enabling you to strengthen your data perimeter and implement better detective controls. You can enable network activity events for VPC endpoints for five AWS Services: Amazon S3, Amazon EC2, AWS Key Management Service (AWS KMS), AWS Secrets Manager, and AWS CloudTrail.
+  With network activity events for VPC endpoints, you can view details of who is accessing resources within your network giving you greater ability to identify and respond to malicious or unauthorized actions in your data perimeter. For example, as the VPC endpoint owner, you can view logs of actions that were denied due to VPC endpoint policies or determine if an actor outside of your data perimeter is trying to access the data in your S3 buckets.
+  You can enable logging for network activity events logging for your VPC endpoints using the AWS CloudTrail console, AWS CLI, and SDKs. When creating a new trail or event data store or editing an existing one, you can select network activity events for supported services that you wish to monitor; you can configure to log all API calls, or log only the accessDenied calls, and you can use advanced event selectors for additional filtering controls.
+  Network activity events for VPC endpoints are available in all commercial AWS Regions. Refer to CloudTrail pricing to learn more about network activity events pricing and the documentation to get started.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Inspector enhances the security engine for container images scanning]]></title>
+        <id>0096f0b821f147661ad98042eb5d325dc328a3be</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-inspector-security-engine-container-images-scanning"/>
+        <updated>2025-02-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, Amazon Inspector announced an upgrade to the engine powering its container image scanning for Amazon Elastic Container Registry (ECR). This upgrade will provide you with a more comprehensive view of the vulnerabilities in the third-party dependencies used in your container images. The enhancement to the engine will happen automatically without any action or disruption to your existing workflows. Existing customers can expect to see some findings closed as the new engine re-evaluates all the existing resources to better assess risks, while also surfacing new vulnerabilities as per the new engine’s dependency collection.
+  Amazon Inspector is a vulnerability management service that continually scans AWS workloads including Amazon EC2 instances, container images, and AWS Lambda functions for software vulnerabilities, code vulnerabilities, and unintended network exposure across your entire AWS organization.
+  This improved version of container image scanning within ECR is available in all commercial and AWS GovCloud (US) Regions where Amazon Inspector is available.
+ 
+ 
+ 
+Getting started with Amazon Inspector
+ 
+ 
+Amazon Inspector free trial]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda adds application performance monitoring (APM) for Java and .NET runtimes via Application Signals]]></title>
+        <id>cbe37870dd5c27e8b86cac0709ccc5c88efdc7a0</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-lambda-adds-apm-java-net-runtimes-signals/"/>
+        <updated>2025-02-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda now supports Amazon CloudWatch Application Signals, an application performance monitoring (APM) solution, for Java and .NET managed runtimes, enabling developers and operators to easily monitor the health and performance of their serverless applications built using Lambda.
+  We previously announced support for Application Signals for Lambda functions for Python and Node.js managed runtimes. With this launch, you can now enable Application Signals for Lambda functions using Java 11, Java 17, Java 21, and .NET 8 Lambda managed runtimes. Once enabled, Application Signals provides pre-built, standardized dashboards for critical application metrics (such as throughput, availability, latency, faults, and errors), correlated traces, and interactions between the Lambda function and its dependencies (such as other AWS services), without requiring any manual instrumentation or code changes from developers. This gives operators a single-pane-of-glass view of the health of the application and enables them to drill down to establish the root cause of performance anomalies.
+  To get started, visit the Configuration tab in Lambda console and enable Application Signals for your function with just one click in the “Monitoring and operational tools” section. To learn more, visit the Lambda developer guide, Application Signals developer guide, and Application Signals for Lambda blog post.
+  Application Signals for Lambda is available in all commercial AWS Regions where Lambda and CloudWatch Application Signals are available. To take advantage of the new, cost-effective pricing for Application Signals, opt-in to the Transaction Search capability of Application Signals. To learn more about Application Signals pricing, visit the CloudWatch pricing page.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 C7g instances are now available in the AWS Europe (Zurich) Region]]></title>
+        <id>0147d16bb66c29f5680a0627c7384e3fc7409e48</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c7g-instances-zurich-region/"/>
+        <updated>2025-02-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7g instances are available in the AWS Europe (Zurich) Region. These instances are powered by AWS Graviton3 processors that provide up to 25% better compute performance compared to AWS Graviton2 processors, and built on top of the the AWS Nitro System, a collection of AWS designed innovations that deliver efficient, flexible, and secure cloud services with isolated multi-tenancy, private networking, and fast local storage.
+  Amazon EC2 Graviton3 instances also use up to 60% less energy to reduce your cloud carbon footprint for the same performance than comparable EC2 instances. For increased scalability, these instances are available in 9 different instance sizes, including bare metal, and offer up to 30 Gbps networking bandwidth and up to 20 Gbps of bandwidth to the Amazon Elastic Block Store (EBS).
+  To learn more, see Amazon EC2 C7g. To explore how to migrate your workloads to Graviton-based instances, see AWS Graviton Fast Start program and Porting Advisor for Graviton. To get started, see the AWS Management Console.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Q Developer now supports upgrade to Java 21]]></title>
+        <id>edd874e683fdf42a089485038dd12e64f8f16464</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-upgrade-java-21/"/>
+        <updated>2025-02-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Q Developer transformation capabilities that allow customers to upgrade Java applications using Maven to Java 21 are now available. Developers interested in leveraging the enhanced performance, security, interoperability, and modern features of Java 21 can use the generative AI capabilities of Amazon Q Developer to accelerate code upgrades to Java 21.
+  With this added support for Java Development Kit (JDK) 21, customers can upgrade the Java version of their applications using Maven from source versions 8, 11, 17, or 21 to target versions 17 or 21. Customers can also continue to upgrade libraries and frameworks used in Java 17 or Java 21 compatible applications without upgrading JDK versions. The Java transformation capabilities are available both in IDE (Visual Studio Code and JetBrains IntelliJ IDEA) and CLI (Linux and MacOS).
+  To learn more, please visit Amazon Q Developer transformation capabilities webpage and documentation.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the AWS Trust Center]]></title>
+        <id>7f91f63271a9aa4a7629a2d5bb25a10c3c026819</id>
+        <link href="https://aws.amazon.com/blogs/security/introducing-the-aws-trust-center/"/>
+        <updated>2025-02-14T17:47:59.000Z</updated>
+        <summary type="html"><![CDATA[We’re launching the AWS Trust Center, a new online resource that shares how we approach securing your assets in the cloud. The AWS Trust Center is a window into our security practices, compliance programs, and data protection controls that demonstrates how we work to earn your trust every day.]]></summary>
+        <author>
+            <name>Chris Betz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting AI agent use and abuse]]></title>
+        <id>https://news.ycombinator.com/item?id=43049959</id>
+        <link href="https://stytch.com/blog/detecting-ai-agent-use-abuse/"/>
+        <updated>2025-02-14T16:18:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stytch.com/blog/detecting-ai-agent-use-abuse/
+Comments URL: https://news.ycombinator.com/item?id=43049959
+Points: 109
+# Comments: 62]]></summary>
+        <author>
+            <name>mattmarcus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting AI agent use and abuse]]></title>
+        <id>https://stytch.com/blog/detecting-ai-agent-use-abuse/</id>
+        <link href="https://stytch.com/blog/detecting-ai-agent-use-abuse/"/>
+        <updated>2025-02-14T16:18:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The largest sofa you can move around a corner]]></title>
+        <id>https://news.ycombinator.com/item?id=43049251</id>
+        <link href="https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/"/>
+        <updated>2025-02-14T15:24:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/
+Comments URL: https://news.ycombinator.com/item?id=43049251
+Points: 46
+# Comments: 26]]></summary>
+        <author>
+            <name>abe94</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The largest sofa you can move around a corner]]></title>
+        <id>https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/</id>
+        <link href="https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/"/>
+        <updated>2025-02-14T15:24:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's an expert?]]></title>
+        <id>https://birming.com/expert/</id>
+        <link href="https://birming.com/expert/"/>
+        <updated>2025-02-14T14:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes I come across bloggers who, after changing their design, write something like: "I'm not an expert like Birming," followed by the name of a real designer.
+Honestly, it's a little embarrassing when my name comes up in those contexts. I'm far from an expert.
+Creating a theme like Bearming takes time for me—a lot of time! It involves countless hours of Googling, trial, and error.
+But I enjoy the process! I'm persistent, especially when it comes to things I'm passionate about. I don't give up easily.
+Perhaps persistence, patience, and focus are the hallmarks of an expert.
+I don't know. I'm not an expert.]]></summary>
+        <author>
+            <name>Robert Birming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The History of S.u.S.E]]></title>
+        <id>https://www.abortretry.fail/p/the-history-of-suse</id>
+        <link href="https://www.abortretry.fail/p/the-history-of-suse"/>
+        <updated>2025-02-14T13:53:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Transform your codebase into a single Markdown doc for feeding into AI]]></title>
+        <id>https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html</id>
+        <link href="https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html"/>
+        <updated>2025-02-14T13:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI is stifling new tech adoption?]]></title>
+        <id>https://vale.rocks/posts/ai-is-stifling-tech-adoption</id>
+        <link href="https://vale.rocks/posts/ai-is-stifling-tech-adoption"/>
+        <updated>2025-02-14T12:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ricochet: Peer-to-peer instant messaging system built on Tor hidden services (2017)]]></title>
+        <id>https://github.com/ricochet-im/ricochet</id>
+        <link href="https://github.com/ricochet-im/ricochet"/>
+        <updated>2025-02-14T08:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone can push updates to the doge.gov website]]></title>
+        <id>https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/</id>
+        <link href="https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/"/>
+        <updated>2025-02-14T07:31:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[files-to-prompt 0.5]]></title>
+        <id>https://simonwillison.net/2025/Feb/14/files-to-prompt/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/14/files-to-prompt/#atom-everything"/>
+        <updated>2025-02-14T04:14:21.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong><a href="https://github.com/simonw/files-to-prompt/releases/tag/0.5">files-to-prompt 0.5</a></strong></p>
+My <code>files-to-prompt</code> tool (<a href="https://simonwillison.net/2024/Apr/8/files-to-prompt/">originally built using Claude 3 Opus back in April</a>) had been accumulating a bunch of issues and PRs - I finally got around to spending some time with it and pushed a fresh release:</p>
+<blockquote>
+<ul>
+<li>New <code>-n/--line-numbers</code> flag for including line numbers in the output. Thanks, <a href="https://github.com/danclaytondev">Dan Clayton</a>. <a href="https://github.com/simonw/files-to-prompt/pull/38">#38</a></li>
+<li>Fix for utf-8 handling on Windows. Thanks, <a href="https://github.com/david-jarman">David Jarman</a>. <a href="https://github.com/simonw/files-to-prompt/pull/36">#36</a></li>
+<li><code>--ignore</code> patterns are now matched against directory names as well as file names, unless you pass the new <code>--ignore-files-only</code> flag. Thanks, <a href="https://github.com/nmpowell">Nick Powell</a>. <a href="https://github.com/simonw/files-to-prompt/pull/30">#30</a></li>
+</ul>
+</blockquote>
+<p>I use this tool myself on an almost daily basis - it's fantastic for quickly answering questions about code. Recently I've been plugging it into Gemini 2.0 with its 2 million token context length, running recipes like this one:</p>
+<pre><code>git clone https://github.com/bytecodealliance/componentize-py
+cd componentize-py
+files-to-prompt . -c | llm -m gemini-2.0-pro-exp-02-05 \
+  -s 'How does this work? Does it include a python compiler or AST trick of some sort?'
+</code></pre>
+<p>I ran that question against the <a href="https://github.com/bytecodealliance/componentize-py">bytecodealliance/componentize-py</a> repo - which provides a tool for turning Python code into compiled WASM - and got <a href="https://gist.github.com/simonw/a9d72e7f903417fb49e1d7a531ee8f97">this really useful answer</a>.</p>
+<p>Here's another example. I decided to have o3-mini review how Datasette handles concurrent SQLite connections from async Python code - so I ran this:</p>
+<pre><code>git clone https://github.com/simonw/datasette
+cd datasette/datasette
+files-to-prompt database.py utils/__init__.py -c | \
+  llm -m o3-mini -o reasoning_effort high \
+  -s 'Output in markdown a detailed analysis of how this code handles the challenge of running SQLite queries from a Python asyncio application. Explain how it works in the first section, then explore the pros and cons of this design. In a final section propose alternative mechanisms that might work better.'
+</code></pre>
+<p>Here's <a href="https://gist.github.com/simonw/76c8c433f4a65cf01a5c9121453683ab">the result</a>. It did an extremely good job of explaining how my code works - despite being fed just the Python and none of the other documentation. Then it made some solid recommendations for potential alternatives.</p>
+<p>I added a couple of follow-up questions (using <code>llm -c</code>) which resulted in <a href="https://gist.github.com/simonw/76c8c433f4a65cf01a5c9121453683ab?permalink_comment_id=5438685#gistcomment-5438685">a full working prototype</a> of an alternative threadpool mechanism, plus <a href="https://gist.github.com/simonw/76c8c433f4a65cf01a5c9121453683ab?permalink_comment_id=5438691#gistcomment-5438691">some benchmarks</a>.</p>
+<p>One final example: I decided to see if there were any undocumented features in <a href="https://litestream.io/">Litestream</a>, so I checked out the repo and ran a prompt against just the <code>.go</code> files in that project:</p>
+<pre><code>git clone https://github.com/benbjohnson/litestream
+cd litestream
+files-to-prompt . -e go -c | llm -m o3-mini \
+  -s 'Write extensive user documentation for this project in markdown'
+</code></pre>
+<p>Once again, o3-mini provided a <a href="https://gist.github.com/simonw/cbf339032f99fee72af5fd5455bc7235">really impressively detailed</a> set of unofficial documentation derived purely from reading the source.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/webassembly">webassembly</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/async">async</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/sqlite">sqlite</a>, <a href="https://simonwillison.net/tags/litestream">litestream</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add a directory to your PATH]]></title>
+        <id>https://simonwillison.net/2025/Feb/14/how-to-add-a-directory-to-your-path/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/14/how-to-add-a-directory-to-your-path/#atom-everything"/>
+        <updated>2025-02-14T02:40:11.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong><a href="https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/">How to add a directory to your PATH</a></strong></p>
+<em>Classic</em> Julia Evans piece here, answering a question which you might assume is obvious but very much isn't.</p>
+<p>Plenty of useful tips in here, plus the best explanation I've ever seen of the three different Bash configuration options:</p>
+<blockquote>
+<p>Bash has three possible config files: <code>~/.bashrc</code>, <code>~/.bash_profile</code>, and <code>~/.profile</code>.</p>
+<p>If you're not sure which one your system is set up to use, I'd recommend testing this way:</p>
+<ol>
+<li>add <code>echo hi there</code> to your <code>~/.bashrc</code></li>
+<li>Restart your terminal</li>
+<li>If you see "hi there", that means <code>~/.bashrc</code> is being used! Hooray!</li>
+<li>Otherwise remove it and try the same thing with <code>~/.bash_profile</code></li>
+<li>You can also try <code>~/.profile</code> if the first two options don't work.</li>
+</ol>
+</blockquote>
+<p>This article also reminded me to <a href="https://simonwillison.net/2024/Oct/15/path-tips-on-wizard-zines/">try which -a again</a>, which gave me this confusing result for <code>datasette</code>:</p>
+<pre><code>% which -a datasette
+/opt/homebrew/Caskroom/miniconda/base/bin/datasette
+/Users/simon/.local/bin/datasette
+/Users/simon/.local/bin/datasette
+</code></pre>
+<p>Why is the second path in there twice? I figured out how to use <code>rg</code> to search just the dot-files in my home directory:</p>
+<pre><code>rg local/bin -g '/.*' --max-depth 1
+</code></pre>
+<p>And found that I have both a <code>.zshrc</code> and <code>.zprofile</code> file that are adding that to my path:</p>
+<pre><code>.zshrc.backup
+4:export PATH="$PATH:/Users/simon/.local/bin"
+
+.zprofile
+5:export PATH="$PATH:/Users/simon/.local/bin"
+
+.zshrc
+7:export PATH="$PATH:/Users/simon/.local/bin"
+</code></pre>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/julia-evans">julia-evans</a>, <a href="https://simonwillison.net/tags/zsh">zsh</a>, <a href="https://simonwillison.net/tags/bash">bash</a>, <a href="https://simonwillison.net/tags/ripgrep">ripgrep</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doctor Droid (YC W23) Is Hiring a Back End Engineer]]></title>
         <id>https://news.ycombinator.com/item?id=43043441</id>
@@ -231,6 +957,19 @@ Points: 20
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 Capacity Blocks for ML is now available in several new regions]]></title>
+        <id>584787955e02759c99383f20ed07194110aca79d</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-capacity-blocks-ml-new-regions"/>
+        <updated>2025-02-13T22:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, Amazon Web Services announced that Amazon Elastic Compute Cloud (Amazon EC2) Capacity Blocks for ML is now available in several new regions as well as new instance types in existing locations. You can use EC2 Capacity Blocks to reserve highly sought-after GPU instances in Amazon EC2 UltraClusters for a future date for the amount of time that you need to run your machine learning (ML) workloads.
+  EC2 Capacity Blocks enable you to reserve GPU capacity up to eight weeks in advance for durations up to 6 months in cluster sizes of one to 64 instances, giving you the flexibility to run a broad range of ML workloads. They are ideal for short duration pre-training and fine-tuning workloads, rapid prototyping, and for handling surges in inference demand. EC2 Capacity Blocks deliver low-latency, high-throughput connectivity through colocation in Amazon EC2 UltraClusters.
+  With this expansion, EC2 Capacity Blocks for ML are available on P5, P5e, P5en in US East (N. Virginia), US East (Ohio), US West (Oregon), US West (N. California), Europe (Stockholm), Europe (London), South America (Sao Paulo) Asia Pacific (Mumbai), Asia Pacific (Tokyo), Asia Pacific (Jakarta), Australia (Sydney), Australia (Melbourne) and P4d in US East (N. Virginia), US East (Ohio), US West (Oregon). Capacity Blocks are also available on Trn2 in US East (Ohio) and Trn1 in US East (N. Virginia), US East (Ohio), US West (Oregon), US West (N. California), Europe (Stockholm), Asia Pacific (Mumbai), Australia (Sydney), Australia (Melbourne).
+  Click here to learn more about EC2 Capacity Blocks.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -460,6 +1199,29 @@ Points: 292
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 M7g instances are now available in additional regions]]></title>
+        <id>264bd21b2c4e1e2a666472086b45fb0a2cfce54c</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-m7g-instances-additional-regions/"/>
+        <updated>2025-02-13T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M7g instances are available in the AWS Asia Pacific (Jakarta, Melbourne, Osaka) and AWS GovCloud (US-East) regions. These instances are powered by AWS Graviton3 processors that provide up to 25% better compute performance compared to AWS Graviton2 processors, and built on top of the the AWS Nitro System, a collection of AWS designed innovations that deliver efficient, flexible, and secure cloud services with isolated multi-tenancy, private networking, and fast local storage.
+  Amazon EC2 Graviton3 instances also use up to 60% less energy to reduce your cloud carbon footprint for the same performance than comparable EC2 instances. For increased scalability, these instances are available in 9 different instance sizes, including bare metal, and offer up to 30 Gbps networking bandwidth and up to 20 Gbps of bandwidth to the Amazon Elastic Block Store (EBS).
+  To learn more, see Amazon EC2 M7g. To explore how to migrate your workloads to Graviton-based instances, see AWS Graviton Fast Start program and Porting Advisor for Graviton. To get started, see the AWS Management Console.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CodePipeline adds CloudWatch Metrics support]]></title>
+        <id>86af84a7154678b9cdcd2a09a35f94a80876dcf5</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-cloudwatch-metrics-support/"/>
+        <updated>2025-02-13T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS CodePipeline now provides Amazon CloudWatch metrics integration for V2 pipelines, enabling you to monitor both pipeline-level and account-level metrics directly in your AWS account. The integration introduces a pipeline duration metric that tracks the total execution time of your pipeline completions, and pipeline failure metric that monitors the frequency of pipeline execution failures. You can now track these metrics through both the CodePipeline console and the CloudWatch Metrics console to actively monitor your pipeline health.
+  To learn more about this feature, please visit our documentation. For more information about AWS CodePipeline, visit our product page. This feature is available in all regions where AWS CodePipeline is supported, except the AWS GovCloud (US) Regions and the China Regions.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -979,6 +1741,16 @@ SEC Consult Vulnerability Lab Security Advisory < 20250211-0 >
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TeX and Typst: Layout Models (2024)]]></title>
+        <id>https://laurmaedje.github.io/posts/layout-models/</id>
+        <link href="https://laurmaedje.github.io/posts/layout-models/"/>
+        <updated>2025-02-13T04:34:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[YouTube's New Hue]]></title>
         <id>https://news.ycombinator.com/item?id=43031545</id>
         <link href="https://design.google/library/youtube-new-red-color"/>
@@ -1136,6 +1908,16 @@ Dave Guarino (<a href="https://simonwillison.net/2023/Jul/26/dave-guarino/">prev
     <p>Tags: <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p>]]></summary>
         <author>
             <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First hybrid quantum supercomputer Reimei activated in Japan]]></title>
+        <id>https://interestingengineering.com/science/worlds-first-hybrid-quantum-supercomputer-reimei-activated</id>
+        <link href="https://interestingengineering.com/science/worlds-first-hybrid-quantum-supercomputer-reimei-activated"/>
+        <updated>2025-02-12T21:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -1649,6 +2431,16 @@ Impro…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Some esoteric versioning schemes (monotonic moronity)]]></title>
+        <id>https://shkspr.mobi/blog/2025/02/some-esoteric-versioning-schemes-monotonic-moronity/</id>
+        <link href="https://shkspr.mobi/blog/2025/02/some-esoteric-versioning-schemes-monotonic-moronity/"/>
+        <updated>2025-02-12T12:34:33.000Z</updated>
+        <summary type="html"><![CDATA[Since time immemorial, software has had version numbers.  A developer releases V1 of their product. Some time later, they add new features or fix bugs, and release the next version.  What should that next version be called? Modern software broadly bifurcates into two competing standards; SemVer and CalVer.  SemVer  Semantic Versioning is usually in the form 1.2.3, the last digit is usually for minor bug fixes, the second digit for new functionality, and the primary digit for big and/or breaking …]]></summary>
+        <author>
+            <name>Terence Eden’s Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lihit Labs Compact Pen Case Review]]></title>
         <id>https://rknight.me/blog/lihit-labs-compact-pen-case-review/</id>
         <link href="https://rknight.me/blog/lihit-labs-compact-pen-case-review/"/>
@@ -1757,6 +2549,16 @@ Points: 1222
         <summary type="html"><![CDATA[Microsoft today issued security updates to fix at least 56 vulnerabilities in its Windows operating systems and supported software, including two zero-day flaws that are being actively exploited.]]></summary>
         <author>
             <name>BrianKrebs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advancements in embedding-based retrieval at Pinterest Homefeed]]></title>
+        <id>https://medium.com/pinterest-engineering/advancements-in-embedding-based-retrieval-at-pinterest-homefeed-d7d7971a409e</id>
+        <link href="https://medium.com/pinterest-engineering/advancements-in-embedding-based-retrieval-at-pinterest-homefeed-d7d7971a409e"/>
+        <updated>2025-02-12T02:16:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -1924,6 +2726,16 @@ Points: 92
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tumblr to join the Fediverse after WordPress migration completes]]></title>
+        <id>https://techcrunch.com/2025/02/11/tumblr-to-join-the-fediverse-after-wordpress-migration-completes/</id>
+        <link href="https://techcrunch.com/2025/02/11/tumblr-to-join-the-fediverse-after-wordpress-migration-completes/"/>
+        <updated>2025-02-11T21:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Butter Thesis (2019)]]></title>
         <id>https://news.ycombinator.com/item?id=43018312</id>
         <link href="https://nickgrossman.xyz/the-butter-thesis"/>
@@ -1964,6 +2776,16 @@ Points: 0
         <id>https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer</id>
         <link href="https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer"/>
         <updated>2025-02-11T21:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghosts in the Shadow of the Mouse]]></title>
+        <id>https://fiddlersgreene.substack.com/p/ghosts-in-the-shadow-of-the-mouse</id>
+        <link href="https://fiddlersgreene.substack.com/p/ghosts-in-the-shadow-of-the-mouse"/>
+        <updated>2025-02-11T20:58:08.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -2196,6 +3018,16 @@ Points: 85
         <summary type="html"><![CDATA[Generative AI applications often involve a combination of various services and features—such as Amazon Bedrock and large language models (LLMs)—to generate content and to access potentially confidential data. This combination requires strong identity and access management controls and is special in the sense that those controls need to be applied on various levels. In this […]]]></summary>
         <author>
             <name>Jonathan Jenkyn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elements of Programming (2009)]]></title>
+        <id>https://www.elementsofprogramming.com/</id>
+        <link href="https://www.elementsofprogramming.com/"/>
+        <updated>2025-02-11T18:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -22977,173 +23809,6 @@ To view a complete list of all supported types, see the supported resource types
         <summary type="html"><![CDATA[In this post, we address common challenges associated with manual MSK topic configuration management and present a robust Terraform-based solution. This solution supports both provisioned and serverless MSK clusters.]]></summary>
         <author>
             <name>Vijay Kardile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Book Review: Jagannath by Karin Tidbeck ★★★★★]]></title>
-        <id>https://shkspr.mobi/blog/2025/01/book-review-jagannath-by-karin-tidbeck/</id>
-        <link href="https://shkspr.mobi/blog/2025/01/book-review-jagannath-by-karin-tidbeck/"/>
-        <updated>2025-01-16T12:34:56.000Z</updated>
-        <summary type="html"><![CDATA[After reading Karin Tidbeck&#039;s Amatka I knew I needed to read more by her. Jagannath is an exceptional collection of short stories. In turns beautifully silly and oddly romantic.  What does it mean for a man to fall in love with an airship? If God walks the streets, how can He be summoned? Does the Devil rely on mechanised bureaucracy to connect to people via phone? Each story feels like a half-remembered piece of folklore. There are twists in the tales, but they&#039;re rarely cruel.  Rather…]]></summary>
-        <author>
-            <name>Terence Eden’s Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add Photo Page in your Hugo Site]]></title>
-        <id>https://fundor333.com/post/2025/add-photo-page-in-your-hugo-site/</id>
-        <link href="https://fundor333.com/post/2025/add-photo-page-in-your-hugo-site/"/>
-        <updated>2025-01-16T11:49:32.000Z</updated>
-        <summary type="html"><![CDATA[A lot of time ago I was an active user of DevianArt1 where I share my photos.
-One of the things I loved of the site are the meta-data under the photo.
-If you share any digital media with metadata, the site show them (example
-) and because of them I learn something of photography.
-But now DeviantArt is a zombie
-and Instagram is not in a good place so I want to build my own photo space.]]></summary>
-        <author>
-            <name>Blog on Fundor333</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📩 Email, Calendars, and the Chaos of Modern Workflows]]></title>
-        <id>http://webology.micro.blog/2025/01/15/email-calendars-and-the-chaos/</id>
-        <link href="https://micro.webology.dev/2025/01/15/email-calendars-and-the-chaos/"/>
-        <updated>2025-01-16T02:51:45.000Z</updated>
-        <summary type="html"><![CDATA[I was feeling overloaded with emails this week, and then I remembered that my out-of-office auto-responder told people they should contact me after the first of the year if they needed me to reply.
-Thankfully, I could select and archive all of my 2024 emails with this rule label:inbox after:2023/12/31 before:2025/01/01, which reconciled my old emails.
-Calendars and shared Documents
-With each Google organization, I’m a member with another Google Calendar, Google Drive, and Google Contacts to manage. That document someone wants feedback on sometimes feels like spinning a wheel, and I need to guess which inbox and account the message might land in.
-The best solution that I have found for juggling meeting invites is Reclaim, which is terrific for merging multiple calendars into one calendar so…]]></summary>
-        <author>
-            <name>Jeff Triplett's Micro.blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preventing unintended encryption of Amazon S3 objects]]></title>
-        <id>e4ba5c0aec59bc6d266c9291822cbc41795d93c7</id>
-        <link href="https://aws.amazon.com/blogs/security/preventing-unintended-encryption-of-amazon-s3-objects/"/>
-        <updated>2025-01-16T02:43:53.000Z</updated>
-        <summary type="html"><![CDATA[January 17, 2025: We updated this post to highlight the importance of using short-term credentials to mitigate the risk of unauthorized techniques such as the one detailed in this blog. At Amazon Web Services (AWS), the security of our customers’ data is our top priority, and it always will be. Recently, the AWS Customer Incident […]]]></summary>
-        <author>
-            <name>Steve de Vera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Start collaborating on multi-partner opportunities with Partner Connections]]></title>
-        <id>54bfd1abc6ee6513c9b65c7db2cbf2f9eb0a215d</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/multi-partner-opportunities-partner-connections"/>
-        <updated>2025-01-15T22:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, AWS Partner Central announces the general availability of Partner Connections, which allows AWS Partners to discover and connect with other Partners for collaboration on shared customer opportunities. With Partner Connections, Partners can co-sell joint solutions, accelerate deal progression, and expand their reach by teaming with other AWS Partners.
-  At the core of Partner Connections are two key capabilities: connections discovery and multi-partner opportunities. The connections discovery feature uses AI-powered recommendations to streamline Partner matchmaking, making it easier for Partners to find suitable collaborators and add them to their network. With multi-partner opportunities, Partners can work together seamlessly to create and manage joint customer opportunities in APN Customer Engagements (ACE). This integrated approach allows Partners to work seamlessly with AWS and other Partners on shared opportunities, reducing the operational overhead of managing multi-partner opportunities.
-  Partners can also create, update, and share multi-partner opportunities using the Partner Central API for Selling. Our CRM integration Partners can also enable this capability, allowing their customers to collaborate with other Partners and AWS on joint sales opportunities from their own customer relationship management (CRM) system.
-  Partner Connections is available to all eligible AWS Partners who have signed the ACE Terms and Conditions and have linked their AWS account to their Partner Central account. To get started, log in to AWS Partner Central and review the ACE user guide for more information.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“The Coding Machine” at Meta with Michael Novati]]></title>
-        <id>https://newsletter.pragmaticengineer.com/p/the-coding-machine-at-meta</id>
-        <link href="https://newsletter.pragmaticengineer.com/p/the-coding-machine-at-meta"/>
-        <updated>2025-01-15T20:46:05.000Z</updated>
-        <summary type="html"><![CDATA[In today’s episode, I’m joined by Michael Novati, Co-founder and CTO of Formation. Michael spent eight years at Meta, where he was recognized as the top code committer company-wide for several years.]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New resources]]></title>
-        <id>https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/#New_resources_2025-01-15</id>
-        <link href="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html"/>
-        <updated>2025-01-15T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The following resources were added:]]></summary>
-        <author>
-            <name>AWS CloudFormation Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Issue with Amazon WorkSpaces, Amazon AppStream 2.0, and Amazon DCV (CVE-2025-0500 and CVE-2025-0501)]]></title>
-        <id>ac35af3f895b44042054b8487bbc660b70ec711e</id>
-        <link href="https://aws.amazon.com/security/security-bulletins/AWS-2025-001/"/>
-        <updated>2025-01-15T18:29:49.000Z</updated>
-        <summary type="html"><![CDATA[Publication Date: 2025/01/15 10:30AM PST
- 
-Description:
- 
-AWS identified two issues in specific versions of native clients for Amazon WorkSpaces, Amazon AppStream 2.0, and Amazon DCV. We have proactively communicated with customers regarding the end of support for these impacted versions.
- 
-CVE-2025-0500:
- 
-This issue applies to specific versions of native clients for Amazon WorkSpaces (when running Amazon DCV protocol), Amazon AppStream 2.0, and Amazon DCV, listed below. If leveraged, this issue could allow a bad actor to perform a man-in-the-middle attack, allowing them to access remote WorkSpaces, AppStream, or DCV sessions. We recommend customers upgrade to the versions with the fix to address this issue.
- 
-Affected versions:
- 
- 
- 
-Amazon WorkSpaces Windows client 5.20.0 or earlier, ma…]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How EUROGATE established a data mesh architecture using Amazon DataZone]]></title>
-        <id>e2f38d65ba592afb826d6b2a27bf378bb6550bfc</id>
-        <link href="https://aws.amazon.com/blogs/big-data/how-eurogate-established-a-data-mesh-architecture-using-amazon-datazone/"/>
-        <updated>2025-01-15T17:37:44.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show you how EUROGATE uses AWS services, including Amazon DataZone, to make data discoverable by data consumers across different business units so that they can innovate faster. Two use cases illustrate how this can be applied for business intelligence (BI) and data science applications, using AWS services such as Amazon Redshift and Amazon SageMaker.]]></summary>
-        <author>
-            <name>Dr. Leonard Heilig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog Question Challenge]]></title>
-        <id>https://rknight.me/blog/blog-question-challenge/</id>
-        <link href="https://rknight.me/blog/blog-question-challenge/"/>
-        <updated>2025-01-15T14:18:04.000Z</updated>
-        <summary type="html"><![CDATA[I was tagged by Kyle and B to do this so here it is.
-Why Did You Start Blogging In The First Place?
-Initially I thought I'd be some hot take blogger getting posts retweeted by loads of people and be popular or something. We all wanted to be Gruber back then.
-More recently I'm blogging for me. It's recipes, technical posts, things I've solved, ideas I've had. Basically instructions for anything I, or someone else, might want to do.
-What Platform Are You Using The Manage Your Blog, And Why Do You Use It?
-My site is built with Eleventy. In theory, that means it's just a bunch of markdown files. In practice, it's markdown files, JSON files, javascript files, plus my custom CMS. I use it because it gives me the flexibility to make my site do exactly what I want.
-Have You Blogged On Other Platforms Before?
-I started on hosted Wordpress many years ago, then self-hosted Wordpress, then Jekyll, then Hugo, then Hexo, and now Eleventy.
-How Do You Write Your Posts?
-Usually I write a draft in Obsidian then copy it over into VSCode and publish. For shorter posts, or my notes, I write those directly into the CMS which pushes them to the GitHub repository. I wrote more in depth about this here.
-When Do You Feel Most Inspired To Write?
-There are two main times I feel inspired:
-When I've solved a problem and I want to document the solution
-When I feel myself thinking about writing a thread of toots
-Do You Normally Publish Immediately After Writing, Or Do You Let It Simmer?
-I rarely let them simmer, I just send them out into the world so the typos can reveal themselves.
-What’s Your Favorite Post On Your Blog?
-The sensible answer is 7622 - why I spell my name with two Bs but this sleep-deprived ramble about the fruits of Hey Bear is definitely up there.
-Any Future Plans For the Blog?
-I have a list longer than you can imagine but next up is some more work on transient slash pages.
-Who Will Participate Next?
-Keenan, please.]]></summary>
-        <author>
-            <name>Robb Knight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Book Review: Rules for Radicals- A Pragmatic Primer for Realistic Radicals by Saul Alinsky ★★★★☆]]></title>
-        <id>https://shkspr.mobi/blog/2025/01/book-review-rules-for-radicals-a-pragmatic-primer-for-realistic-radicals-by-saul-alinsky/</id>
-        <link href="https://shkspr.mobi/blog/2025/01/book-review-rules-for-radicals-a-pragmatic-primer-for-realistic-radicals-by-saul-alinsky/"/>
-        <updated>2025-01-15T12:34:01.000Z</updated>
-        <summary type="html"><![CDATA[My good friend Suw alerted me to this venerable book by repeatedly ranting &#34;What is your theory of change???&#34; online.  If ever there was a moment to yell &#34;WHAT IS YOUR THEORY OF CHANGE???&#34; that moment is now and we should all be yelling it at Just Stop Oil.It seems to me their theory of change is to make enough people pissed of with them that... er, um... Step 2: ???Step 3: Profit!! Wait, that&#039;s not right.— Suw (@suw.bsky.social) 2024-06-20T08:44:13.991Z    Saul Alinsky&#039;s book is part i…]]></summary>
-        <author>
-            <name>Terence Eden’s Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minimum Viable Clustered-Marker Globe using OpenFreeMap and MapLibre GL]]></title>
-        <id>https://shkspr.mobi/blog/2025/01/minimum-viable-clustered-marker-globe-using-openfreemap-and-maplibre-gl/</id>
-        <link href="https://shkspr.mobi/blog/2025/01/minimum-viable-clustered-marker-globe-using-openfreemap-and-maplibre-gl/"/>
-        <updated>2025-01-14T12:34:14.000Z</updated>
-        <summary type="html"><![CDATA[I love OpenFreeMap it is a quick, easy, and free way to add beautiful maps to your Open Source projects.  With the latest release of MapLibre-GL I wanted to see if there was an easy way to use both to make an interactive globe with clustered markers.  Spoiler alert: yes!  Basic Globe  Here&#039;s a basic example which I&#039;ve trimmed down from this example.    When you load the below code, you&#039;ll get a globe which you can spin and zoom. Nifty!  &#60;!DOCTYPE html&#62; &#60;html&#62;     &#60;head&#62;         &#60;title&#62;Globe…]]></summary>
-        <author>
-            <name>Terence Eden’s Blog</name>
         </author>
     </entry>
 </feed>

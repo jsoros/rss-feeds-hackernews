@@ -6,6 +6,206 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43054766",
+          "author": "jbegley",
+          "description": "Article URL: https://theintercept.com/2025/02/14/irs-ai-nvidia-tax/\nComments URL: https://news.ycombinator.com/item?id=43054766\nPoints: 15\n# Comments: 5",
+          "link": "https://theintercept.com/2025/02/14/irs-ai-nvidia-tax/",
+          "publishedOn": "2025-02-15T00:57:36.000Z",
+          "wordCount": 2936,
+          "title": "The IRS Is Buying an AI Supercomputer from Nvidia",
+          "imageUrl": "https://theintercept.com/wp-content/uploads/2025/02/GettyImages-2192218894-e1739537852866.jpg?fit=4000%2C2000&w=1200&h=800"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43054632",
+          "author": "commandersaki",
+          "description": "Article URL: https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-bill-to-secure-americans-communications-against-foreign-surveillance-demands\nComments URL: https://news.ycombinator.com/item?id=43054632\nPoints: 7\n# Comments: 0",
+          "link": "https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-bill-to-secure-americans-communications-against-foreign-surveillance-demands",
+          "publishedOn": "2025-02-15T00:33:52.000Z",
+          "wordCount": 2415,
+          "title": "Wyden Releases Draft Bill to Secure Americans' Communications",
+          "imageUrl": "https://www.wyden.senate.gov/themes/wyden/images/sharelogo.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43054473",
+          "author": "rbanffy",
+          "description": "Article URL: https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/\nComments URL: https://news.ycombinator.com/item?id=43054473\nPoints: 7\n# Comments: 0",
+          "link": "https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/",
+          "publishedOn": "2025-02-15T00:08:14.000Z",
+          "wordCount": 3142,
+          "title": "Msxbook OneChipMSX MSX2 Computer",
+          "imageUrl": "https://cdn.tindiemedia.com/images/resize/lb41kQ1C2AeUiTcgY2AdouQq800=/p/1200x630/smart/i/681464/products/2025-02-09T16%3A59%3A36.288Z-A1-900.jpg?1739091602"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43054244",
+          "author": "JosefAlbers",
+          "description": "VimLM is a local, offline coding assistant for Vim. It’s like Copilot but runs entirely on your machine—no APIs, no tracking, no cloud.\n- Deep Context: Understands your codebase (current file, selections, references).  \n- Conversational: Iterate with follow-ups like \"Add error handling\".  \n- Vim-Native: Keybindings like `Ctrl-l` for prompts, `Ctrl-p` to replace code.  \n- Inline Commands: `!include` files, `!deploy` code, `!continue` long responses.\nPerfect for privacy-conscious devs or air-gapped environments.\nTry it:  \n```\npip install vimlm\nvimlm\n```\n[GitHub](https://github.com/JosefAlbers/VimLM)\nComments URL: https://news.ycombinator.com/item?id=43054244\nPoints: 14\n# Comments: 0",
+          "link": "https://github.com/JosefAlbers/VimLM",
+          "publishedOn": "2025-02-14T23:34:41.000Z",
+          "wordCount": 4121,
+          "title": "Show HN: VimLM – A Local, Offline Coding Assistant for Vim",
+          "imageUrl": "https://opengraph.githubassets.com/a886e7c0c3ccbef2b2efd1833eb96334ea7301133a67bbd89ea49aed91f2ef08/JosefAlbers/VimLM"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43054069",
+          "author": "ZeWaka",
+          "description": "Article URL: https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/\nComments URL: https://news.ycombinator.com/item?id=43054069\nPoints: 117\n# Comments: 22",
+          "link": "https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/",
+          "publishedOn": "2025-02-14T23:10:36.000Z",
+          "wordCount": 1814,
+          "title": "A decade later, a decade lost",
+          "imageUrl": "https://meyerweb.com/ui/i/hamonshu/fb-og-image.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43053908",
+          "author": "nonoobs",
+          "description": "Article URL: https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad\nComments URL: https://news.ycombinator.com/item?id=43053908\nPoints: 63\n# Comments: 7",
+          "link": "https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad",
+          "publishedOn": "2025-02-14T22:45:02.000Z",
+          "wordCount": 22104,
+          "title": "If you ever stacked cups in gym class, blame my dad",
+          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/02/Cups2.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43053844",
+          "author": "mxstbr",
+          "description": "Article URL: https://fly.io/blog/wrong-about-gpu/\nComments URL: https://news.ycombinator.com/item?id=43053844\nPoints: 259\n# Comments: 154",
+          "link": "https://fly.io/blog/wrong-about-gpu/",
+          "publishedOn": "2025-02-14T22:36:31.000Z",
+          "wordCount": 2016,
+          "title": "We were wrong about GPUs",
+          "imageUrl": "https://fly.io/blog/wrong-about-gpu/assets/choices-choices-cover.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43053625",
+          "author": "ckemere",
+          "description": "Article URL: https://mathstodon.xyz/@tao/113873092369347147\nComments URL: https://news.ycombinator.com/item?id=43053625\nPoints: 102\n# Comments: 42",
+          "link": "https://mathstodon.xyz/@tao/113873092369347147",
+          "publishedOn": "2025-02-14T22:05:33.000Z",
+          "wordCount": 124,
+          "title": "Complex dynamics require complex solutions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43053466",
+          "author": "urda",
+          "description": "Article URL: https://status.codeberg.eu/status/codeberg\nComments URL: https://news.ycombinator.com/item?id=43053466\nPoints: 32\n# Comments: 5",
+          "link": "https://status.codeberg.eu/status/codeberg",
+          "publishedOn": "2025-02-14T21:50:50.000Z",
+          "wordCount": 484,
+          "title": "Codeberg appears to be under a DDoS attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43053419",
+          "author": "robinhouston",
+          "description": "Article URL: https://aresluna.org/the-hardest-working-font-in-manhattan/\nComments URL: https://news.ycombinator.com/item?id=43053419\nPoints: 132\n# Comments: 28",
+          "link": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+          "publishedOn": "2025-02-14T21:45:49.000Z",
+          "wordCount": 6595,
+          "title": "The hardest working font in Manhattan",
+          "imageUrl": "https://aresluna.org/images/the-hardest-working-font-in-manhattan/ogimage.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43053350",
+          "author": "kotaKat",
+          "description": "Article URL: https://www.nti-group.com/home/information/news/3dbenchy/\nComments URL: https://news.ycombinator.com/item?id=43053350\nPoints: 49\n# Comments: 1",
+          "link": "https://www.nti-group.com/home/information/news/3dbenchy/",
+          "publishedOn": "2025-02-14T21:39:29.000Z",
+          "wordCount": null,
+          "title": "The Iconic 3DBenchy Enters the Public Domain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43052997",
+          "author": "Rikudou",
+          "description": "I created a highly configurable calendar 3D model using OpenSCAD. This project uses Zeller’s Congruence to automatically adjust the calendar layout for any year. Just change the year in the configurator, and the model updates accordingly.\nThe link contains a little more of the backstory and the downloadable model from a 3rd-party site, additionally the full source code is included in the post.\nSome highlights:\n- Implemented date calculations entirely in OpenSCAD (with no built-in date support, which was challenging but fun).\n- Customizable layout, multi-material printing support, and translation for all text elements.\n- Configurable holes for magnets/screws to mount on a fridge or wall.\n- Utilizes JustinSDK/dotSCAD and davidson16807/relativity.scad for string manipulation.\n- Correctly takes into account leap years.\nWould love to hear your feedback. Thanks for checking it out!\nComments URL: https://news.ycombinator.com/item?id=43052997\nPoints: 30\n# Comments: 10",
+          "link": "https://chrastecky.dev/3d-printing/open-scad-configurable-calendar-3d-model",
+          "publishedOn": "2025-02-14T20:57:36.000Z",
+          "wordCount": 3453,
+          "title": "Show HN: OpenSCAD configurable calendar 3D model",
+          "imageUrl": "https://chrastecky.dev/i/o/13/Calendar.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43052728",
+          "author": "InitEnabler",
+          "description": "Article URL: https://github.com/magicant/yash\nComments URL: https://news.ycombinator.com/item?id=43052728\nPoints: 14\n# Comments: 12",
+          "link": "https://github.com/magicant/yash",
+          "publishedOn": "2025-02-14T20:26:12.000Z",
+          "wordCount": 3721,
+          "title": "Yash: Yet Another Shell",
+          "imageUrl": "https://opengraph.githubassets.com/ea408e7921ae46311e77edd49de49deeb8def658a049c0fccc2021761858e25d/magicant/yash"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43052427",
+          "author": "taiboku256",
+          "description": "Curious if anybody out there is trying to build a new model/architecture that would succeed the transformer?\nI geek out on this subject in my spare time.  Curious if anybody else is doing so and if you're willing to share ideas?\nComments URL: https://news.ycombinator.com/item?id=43052427\nPoints: 96\n# Comments: 66",
+          "link": "https://news.ycombinator.com/item?id=43052427",
+          "publishedOn": "2025-02-14T20:00:12.000Z",
+          "wordCount": 4266,
+          "title": "Ask HN: Is anybody building an alternative transformer?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43052107",
+          "author": "jxmorris12",
+          "description": "Article URL: https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c\nComments URL: https://news.ycombinator.com/item?id=43052107\nPoints: 40\n# Comments: 10",
+          "link": "https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c",
+          "publishedOn": "2025-02-14T19:30:06.000Z",
+          "wordCount": 4988,
+          "title": "Diffusion Without Tears",
+          "imageUrl": "https://www.notion.so/images/meta/default.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43051802",
+          "author": "thembones",
+          "description": "Article URL: https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view\nComments URL: https://news.ycombinator.com/item?id=43051802\nPoints: 125\n# Comments: 72",
+          "link": "https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view",
+          "publishedOn": "2025-02-14T19:02:37.000Z",
+          "wordCount": null,
+          "title": "Kevin Mitnik FOIA Final",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43051765",
+          "author": "matheussampaio",
+          "description": "Article URL: https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/\nComments URL: https://news.ycombinator.com/item?id=43051765\nPoints: 102\n# Comments: 95",
+          "link": "https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/",
+          "publishedOn": "2025-02-14T18:58:37.000Z",
+          "wordCount": 2993,
+          "title": "The NBA Apple Vision Pro app now has a 3D tabletop view",
+          "imageUrl": "https://www.uploadvr.com/content/images/size/w1200/2025/02/NBA-Apple-Vision-Pro-Tabletop-view.jpeg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43051465",
+          "author": "gmays",
+          "description": "Article URL: https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/\nComments URL: https://news.ycombinator.com/item?id=43051465\nPoints: 124\n# Comments: 43",
+          "link": "https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/",
+          "publishedOn": "2025-02-14T18:29:59.000Z",
+          "wordCount": 2588,
+          "title": "A study on how turtles navigate using the Earth’s magnetic field",
+          "imageUrl": "https://www.unc.edu/wp-content/uploads/2025/02/Turtles_HERO.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43049959",
+          "author": "mattmarcus",
+          "description": "Article URL: https://stytch.com/blog/detecting-ai-agent-use-abuse/\nComments URL: https://news.ycombinator.com/item?id=43049959\nPoints: 109\n# Comments: 62",
+          "link": "https://stytch.com/blog/detecting-ai-agent-use-abuse/",
+          "publishedOn": "2025-02-14T16:18:30.000Z",
+          "wordCount": 4464,
+          "title": "Detecting AI agent use and abuse",
+          "imageUrl": "https://cdn.sanity.io/images/3jwyzebk/production/4124b124a6f5ddebe133043163ce820536175e97-1088x902.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43049251",
+          "author": "abe94",
+          "description": "Article URL: https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/\nComments URL: https://news.ycombinator.com/item?id=43049251\nPoints: 46\n# Comments: 26",
+          "link": "https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/",
+          "publishedOn": "2025-02-14T15:24:05.000Z",
+          "wordCount": 2951,
+          "title": "The largest sofa you can move around a corner",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/02/Moving-sofas_crTommy-Parker-Social.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43043441",
           "author": "TheBengaluruGuy",
           "description": "Article URL: https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description\nComments URL: https://news.ycombinator.com/item?id=43043441\nPoints: 0\n# Comments: 0",
@@ -2898,6 +3098,76 @@
       "siteUrl": "https://aws.amazon.com/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "971f8d55e6ec41125aa65b903624f7d30af057f5",
+          "author": "aws@amazon.com",
+          "description": "Today, Amazon Simple Email Service (SES) launched a new pricing structure for Virtual Deliverability Manager (VDM), giving customers reduced charges at higher levels of usage. Customers can benefit from lower total VDM charges without the need to change account configuration, sending practices, or billing setup. This can lower customer total cost of ownership for VDM as their usage increases.\n  Previously, all customers using VDM paid a fixed price per message sent. Customers could turn VDM on or off whenever needed, and they paid only for what they used without any commitment or fixed monthly charges. Now, customers will see their charges per message for VDM decrease as their sending volume exceeds specific thresholds each month. After crossing each threshold in a given billing month, each subsequent message processed by VDM is charged at a lower rate. This reduces the total cost of using VDM for high volume senders.\n  SES supports tiered pricing for VDM in all AWS regions where SES is available.\n  For more information, see the documentation for the SES pricing page.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ses-tiered-pricing-virtual-deliverability-manager",
+          "publishedOn": "2025-02-14T19:30:00.000Z",
+          "wordCount": null,
+          "title": "Amazon SES now offers tiered pricing for Virtual Deliverability Manager",
+          "imageUrl": null
+        },
+        {
+          "id": "adaa98412d1da9cbc91e1c7c5d2f82521592bf80",
+          "author": "aws@amazon.com",
+          "description": "With the launch of AWS CloudTrail network activity for VPC endpoints, you now have additional visibility into AWS API activity that traverses your VPC endpoints, enabling you to strengthen your data perimeter and implement better detective controls. You can enable network activity events for VPC endpoints for five AWS Services: Amazon S3, Amazon EC2, AWS Key Management Service (AWS KMS), AWS Secrets Manager, and AWS CloudTrail.\n  With network activity events for VPC endpoints, you can view details of who is accessing resources within your network giving you greater ability to identify and respond to malicious or unauthorized actions in your data perimeter. For example, as the VPC endpoint owner, you can view logs of actions that were denied due to VPC endpoint policies or determine if an actor outside of your data perimeter is trying to access the data in your S3 buckets.\n  You can enable logging for network activity events logging for your VPC endpoints using the AWS CloudTrail console, AWS CLI, and SDKs. When creating a new trail or event data store or editing an existing one, you can select network activity events for supported services that you wish to monitor; you can configure to log all API calls, or log only the accessDenied calls, and you can use advanced event selectors for additional filtering controls.\n  Network activity events for VPC endpoints are available in all commercial AWS Regions. Refer to CloudTrail pricing to learn more about network activity events pricing and the documentation to get started.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cloudtrail-network-activity-events-vpc-endpoints-generally-available",
+          "publishedOn": "2025-02-14T18:00:00.000Z",
+          "wordCount": null,
+          "title": "AWS CloudTrail network activity events for VPC endpoints are now generally available",
+          "imageUrl": null
+        },
+        {
+          "id": "0096f0b821f147661ad98042eb5d325dc328a3be",
+          "author": "aws@amazon.com",
+          "description": "Today, Amazon Inspector announced an upgrade to the engine powering its container image scanning for Amazon Elastic Container Registry (ECR). This upgrade will provide you with a more comprehensive view of the vulnerabilities in the third-party dependencies used in your container images. The enhancement to the engine will happen automatically without any action or disruption to your existing workflows. Existing customers can expect to see some findings closed as the new engine re-evaluates all the existing resources to better assess risks, while also surfacing new vulnerabilities as per the new engine’s dependency collection.\n  Amazon Inspector is a vulnerability management service that continually scans AWS workloads including Amazon EC2 instances, container images, and AWS Lambda functions for software vulnerabilities, code vulnerabilities, and unintended network exposure across your entire AWS organization.\n  This improved version of container image scanning within ECR is available in all commercial and AWS GovCloud (US) Regions where Amazon Inspector is available.\n \n \n \nGetting started with Amazon Inspector\n \n \nAmazon Inspector free trial",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-inspector-security-engine-container-images-scanning",
+          "publishedOn": "2025-02-14T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Amazon Inspector enhances the security engine for container images scanning",
+          "imageUrl": null
+        },
+        {
+          "id": "cbe37870dd5c27e8b86cac0709ccc5c88efdc7a0",
+          "author": "aws@amazon.com",
+          "description": "AWS Lambda now supports Amazon CloudWatch Application Signals, an application performance monitoring (APM) solution, for Java and .NET managed runtimes, enabling developers and operators to easily monitor the health and performance of their serverless applications built using Lambda.\n  We previously announced support for Application Signals for Lambda functions for Python and Node.js managed runtimes. With this launch, you can now enable Application Signals for Lambda functions using Java 11, Java 17, Java 21, and .NET 8 Lambda managed runtimes. Once enabled, Application Signals provides pre-built, standardized dashboards for critical application metrics (such as throughput, availability, latency, faults, and errors), correlated traces, and interactions between the Lambda function and its dependencies (such as other AWS services), without requiring any manual instrumentation or code changes from developers. This gives operators a single-pane-of-glass view of the health of the application and enables them to drill down to establish the root cause of performance anomalies.\n  To get started, visit the Configuration tab in Lambda console and enable Application Signals for your function with just one click in the “Monitoring and operational tools” section. To learn more, visit the Lambda developer guide, Application Signals developer guide, and Application Signals for Lambda blog post.\n  Application Signals for Lambda is available in all commercial AWS Regions where Lambda and CloudWatch Application Signals are available. To take advantage of the new, cost-effective pricing for Application Signals, opt-in to the Transaction Search capability of Application Signals. To learn more about Application Signals pricing, visit the CloudWatch pricing page.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-lambda-adds-apm-java-net-runtimes-signals/",
+          "publishedOn": "2025-02-14T18:00:00.000Z",
+          "wordCount": 1153,
+          "title": "AWS Lambda adds application performance monitoring (APM) for Java and .NET runtimes via Application Signals",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0147d16bb66c29f5680a0627c7384e3fc7409e48",
+          "author": "aws@amazon.com",
+          "description": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7g instances are available in the AWS Europe (Zurich) Region. These instances are powered by AWS Graviton3 processors that provide up to 25% better compute performance compared to AWS Graviton2 processors, and built on top of the the AWS Nitro System, a collection of AWS designed innovations that deliver efficient, flexible, and secure cloud services with isolated multi-tenancy, private networking, and fast local storage.\n  Amazon EC2 Graviton3 instances also use up to 60% less energy to reduce your cloud carbon footprint for the same performance than comparable EC2 instances. For increased scalability, these instances are available in 9 different instance sizes, including bare metal, and offer up to 30 Gbps networking bandwidth and up to 20 Gbps of bandwidth to the Amazon Elastic Block Store (EBS).\n  To learn more, see Amazon EC2 C7g. To explore how to migrate your workloads to Graviton-based instances, see AWS Graviton Fast Start program and Porting Advisor for Graviton. To get started, see the AWS Management Console.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c7g-instances-zurich-region/",
+          "publishedOn": "2025-02-14T18:00:00.000Z",
+          "wordCount": 984,
+          "title": "Amazon EC2 C7g instances are now available in the AWS Europe (Zurich) Region",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "edd874e683fdf42a089485038dd12e64f8f16464",
+          "author": "aws@amazon.com",
+          "description": "Amazon Q Developer transformation capabilities that allow customers to upgrade Java applications using Maven to Java 21 are now available. Developers interested in leveraging the enhanced performance, security, interoperability, and modern features of Java 21 can use the generative AI capabilities of Amazon Q Developer to accelerate code upgrades to Java 21.\n  With this added support for Java Development Kit (JDK) 21, customers can upgrade the Java version of their applications using Maven from source versions 8, 11, 17, or 21 to target versions 17 or 21. Customers can also continue to upgrade libraries and frameworks used in Java 17 or Java 21 compatible applications without upgrading JDK versions. The Java transformation capabilities are available both in IDE (Visual Studio Code and JetBrains IntelliJ IDEA) and CLI (Linux and MacOS).\n  To learn more, please visit Amazon Q Developer transformation capabilities webpage and documentation.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-upgrade-java-21/",
+          "publishedOn": "2025-02-14T18:00:00.000Z",
+          "wordCount": 915,
+          "title": "Amazon Q Developer now supports upgrade to Java 21",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "584787955e02759c99383f20ed07194110aca79d",
+          "author": "aws@amazon.com",
+          "description": "Today, Amazon Web Services announced that Amazon Elastic Compute Cloud (Amazon EC2) Capacity Blocks for ML is now available in several new regions as well as new instance types in existing locations. You can use EC2 Capacity Blocks to reserve highly sought-after GPU instances in Amazon EC2 UltraClusters for a future date for the amount of time that you need to run your machine learning (ML) workloads.\n  EC2 Capacity Blocks enable you to reserve GPU capacity up to eight weeks in advance for durations up to 6 months in cluster sizes of one to 64 instances, giving you the flexibility to run a broad range of ML workloads. They are ideal for short duration pre-training and fine-tuning workloads, rapid prototyping, and for handling surges in inference demand. EC2 Capacity Blocks deliver low-latency, high-throughput connectivity through colocation in Amazon EC2 UltraClusters.\n  With this expansion, EC2 Capacity Blocks for ML are available on P5, P5e, P5en in US East (N. Virginia), US East (Ohio), US West (Oregon), US West (N. California), Europe (Stockholm), Europe (London), South America (Sao Paulo) Asia Pacific (Mumbai), Asia Pacific (Tokyo), Asia Pacific (Jakarta), Australia (Sydney), Australia (Melbourne) and P4d in US East (N. Virginia), US East (Ohio), US West (Oregon). Capacity Blocks are also available on Trn2 in US East (Ohio) and Trn1 in US East (N. Virginia), US East (Ohio), US West (Oregon), US West (N. California), Europe (Stockholm), Asia Pacific (Mumbai), Australia (Sydney), Australia (Melbourne).\n  Click here to learn more about EC2 Capacity Blocks.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-capacity-blocks-ml-new-regions",
+          "publishedOn": "2025-02-13T22:15:00.000Z",
+          "wordCount": null,
+          "title": "Amazon EC2 Capacity Blocks for ML is now available in several new regions",
+          "imageUrl": null
+        },
+        {
           "id": "34144d784e3bfe8a268f123730d12ed64c0ad24a",
           "author": "aws@amazon.com",
           "description": "AWS Deadline Cloud now includes support for Adobe After Effects in its Service-Managed Fleets. AWS Deadline Cloud is a fully managed service that simplifies render management for teams creating computer-generated graphics and visual effects, created in industry-standard graphics tools such as Adobe After Effects, for films, television and broadcasting, web content, and design.\n  With this new feature, you can submit After Effects projects to Deadline Cloud without having to manage your own render farm infrastructure. The integration offers built-in support for custom fonts and an adjustable number of image sequence frames rendered per task, allowing you to submit jobs that are tailored to your workflow directly within After Effects. AWS Deadline Cloud automatically handles the provisioning and elastic scaling of compute resources required for rendering your After Effects projects. Service-Managed Fleets can be configured in minutes so you can begin rendering immediately.\n  Deadline Cloud After Effects support is available in all AWS Regions where Deadline Cloud is offered.\n  For more information, please visit the Deadline Cloud product page and our AWS Deadline Cloud documentation.",
@@ -2905,6 +3175,26 @@
           "publishedOn": "2025-02-13T18:30:00.000Z",
           "wordCount": 985,
           "title": "AWS Deadline Cloud now supports Adobe After Effects in Service-Managed Fleets",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "264bd21b2c4e1e2a666472086b45fb0a2cfce54c",
+          "author": "aws@amazon.com",
+          "description": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M7g instances are available in the AWS Asia Pacific (Jakarta, Melbourne, Osaka) and AWS GovCloud (US-East) regions. These instances are powered by AWS Graviton3 processors that provide up to 25% better compute performance compared to AWS Graviton2 processors, and built on top of the the AWS Nitro System, a collection of AWS designed innovations that deliver efficient, flexible, and secure cloud services with isolated multi-tenancy, private networking, and fast local storage.\n  Amazon EC2 Graviton3 instances also use up to 60% less energy to reduce your cloud carbon footprint for the same performance than comparable EC2 instances. For increased scalability, these instances are available in 9 different instance sizes, including bare metal, and offer up to 30 Gbps networking bandwidth and up to 20 Gbps of bandwidth to the Amazon Elastic Block Store (EBS).\n  To learn more, see Amazon EC2 M7g. To explore how to migrate your workloads to Graviton-based instances, see AWS Graviton Fast Start program and Porting Advisor for Graviton. To get started, see the AWS Management Console.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-m7g-instances-additional-regions/",
+          "publishedOn": "2025-02-13T18:00:00.000Z",
+          "wordCount": 991,
+          "title": "Amazon EC2 M7g instances are now available in additional regions",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "86af84a7154678b9cdcd2a09a35f94a80876dcf5",
+          "author": "aws@amazon.com",
+          "description": "AWS CodePipeline now provides Amazon CloudWatch metrics integration for V2 pipelines, enabling you to monitor both pipeline-level and account-level metrics directly in your AWS account. The integration introduces a pipeline duration metric that tracks the total execution time of your pipeline completions, and pipeline failure metric that monitors the frequency of pipeline execution failures. You can now track these metrics through both the CodePipeline console and the CloudWatch Metrics console to actively monitor your pipeline health.\n  To learn more about this feature, please visit our documentation. For more information about AWS CodePipeline, visit our product page. This feature is available in all regions where AWS CodePipeline is supported, except the AWS GovCloud (US) Regions and the China Regions.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-cloudwatch-metrics-support/",
+          "publishedOn": "2025-02-13T18:00:00.000Z",
+          "wordCount": 857,
+          "title": "AWS CodePipeline adds CloudWatch Metrics support",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
@@ -4556,16 +4846,6 @@
           "wordCount": 759,
           "title": "AWS Resource Explorer supports 29 new resource types",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "54bfd1abc6ee6513c9b65c7db2cbf2f9eb0a215d",
-          "author": "aws@amazon.com",
-          "description": "Today, AWS Partner Central announces the general availability of Partner Connections, which allows AWS Partners to discover and connect with other Partners for collaboration on shared customer opportunities. With Partner Connections, Partners can co-sell joint solutions, accelerate deal progression, and expand their reach by teaming with other AWS Partners.\n  At the core of Partner Connections are two key capabilities: connections discovery and multi-partner opportunities. The connections discovery feature uses AI-powered recommendations to streamline Partner matchmaking, making it easier for Partners to find suitable collaborators and add them to their network. With multi-partner opportunities, Partners can work together seamlessly to create and manage joint customer opportunities in APN Customer Engagements (ACE). This integrated approach allows Partners to work seamlessly with AWS and other Partners on shared opportunities, reducing the operational overhead of managing multi-partner opportunities.\n  Partners can also create, update, and share multi-partner opportunities using the Partner Central API for Selling. Our CRM integration Partners can also enable this capability, allowing their customers to collaborate with other Partners and AWS on joint sales opportunities from their own customer relationship management (CRM) system.\n  Partner Connections is available to all eligible AWS Partners who have signed the ACE Terms and Conditions and have linked their AWS account to their Partner Central account. To get started, log in to AWS Partner Central and review the ACE user guide for more information.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/multi-partner-opportunities-partner-connections",
-          "publishedOn": "2025-01-15T22:25:00.000Z",
-          "wordCount": null,
-          "title": "Start collaborating on multi-partner opportunities with Partner Connections",
-          "imageUrl": null
         }
       ]
     },
@@ -4785,16 +5065,6 @@
           "wordCount": 2215,
           "title": "Automate topic provisioning and configuration using Terraform with Amazon MSK",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/16/featured-images-BDB-4319-1120x630.jpg"
-        },
-        {
-          "id": "e2f38d65ba592afb826d6b2a27bf378bb6550bfc",
-          "author": "Dr. Leonard Heilig",
-          "description": "In this post, we show you how EUROGATE uses AWS services, including Amazon DataZone, to make data discoverable by data consumers across different business units so that they can innovate faster. Two use cases illustrate how this can be applied for business intelligence (BI) and data science applications, using AWS services such as Amazon Redshift and Amazon SageMaker.",
-          "link": "https://aws.amazon.com/blogs/big-data/how-eurogate-established-a-data-mesh-architecture-using-amazon-datazone/",
-          "publishedOn": "2025-01-15T17:37:44.000Z",
-          "wordCount": 3385,
-          "title": "How EUROGATE established a data mesh architecture using Amazon DataZone",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/15/featured-images-BDB-4595-1120x630.jpg"
         }
       ]
     },
@@ -4910,6 +5180,26 @@
       "feedUrl": "https://aws.amazon.com/blogs/security/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/security/",
       "articles": [
+        {
+          "id": "1f3e04a275dc36419c5981b580e58341bba5cfd6",
+          "author": "Chris Craig",
+          "description": "February 14, 2025: This post was updated with the recommendation to restrict S3 bucket access to an IAM role by using the aws:PrincipalArn condition key instead of the aws:userid condition key. April 2, 2021: In the section “Granting cross-account bucket access to a specific IAM role,” we updated the second policy to fix an error. […]",
+          "link": "https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/",
+          "publishedOn": "2025-02-14T21:18:59.000Z",
+          "wordCount": 2590,
+          "title": "How to restrict Amazon S3 bucket access to a specific IAM role",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2017/11/15/CC_Diagram2_0717_a1.png"
+        },
+        {
+          "id": "7f91f63271a9aa4a7629a2d5bb25a10c3c026819",
+          "author": "Chris Betz",
+          "description": "We’re launching the AWS Trust Center, a new online resource that shares how we approach securing your assets in the cloud. The AWS Trust Center is a window into our security practices, compliance programs, and data protection controls that demonstrates how we work to earn your trust every day.",
+          "link": "https://aws.amazon.com/blogs/security/introducing-the-aws-trust-center/",
+          "publishedOn": "2025-02-14T17:47:59.000Z",
+          "wordCount": 1526,
+          "title": "Introducing the AWS Trust Center",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/02/14/AdobeStock-1.jpg"
+        },
         {
           "id": "913c7d1e9895ea5476abef600fce9539bc74195d",
           "author": "Ken Beer",
@@ -5109,16 +5399,6 @@
           "wordCount": 4097,
           "title": "Safeguard your generative AI workloads from prompt injections",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/01/17/blog-cover-picture.png"
-        },
-        {
-          "id": "e4ba5c0aec59bc6d266c9291822cbc41795d93c7",
-          "author": "Steve de Vera",
-          "description": "January 17, 2025: We updated this post to highlight the importance of using short-term credentials to mitigate the risk of unauthorized techniques such as the one detailed in this blog. At Amazon Web Services (AWS), the security of our customers’ data is our top priority, and it always will be. Recently, the AWS Customer Incident […]",
-          "link": "https://aws.amazon.com/blogs/security/preventing-unintended-encryption-of-amazon-s3-objects/",
-          "publishedOn": "2025-01-16T02:43:53.000Z",
-          "wordCount": 2227,
-          "title": "Preventing unintended encryption of Amazon S3 objects",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/01/16/tech-city-1258x630.jpg"
         }
       ]
     },
@@ -5135,16 +5415,6 @@
           "publishedOn": "2025-01-23T21:20:02.000Z",
           "wordCount": 731,
           "title": "Issue with AWS Sign-in IAM User Login Flow – Possible Username Enumeration (CVE-2025-0693)",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ac35af3f895b44042054b8487bbc660b70ec711e",
-          "author": "aws@amazon.com",
-          "description": "Publication Date: 2025/01/15 10:30AM PST\n \nDescription:\n \nAWS identified two issues in specific versions of native clients for Amazon WorkSpaces, Amazon AppStream 2.0, and Amazon DCV. We have proactively communicated with customers regarding the end of support for these impacted versions.\n \nCVE-2025-0500:\n \nThis issue applies to specific versions of native clients for Amazon WorkSpaces (when running Amazon DCV protocol), Amazon AppStream 2.0, and Amazon DCV, listed below. If leveraged, this issue could allow a bad actor to perform a man-in-the-middle attack, allowing them to access remote WorkSpaces, AppStream, or DCV sessions. We recommend customers upgrade to the versions with the fix to address this issue.\n \nAffected versions:\n \n \n \nAmazon WorkSpaces Windows client 5.20.0 or earlier, ma…",
-          "link": "https://aws.amazon.com/security/security-bulletins/AWS-2025-001/",
-          "publishedOn": "2025-01-15T18:29:49.000Z",
-          "wordCount": 893,
-          "title": "Issue with Amazon WorkSpaces, Amazon AppStream 2.0, and Amazon DCV (CVE-2025-0500 and CVE-2025-0501)",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
@@ -5169,7 +5439,7 @@
     {
       "title": "Be a Better Dev",
       "feedUrl": "https://beabetterdev.com/feed/",
-      "siteUrl": "https://beabetterdev.com/",
+      "siteUrl": "https://www.beabetterdev.com/",
       "articles": []
     },
     {
@@ -5177,6 +5447,16 @@
       "feedUrl": "https://birming.com/feed/",
       "siteUrl": "https://birming.com/",
       "articles": [
+        {
+          "id": "https://birming.com/expert/",
+          "author": null,
+          "description": "Sometimes I come across bloggers who, after changing their design, write something like: \"I'm not an expert like Birming,\" followed by the name of a real designer.\nHonestly, it's a little embarrassing when my name comes up in those contexts. I'm far from an expert.\nCreating a theme like Bearming takes time for me—a lot of time! It involves countless hours of Googling, trial, and error.\nBut I enjoy the process! I'm persistent, especially when it comes to things I'm passionate about. I don't give up easily.\nPerhaps persistence, patience, and focus are the hallmarks of an expert.\nI don't know. I'm not an expert.",
+          "link": "https://birming.com/expert/",
+          "publishedOn": "2025-02-14T14:48:00.000Z",
+          "wordCount": 778,
+          "title": "What's an expert?",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
+        },
         {
           "id": "https://birming.com/valentheme/",
           "author": null,
@@ -5620,16 +5900,6 @@
           "wordCount": 777,
           "title": "New resource",
           "imageUrl": null
-        },
-        {
-          "id": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/#New_resources_2025-01-15",
-          "author": null,
-          "description": "The following resources were added:",
-          "link": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html",
-          "publishedOn": "2025-01-15T19:00:00.000Z",
-          "wordCount": 777,
-          "title": "New resources",
-          "imageUrl": null
         }
       ]
     },
@@ -5711,16 +5981,6 @@
           "wordCount": 225,
           "title": "My Zsh Command History",
           "imageUrl": "https://fundor333.com/post/2025/my-zsh-command-history/cover.png"
-        },
-        {
-          "id": "https://fundor333.com/post/2025/add-photo-page-in-your-hugo-site/",
-          "author": null,
-          "description": "A lot of time ago I was an active user of DevianArt1 where I share my photos.\nOne of the things I loved of the site are the meta-data under the photo.\nIf you share any digital media with metadata, the site show them (example\n) and because of them I learn something of photography.\nBut now DeviantArt is a zombie\nand Instagram is not in a good place so I want to build my own photo space.",
-          "link": "https://fundor333.com/post/2025/add-photo-page-in-your-hugo-site/",
-          "publishedOn": "2025-01-16T11:49:32.000Z",
-          "wordCount": 1086,
-          "title": "Add Photo Page in your Hugo Site",
-          "imageUrl": "https://fundor333.com/post/2025/add-photo-page-in-your-hugo-site/cover.png"
         }
       ]
     },
@@ -6417,16 +6677,6 @@
           "wordCount": null,
           "title": "Python Click, django-click, and Typer notes",
           "imageUrl": null
-        },
-        {
-          "id": "http://webology.micro.blog/2025/01/15/email-calendars-and-the-chaos/",
-          "author": null,
-          "description": "I was feeling overloaded with emails this week, and then I remembered that my out-of-office auto-responder told people they should contact me after the first of the year if they needed me to reply.\nThankfully, I could select and archive all of my 2024 emails with this rule label:inbox after:2023/12/31 before:2025/01/01, which reconciled my old emails.\nCalendars and shared Documents\nWith each Google organization, I’m a member with another Google Calendar, Google Drive, and Google Contacts to manage. That document someone wants feedback on sometimes feels like spinning a wheel, and I need to guess which inbox and account the message might land in.\nThe best solution that I have found for juggling meeting invites is Reclaim, which is terrific for merging multiple calendars into one calendar so…",
-          "link": "https://micro.webology.dev/2025/01/15/email-calendars-and-the-chaos/",
-          "publishedOn": "2025-01-16T02:51:45.000Z",
-          "wordCount": null,
-          "title": "📩 Email, Calendars, and the Chaos of Modern Workflows",
-          "imageUrl": null
         }
       ]
     },
@@ -6452,6 +6702,246 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://theintercept.com/2025/02/14/irs-ai-nvidia-tax/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://theintercept.com/2025/02/14/irs-ai-nvidia-tax/",
+          "publishedOn": "2025-02-15T00:57:36.000Z",
+          "wordCount": 2936,
+          "title": "The IRS Is Buying an AI Supercomputer from Nvidia",
+          "imageUrl": "https://theintercept.com/wp-content/uploads/2025/02/GettyImages-2192218894-e1739537852866.jpg?fit=4000%2C2000&w=1200&h=800"
+        },
+        {
+          "id": "https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/",
+          "publishedOn": "2025-02-15T00:08:14.000Z",
+          "wordCount": 3142,
+          "title": "Msxbook OneChipMSX MSX2 Computer",
+          "imageUrl": "https://cdn.tindiemedia.com/images/resize/lb41kQ1C2AeUiTcgY2AdouQq800=/p/1200x630/smart/i/681464/products/2025-02-09T16%3A59%3A36.288Z-A1-900.jpg?1739091602"
+        },
+        {
+          "id": "https://github.com/JosefAlbers/VimLM",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/JosefAlbers/VimLM",
+          "publishedOn": "2025-02-14T23:34:41.000Z",
+          "wordCount": 4121,
+          "title": "Show HN: VimLM – A Local, Offline Coding Assistant for Vim",
+          "imageUrl": "https://opengraph.githubassets.com/a886e7c0c3ccbef2b2efd1833eb96334ea7301133a67bbd89ea49aed91f2ef08/JosefAlbers/VimLM"
+        },
+        {
+          "id": "https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/",
+          "publishedOn": "2025-02-14T23:10:36.000Z",
+          "wordCount": 1814,
+          "title": "A decade later, a decade lost",
+          "imageUrl": "https://meyerweb.com/ui/i/hamonshu/fb-og-image.png"
+        },
+        {
+          "id": "https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad",
+          "author": null,
+          "description": "Comments",
+          "link": "https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad",
+          "publishedOn": "2025-02-14T22:45:02.000Z",
+          "wordCount": 22104,
+          "title": "If you ever stacked cups in gym class, blame my dad",
+          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/02/Cups2.jpg"
+        },
+        {
+          "id": "https://fly.io/blog/wrong-about-gpu/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fly.io/blog/wrong-about-gpu/",
+          "publishedOn": "2025-02-14T22:36:31.000Z",
+          "wordCount": 2016,
+          "title": "We were wrong about GPUs",
+          "imageUrl": "https://fly.io/blog/wrong-about-gpu/assets/choices-choices-cover.webp"
+        },
+        {
+          "id": "https://mathstodon.xyz/@tao/113873092369347147",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mathstodon.xyz/@tao/113873092369347147",
+          "publishedOn": "2025-02-14T22:05:33.000Z",
+          "wordCount": 124,
+          "title": "Complex dynamics require complex solutions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://status.codeberg.eu/status/codeberg",
+          "author": null,
+          "description": "Comments",
+          "link": "https://status.codeberg.eu/status/codeberg",
+          "publishedOn": "2025-02-14T21:50:50.000Z",
+          "wordCount": 484,
+          "title": "Codeberg appears to be under a DDoS attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+          "publishedOn": "2025-02-14T21:45:49.000Z",
+          "wordCount": 6595,
+          "title": "The hardest working font in Manhattan",
+          "imageUrl": "https://aresluna.org/images/the-hardest-working-font-in-manhattan/ogimage.png"
+        },
+        {
+          "id": "https://www.nti-group.com/home/information/news/3dbenchy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nti-group.com/home/information/news/3dbenchy/",
+          "publishedOn": "2025-02-14T21:39:29.000Z",
+          "wordCount": null,
+          "title": "The Iconic 3DBenchy Enters the Public Domain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chrastecky.dev/3d-printing/open-scad-configurable-calendar-3d-model",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chrastecky.dev/3d-printing/open-scad-configurable-calendar-3d-model",
+          "publishedOn": "2025-02-14T20:57:36.000Z",
+          "wordCount": 3453,
+          "title": "Show HN: OpenSCAD configurable calendar 3D model",
+          "imageUrl": "https://chrastecky.dev/i/o/13/Calendar.png"
+        },
+        {
+          "id": "https://github.com/magicant/yash",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/magicant/yash",
+          "publishedOn": "2025-02-14T20:26:12.000Z",
+          "wordCount": 3721,
+          "title": "Yash: Yet Another Shell",
+          "imageUrl": "https://opengraph.githubassets.com/ea408e7921ae46311e77edd49de49deeb8def658a049c0fccc2021761858e25d/magicant/yash"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43052427",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=43052427",
+          "publishedOn": "2025-02-14T20:00:12.000Z",
+          "wordCount": 4156,
+          "title": "Ask HN: Is anybody building an alternative transformer?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c",
+          "author": null,
+          "description": "Comments",
+          "link": "https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c",
+          "publishedOn": "2025-02-14T19:30:06.000Z",
+          "wordCount": 4988,
+          "title": "Diffusion Without Tears",
+          "imageUrl": "https://www.notion.so/images/meta/default.png"
+        },
+        {
+          "id": "https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view",
+          "publishedOn": "2025-02-14T19:02:37.000Z",
+          "wordCount": null,
+          "title": "Kevin Mitnik FOIA Final",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/",
+          "publishedOn": "2025-02-14T18:58:37.000Z",
+          "wordCount": 2993,
+          "title": "The NBA Apple Vision Pro app now has a 3D tabletop view",
+          "imageUrl": "https://www.uploadvr.com/content/images/size/w1200/2025/02/NBA-Apple-Vision-Pro-Tabletop-view.jpeg"
+        },
+        {
+          "id": "https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/",
+          "publishedOn": "2025-02-14T18:29:59.000Z",
+          "wordCount": 2588,
+          "title": "A study on how turtles navigate using the Earth’s magnetic field",
+          "imageUrl": "https://www.unc.edu/wp-content/uploads/2025/02/Turtles_HERO.jpg"
+        },
+        {
+          "id": "https://stytch.com/blog/detecting-ai-agent-use-abuse/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://stytch.com/blog/detecting-ai-agent-use-abuse/",
+          "publishedOn": "2025-02-14T16:18:30.000Z",
+          "wordCount": 4464,
+          "title": "Detecting AI agent use and abuse",
+          "imageUrl": "https://cdn.sanity.io/images/3jwyzebk/production/4124b124a6f5ddebe133043163ce820536175e97-1088x902.png"
+        },
+        {
+          "id": "https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/",
+          "publishedOn": "2025-02-14T15:24:05.000Z",
+          "wordCount": 2951,
+          "title": "The largest sofa you can move around a corner",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/02/Moving-sofas_crTommy-Parker-Social.jpg"
+        },
+        {
+          "id": "https://www.abortretry.fail/p/the-history-of-suse",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.abortretry.fail/p/the-history-of-suse",
+          "publishedOn": "2025-02-14T13:53:49.000Z",
+          "wordCount": 17727,
+          "title": "The History of S.u.S.E",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6abe3b64-014a-4cdf-bbf9-c59caa8ef3c4_3536x2748.jpeg"
+        },
+        {
+          "id": "https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html",
+          "publishedOn": "2025-02-14T13:23:23.000Z",
+          "wordCount": 669,
+          "title": "Show HN: Transform your codebase into a single Markdown doc for feeding into AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://vale.rocks/posts/ai-is-stifling-tech-adoption",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vale.rocks/posts/ai-is-stifling-tech-adoption",
+          "publishedOn": "2025-02-14T12:45:05.000Z",
+          "wordCount": 1863,
+          "title": "AI is stifling new tech adoption?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ricochet-im/ricochet",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ricochet-im/ricochet",
+          "publishedOn": "2025-02-14T08:34:31.000Z",
+          "wordCount": 2184,
+          "title": "Ricochet: Peer-to-peer instant messaging system built on Tor hidden services (2017)",
+          "imageUrl": "https://opengraph.githubassets.com/c2880acb67aa738ac7f1ee8e6eb60f04659a3dda30e4cdfb3fb2606efef533d9/ricochet-im/ricochet"
+        },
+        {
+          "id": "https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/",
+          "publishedOn": "2025-02-14T07:31:46.000Z",
+          "wordCount": 1080,
+          "title": "Anyone can push updates to the doge.gov website",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/02/Screen-Shot-2025-02-13-at-10.38.20-PM.png"
+        },
         {
           "id": "https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description",
           "author": null,
@@ -6653,6 +7143,16 @@
           "imageUrl": "https://static-content.springer.com/image/art%3A10.3758%2Fs13423-024-02620-2/MediaObjects/13423_2024_2620_Fig1_HTML.png"
         },
         {
+          "id": "https://laurmaedje.github.io/posts/layout-models/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://laurmaedje.github.io/posts/layout-models/",
+          "publishedOn": "2025-02-13T04:34:09.000Z",
+          "wordCount": 2433,
+          "title": "TeX and Typst: Layout Models (2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://design.google/library/youtube-new-red-color",
           "author": null,
           "description": "Comments",
@@ -6681,6 +7181,16 @@
           "wordCount": null,
           "title": "Tiny JITs for a Faster FFI",
           "imageUrl": null
+        },
+        {
+          "id": "https://interestingengineering.com/science/worlds-first-hybrid-quantum-supercomputer-reimei-activated",
+          "author": null,
+          "description": "Comments",
+          "link": "https://interestingengineering.com/science/worlds-first-hybrid-quantum-supercomputer-reimei-activated",
+          "publishedOn": "2025-02-12T21:30:40.000Z",
+          "wordCount": 70893,
+          "title": "First hybrid quantum supercomputer Reimei activated in Japan",
+          "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2025/02/IE-Photo-39-2.jpg"
         },
         {
           "id": "https://jotalea.com.ar/misc/jotaleaos/",
@@ -6933,6 +7443,16 @@
           "imageUrl": "https://wasmcloud.com/logo/wasmcloud-social.png"
         },
         {
+          "id": "https://medium.com/pinterest-engineering/advancements-in-embedding-based-retrieval-at-pinterest-homefeed-d7d7971a409e",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medium.com/pinterest-engineering/advancements-in-embedding-based-retrieval-at-pinterest-homefeed-d7d7971a409e",
+          "publishedOn": "2025-02-12T02:16:10.000Z",
+          "wordCount": 4050,
+          "title": "Advancements in embedding-based retrieval at Pinterest Homefeed",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:908/0*QYI--K2XzfrSxyhi"
+        },
+        {
           "id": "https://www.dailydot.com/debug/lexipol-data-leak-puppygirl-hacker-polycule/",
           "author": null,
           "description": "Comments",
@@ -6973,6 +7493,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://techcrunch.com/2025/02/11/tumblr-to-join-the-fediverse-after-wordpress-migration-completes/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techcrunch.com/2025/02/11/tumblr-to-join-the-fediverse-after-wordpress-migration-completes/",
+          "publishedOn": "2025-02-11T21:26:14.000Z",
+          "wordCount": 2818,
+          "title": "Tumblr to join the Fediverse after WordPress migration completes",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/08/shipping-tumblr-and-wordpress-blog-header403x-copy.jpg?w=764"
+        },
+        {
           "id": "https://nickgrossman.xyz/the-butter-thesis",
           "author": null,
           "description": "Comments",
@@ -6990,6 +7520,16 @@
           "publishedOn": "2025-02-11T21:00:32.000Z",
           "wordCount": null,
           "title": "Empirical Health (YC S23) Is Hiring Design Engineers in NYC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://fiddlersgreene.substack.com/p/ghosts-in-the-shadow-of-the-mouse",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fiddlersgreene.substack.com/p/ghosts-in-the-shadow-of-the-mouse",
+          "publishedOn": "2025-02-11T20:58:08.000Z",
+          "wordCount": null,
+          "title": "Ghosts in the Shadow of the Mouse",
           "imageUrl": null
         },
         {
@@ -7070,6 +7610,16 @@
           "publishedOn": "2025-02-11T18:23:03.000Z",
           "wordCount": null,
           "title": "Reviving the joy and honor of working with your hands (2015)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.elementsofprogramming.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.elementsofprogramming.com/",
+          "publishedOn": "2025-02-11T18:04:35.000Z",
+          "wordCount": 228,
+          "title": "Elements of Programming (2009)",
           "imageUrl": null
         },
         {
@@ -10882,22 +11432,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://newsletter.pragmaticengineer.com/p/the-coding-machine-at-meta",
-          "author": "Gergely Orosz",
-          "description": "In today’s episode, I’m joined by Michael Novati, Co-founder and CTO of Formation. Michael spent eight years at Meta, where he was recognized as the top code committer company-wide for several years.",
-          "link": "https://newsletter.pragmaticengineer.com/p/the-coding-machine-at-meta",
-          "publishedOn": "2025-01-15T20:46:05.000Z",
-          "wordCount": null,
-          "title": "“The Coding Machine” at Meta with Michael Novati",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/154788317/661ccab093511591a012be17e1d87807.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -11037,16 +11571,6 @@
           "publishedOn": "2025-01-21T13:12:00.000Z",
           "wordCount": null,
           "title": "Mechanical Pencils",
-          "imageUrl": null
-        },
-        {
-          "id": "https://rknight.me/blog/blog-question-challenge/",
-          "author": "Robb Knight",
-          "description": "I was tagged by Kyle and B to do this so here it is.\nWhy Did You Start Blogging In The First Place?\nInitially I thought I'd be some hot take blogger getting posts retweeted by loads of people and be popular or something. We all wanted to be Gruber back then.\nMore recently I'm blogging for me. It's recipes, technical posts, things I've solved, ideas I've had. Basically instructions for anything I, or someone else, might want to do.\nWhat Platform Are You Using The Manage Your Blog, And Why Do You Use It?\nMy site is built with Eleventy. In theory, that means it's just a bunch of markdown files. In practice, it's markdown files, JSON files, javascript files, plus my custom CMS. I use it because it gives me the flexibility to make my site do exactly what I want.\nHave You Blogged On Other Platforms Before?\nI started on hosted Wordpress many years ago, then self-hosted Wordpress, then Jekyll, then Hugo, then Hexo, and now Eleventy.\nHow Do You Write Your Posts?\nUsually I write a draft in Obsidian then copy it over into VSCode and publish. For shorter posts, or my notes, I write those directly into the CMS which pushes them to the GitHub repository. I wrote more in depth about this here.\nWhen Do You Feel Most Inspired To Write?\nThere are two main times I feel inspired:\nWhen I've solved a problem and I want to document the solution\nWhen I feel myself thinking about writing a thread of toots\nDo You Normally Publish Immediately After Writing, Or Do You Let It Simmer?\nI rarely let them simmer, I just send them out into the world so the typos can reveal themselves.\nWhat’s Your Favorite Post On Your Blog?\nThe sensible answer is 7622 - why I spell my name with two Bs but this sleep-deprived ramble about the fruits of Hey Bear is definitely up there.\nAny Future Plans For the Blog?\nI have a list longer than you can imagine but next up is some more work on transient slash pages.\nWho Will Participate Next?\nKeenan, please.",
-          "link": "https://rknight.me/blog/blog-question-challenge/",
-          "publishedOn": "2025-01-15T14:18:04.000Z",
-          "wordCount": null,
-          "title": "Blog Question Challenge",
           "imageUrl": null
         }
       ]
@@ -17401,6 +17925,16 @@
       "siteUrl": "https://shkspr.mobi/blog",
       "articles": [
         {
+          "id": "https://shkspr.mobi/blog/2025/02/some-esoteric-versioning-schemes-monotonic-moronity/",
+          "author": null,
+          "description": "Since time immemorial, software has had version numbers.  A developer releases V1 of their product. Some time later, they add new features or fix bugs, and release the next version.  What should that next version be called? Modern software broadly bifurcates into two competing standards; SemVer and CalVer.  SemVer  Semantic Versioning is usually in the form 1.2.3, the last digit is usually for minor bug fixes, the second digit for new functionality, and the primary digit for big and/or breaking …",
+          "link": "https://shkspr.mobi/blog/2025/02/some-esoteric-versioning-schemes-monotonic-moronity/",
+          "publishedOn": "2025-02-12T12:34:33.000Z",
+          "wordCount": null,
+          "title": "Some esoteric versioning schemes (monotonic moronity)",
+          "imageUrl": null
+        },
+        {
           "id": "https://shkspr.mobi/blog/2025/02/a-small-contribution-to-curl/",
           "author": null,
           "description": "The venerable curl is one of the most fundamental pieces of code in the modern world.  A seemingly simply utility - it enables other programs to interact with URls - it runs on millions of cars, is inside nearly every TV, used by billions of people, and is even in use on Mars.  And, as of last week, features a small contribution by me!  Look, I&#039;m not an experienced bit-twiddler. I can&#039;t micro-optimise algorithms or spot intricate C-based memory leaks. What I can do is get annoyed at poor…",
@@ -17549,36 +18083,6 @@
           "wordCount": null,
           "title": "Book Review: What If? 10th Anniversary Edition - Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe ★★★★☆",
           "imageUrl": null
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2025/01/book-review-jagannath-by-karin-tidbeck/",
-          "author": null,
-          "description": "After reading Karin Tidbeck&#039;s Amatka I knew I needed to read more by her. Jagannath is an exceptional collection of short stories. In turns beautifully silly and oddly romantic.  What does it mean for a man to fall in love with an airship? If God walks the streets, how can He be summoned? Does the Devil rely on mechanised bureaucracy to connect to people via phone? Each story feels like a half-remembered piece of folklore. There are twists in the tales, but they&#039;re rarely cruel.  Rather…",
-          "link": "https://shkspr.mobi/blog/2025/01/book-review-jagannath-by-karin-tidbeck/",
-          "publishedOn": "2025-01-16T12:34:56.000Z",
-          "wordCount": null,
-          "title": "Book Review: Jagannath by Karin Tidbeck ★★★★★",
-          "imageUrl": null
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2025/01/book-review-rules-for-radicals-a-pragmatic-primer-for-realistic-radicals-by-saul-alinsky/",
-          "author": null,
-          "description": "My good friend Suw alerted me to this venerable book by repeatedly ranting &#34;What is your theory of change???&#34; online.  If ever there was a moment to yell &#34;WHAT IS YOUR THEORY OF CHANGE???&#34; that moment is now and we should all be yelling it at Just Stop Oil.It seems to me their theory of change is to make enough people pissed of with them that... er, um... Step 2: ???Step 3: Profit!! Wait, that&#039;s not right.— Suw (@suw.bsky.social) 2024-06-20T08:44:13.991Z    Saul Alinsky&#039;s book is part i…",
-          "link": "https://shkspr.mobi/blog/2025/01/book-review-rules-for-radicals-a-pragmatic-primer-for-realistic-radicals-by-saul-alinsky/",
-          "publishedOn": "2025-01-15T12:34:01.000Z",
-          "wordCount": null,
-          "title": "Book Review: Rules for Radicals- A Pragmatic Primer for Realistic Radicals by Saul Alinsky ★★★★☆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2025/01/minimum-viable-clustered-marker-globe-using-openfreemap-and-maplibre-gl/",
-          "author": null,
-          "description": "I love OpenFreeMap it is a quick, easy, and free way to add beautiful maps to your Open Source projects.  With the latest release of MapLibre-GL I wanted to see if there was an easy way to use both to make an interactive globe with clustered markers.  Spoiler alert: yes!  Basic Globe  Here&#039;s a basic example which I&#039;ve trimmed down from this example.    When you load the below code, you&#039;ll get a globe which you can spin and zoom. Nifty!  &#60;!DOCTYPE html&#62; &#60;html&#62;     &#60;head&#62;         &#60;title&#62;Globe…",
-          "link": "https://shkspr.mobi/blog/2025/01/minimum-viable-clustered-marker-globe-using-openfreemap-and-maplibre-gl/",
-          "publishedOn": "2025-01-14T12:34:14.000Z",
-          "wordCount": null,
-          "title": "Minimum Viable Clustered-Marker Globe using OpenFreeMap and MapLibre GL",
-          "imageUrl": null
         }
       ]
     },
@@ -17587,6 +18091,26 @@
       "feedUrl": "https://simonwillison.net/atom/everything/",
       "siteUrl": "http://simonwillison.net/",
       "articles": [
+        {
+          "id": "https://simonwillison.net/2025/Feb/14/files-to-prompt/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://github.com/simonw/files-to-prompt/releases/tag/0.5\">files-to-prompt 0.5</a></strong></p>\nMy <code>files-to-prompt</code> tool (<a href=\"https://simonwillison.net/2024/Apr/8/files-to-prompt/\">originally built using Claude 3 Opus back in April</a>) had been accumulating a bunch of issues and PRs - I finally got around to spending some time with it and pushed a fresh release:</p>\n<blockquote>\n<ul>\n<li>New <code>-n/--line-numbers</code> flag for including line numbers in the output. Thanks, <a href=\"https://github.com/danclaytondev\">Dan Clayton</a>. <a href=\"https://github.com/simonw/files-to-prompt/pull/38\">#38</a></li>\n<li>Fix for utf-8 handling on Windows. Thanks, <a href=\"https://github.com/david-jarman\">David Jarman</a>. <a href=\"https://github.com/simonw/files-to-prompt/pull/36\">#36</a></li>\n<li><code>--ignore</code> patterns are now matched against directory names as well as file names, unless you pass the new <code>--ignore-files-only</code> flag. Thanks, <a href=\"https://github.com/nmpowell\">Nick Powell</a>. <a href=\"https://github.com/simonw/files-to-prompt/pull/30\">#30</a></li>\n</ul>\n</blockquote>\n<p>I use this tool myself on an almost daily basis - it's fantastic for quickly answering questions about code. Recently I've been plugging it into Gemini 2.0 with its 2 million token context length, running recipes like this one:</p>\n<pre><code>git clone https://github.com/bytecodealliance/componentize-py\ncd componentize-py\nfiles-to-prompt . -c | llm -m gemini-2.0-pro-exp-02-05 \\\n  -s 'How does this work? Does it include a python compiler or AST trick of some sort?'\n</code></pre>\n<p>I ran that question against the <a href=\"https://github.com/bytecodealliance/componentize-py\">bytecodealliance/componentize-py</a> repo - which provides a tool for turning Python code into compiled WASM - and got <a href=\"https://gist.github.com/simonw/a9d72e7f903417fb49e1d7a531ee8f97\">this really useful answer</a>.</p>\n<p>Here's another example. I decided to have o3-mini review how Datasette handles concurrent SQLite connections from async Python code - so I ran this:</p>\n<pre><code>git clone https://github.com/simonw/datasette\ncd datasette/datasette\nfiles-to-prompt database.py utils/__init__.py -c | \\\n  llm -m o3-mini -o reasoning_effort high \\\n  -s 'Output in markdown a detailed analysis of how this code handles the challenge of running SQLite queries from a Python asyncio application. Explain how it works in the first section, then explore the pros and cons of this design. In a final section propose alternative mechanisms that might work better.'\n</code></pre>\n<p>Here's <a href=\"https://gist.github.com/simonw/76c8c433f4a65cf01a5c9121453683ab\">the result</a>. It did an extremely good job of explaining how my code works - despite being fed just the Python and none of the other documentation. Then it made some solid recommendations for potential alternatives.</p>\n<p>I added a couple of follow-up questions (using <code>llm -c</code>) which resulted in <a href=\"https://gist.github.com/simonw/76c8c433f4a65cf01a5c9121453683ab?permalink_comment_id=5438685#gistcomment-5438685\">a full working prototype</a> of an alternative threadpool mechanism, plus <a href=\"https://gist.github.com/simonw/76c8c433f4a65cf01a5c9121453683ab?permalink_comment_id=5438691#gistcomment-5438691\">some benchmarks</a>.</p>\n<p>One final example: I decided to see if there were any undocumented features in <a href=\"https://litestream.io/\">Litestream</a>, so I checked out the repo and ran a prompt against just the <code>.go</code> files in that project:</p>\n<pre><code>git clone https://github.com/benbjohnson/litestream\ncd litestream\nfiles-to-prompt . -e go -c | llm -m o3-mini \\\n  -s 'Write extensive user documentation for this project in markdown'\n</code></pre>\n<p>Once again, o3-mini provided a <a href=\"https://gist.github.com/simonw/cbf339032f99fee72af5fd5455bc7235\">really impressively detailed</a> set of unofficial documentation derived purely from reading the source.\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/projects\">projects</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/gemini\">gemini</a>, <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/ai-assisted-programming\">ai-assisted-programming</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/webassembly\">webassembly</a>, <a href=\"https://simonwillison.net/tags/python\">python</a>, <a href=\"https://simonwillison.net/tags/async\">async</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a>, <a href=\"https://simonwillison.net/tags/sqlite\">sqlite</a>, <a href=\"https://simonwillison.net/tags/litestream\">litestream</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/14/files-to-prompt/#atom-everything",
+          "publishedOn": "2025-02-14T04:14:21.000Z",
+          "wordCount": 612,
+          "title": "files-to-prompt 0.5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/14/how-to-add-a-directory-to-your-path/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/\">How to add a directory to your PATH</a></strong></p>\n<em>Classic</em> Julia Evans piece here, answering a question which you might assume is obvious but very much isn't.</p>\n<p>Plenty of useful tips in here, plus the best explanation I've ever seen of the three different Bash configuration options:</p>\n<blockquote>\n<p>Bash has three possible config files: <code>~/.bashrc</code>, <code>~/.bash_profile</code>, and <code>~/.profile</code>.</p>\n<p>If you're not sure which one your system is set up to use, I'd recommend testing this way:</p>\n<ol>\n<li>add <code>echo hi there</code> to your <code>~/.bashrc</code></li>\n<li>Restart your terminal</li>\n<li>If you see \"hi there\", that means <code>~/.bashrc</code> is being used! Hooray!</li>\n<li>Otherwise remove it and try the same thing with <code>~/.bash_profile</code></li>\n<li>You can also try <code>~/.profile</code> if the first two options don't work.</li>\n</ol>\n</blockquote>\n<p>This article also reminded me to <a href=\"https://simonwillison.net/2024/Oct/15/path-tips-on-wizard-zines/\">try which -a again</a>, which gave me this confusing result for <code>datasette</code>:</p>\n<pre><code>% which -a datasette\n/opt/homebrew/Caskroom/miniconda/base/bin/datasette\n/Users/simon/.local/bin/datasette\n/Users/simon/.local/bin/datasette\n</code></pre>\n<p>Why is the second path in there twice? I figured out how to use <code>rg</code> to search just the dot-files in my home directory:</p>\n<pre><code>rg local/bin -g '/.*' --max-depth 1\n</code></pre>\n<p>And found that I have both a <code>.zshrc</code> and <code>.zprofile</code> file that are adding that to my path:</p>\n<pre><code>.zshrc.backup\n4:export PATH=\"$PATH:/Users/simon/.local/bin\"\n\n.zprofile\n5:export PATH=\"$PATH:/Users/simon/.local/bin\"\n\n.zshrc\n7:export PATH=\"$PATH:/Users/simon/.local/bin\"\n</code></pre>\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/julia-evans\">julia-evans</a>, <a href=\"https://simonwillison.net/tags/zsh\">zsh</a>, <a href=\"https://simonwillison.net/tags/bash\">bash</a>, <a href=\"https://simonwillison.net/tags/ripgrep\">ripgrep</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/14/how-to-add-a-directory-to-your-path/#atom-everything",
+          "publishedOn": "2025-02-14T02:40:11.000Z",
+          "wordCount": 386,
+          "title": "How to add a directory to your PATH",
+          "imageUrl": null
+        },
         {
           "id": "https://simonwillison.net/2025/Feb/13/shot-scraper/#atom-everything",
           "author": null,
