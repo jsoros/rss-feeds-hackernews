@@ -6,6 +6,206 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43063970",
+          "author": "eviledamame",
+          "description": "blunderchess.net is an open source, peer-to-peer chess app where every five moves, players each get to make one blunder-move for their opponent\nComments URL: https://news.ycombinator.com/item?id=43063970\nPoints: 15\n# Comments: 7",
+          "link": "https://blunderchess.net/",
+          "publishedOn": "2025-02-16T00:22:01.000Z",
+          "wordCount": 3,
+          "title": "Show HN: Blunderchess.net – blunder for your opponent every five moves",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43063239",
+          "author": "transpute",
+          "description": "Article URL: https://forum.qubes-os.org/t/create-a-gaming-hvm/19000\nComments URL: https://news.ycombinator.com/item?id=43063239\nPoints: 21\n# Comments: 7",
+          "link": "https://forum.qubes-os.org/t/create-a-gaming-hvm/19000",
+          "publishedOn": "2025-02-15T22:48:56.000Z",
+          "wordCount": 5127,
+          "title": "Create a QubesOS Gaming HVM with GPU PCI passthrough (2023)",
+          "imageUrl": "https://forum.qubes-os.org/uploads/db3820/original/2X/5/5918b857d4cb22183a9fff2cb70d6201b5041048.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43063167",
+          "author": "doener",
+          "description": "Article URL: https://jellyfin.org/\nComments URL: https://news.ycombinator.com/item?id=43063167\nPoints: 170\n# Comments: 107",
+          "link": "https://jellyfin.org/",
+          "publishedOn": "2025-02-15T22:39:19.000Z",
+          "wordCount": 590,
+          "title": "Jellyfin: The Free Software Media System",
+          "imageUrl": "https://jellyfin.org/images/social.png?v2"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43062546",
+          "author": "h43z",
+          "description": "Article URL: https://h.43z.one/blog/2025-02-12/\nComments URL: https://news.ycombinator.com/item?id=43062546\nPoints: 99\n# Comments: 19",
+          "link": "https://h.43z.one/blog/2025-02-12/",
+          "publishedOn": "2025-02-15T21:32:13.000Z",
+          "wordCount": 1279,
+          "title": "Watt The Fox?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43061977",
+          "author": "vyrotek",
+          "description": "Article URL: https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm\nComments URL: https://news.ycombinator.com/item?id=43061977\nPoints: 101\n# Comments: 67",
+          "link": "https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm",
+          "publishedOn": "2025-02-15T20:24:13.000Z",
+          "wordCount": 3677,
+          "title": "NASA has a list of 10 rules for software development",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43061827",
+          "author": "vinni2",
+          "description": "Article URL: https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research\nComments URL: https://news.ycombinator.com/item?id=43061827\nPoints: 52\n# Comments: 13",
+          "link": "https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research",
+          "publishedOn": "2025-02-15T20:07:39.000Z",
+          "wordCount": null,
+          "title": "Perplexity Deep Research",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43061498",
+          "author": "bookofjoe",
+          "description": "Article URL: https://weeks.ginatrapani.org/\nComments URL: https://news.ycombinator.com/item?id=43061498\nPoints: 368\n# Comments: 119",
+          "link": "https://weeks.ginatrapani.org/",
+          "publishedOn": "2025-02-15T19:34:29.000Z",
+          "wordCount": 862,
+          "title": "My Life in Weeks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43061482",
+          "author": "iancmceachern",
+          "description": "Article URL: https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/\nComments URL: https://news.ycombinator.com/item?id=43061482\nPoints: 177\n# Comments: 60",
+          "link": "https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/",
+          "publishedOn": "2025-02-15T19:32:16.000Z",
+          "wordCount": 10858,
+          "title": "New SF public health chief was part of McKinsey opioid-marketing operation",
+          "imageUrl": "https://content.sfstandard.com/wp-content/uploads/2025/02/8449058998_publichealthdirector_0291_de94f3.jpg?crop=0px%2C82px%2C4719px%2C2477px&w=1200"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43061183",
+          "author": "cosmos0072",
+          "description": "Article URL: https://github.com/cosmos72/schemesh\nComments URL: https://news.ycombinator.com/item?id=43061183\nPoints: 74\n# Comments: 16",
+          "link": "https://github.com/cosmos72/schemesh",
+          "publishedOn": "2025-02-15T19:00:38.000Z",
+          "wordCount": 4316,
+          "title": "Schemesh: Fusion between Unix shell and Lisp REPL",
+          "imageUrl": "https://opengraph.githubassets.com/a7726cba3f1dd60c5ff3d6a8c76d76671334591a2bf05b3a8ff934c325eec333/cosmos72/schemesh"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43061173",
+          "author": "ChrisArchitect",
+          "description": "Article URL: https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/\nComments URL: https://news.ycombinator.com/item?id=43061173\nPoints: 112\n# Comments: 19",
+          "link": "https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/",
+          "publishedOn": "2025-02-15T18:59:39.000Z",
+          "wordCount": 4718,
+          "title": "Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication",
+          "imageUrl": "https://www.volexity.com/wp-content/uploads/2025/02/Volexity-Blog-Multiple-Russian-Threat-Actors-Targeting-Microsoft-Device-Code-Authentication-300x157.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43060818",
+          "author": "bo0tzz",
+          "description": "Article URL: https://source-robotics.github.io/PAROL-docs/\nComments URL: https://news.ycombinator.com/item?id=43060818\nPoints: 80\n# Comments: 10",
+          "link": "https://source-robotics.github.io/PAROL-docs/",
+          "publishedOn": "2025-02-15T18:26:49.000Z",
+          "wordCount": 428,
+          "title": "PAROL6: 3D-printed desktop robotic arm",
+          "imageUrl": "https://PCrnjak.github.io/PAROL6_DOCS/assets/images/social/index.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43060769",
+          "author": "nabaraz",
+          "description": "Article URL: https://nabraj.com/blog/basketball-solved-sport/\nComments URL: https://news.ycombinator.com/item?id=43060769\nPoints: 70\n# Comments: 175",
+          "link": "https://nabraj.com/blog/basketball-solved-sport/",
+          "publishedOn": "2025-02-15T18:21:10.000Z",
+          "wordCount": 950,
+          "title": "Basketball has evolved into a game of calculated decision-making",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43060636",
+          "author": "WolfOliver",
+          "description": "Article URL: https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21\nComments URL: https://news.ycombinator.com/item?id=43060636\nPoints: 43\n# Comments: 24",
+          "link": "https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21",
+          "publishedOn": "2025-02-15T18:08:04.000Z",
+          "wordCount": 2695,
+          "title": "The Big TDD Misunderstanding (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43060603",
+          "author": "mailgolub",
+          "description": "Article URL: https://github.com/mpatajac/jillc\nComments URL: https://news.ycombinator.com/item?id=43060603\nPoints: 65\n# Comments: 7",
+          "link": "https://github.com/mpatajac/jillc",
+          "publishedOn": "2025-02-15T18:04:12.000Z",
+          "wordCount": 2821,
+          "title": "Jill – a functional programming language for the Nand2Tetris platform",
+          "imageUrl": "https://opengraph.githubassets.com/3564d7c411342e7b90f5829a9d8e48d10bd4a2929b6d736670cf7656c591860d/mpatajac/jillc"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43060587",
+          "author": "01-_-",
+          "description": "Article URL: https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/\nComments URL: https://news.ycombinator.com/item?id=43060587\nPoints: 128\n# Comments: 38",
+          "link": "https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/",
+          "publishedOn": "2025-02-15T18:02:17.000Z",
+          "wordCount": 4650,
+          "title": "Alzheimer's biomarkers now visible up to a decade ahead of symptoms",
+          "imageUrl": "https://assets.newatlas.com/dims4/default/d7afa2b/2147483647/strip/true/crop/1400x735+0+99/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F93%2Fbb%2F55ab5dbe470aa43a5fc7a0dab8fa%2Ftau-proteins-can-malfunction-and-disrupt-the-microtubules-that-help-transport-nutrients-and-information-through-brain-cells-causing-alzheimers-disease.jpg&na.image_optimisation=0"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43058997",
+          "author": "Brajeshwar",
+          "description": "Article URL: https://techxplore.com/news/2025-02-carbon-capture-renewables.html\nComments URL: https://news.ycombinator.com/item?id=43058997\nPoints: 403\n# Comments: 292",
+          "link": "https://techxplore.com/news/2025-02-carbon-capture-renewables.html",
+          "publishedOn": "2025-02-15T15:06:30.000Z",
+          "wordCount": 2327,
+          "title": "Carbon capture more costly than switching to renewables, researchers find",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2021/wind-farm.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43058522",
+          "author": "pitwin",
+          "description": "Article URL: https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/\nComments URL: https://news.ycombinator.com/item?id=43058522\nPoints: 161\n# Comments: 87",
+          "link": "https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/",
+          "publishedOn": "2025-02-15T14:00:00.000Z",
+          "wordCount": 3132,
+          "title": "Diablo hackers uncovered a speedrun scandal",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/diablo-debunk-1152x648.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43057375",
+          "author": "nhirschfeld",
+          "description": "I'm excited to showcase Kreuzberg!\nKreuzberg is a modern Python library built from the ground up with async/await, type hints, and optimized I/O handling.\nIt provides a unified interface for extracting text from documents (PDFs, images, office files) without external API dependencies.\nKey technical features:\n- Built with modern Python best practices (async/await, type hints, functional-first)\n- Optimized async I/O with anyio for multi-loop compatibility\n- Smart worker process pool for CPU-bound tasks (OCR, doc conversion)\n- Efficient batch processing with concurrent extractions\n- Clean error handling with context-rich exceptions\nI built this after struggling with existing solutions that were either synchronous-only, required complex deployments, or had poor async support. The goal was to create something that works well in modern async Python applications, can be easily dockerized or used in serverless contexts, and relies only on permissive OSS.\nKey advantages over alternatives:\n- True async support with optimized I/O\n- Minimal dependencies (much smaller than alternatives)\n- Perfect for serverless and async web apps\n- Local processing without API calls\n- Built for modern Python codebases with rigorous typing and testing\nI Would love feedback!\nThe library is MIT licensed and open to contributions.\nHere is the repo: https://github.com/Goldziher/kreuzberg\nStaring  is caring\nComments URL: https://news.ycombinator.com/item?id=43057375\nPoints: 149\n# Comments: 56",
+          "link": "https://github.com/Goldziher/kreuzberg",
+          "publishedOn": "2025-02-15T10:07:23.000Z",
+          "wordCount": 7970,
+          "title": "Show HN: Kreuzberg – Modern async Python library for document text extraction",
+          "imageUrl": "https://opengraph.githubassets.com/53fb13f147f641b91d95b890726453b00a07c82eee83a4729b6c231e23b27ceb/Goldziher/kreuzberg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43057344",
+          "author": "eamag",
+          "description": "Article URL: https://www.figgie.com/\nComments URL: https://news.ycombinator.com/item?id=43057344\nPoints: 367\n# Comments: 83",
+          "link": "https://www.figgie.com/",
+          "publishedOn": "2025-02-15T09:59:20.000Z",
+          "wordCount": 154,
+          "title": "Jane Street's Figgie card game",
+          "imageUrl": "/static/images/figgie_preview_banner.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43055671",
+          "author": "zdw",
+          "description": "Article URL: https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/\nComments URL: https://news.ycombinator.com/item?id=43055671\nPoints: 398\n# Comments: 117",
+          "link": "https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/",
+          "publishedOn": "2025-02-15T03:31:56.000Z",
+          "wordCount": 2450,
+          "title": "The 20 year old PSP can now connect to WPA2 WiFi Networks",
+          "imageUrl": "https://wololo.net/wagic/wp-content/uploads/2025/02/psp_wpa2_support.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43054766",
           "author": "jbegley",
           "description": "Article URL: https://theintercept.com/2025/02/14/irs-ai-nvidia-tax/\nComments URL: https://news.ycombinator.com/item?id=43054766\nPoints: 15\n# Comments: 5",
@@ -3067,16 +3267,6 @@
           "wordCount": 421,
           "title": "Looking at images in a spreadsheet",
           "imageUrl": "https://alexwlchan.net/images/profile_green_square.jpg"
-        },
-        {
-          "id": "https://alexwlchan.net/2025/randline/?utm_source=rss",
-          "author": null,
-          "description": "I wrote a tiny Rust tool to get random samples in a memory-efficient way, and I learnt a lot while doing it.",
-          "link": "https://alexwlchan.net/2025/randline/?utm_source=rss",
-          "publishedOn": "2025-01-17T10:54:23.000Z",
-          "wordCount": 2153,
-          "title": "randline: get a random selection of lines in a file using reservoir sampling",
-          "imageUrl": "https://alexwlchan.net/images/profile_green_square.jpg"
         }
       ]
     },
@@ -4756,96 +4946,6 @@
           "wordCount": 989,
           "title": "Amazon Connect Screen Recording now available in AWS GovCloud (US-West)",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "bd3eaa25f5d6279bccb388ce98ec2360080d3e56",
-          "author": "aws@amazon.com",
-          "description": "AWS CodePipeline now offers an enhanced debugging experience in the AWS Management Console, enabling you to identify and resolve pipeline failures more efficiently. The new debugging interface introduces a dedicated debugging page, accessible through the left navigation bar's \"Action details\" button.\n  This page presents a simplified pipeline view with execution and action details displayed in a side panel. This streamlined layout allows you to easily monitor the pipeline process and quickly debug action failures.\n  This feature is now available in all AWS Regions where CodePipeline is supported, excluding AWS GovCloud (US) Regions and China Regions. For more information about AWS CodePipeline, visit our product page.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codepipeline-debugging-experience-aws-management-console",
-          "publishedOn": "2025-01-16T21:00:00.000Z",
-          "wordCount": null,
-          "title": "AWS CodePipeline introduces new debugging experience in AWS Management Console",
-          "imageUrl": null
-        },
-        {
-          "id": "b8990a8fae5d0f53a95cca5e5c219a4d93b3389b",
-          "author": "aws@amazon.com",
-          "description": "Today, AWS announces multi-session support, which enables AWS customers to access multiple AWS accounts simultaneously in the AWS Console. AWS Customers can sign-in to up to 5 sessions in a single browser, and this can be any combination of root, IAM, or federated roles in different accounts or in the same account.\n  Customers scale their applications using multiple accounts following AWS best-practice guidelines. They use accounts for different environments such as development, testing, production, and compare resource configurations and statuses across multiple accounts for troubleshooting application issues and other application related jobs. Using multi-session capability in the AWS Console, customers can now sign-in to multiple AWS accounts and manage their resources in a single browser.\n  Multi-session support is available in all Commercial Regions. Try it today by signing in to the AWS Console, selecting the account menu, and selecting “Turn on multi-session”. You can opt out at any time from the account menu. Visit AWS Console documentation to learn more.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-management-console-simultaneous-sign-in-multiple-accounts",
-          "publishedOn": "2025-01-16T18:30:00.000Z",
-          "wordCount": null,
-          "title": "The AWS Management Console now supports simultaneous sign-in for multiple AWS accounts",
-          "imageUrl": null
-        },
-        {
-          "id": "d63eeefc21e3f7c3d9d86c8339e3a4afeb6ad284",
-          "author": "aws@amazon.com",
-          "description": "Amazon GuardDuty is now available in the Asia Pacific (Malaysia) Region. You can now use this additional Region to continuously monitor and detect anomalous behavior, security threats, and sophisticated multi-stage attack sequences targeting your AWS accounts to help protect your AWS accounts, workloads, and data.\n  Tens of thousands of customers across many industries and geographies use GuardDuty. GuardDuty can identify unusual or unauthorized activity like cryptocurrency mining, access to data stored in Amazon Simple Storage Service (Amazon S3) from unusual locations, or unauthorized access to Amazon Elastic Kubernetes Service (Amazon EKS) clusters. GuardDuty Malware Protection adds file scanning for workloads using Amazon Elastic Block Store (Amazon EBS) volumes or Amazon S3 to detect the presence of malware. GuardDuty continually evolves its techniques to identify indicators of compromise, such as regularly updating machine learning (ML) models, adding new anomaly detections, and growing integrated threat intelligence to identify and prioritize potential threats to your AWS resources.\n  You can begin your 30-day free trial of Amazon GuardDuty with a single click in the AWS Management Console. To receive programmatic updates on new GuardDuty features and threat detections, subscribe to the Amazon GuardDuty SNS topic.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-guardduty-asia-pacific-malaysia-region/",
-          "publishedOn": "2025-01-16T18:00:00.000Z",
-          "wordCount": 1016,
-          "title": "Amazon GuardDuty is now available in AWS Asia Pacific (Malaysia) Region",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "122a6128d1bfa7cd23c903cee88d374f98dfbfd1",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect Contact Lens now offers a new dashboard that lets you monitor real-time agent activity and take immediate actions such as listen-in to a contact, barge (take over) a contact, or change an agent state in a few clicks from a single interface. With this dashboard, you can view and compare real-time and historical aggregated performance, trends, and insights using custom-defined time periods (e.g., week over week), summary charts, time-series chart, etc. Now, you can track how long an agent has been on after contact work, color code time in specific statuses, and listen into live contacts that need immediate attention. For example, you can automatically highlight in red if an agent is an error state to give a quick visual indicator of where agents might need additional help to change their status back to available.\n  This dashboard is available in all commercial AWS regions where Amazon Connect is offered. To learn more about dashboards, see the Amazon Connect Administrator Guide. To learn more about Amazon Connect, the AWS cloud-based contact center, please visit the Amazon Connect website.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-real-time-dashboard/",
-          "publishedOn": "2025-01-16T18:00:00.000Z",
-          "wordCount": 982,
-          "title": "Amazon Connect Contact Lens launches new real-time dashboard",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9d3dcbd6759befd1631f40af5a7cf6ec4cf3d49f",
-          "author": "aws@amazon.com",
-          "description": "AWS announces the general availability of two new larger sizes (12xlarge and 16xlarge) on Amazon EC2 Flex (C7i-flex, M7i-flex) instances. The new sizes expand the EC2 Flex portfolio, providing additional compute options to scale-up existing workloads or run larger sized applications that need additional memory. These instances are powered by custom 4th Gen Intel Xeon Scalable processors, that are available only on AWS, and offer up to 15% better performance over comparable x86-based Intel processors utilized by other cloud providers.\n  Flex instances are the easiest way to get price performance benefits and lower prices for a majority of compute-intensive and general-purpose workloads. They deliver up to 19% better price performance than comparable previous generation instances and are a great first choice for applications that do not fully utilize the compute resources. Flex instances are ideal for web and application servers, batch processing, enterprise applications, databases, and more. For compute-intensive and general-purpose workloads that need even larger instance sizes (up to 192 vCPUs and 768 GiB memory) or continuous high CPU usage, you can leverage Amazon EC2 C7i and M7i instances.\n  The new C7i-flex sizes are available in the following AWS Regions: US East (N. Virginia, Ohio), US West (N. California, Oregon), Europe (Frankfurt, Ireland, London, Paris, Spain, Stockholm), Canada (Central), Asia Pacific (Malaysia, Mumbai, Singapore, Sydney, Tokyo), South America (São Paulo), and AWS GovCloud (US-West).\n  The new M7i-flex sizes are available in the following AWS Regions: US East (N. Virginia, Ohio), US West (N. California, Oregon), Europe (Frankfurt, Ireland, Paris, Spain, Stockholm), Canada (Central), Asia Pacific (Malaysia, Mumbai, Singapore, Sydney, Tokyo), South America (São Paulo), and AWS GovCloud (US-East, US-West).",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-flex-instances-new-larger-sizes/",
-          "publishedOn": "2025-01-16T18:00:00.000Z",
-          "wordCount": 1167,
-          "title": "Introducing new larger sizes on Amazon EC2 Flex instances",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "0cc13d7409a31a8100819679ec5c1e8c1d61ea50",
-          "author": "aws@amazon.com",
-          "description": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8g instances are available in AWS Asia Pacific (Sydney) and AWS Europe (Spain) regions. These instances are powered by AWS Graviton4 processors and deliver up to 30% better performance compared to AWS Graviton3-based instances. Amazon EC2 R8g instances are ideal for memory-intensive workloads such as databases, in-memory caches, and real-time big data analytics. These instances are built on the AWS Nitro System, which oﬄoads CPU virtualization, storage, and networking functions to dedicated hardware and software to enhance the performance and security of your workloads.\n  AWS Graviton4-based Amazon EC2 instances deliver the best performance and energy efficiency for a broad range of workloads running on Amazon EC2. AWS Graviton4-based R8g instances offer larger instance sizes with up to 3x more vCPU (up to 48xlarge) and memory (up to 1.5TB) than Graviton3-based R7g instances. These instances are up to 30% faster for web applications, 40% faster for databases, and 45% faster for large Java applications compared to AWS Graviton3-based R7g instances. R8g instances are available in 12 different instance sizes, including two bare metal sizes. They offer up to 50 Gbps enhanced networking bandwidth and up to 40 Gbps of bandwidth to the Amazon Elastic Block Store (Amazon EBS).\n  To learn more, see Amazon EC2 R8g Instances. To explore how to migrate your workloads to Graviton-based instances, see AWS Graviton Fast Start program and Porting Advisor for Graviton. To get started, see the AWS Management Console.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-r8g-instances-additional-regions/",
-          "publishedOn": "2025-01-16T18:00:00.000Z",
-          "wordCount": 1116,
-          "title": "Amazon EC2 R8g instances now available in additional regions",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "0d033fb5dfa3c3c1fa8fc8fc904856db16d15601",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect Contact Lens dashboards now allow you to define widget level filters and groupings, re-order and re-size columns, and delete or add new metrics. With these dashboards, you can view and compare real-time and historical aggregated performance, trends, and insights using custom-defined time periods (e.g., week over week), summary charts, time-series chart, etc. Now, you can further customize specific widgets to create dashboards that best fit your business needs. For example, you can create a single line chart that combines contacts queued, average queue answer time, and abandoned contacts, filtered for your most important queues, so you can quickly see how increasing contact volumes impact both wait time and customer abandonment rates.\n  These dashboards are available in all commercial AWS regions where Amazon Connect is offered. To learn more about dashboards, see the Amazon Connect Administrator Guide. To learn more about Amazon Connect, the AWS cloud-based contact center, please visit the Amazon Connect website.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-dashboards-groupings-filters/",
-          "publishedOn": "2025-01-16T18:00:00.000Z",
-          "wordCount": 943,
-          "title": "Amazon Connect Contact Lens dashboards now provide configurable groupings and filters",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "622e32ed0428d54c767f97c9887cac20ae8a4223",
-          "author": "aws@amazon.com",
-          "description": "Starting today, Amazon EC2 I8g instances are available in Europe (Frankfurt) region. I8g instances offer the best performance in Amazon EC2 for storage-intensive workloads. I8g instances are powered by AWS Graviton4 processors, delivering up to 60% better compute performance compared to previous generation I4g instances. I8g instances use the latest third generation AWS Nitro SSDs, local NVMe storage that deliver up to 65% better real-time storage performance per TB while offering up to 50% lower storage I/O latency and up to 60% lower storage I/O latency variability. These instances are built on the AWS Nitro System, which oﬄoads CPU virtualization, storage, and networking functions to dedicated hardware and software enhancing the performance and security for your workloads.\n  I8g instances offer instance sizes up to 24xlarge, 768 GiB of memory, and 22.5 TB instance storage. They are ideal for real-time applications like relational databases, non-relational databases, streaming databases, search queries and data analytic.\n  To learn more, see Amazon EC2 I8g instances. To explore how to migrate your workloads to Graviton-based instances, see AWS Graviton Fast Start program and Porting Advisor for Graviton. To get started, see the AWS Management Console, AWS Command Line Interface (AWS CLI), and AWS SDKs.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-i8g-instances-europe-frankfurt-region",
-          "publishedOn": "2025-01-16T18:00:00.000Z",
-          "wordCount": null,
-          "title": "Amazon EC2 I8g instances are now available in Europe (Frankfurt) region",
-          "imageUrl": null
-        },
-        {
-          "id": "9c51c10706594cd05c65b843f3a2cb9d1ea1e0b6",
-          "author": "aws@amazon.com",
-          "description": "AWS Resource Explorer now supports 29 more resource types across all AWS commercial Regions from services including Amazon FSx, Amazon Route 53, and AWS Glue.\n  With this release, customers can now search for the following resource types in AWS Resource Explorer:\n \n \n \nacm:certificate\n \n \ncodepipeline:webhook\n \n \ncomprehend:document-classifier\n \n \ncomprehend:entity-recognizer\n \n \ndatabrew:job\n \n \ndatabrew:project\n \n \ndataexchange:data-sets\n \n \ndms:es\n \n \ndms:subgrp\n \n \nelasticmapreduce:cluster\n \n \nemr-containers:virtualclusters\n \n \nfrauddetector:external-model\n \n \nfrauddetector:model\n \n \nfsx:file-system\n \n \nglacier:vaults\n \n \nglue:crawler\n \n \ngreengrass:connectorsDefinition\n \n \ngreengrass:coresDefinition\n \n \ngreengrass:devicesDefinition\n \n \ngreengrass:functionsDefinition\n \n \ngreengrass:loggersDefinition\n \n \ngreengrass:resourcesDefinition\n \n \ngreengrass:subscriptionsDefinition\n \n \nmq:broker\n \n \nroute53:domain\n \n \nses:contact-list\n \n \nses:configuration-set\n \n \nses:identity\n \n \nstoragegateway:gateway\n \n \nTo view a complete list of all supported types, see the supported resource types page.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-explorer-29-new-resource-types/",
-          "publishedOn": "2025-01-16T18:00:00.000Z",
-          "wordCount": 759,
-          "title": "AWS Resource Explorer supports 29 new resource types",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -5055,16 +5155,6 @@
           "wordCount": 2018,
           "title": "Generate vector embeddings for your data using AWS Lambda as a processor for Amazon OpenSearch Ingestion",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/21/featured-images-BDB-4862-1120x630.jpg"
-        },
-        {
-          "id": "36bf57d06a28458f6864bac8ff38166114a46c8f",
-          "author": "Vijay Kardile",
-          "description": "In this post, we address common challenges associated with manual MSK topic configuration management and present a robust Terraform-based solution. This solution supports both provisioned and serverless MSK clusters.",
-          "link": "https://aws.amazon.com/blogs/big-data/automate-topic-provisioning-and-configuration-using-terraform-with-amazon-msk/",
-          "publishedOn": "2025-01-16T16:45:27.000Z",
-          "wordCount": 2215,
-          "title": "Automate topic provisioning and configuration using Terraform with Amazon MSK",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/16/featured-images-BDB-4319-1120x630.jpg"
         }
       ]
     },
@@ -5092,16 +5182,6 @@
           "wordCount": 1993,
           "title": "Introducing cross-account targets for Amazon EventBridge Event Buses",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2024/11/20/5-cross-account-targets.png"
-        },
-        {
-          "id": "7ba0a25562a5c36280d4d89716c873a67d3b7f64",
-          "author": "Eric Johnson",
-          "description": "Welcome to the 27th edition of the AWS Serverless ICYMI (in case you missed it) quarterly recap. At the end of a quarter, we share the most recent product launches, feature enhancements, blog posts, webinars, live streams, and other interesting things that you might have missed! In case you missed our last ICYMI, check out […]",
-          "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q4-2024/",
-          "publishedOn": "2025-01-16T21:29:37.000Z",
-          "wordCount": 2869,
-          "title": "Serverless ICYMI Q4 2024",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2025/01/16/Screenshot-2025-01-16-at-1.55.08 PM.png"
         }
       ]
     },
@@ -5731,6 +5811,16 @@
       "siteUrl": "https://brainbaking.com/",
       "articles": [
         {
+          "id": "https://brainbaking.com/post/2025/02/my-stationary-drawers/",
+          "author": "Wouter Groeneveld",
+          "description": "Matthew Lamont, a fellow stationary aficionado, shared his stationary drawer with us this week, elaborating on all the writing implements, things to write on, and fountain pen stuff that are tucked away there. Thanks Matthew, I love posts like those! Your drawers are shockingly spotless thanks to the 3D printed Gridfinity components I had no clue about. I’m not as well-organized as you are but feel obliged to follow suit, so here goes.\nI don’t have one but multiple drawers to keep all the junk more or less together. Let’s start with the first and most important one:\n\n\t\t\n\t\n\t\n\t\tThe first stationary drawer, showcasing various (fountain) pens in six compartments.\n\nThere are six compartments in there—thanks to a cheap IKEA inlay that happens to fit almost perfectly—containing mostly pens that I…",
+          "link": "https://brainbaking.com/post/2025/02/my-stationary-drawers/",
+          "publishedOn": "2025-02-15T08:00:00.000Z",
+          "wordCount": 1385,
+          "title": "My Stationary Drawers",
+          "imageUrl": "https://brainbaking.com/post/2025/02/my-stationary-drawers/drawer1.jpg"
+        },
+        {
           "id": "https://brainbaking.com/post/2025/02/roll-and-writes-board-games-lite/",
           "author": "Wouter Groeneveld",
           "description": "Since COVID, we’ve seen a huge surge in board game popularity, especially within the subgenre called roll & write (or flip & write) games. These games are easily recognized by the sheet(s) of paper (or wipeable surface) you’ll be writing/drawing on as part of the “board interaction” of the game, and of course, the involvement of dice—although that is not always the case. Picture evolved versions of Yahtzee and you’ll have a general idea.\nThese roll & write games are popular because they’re much easier to pull out: most components are fully integrated into the paper, the box is usually smaller, the game plays quicker, the games usually lean on the lighter side that are easier to get into, and most even have a theoretical unlimited number of maximum players. Just like Bingo, everyone just ha…",
@@ -5971,16 +6061,6 @@
           "wordCount": 471,
           "title": "This Is Why Instagram Ruin Itself",
           "imageUrl": "https://fundor333.com/post/2025/this-is-why-instagram-ruin-itself/cover.png"
-        },
-        {
-          "id": "https://fundor333.com/post/2025/my-zsh-command-history/",
-          "author": null,
-          "description": "For social pression of some blogger I follow (Andrea Grandi\n,Nicola Iarocci\n, Chris DeLuca\n) I follow with the history of my terminal (ZSH)\n90 git\n49\n38 open\n34 poetry\n27 make\n26 hugo\n26 brew\n24 cd\n18 npm\n14 pipenv\nAs a dev the first command is git… The second command is a bad habits I have… Spam new line in the terminal…\nI don’t find ls and I find it strange…",
-          "link": "https://fundor333.com/post/2025/my-zsh-command-history/",
-          "publishedOn": "2025-01-17T10:47:42.000Z",
-          "wordCount": 225,
-          "title": "My Zsh Command History",
-          "imageUrl": "https://fundor333.com/post/2025/my-zsh-command-history/cover.png"
         }
       ]
     },
@@ -6058,6 +6138,16 @@
       "feedUrl": "https://kevquirk.com/feed",
       "siteUrl": "https://kevquirk.com",
       "articles": [
+        {
+          "id": "blog/work-to-live-don-t-live-to-work",
+          "author": null,
+          "description": "I've always been a firm believer in this saying, and I've always tried to stick to it. But recently, things have flipped and it's killing me.\nAround 6 months ago I took a promotion in work. It was a big step up for me as I went from leading the global operations part of an organisation, to leading the whole organisation.\nThis has been a steep learning curve for me, and honestly, I don't know how well I'm going in the role. My manager tells me I'm doing a good job, but it doesn't feel like it to me.\nTo me it feels like I'm constantly playing catch-up. Constantly missing things. Constantly on the back foot. It can be miserable.\nHaving a global team means I regularly work long hours too. Which is fine, and par for the course when it comes to working in ops. But recently it's flipped from regu…",
+          "link": "https://kevquirk.com/blog/work-to-live-don-t-live-to-work",
+          "publishedOn": "2025-02-15T13:15:00.000Z",
+          "wordCount": 612,
+          "title": "Work to Live, Don’t Live to Work",
+          "imageUrl": "https://kevquirk.com/blog/work-to-live-don-t-live-to-work.png"
+        },
         {
           "id": "notes/20250208-1214",
           "author": null,
@@ -6247,26 +6337,6 @@
           "wordCount": null,
           "title": "How I Do Security Questions",
           "imageUrl": null
-        },
-        {
-          "id": "blog/fellas-it-s-gay-to-like-pop-music",
-          "author": null,
-          "description": "Fellas, it's gay to like pop music?\nby Keenan\n              \nKeenan reflects on being mocked for liking Britney Spears’ “Toxic” to embracing their love for pop music and their identity. Ultimately, I think  this post celebrates self-acceptance and finding joy in things like pop music, which Keenan (and I) proudly enjoy without shame.\nRead Post →\nI've been catching up on the unread items in my RSS reader over the last few weeks, and this one from Keenan is from alllllllll the way back in May (yeah, the backlog is real).\nAnyway, as with a lot of Keenan's posts, this one went on all kinds of wonderful tangents. I have some thoughts on the sexuality side of their post, but that's a post for another day that I'll probably never write as it's a bit too personal for me, I think.\nWhere was I? Oh yeah, pop music. Fuck those guys. I love all kinds of music, including pop music. I mean \"pop\" is literally short for \"popular\" sooooo, you know? 🤷🏼‍♂️\nI used to get a lot of shit in school for loving Hero by Enrique Inglesias. I played the shit out of that song everywhere I could. I too got the \"this is such a gay song\" shit. But I fucking love that song, even today. Along with lots of other pop music, rock music, country music, metal, folk, and goodness knows what else.\nSo yeah, fuck those guys and read Keenan's post. 🙃\nOh and for the record, Toxic has a place in my music library, too. 👌🏻\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
-          "link": "https://kevquirk.com/blog/fellas-it-s-gay-to-like-pop-music",
-          "publishedOn": "2025-01-17T07:50:00.000Z",
-          "wordCount": null,
-          "title": "Fellas, it's gay to like pop music?",
-          "imageUrl": null
-        },
-        {
-          "id": "notes/20250116-2308",
-          "author": null,
-          "description": "2025 can just fuck right off. I'm at the back end of my second working week of the year which, ironically, is also my second 50+ hour working week.\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
-          "link": "https://kevquirk.com/notes/20250116-2308",
-          "publishedOn": "2025-01-16T23:10:00.000Z",
-          "wordCount": null,
-          "title": "📝 16 January 2025 at 23:08 - can just fuck right off I'm at the back end...",
-          "imageUrl": null
         }
       ]
     },
@@ -6363,16 +6433,6 @@
           "publishedOn": "2025-01-22T15:24:41.000Z",
           "wordCount": 4806,
           "title": "MasterCard DNS Error Went Unnoticed for Years",
-          "imageUrl": null
-        },
-        {
-          "id": "https://krebsonsecurity.com/?p=70091",
-          "author": "BrianKrebs",
-          "description": "Residents across the United States are being inundated with text messages purporting to come from toll road operators like E-ZPass, warning that recipients face fines if a delinquent toll fee remains unpaid. Researchers say the surge in SMS spam coincides with new features added to a popular commercial phishing kit sold in China that makes it simple to set up convincing lures spoofing toll road operators in multiple U.S. states.",
-          "link": "https://krebsonsecurity.com/2025/01/chinese-innovations-spawn-wave-of-toll-phishing-via-sms/",
-          "publishedOn": "2025-01-16T21:18:48.000Z",
-          "wordCount": 3775,
-          "title": "Chinese Innovations Spawn Wave of Toll Phishing Via SMS",
           "imageUrl": null
         }
       ]
@@ -6703,6 +6763,216 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.theframelab.org/understanding-the-maga-tech-authoritarian-alliance/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theframelab.org/understanding-the-maga-tech-authoritarian-alliance/",
+          "publishedOn": "2025-02-16T01:17:38.000Z",
+          "wordCount": 2432,
+          "title": "Understanding the MAGA-Tech Authoritarian Alliance",
+          "imageUrl": "https://www.theframelab.org/content/images/size/w1200/2024/12/shutterstock_2449496577.jpg"
+        },
+        {
+          "id": "https://blunderchess.net/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blunderchess.net/",
+          "publishedOn": "2025-02-16T00:22:01.000Z",
+          "wordCount": 3,
+          "title": "Show HN: Blunderchess.net – blunder for your opponent every five moves",
+          "imageUrl": null
+        },
+        {
+          "id": "https://forum.qubes-os.org/t/create-a-gaming-hvm/19000",
+          "author": null,
+          "description": "Comments",
+          "link": "https://forum.qubes-os.org/t/create-a-gaming-hvm/19000",
+          "publishedOn": "2025-02-15T22:48:56.000Z",
+          "wordCount": 5127,
+          "title": "Create a QubesOS Gaming HVM with GPU PCI passthrough (2023)",
+          "imageUrl": "https://forum.qubes-os.org/uploads/db3820/original/2X/5/5918b857d4cb22183a9fff2cb70d6201b5041048.png"
+        },
+        {
+          "id": "https://jellyfin.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jellyfin.org/",
+          "publishedOn": "2025-02-15T22:39:19.000Z",
+          "wordCount": 590,
+          "title": "Jellyfin: The Free Software Media System",
+          "imageUrl": "https://jellyfin.org/images/social.png?v2"
+        },
+        {
+          "id": "https://h.43z.one/blog/2025-02-12/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://h.43z.one/blog/2025-02-12/",
+          "publishedOn": "2025-02-15T21:32:13.000Z",
+          "wordCount": 1279,
+          "title": "Watt The Fox?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm",
+          "publishedOn": "2025-02-15T20:24:13.000Z",
+          "wordCount": 3677,
+          "title": "NASA has a list of 10 rules for software development",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research",
+          "publishedOn": "2025-02-15T20:07:39.000Z",
+          "wordCount": null,
+          "title": "Perplexity Deep Research",
+          "imageUrl": null
+        },
+        {
+          "id": "https://weeks.ginatrapani.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://weeks.ginatrapani.org/",
+          "publishedOn": "2025-02-15T19:34:29.000Z",
+          "wordCount": 862,
+          "title": "My Life in Weeks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/",
+          "publishedOn": "2025-02-15T19:32:16.000Z",
+          "wordCount": 10858,
+          "title": "New SF public health chief was part of McKinsey opioid-marketing operation",
+          "imageUrl": "https://content.sfstandard.com/wp-content/uploads/2025/02/8449058998_publichealthdirector_0291_de94f3.jpg?crop=0px%2C82px%2C4719px%2C2477px&w=1200"
+        },
+        {
+          "id": "https://github.com/cosmos72/schemesh",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/cosmos72/schemesh",
+          "publishedOn": "2025-02-15T19:00:38.000Z",
+          "wordCount": 4316,
+          "title": "Schemesh: Fusion between Unix shell and Lisp REPL",
+          "imageUrl": "https://opengraph.githubassets.com/a7726cba3f1dd60c5ff3d6a8c76d76671334591a2bf05b3a8ff934c325eec333/cosmos72/schemesh"
+        },
+        {
+          "id": "https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/",
+          "publishedOn": "2025-02-15T18:59:39.000Z",
+          "wordCount": 4718,
+          "title": "Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication",
+          "imageUrl": "https://www.volexity.com/wp-content/uploads/2025/02/Volexity-Blog-Multiple-Russian-Threat-Actors-Targeting-Microsoft-Device-Code-Authentication-300x157.png"
+        },
+        {
+          "id": "https://source-robotics.github.io/PAROL-docs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://source-robotics.github.io/PAROL-docs/",
+          "publishedOn": "2025-02-15T18:26:49.000Z",
+          "wordCount": 428,
+          "title": "PAROL6: 3D-printed desktop robotic arm",
+          "imageUrl": "https://PCrnjak.github.io/PAROL6_DOCS/assets/images/social/index.png"
+        },
+        {
+          "id": "https://nabraj.com/blog/basketball-solved-sport/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nabraj.com/blog/basketball-solved-sport/",
+          "publishedOn": "2025-02-15T18:21:10.000Z",
+          "wordCount": 950,
+          "title": "Basketball has evolved into a game of calculated decision-making",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21",
+          "author": null,
+          "description": "Comments",
+          "link": "https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21",
+          "publishedOn": "2025-02-15T18:08:04.000Z",
+          "wordCount": 2695,
+          "title": "The Big TDD Misunderstanding (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/mpatajac/jillc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/mpatajac/jillc",
+          "publishedOn": "2025-02-15T18:04:12.000Z",
+          "wordCount": 2821,
+          "title": "Jill – a functional programming language for the Nand2Tetris platform",
+          "imageUrl": "https://opengraph.githubassets.com/3564d7c411342e7b90f5829a9d8e48d10bd4a2929b6d736670cf7656c591860d/mpatajac/jillc"
+        },
+        {
+          "id": "https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/",
+          "publishedOn": "2025-02-15T18:02:17.000Z",
+          "wordCount": 4650,
+          "title": "Alzheimer's biomarkers now visible up to a decade ahead of symptoms",
+          "imageUrl": "https://assets.newatlas.com/dims4/default/d7afa2b/2147483647/strip/true/crop/1400x735+0+99/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F93%2Fbb%2F55ab5dbe470aa43a5fc7a0dab8fa%2Ftau-proteins-can-malfunction-and-disrupt-the-microtubules-that-help-transport-nutrients-and-information-through-brain-cells-causing-alzheimers-disease.jpg&na.image_optimisation=0"
+        },
+        {
+          "id": "https://techxplore.com/news/2025-02-carbon-capture-renewables.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techxplore.com/news/2025-02-carbon-capture-renewables.html",
+          "publishedOn": "2025-02-15T15:06:30.000Z",
+          "wordCount": 2327,
+          "title": "Carbon capture more costly than switching to renewables, researchers find",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2021/wind-farm.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/",
+          "publishedOn": "2025-02-15T14:00:00.000Z",
+          "wordCount": 3132,
+          "title": "Diablo hackers uncovered a speedrun scandal",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/diablo-debunk-1152x648.jpg"
+        },
+        {
+          "id": "https://github.com/Goldziher/kreuzberg",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Goldziher/kreuzberg",
+          "publishedOn": "2025-02-15T10:07:23.000Z",
+          "wordCount": 7975,
+          "title": "Show HN: Kreuzberg – Modern async Python library for document text extraction",
+          "imageUrl": "https://opengraph.githubassets.com/53fb13f147f641b91d95b890726453b00a07c82eee83a4729b6c231e23b27ceb/Goldziher/kreuzberg"
+        },
+        {
+          "id": "https://www.figgie.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.figgie.com/",
+          "publishedOn": "2025-02-15T09:59:20.000Z",
+          "wordCount": 154,
+          "title": "Jane Street's Figgie card game",
+          "imageUrl": "/static/images/figgie_preview_banner.jpg"
+        },
+        {
+          "id": "https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/",
+          "publishedOn": "2025-02-15T03:31:56.000Z",
+          "wordCount": 2450,
+          "title": "The 20 year old PSP can now connect to WPA2 WiFi Networks",
+          "imageUrl": "https://wololo.net/wagic/wp-content/uploads/2025/02/psp_wpa2_support.jpg"
+        },
+        {
           "id": "https://theintercept.com/2025/02/14/irs-ai-nvidia-tax/",
           "author": null,
           "description": "Comments",
@@ -6871,6 +7141,16 @@
           "wordCount": 2588,
           "title": "A study on how turtles navigate using the Earth’s magnetic field",
           "imageUrl": "https://www.unc.edu/wp-content/uploads/2025/02/Turtles_HERO.jpg"
+        },
+        {
+          "id": "https://www.modernism-in-metroland.co.uk/blog/edgware-1924-the-making-of-a-suburb",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.modernism-in-metroland.co.uk/blog/edgware-1924-the-making-of-a-suburb",
+          "publishedOn": "2025-02-14T18:01:04.000Z",
+          "wordCount": 2695,
+          "title": "Edgware 1924: The Making of a Suburb",
+          "imageUrl": "http://www.modernism-in-metroland.co.uk/uploads/1/0/2/5/10257505/059510e19f6f9cbd7bea3d89dcc6f9ff_orig.jpg"
         },
         {
           "id": "https://stytch.com/blog/detecting-ai-agent-use-abuse/",
@@ -7083,6 +7363,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.departmentofproduct.com/blog/product-development-processes-you-might-not-have-heard-of/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.departmentofproduct.com/blog/product-development-processes-you-might-not-have-heard-of/",
+          "publishedOn": "2025-02-13T17:40:29.000Z",
+          "wordCount": 6529,
+          "title": "Product Development Processes You Might Not Have Heard of (2022)",
+          "imageUrl": "https://www.departmentofproduct.com/wp-content/uploads/2022/10/Processes-compared.jpg"
+        },
+        {
           "id": "https://dynomight.net/irb/",
           "author": null,
           "description": "Comments",
@@ -7121,6 +7411,16 @@
           "wordCount": 3336,
           "title": "Fewer students are enrolling in doctoral degrees",
           "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d41586-025-00425-4/d41586-025-00425-4_50621646.jpg"
+        },
+        {
+          "id": "https://www.reuters.com/world/asia-pacific/sri-lanka-scrambles-restore-power-after-monkey-causes-islandwide-outage-2025-02-13/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/world/asia-pacific/sri-lanka-scrambles-restore-power-after-monkey-causes-islandwide-outage-2025-02-13/",
+          "publishedOn": "2025-02-13T13:47:25.000Z",
+          "wordCount": null,
+          "title": "Sri Lanka scrambles to restore power after monkey causes islandwide outage",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/wger-project/wger",
@@ -7383,6 +7683,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://tayloredge.com/reference/Mathematics/TEA-XTEA.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tayloredge.com/reference/Mathematics/TEA-XTEA.pdf",
+          "publishedOn": "2025-02-12T11:12:06.000Z",
+          "wordCount": 20397,
+          "title": "Tea Extensions [pdf] (2006)",
+          "imageUrl": null
+        },
+        {
           "id": "https://maknee.github.io/blog/2025/League-Data-Scraping/",
           "author": null,
           "description": "Comments",
@@ -7403,6 +7713,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://github.com/mohsen1/llm-debugger-vscode-extension",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/mohsen1/llm-debugger-vscode-extension",
+          "publishedOn": "2025-02-12T09:54:14.000Z",
+          "wordCount": 3676,
+          "title": "Show HN: Letting LLMs Run a Debugger",
+          "imageUrl": "https://opengraph.githubassets.com/e865a5546830049ccca424c1b2daf8e294369d11c653902d662002d017086cfe/mohsen1/llm-debugger-vscode-extension"
+        },
+        {
           "id": "https://arxiv.org/abs/2111.12800",
           "author": null,
           "description": "Comments",
@@ -7420,6 +7740,16 @@
           "publishedOn": "2025-02-12T09:33:29.000Z",
           "wordCount": null,
           "title": "US and UK refuse to sign AI safety declaration at summit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://josvisser.substack.com/p/its-a-knowledge-problem-or-is-it",
+          "author": null,
+          "description": "Comments",
+          "link": "https://josvisser.substack.com/p/its-a-knowledge-problem-or-is-it",
+          "publishedOn": "2025-02-12T09:28:08.000Z",
+          "wordCount": null,
+          "title": "It's a knowledge problem Or is it?",
           "imageUrl": null
         },
         {
@@ -7453,6 +7783,16 @@
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:908/0*QYI--K2XzfrSxyhi"
         },
         {
+          "id": "https://tldw.tube/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tldw.tube/",
+          "publishedOn": "2025-02-12T02:15:17.000Z",
+          "wordCount": 3,
+          "title": "TL;DW: Too Long; Didn't Watch Distill YouTube Videos to the Relevant Information",
+          "imageUrl": "https://tldw.tube/logo.png"
+        },
+        {
           "id": "https://www.dailydot.com/debug/lexipol-data-leak-puppygirl-hacker-polycule/",
           "author": null,
           "description": "Comments",
@@ -7471,6 +7811,16 @@
           "wordCount": null,
           "title": "JJ Cheat Sheet",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.agu.org/press-release/surprise-magma-chamber-growing-under-mediterranean-volcano/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.agu.org/press-release/surprise-magma-chamber-growing-under-mediterranean-volcano/",
+          "publishedOn": "2025-02-12T00:00:28.000Z",
+          "wordCount": 3464,
+          "title": "Surprise Magma Chamber Growing Under Mediterranean Volcano (2023)",
+          "imageUrl": "https://news.agu.org/files/2023/01/volcanic_activity-1024x575.png"
         },
         {
           "id": "https://neuralink.com/blog/a-year-of-telepathy/",
@@ -11473,6 +11823,16 @@
       "feedUrl": "https://rknight.me/subscribe/posts/rss.xml",
       "siteUrl": "https://rknight.me",
       "articles": [
+        {
+          "id": "https://rknight.me/blog/how-many-mildliner-colours-are-there/",
+          "author": "Robb Knight",
+          "description": "Remember a week ago when I bought some Zebra Mildliners? Well now I have all of them because I have no self control. But how many are there?. If you check the Zebra website, you'd see this natty graphic that shows there are 35 colours available across seven sets. You might also find this \"complete\" set and assume that 35 is the number but it's not.\nThere are actually 36 colours - there is an secondary version of the Neutral set called \"Natural\", which is sold in the Japanese market. This set has dusty pink, instead of copper. Dusty pink appears in some other sets (that aren't part of the core seven) so it's much easier to find that one separately, which is exactly what I did to complete my collection[1].\nHere's an updated version of Zebra's chart to include the variations:\n\nAs I was finishing this post, I did find official confirmation of 36 colours on Zebra's website[2], in this PDF which is named Mildliner_US-Japan_Cross_Reference.\nIt hasn't arrived yet but when it does, I'll post an updated test page ⤾\nOnly by landing on this Go Wild partnership page ⤾",
+          "link": "https://rknight.me/blog/how-many-mildliner-colours-are-there/",
+          "publishedOn": "2025-02-15T23:44:05.000Z",
+          "wordCount": 447,
+          "title": "How Many Mildliner Colours Are There?",
+          "imageUrl": "https://v1.screenshot.11ty.dev/https%3A%2F%2Frknight.me%2Fopengraph%2Fblog%2Fhow-many-mildliner-colours-are-there%2F/opengraph/_123"
+        },
         {
           "id": "https://rknight.me/blog/we-need-to-talk-about-zoe-being-wrong-about-islands/",
           "author": "Robb Knight",
@@ -18073,16 +18433,6 @@
           "wordCount": null,
           "title": "Book Review: Some Desperate Glory by Emily Tesh ★★★★☆",
           "imageUrl": null
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2025/01/book-review-what-if-10th-anniversary-edition-serious-scientific-answers-to-absurd-hypothetical-questions-by-randall-munroe/",
-          "author": null,
-          "description": "Funny from the preface up until the very last footnote.  This is the updated version of the classic &#34;What If&#34; book - where Munroe goes into absurd details about ridiculous questions.  Full of nerdy giggles and some utterly bizarre units. For example:    The storage industry produces in the neighborhood of 650 million hard drives per year. If most of them are 3.5-inch drives, that’s 8 liters (2 gallons) of hard drive per second.  I mean… I GUESS!  Charmingly, there are some UK specific notes and …",
-          "link": "https://shkspr.mobi/blog/2025/01/book-review-what-if-10th-anniversary-edition-serious-scientific-answers-to-absurd-hypothetical-questions-by-randall-munroe/",
-          "publishedOn": "2025-01-17T12:34:56.000Z",
-          "wordCount": null,
-          "title": "Book Review: What If? 10th Anniversary Edition - Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe ★★★★☆",
-          "imageUrl": null
         }
       ]
     },
@@ -18091,6 +18441,36 @@
       "feedUrl": "https://simonwillison.net/atom/everything/",
       "siteUrl": "http://simonwillison.net/",
       "articles": [
+        {
+          "id": "https://simonwillison.net/2025/Feb/16/introducing-perplexity-deep-research/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research\">Introducing Perplexity Deep Research</a></strong></p>\nPerplexity become the <em>third</em> company to release a product with \"Deep Research\" in the name.</p>\n<ul>\n<li>Google's Gemini Deep Research: <a href=\"https://blog.google/products/gemini/google-gemini-deep-research/\">Try Deep Research and our new experimental model in Gemini, your AI assistant</a> on  December 11th 2024</li>\n<li>OpenAI's ChatGPT Deep Research: <a href=\"https://openai.com/index/introducing-deep-research/\">Introducing deep research</a> - February 2nd 2025</li>\n</ul>\n<p>And now <a href=\"https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research\">Perplexity Deep Research</a>, announced on February 14th.</p>\n<p>The three products all do effectively the same thing: you give them a task, they go out and accumulate information from a large number of different websites and then use long context models and prompting to turn the result into a report. All three of them take several minutes to return a result.</p>\n<p>In my <a href=\"https://simonwillison.net/2025/Jan/10/ai-predictions/#one-year-code-research-assistants\">AI/LLM predictions post on January 10th</a> I expressed skepticism at the idea of \"agents\", with the exception of coding and research specialists. I said:</p>\n<blockquote>\n<p>It makes intuitive sense to me that this kind of research assistant can be built on our current generation of LLMs. They’re competent at driving tools, they’re capable of coming up with a relatively obvious research plan (look for newspaper articles and research papers) and they can synthesize sensible answers given the right collection of context gathered through search.</p>\n<p>Google are particularly well suited to solving this problem: they have the world’s largest search index and their Gemini model has a 2 million token context. I expect Deep Research to get a whole lot better, and I expect it to attract plenty of competition.</p>\n</blockquote>\n<p>Just over a month later I'm feeling pretty good about that prediction!\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/gemini\">gemini</a>, <a href=\"https://simonwillison.net/tags/ai-agents\">ai-agents</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/google\">google</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/perplexity\">perplexity</a>, <a href=\"https://simonwillison.net/tags/chatgpt\">chatgpt</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/16/introducing-perplexity-deep-research/#atom-everything",
+          "publishedOn": "2025-02-16T00:46:38.000Z",
+          "wordCount": 449,
+          "title": "Introducing Perplexity Deep Research",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/15/kevin-samuel/#atom-everything",
+          "author": null,
+          "description": "<blockquote cite=\"https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should\"><p>[...] if your situation allows it, always try uv first. Then fall back on something else if that doesn’t work out.</p>\n<p>It is the Pareto solution because it's easier than trying to figure out what you should do and you will rarely regret it. Indeed, the cost of moving to and from it is low, but the value it delivers is quite high.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should\">Kevin Samuel</a>, Bite code!</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/uv\">uv</a>, <a href=\"https://simonwillison.net/tags/astral\">astral</a>, <a href=\"https://simonwillison.net/tags/python\">python</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/15/kevin-samuel/#atom-everything",
+          "publishedOn": "2025-02-15T20:10:23.000Z",
+          "wordCount": 253,
+          "title": "Quoting Kevin Samuel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/15/llm-mlx/#atom-everything",
+          "author": null,
+          "description": "<p><a href=\"https://github.com/simonw/llm-mlx\">llm-mlx</a> is a brand new plugin for my <a href=\"https://llm.datasette.io/\">LLM</a> Python Library and CLI utility which builds on top of Apple's excellent <a href=\"https://github.com/ml-explore/mlx\">MLX array framework library</a> and <a href=\"https://pypi.org/project/mlx-lm/\">mlx-lm</a> package. If you're a terminal user or Python developer with a Mac this may be the new easiest way to start exploring local Large Language Models.</p>\r\n<h4 id=\"running-llama-3-2-3b-using-llm-mlx\">Running Llama 3.2 3B using llm-mlx</h4>\r\n<p>If you haven't already got LLM installed you'll need <a href=\"https://llm.datasette.io/en/stable/setup.html\">to install it</a> - you can do that in a bunch of different ways - in order of preference I like <code>uv tool install llm</code> or <code>pipx install llm</code> or <code>brew install llm</code> or <code>pip install llm</code>.</p>\r\n<p>Next, install the new plugin (macOS only):</p>\r\n<div class=\"highlight highlight-source-shell\"><pre>llm install llm-mlx</pre></div>\r\n<p>Now download and register a model. Llama 3.2 3B is an excellent first choice - it's pretty small (a 1.8GB download) but is a surprisingly capable starter model.</p>\r\n<div class=\"highlight highlight-source-shell\"><pre>llm mlx download-model mlx-community/Llama-3.2-3B-Instruct-4bit</pre></div>\r\n<p>This will download 1.8GB of model weights from <a href=\"https://huggingface.co/mlx-community/Llama-3.2-3B-Instruct-4bit\">mlx-community/Llama-3.2-3B-Instruct-4bit</a> on Hugging Face and store them here:</p>\r\n<pre><code>~/.cache/huggingface/hub/models--mlx-community--Llama-3.2-3B-Instruct-4bit\r\n</code></pre>\r\n<p>Now you can start running prompts:</p>\r\n<div class=\"highlight highlight-source-shell\"><pre>llm -m mlx-community/Llama-3.2-3B-Instruct-4bit <span class=\"pl-s\"><span class=\"pl-pds\">'</span>Python code to traverse a tree, briefly<span class=\"pl-pds\">'</span></span></pre></div>\r\n<p>Which <a href=\"https://gist.github.com/simonw/85ce6a0faf1a58a243f9e5f4b2daeb3d\">output this</a> for me:</p>\r\n<blockquote>\r\n<p>Here's a brief example of how to traverse a tree in Python:</p>\r\n<pre><span class=\"pl-k\">class</span> <span class=\"pl-v\">Node</span>:\r\n    <span class=\"pl-k\">def</span> <span class=\"pl-en\">__init__</span>(<span class=\"pl-s1\">self</span>, <span class=\"pl-s1\">value</span>):\r\n        <span class=\"pl-s1\">self</span>.<span class=\"pl-c1\">value</span> <span class=\"pl-c1\">=</span> <span class=\"pl-s1\">value</span>\r\n        <span class=\"pl-s1\">self</span>.<span class=\"pl-c1\">children</span> <span class=\"pl-c1\">=</span> []\r\n\r\n<span class=\"pl-k\">def</span> <span class=\"pl-en\">traverse_tree</span>(<span class=\"pl-s1\">node</span>):\r\n    <span class=\"pl-k\">if</span> <span class=\"pl-s1\">node</span> <span class=\"pl-c1\">is</span> <span class=\"pl-c1\">None</span>:\r\n        <span class=\"pl-k\">return</span>\r\n    \r\n    <span class=\"pl-en\">print</span>(<span class=\"pl-s1\">node</span>.<span class=\"pl-c1\">value</span>)\r\n    \r\n    <span class=\"pl-k\">for</span> <span class=\"pl-s1\">child</span> <span class=\"pl-c1\">in</span> <span class=\"pl-s1\">node</span>.<span class=\"pl-c1\">children</span>:\r\n        <span class=\"pl-en\">traverse_tree</span>(<span class=\"pl-s1\">child</span>)\r\n\r\n<span class=\"pl-c\"># Example usage:</span>\r\n<span class=\"pl-s1\">root</span> <span class=\"pl-c1\">=</span> <span class=\"pl-en\">Node</span>(<span class=\"pl-s\">\"A\"</span>)\r\n<span class=\"pl-s1\">root</span>.<span class=\"pl-c1\">children</span> <span class=\"pl-c1\">=</span> [<span class=\"pl-en\">Node</span>(<span class=\"pl-s\">\"B\"</span>), <span class=\"pl-en\">Node</span>(<span class=\"pl-s\">\"C\"</span>)]\r\n<span class=\"pl-s1\">root</span>.<span class=\"pl-c1\">children</span>[<span class=\"pl-c1\">0</span>].<span class=\"pl-c1\">children</span> <span class=\"pl-c1\">=</span> [<span class=\"pl-en\">Node</span>(<span class=\"pl-s\">\"D\"</span>), <span class=\"pl-en\">Node</span>(<span class=\"pl-s\">\"E\"</span>)]\r\n<span class=\"pl-s1\">root</span>.<span class=\"pl-c1\">children</span>[<span class=\"pl-c1\">1</span>].<span class=\"pl-c1\">children</span> <span class=\"pl-c1\">=</span> [<span class=\"pl-en\">Node</span>(<span class=\"pl-s\">\"F\"</span>)]\r\n\r\n<span class=\"pl-en\">traverse_tree</span>(<span class=\"pl-s1\">root</span>)  <span class=\"pl-c\"># Output: A, B, D, E, C, F</span></pre>\r\n<p>In this example, we define a <code>Node</code> class to represent each node in the tree, with a <code>value</code> attribute and a list of <code>children</code>. The <code>traverse_tree</code> function recursively visits each node in the tree, printing its value.</p>\r\n<p>This is a basic example of a tree traversal, and there are many variations and optimizations depending on the specific use case.</p>\r\n</blockquote>\r\n<p>That generation ran at an impressive <a href=\"https://gist.github.com/simonw/85ce6a0faf1a58a243f9e5f4b2daeb3d?permalink_comment_id=5440701#gistcomment-5440701\">152 tokens per second</a>!</p>\r\n<p>That command was a bit of a mouthful, so let's assign an alias to the model:</p>\r\n<div class=\"highlight highlight-source-shell\"><pre>llm aliases <span class=\"pl-c1\">set</span> l32 mlx-community/Llama-3.2-3B-Instruct-4bit</pre></div>\r\n<p>Now we can use that shorter alias instead:</p>\r\n<div class=\"highlight highlight-source-shell\"><pre>llm -m l32 <span class=\"pl-s\"><span class=\"pl-pds\">'</span>a joke about a haggis buying a car<span class=\"pl-pds\">'</span></span></pre></div>\r\n<p>(The <a href=\"https://gist.github.com/simonw/af322b399ce448f766d9349d9dc1cb5d#response\">joke</a> isn't very good.)</p>\r\n<p>As with other models supported by LLM, you can also pipe things to it. Here's how to get it to explain a piece of Python code (in this case <a href=\"https://github.com/simonw/llm-mlx/blob/0.2/llm_mlx.py\">itself</a>):</p>\r\n<div class=\"highlight highlight-source-shell\"><pre>cat llm_mlx.py <span class=\"pl-k\">|</span> llm -m l32 <span class=\"pl-s\"><span class=\"pl-pds\">'</span>explain this code<span class=\"pl-pds\">'</span></span></pre></div>\r\n<p>The response started like this:</p>\r\n<blockquote>\r\n<p>This code is a part of a larger project that uses the Hugging Face Transformers library to create a text-to-text conversational AI model. The code defines a custom model class <code>MlxModel</code> and a set of command-line interface (CLI) commands for working with MLX models. [...]</p>\r\n</blockquote>\r\n<p>Here's <a href=\"https://gist.github.com/simonw/a577c820b18591d4825b70679cee3f9c\">the rest of the response</a>. I'm pretty amazed at how well it did for a tiny 1.8GB model!</p>\r\n\r\n<p>This plugin can only run models that have been converted to work with Apple's MLX framework. Thankfully the <a href=\"https://huggingface.co/mlx-community\">mlx-community</a> organization on Hugging Face has published over 1,000 of these. A few I've tried successfully:</p>\r\n<ul>\r\n<li>\r\n<code>mlx-community/Qwen2.5-0.5B-Instruct-4bit</code> - <a href=\"https://huggingface.co/mlx-community/Qwen2.5-0.5B-Instruct-4bit\">278MB</a>\r\n</li>\r\n<li>\r\n<code>mlx-community/Mistral-7B-Instruct-v0.3-4bit</code> - <a href=\"https://huggingface.co/mlx-community/Mistral-7B-Instruct-v0.3-4bit\">4.08GB</a>\r\n</li>\r\n<li>\r\n<code>mlx-community/DeepSeek-R1-Distill-Qwen-32B-4bit</code> - <a href=\"https://huggingface.co/mlx-community/DeepSeek-R1-Distill-Qwen-32B-4bit\">18.5GB</a>\r\n</li>\r\n<li>\r\n<code>mlx-community/Llama-3.3-70B-Instruct-4bit</code> - <a href=\"https://huggingface.co/mlx-community/Llama-3.3-70B-Instruct-4bit\">40GB</a>\r\n</li>\r\n</ul>\r\n<p>That last one needs a machine with 64GB of RAM to run but is <em>very</em> capable - I wrote about trying out the Ollama version of Llama 3.3 70B in <a href=\"https://simonwillison.net/2024/Dec/9/llama-33-70b/\">I can now run a GPT-4 class model on my laptop</a> back in December.</p>\r\n<div class=\"highlight highlight-source-shell\"><pre>llm mlx download-model mlx-community/Llama-3.3-70B-Instruct-4bit</pre></div>\r\n<p><img src=\"https://static.simonwillison.net/static/2025/mlx-download-llama-33.jpg\" alt=\"Screenshot of the download-model command running against the Llama 3.3 70B model, it shows fetching 13 files and displays progress bars for 8 different safetensors files each weighing between 2.6 and 3.3GB.\" style=\"max-width: 100%;\" /></p>\r\n<p>For larger models like that I recommend using the <code>llm chat</code> command as that ensures they stay in memory for multiple rounds of the conversation:</p>\r\n<div class=\"highlight highlight-source-shell\"><pre>llm chat -m mlx-community/Llama-3.3-70B-Instruct-4bit</pre></div>\r\n<p>Activity Monitor shows the process using 37.5GB of RAM while the model is running.</p>\r\n<p>Some of these jokes are actually pretty good!</p>\r\n<blockquote>\r\n<pre><code>Chatting with mlx-community/Llama-3.3-70B-Instruct-4bit\r\nType 'exit' or 'quit' to exit\r\nType '!multi' to enter multiple lines, then '!end' to finish\r\n&gt; hi\r\nHow's your day going so far? Is there something I can help you with or would you like to chat?\r\n&gt; jokes about weird animals please\r\nHere are a few:\r\n\r\n1. Why did the axolotl go to therapy? Because it was struggling to come to terms with its identity crisis... and also because it had a lot of \"regrowing\" to do!\r\n2. What did the aye-aye say to the other aye-aye when they were out on a date? \"You've got a finger on the pulse of my heart!\"\r\n3. Why did the naked mole rat go to the party? Because it was a \"hair-raising\" experience and it wanted to get to the \"root\" of the fun!\r\n4. What do you call a group of flamingos playing instruments? The Pink Floyd... of the avian world, of course!\r\n5. Why did the blobfish go to the doctor? It had a \"gut\" feeling something was wrong... and also because it was feeling a little \"deflated\"!\r\n\r\nWant more? I've got a whole zoo of 'em!\r\n</code></pre>\r\n</blockquote>\r\n<p>That ran at <a href=\"https://gist.github.com/simonw/ec99b6cf65ae61256a34f3ac269951dc\">8.8 tokens per second</a>.</p>\r\n\r\n<p>You can use LLM models from your Python code as well. The README includes <a href=\"https://github.com/simonw/llm-mlx/blob/0.2.1/README.md#using-models-from-python\">documentation on how to do this</a> - TLDR:</p>\r\n\r\n<pre><span class=\"pl-k\">import</span> <span class=\"pl-s1\">llm</span>\r\n<span class=\"pl-s1\">model</span> <span class=\"pl-c1\">=</span> <span class=\"pl-s1\">llm</span>.<span class=\"pl-c1\">get_model</span>(<span class=\"pl-s\">\"mlx-community/Llama-3.2-3B-Instruct-4bit\"</span>)\r\n<span class=\"pl-en\">print</span>(<span class=\"pl-s1\">model</span>.<span class=\"pl-c1\">prompt</span>(<span class=\"pl-s\">\"hi\"</span>).<span class=\"pl-c1\">text</span>())</pre>\r\n\r\n<h4 id=\"mlx-and-mlx-lm\">MLX and mlx-lm</h4>\r\n<p>The secret sauce behind this new plugin is Apple's <a href=\"https://github.com/ml-explore/mlx\">MLX library</a>, which as been improving at an extraordinary pace over the past year - it first launched on GitHub just in November of 2023.</p>\r\n<p>The core library is C++, but the MLX team at Apple also maintain a <a href=\"https://github.com/ml-explore/mlx-examples\">mlx-examples</a> repo with a wealth of Python examples, including the <a href=\"https://github.com/ml-explore/mlx-examples/blob/main/llms/README.md\">mlx-lm</a> and <a href=\"https://github.com/ml-explore/mlx-examples/tree/main/whisper\">mlx-whisper</a> packages.</p>\r\n<p>The community around it is growing too. I'm particularly impressed by Prince Canuma's <a href=\"https://github.com/Blaizzy/mlx-vlm\">mlx-vlm</a> library for accessing multi-modal vision LLMs - I'd love to get that working as an LLM plugin once I figure out <a href=\"https://github.com/Blaizzy/mlx-vlm/issues/68\">how to use it for conversations</a>.</p>\r\n<p>I've used MLX for <a href=\"https://simonwillison.net/tags/mlx/\">a few experiments</a> in the past, but <a href=\"https://twitter.com/awnihannun/status/1890524526821126620\">this tweet</a> from MLX core developer Awni Hannun finally convinced me to wrap it up as an LLM plugin:</p>\r\n<blockquote>\r\n<p>In the latest MLX small LLMs are a lot faster.</p>\r\n<p>On M4 Max 4-bit Qwen 0.5B generates 1k tokens at a whopping 510 toks/sec. And runs at over 150 tok/sec on iPhone 16 pro.</p>\r\n</blockquote>\r\n<p>This is <em>really</em> good software. This small team at Apple appear to be almost single-handedly giving NVIDIA's CUDA a run for their money!</p>\r\n<h4 id=\"building-the-plugin\">Building the plugin</h4>\r\n<p>The <a href=\"https://github.com/simonw/llm-mlx\">llm-mlx</a> plugin came together pretty quickly. The <a href=\"https://github.com/simonw/llm-mlx/blob/0.1/llm_mlx.py\">first version</a> was ~100 lines of Python, much of it repurposed from my existing <a href=\"https://github.com/simonw/llm-gguf\">llm-gguf</a> plugin.</p>\r\n<p>The hardest problem was figuring out how to hide the Hugging Face progress bars that displayed every time it attempted to access a model!</p>\r\n<p>I eventually found the <code>from huggingface_hub.utils import disable_progress_bars</code> utility function by piping library code through Gemini 2.0.</p>\r\n<p>I then added <a href=\"https://github.com/simonw/llm-mlx/issues/3\">model options support</a> allowing you to pass options like this:</p>\r\n<div class=\"highlight highlight-source-shell\"><pre>llm -m l32 <span class=\"pl-s\"><span class=\"pl-pds\">'</span>a greeting<span class=\"pl-pds\">'</span></span> -o temperature 1.0 -o seed 2</pre></div>\r\n<p>So far using a fixed seed <a href=\"https://github.com/simonw/llm-mlx/issues/3#issuecomment-2661025591\">appears to produce repeatable results</a>, which is exciting for writing more predictable tests in the future.</p>\r\n\r\n<p>For the <a href=\"https://github.com/simonw/llm-mlx/blob/0.2/tests/test_mlx.py\">automated tests</a> that run in GitHub Actions I decided to use a small model - I went with the tiny 75MB <a href=\"https://huggingface.co/mlx-community/SmolLM-135M-Instruct-4bit/tree/main\">mlx-community/SmolLM-135M-Instruct-4bit</a> (explored <a href=\"https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/\">previously</a>). I configured GitHub Actions to cache the model in between CI runs by adding the following YAML to my <a href=\"https://github.com/simonw/llm-mlx/blob/0.2/.github/workflows/test.yml\">.github/workflows/test.yml</a> file:</p>\r\n<div class=\"highlight highlight-source-yaml\"><pre>    - <span class=\"pl-ent\">name</span>: <span class=\"pl-s\">Cache models</span>\r\n      <span class=\"pl-ent\">uses</span>: <span class=\"pl-s\">actions/cache@v4</span>\r\n      <span class=\"pl-ent\">with</span>:\r\n        <span class=\"pl-ent\">path</span>: <span class=\"pl-s\">~/.cache/huggingface</span>\r\n        <span class=\"pl-ent\">key</span>: <span class=\"pl-s\">${{ runner.os }}-huggingface-</span></pre></div>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/apple\">apple</a>, <a href=\"https://simonwillison.net/tags/plugins\">plugins</a>, <a href=\"https://simonwillison.net/tags/projects\">projects</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/github-actions\">github-actions</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/mlx\">mlx</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/15/llm-mlx/#atom-everything",
+          "publishedOn": "2025-02-15T19:13:29.000Z",
+          "wordCount": 1423,
+          "title": "Run LLMs on macOS using llm-mlx and Apple's MLX framework",
+          "imageUrl": "https://static.simonwillison.net/static/2025/mlx-download-llama-33.jpg"
+        },
         {
           "id": "https://simonwillison.net/2025/Feb/14/files-to-prompt/#atom-everything",
           "author": null,
@@ -18945,16 +19325,6 @@
           "publishedOn": "2025-01-27T17:26:00.000Z",
           "wordCount": null,
           "title": "Playing Around With Deepseek (NSFW)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.bentasker.co.uk/posts/documentation/vehicles/replacing-glowplugs-on-a-saab-93.html",
-          "author": "Ben Tasker",
-          "description": "The UK recently had a bit of a cold snap, during which my Saab 9.3 TTiD started taking longer to start.\nThe starter motor was turning the engine over fine, but it was taking longer to actually catch and fire.\nIn really cold temperatures, diesel can thicken and start to turn to jelly. However, that wasn't the issue here: firstly temperatures weren't that low and secondly the Saab has a heater built into the fuel filter to help prevent exactly that.\nWatching the dashboard as I turned the ignition on revealed the issue, or rather, the absence of something: despite the cold temperatures, the glowplug light wasn't turning on. This indicated that at least one of the glow plugs was dead, so the combustion chamber wasn't getting pre-warmed to help with ignition.\nThis post talks about replacing glo…",
-          "link": "https://www.bentasker.co.uk/posts/documentation/vehicles/replacing-glowplugs-on-a-saab-93.html?utm_source=rss",
-          "publishedOn": "2025-01-17T13:15:00.000Z",
-          "wordCount": null,
-          "title": "Glowplug Replacement",
           "imageUrl": null
         }
       ]
