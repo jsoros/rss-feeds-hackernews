@@ -6,6 +6,206 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43073773",
+          "author": "inverted_flag",
+          "description": "Article URL: https://www.salon.com/2010/12/06/america_collapse_2025/\nComments URL: https://news.ycombinator.com/item?id=43073773\nPoints: 3\n# Comments: 0",
+          "link": "https://www.salon.com/2010/12/06/america_collapse_2025/",
+          "publishedOn": "2025-02-17T01:17:16.000Z",
+          "wordCount": 14465,
+          "title": "America will collapse by 2025 (2010)",
+          "imageUrl": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2010/12/how_america_will_collapse_by_2025.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43073481",
+          "author": "misonic",
+          "description": "Article URL: https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/\nComments URL: https://news.ycombinator.com/item?id=43073481\nPoints: 3\n# Comments: 0",
+          "link": "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
+          "publishedOn": "2025-02-17T00:39:00.000Z",
+          "wordCount": 2239,
+          "title": "How to add a directory to your PATH",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43073385",
+          "author": "mooreds",
+          "description": "Article URL: https://hannahonprivacy.substack.com/p/why-bother-with-privacy-when-i-have\nComments URL: https://news.ycombinator.com/item?id=43073385\nPoints: 22\n# Comments: 13",
+          "link": "https://hannahonprivacy.substack.com/p/why-bother-with-privacy-when-i-have",
+          "publishedOn": "2025-02-17T00:27:33.000Z",
+          "wordCount": null,
+          "title": "Why bother with privacy when I have nothing to hide? (2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43073292",
+          "author": "NaOH",
+          "description": "Article URL: https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/\nComments URL: https://news.ycombinator.com/item?id=43073292\nPoints: 20\n# Comments: 9",
+          "link": "https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/",
+          "publishedOn": "2025-02-17T00:15:50.000Z",
+          "wordCount": 31615,
+          "title": "Her job is to remove homeless from SF's parks. Her methods are extraordinary",
+          "imageUrl": "https://content.sfstandard.com/wp-content/uploads/2025/02/12162025_ggphomeless_aar_60.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43073149",
+          "author": "SeenNotHeard",
+          "description": "Article URL: https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates\nComments URL: https://news.ycombinator.com/item?id=43073149\nPoints: 30\n# Comments: 21",
+          "link": "https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates",
+          "publishedOn": "2025-02-16T23:56:16.000Z",
+          "wordCount": 4222,
+          "title": "Does or did COBOL default to 1875-05-20 for corrupt or missing dates?",
+          "imageUrl": "https://cdn.sstatic.net/Sites/retrocomputing/Img/apple-touch-icon@2.png?v=6b27f39a6023"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43072790",
+          "author": "techlover14159",
+          "description": "Article URL: https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m\nComments URL: https://news.ycombinator.com/item?id=43072790\nPoints: 75\n# Comments: 59",
+          "link": "https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m",
+          "publishedOn": "2025-02-16T23:15:59.000Z",
+          "wordCount": 4442,
+          "title": "Javier Milei Backtracks on $4.4B Memecoin After 'Insiders' Pocket $87M",
+          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/ffffe987c8c5f684f9dec45d78b2fdeea8a7b459-3500x2000.jpg?auto=format"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43072483",
+          "author": "jnord",
+          "description": "Article URL: https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm\nComments URL: https://news.ycombinator.com/item?id=43072483\nPoints: 36\n# Comments: 34",
+          "link": "https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm",
+          "publishedOn": "2025-02-16T22:38:14.000Z",
+          "wordCount": 1194,
+          "title": "Opposing arrows of time can theoretically emerge from certain quantum systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43072338",
+          "author": "NetOpWibby",
+          "description": "Article URL: https://uchu.style\nComments URL: https://news.ycombinator.com/item?id=43072338\nPoints: 179\n# Comments: 79",
+          "link": "https://uchu.style/",
+          "publishedOn": "2025-02-16T22:22:40.000Z",
+          "wordCount": 1815,
+          "title": "Uchū · the color scheme for internet lovers",
+          "imageUrl": "https://uchu.style/asset/image/og.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43071934",
+          "author": "usernameis42",
+          "description": "Article URL: https://www.chillyatc.com/\nComments URL: https://news.ycombinator.com/item?id=43071934\nPoints: 84\n# Comments: 59",
+          "link": "https://www.chillyatc.com/",
+          "publishedOn": "2025-02-16T21:36:21.000Z",
+          "wordCount": 85,
+          "title": "Show HN: Air traffic control radio and chill music for focus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43071506",
+          "author": "latexr",
+          "description": "Article URL: https://www.bbc.com/news/articles/cm21g0052dno\nComments URL: https://news.ycombinator.com/item?id=43071506\nPoints: 87\n# Comments: 44",
+          "link": "https://www.bbc.com/news/articles/cm21g0052dno",
+          "publishedOn": "2025-02-16T20:45:30.000Z",
+          "wordCount": 5839,
+          "title": "Critics say new Google rules put profits over privacy",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e247/live/a5e19e40-eabd-11ef-869d-59d5dc42f7c7.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43071193",
+          "author": "susam",
+          "description": "Article URL: https://devblogs.microsoft.com/oldnewthing/20160419-00/?p=93315\nComments URL: https://news.ycombinator.com/item?id=43071193\nPoints: 65\n# Comments: 64",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20160419-00/?p=93315",
+          "publishedOn": "2025-02-16T20:08:07.000Z",
+          "wordCount": 6861,
+          "title": "Why is there a screen that says \"It is now safe to turn off your computer\"? (2016)",
+          "imageUrl": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43071110",
+          "author": "protik49",
+          "description": "Article URL: https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer\nComments URL: https://news.ycombinator.com/item?id=43071110\nPoints: 60\n# Comments: 29",
+          "link": "https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer",
+          "publishedOn": "2025-02-16T19:57:32.000Z",
+          "wordCount": 14744,
+          "title": "Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/8X9vK26vir35ugRQ8LjQWY-1200-80.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43070025",
+          "author": "huang_chung",
+          "description": "Article URL: https://caddyserver.com/\nComments URL: https://news.ycombinator.com/item?id=43070025\nPoints: 445\n# Comments: 167",
+          "link": "https://caddyserver.com/",
+          "publishedOn": "2025-02-16T17:56:15.000Z",
+          "wordCount": 2527,
+          "title": "Caddy – The Ultimate Server with Automatic HTTPS",
+          "imageUrl": "https://caddyserver.com/resources/images/open-graph-square.png?v=f3b6d18"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43069533",
+          "author": "miyuru",
+          "description": "Article URL: https://techlog.jenslink.net/posts/ipv6-is-hard/\nComments URL: https://news.ycombinator.com/item?id=43069533\nPoints: 103\n# Comments: 174",
+          "link": "https://techlog.jenslink.net/posts/ipv6-is-hard/",
+          "publishedOn": "2025-02-16T17:04:09.000Z",
+          "wordCount": 543,
+          "title": "IPv6 Is Hard",
+          "imageUrl": "/og-image.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43069514",
+          "author": "Trasmatta",
+          "description": "Article URL: https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52\nComments URL: https://news.ycombinator.com/item?id=43069514\nPoints: 362\n# Comments: 68",
+          "link": "https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52",
+          "publishedOn": "2025-02-16T17:01:34.000Z",
+          "wordCount": 6833,
+          "title": "Half-Life 2 and Dishonored art lead Viktor Antonov has died",
+          "imageUrl": "https://assetsio.gnwcdn.com/Screenshot-2025-02-16-at-13.03.13.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43069399",
+          "author": "jonbaer",
+          "description": "Article URL: https://poweroutage.us/\nComments URL: https://news.ycombinator.com/item?id=43069399\nPoints: 243\n# Comments: 121",
+          "link": "https://poweroutage.us/",
+          "publishedOn": "2025-02-16T16:45:26.000Z",
+          "wordCount": 411,
+          "title": "United States Power Outage Map",
+          "imageUrl": "https://poweroutage.us/content/images/logo_clear.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43068884",
+          "author": "MilnerRoute",
+          "description": "Article URL: https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/\nComments URL: https://news.ycombinator.com/item?id=43068884\nPoints: 184\n# Comments: 52",
+          "link": "https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/",
+          "publishedOn": "2025-02-16T15:44:05.000Z",
+          "wordCount": null,
+          "title": "Vim after Bram: a core maintainer on how they've kept it going",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43068585",
+          "author": "burgerone",
+          "description": "Article URL: https://rtestardi.github.io/usbte/flea-scope.pdf\nComments URL: https://news.ycombinator.com/item?id=43068585\nPoints: 232\n# Comments: 83",
+          "link": "https://rtestardi.github.io/usbte/flea-scope.pdf",
+          "publishedOn": "2025-02-16T15:08:31.000Z",
+          "wordCount": 23681,
+          "title": "Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43067303",
+          "author": "articsputnik",
+          "description": "Article URL: https://www.ssp.sh/blog/finding-flow/\nComments URL: https://news.ycombinator.com/item?id=43067303\nPoints: 175\n# Comments: 62",
+          "link": "https://www.ssp.sh/blog/finding-flow/",
+          "publishedOn": "2025-02-16T11:40:24.000Z",
+          "wordCount": 3067,
+          "title": "Finding Flow: Escaping digital distractions through deep work and slow living",
+          "imageUrl": "https://www.ssp.sh/blog/finding-flow/featured-image.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43066953",
+          "author": "pie_flavor",
+          "description": "Article URL: https://chadnauseam.com/coding/random/calculator-app\nComments URL: https://news.ycombinator.com/item?id=43066953\nPoints: 1215\n# Comments: 308",
+          "link": "https://chadnauseam.com/coding/random/calculator-app",
+          "publishedOn": "2025-02-16T10:16:49.000Z",
+          "wordCount": 24,
+          "title": "“A calculator app? Anyone could make that”",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43063970",
           "author": "eviledamame",
           "description": "blunderchess.net is an open source, peer-to-peer chess app where every five moves, players each get to make one blunder-move for their opponent\nComments URL: https://news.ycombinator.com/item?id=43063970\nPoints: 15\n# Comments: 7",
@@ -4866,86 +5066,6 @@
           "wordCount": 789,
           "title": "Amazon Corretto January 2025 quarterly updates",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "59b423049c2b01b51ae1bcafd8d6e538e019f4ce",
-          "author": "aws@amazon.com",
-          "description": "You can now split your tests and run them across multiple, parallel-running compute environments. Based on your sharding strategy, CodeBuild will divide your tests and run them across the specified number of parallel environments. AWS CodeBuild is a fully managed continuous integration service that compiles source code, runs tests, and produces ready-to-deploy software packages.\n  As the number of tests in a project grows, the total testing time also increases when using a single compute resource. Running tests in parallel across multiple compute resources reduces the overall testing duration in your CI/CD pipeline. This leads to faster feedback cycles and improved developer productivity.\n  The parallel testing feature is available in all regions where CodeBuild is offered. For more information about the AWS Regions where CodeBuild is available, see the AWS Regions page.\n  To learn more about CodeBuild’s test splitting, please visit our documentation. To learn more about how to get started with CodeBuild, visit the AWS CodeBuild product page.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-test-splitting-parallelism",
-          "publishedOn": "2025-01-17T22:50:00.000Z",
-          "wordCount": null,
-          "title": "AWS CodeBuild now supports test splitting and parallelism",
-          "imageUrl": null
-        },
-        {
-          "id": "cb207240d304f12405857af735377346c13d0ba7",
-          "author": "aws@amazon.com",
-          "description": "Amazon S3 Tables are now available in five additional AWS Regions: Europe (Frankfurt), Europe (Ireland), Europe (London), Europe (Stockholm), and Asia Pacific (Tokyo).\n  S3 Tables deliver the first cloud object store with built-in Apache Iceberg support, and the easiest way to store tabular data at scale. S3 Tables are specifically optimized for analytics workloads, resulting in up to 3x faster query performance through continual table optimization compared to unmanaged Iceberg tables, and up to 10x higher transactions per second compared to Iceberg tables stored in general purpose S3 buckets.\n  S3 Tables integration with AWS Glue Data Catalog is in preview, allowing you to stream, query, and visualize data using AWS Analytics services such as Amazon Data Firehose, Athena, Redshift, EMR, and QuickSight. Additionally, S3 Tables perform continual table maintenance to automatically expire old snapshots and related data files to reduce storage cost over time.\n  S3 Tables are now generally available in eight AWS Regions. For pricing details, visit the S3 pricing page. To learn more, visit the product page, documentation, and AWS News Blog.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-tables-additional-aws-regions",
-          "publishedOn": "2025-01-17T21:40:00.000Z",
-          "wordCount": null,
-          "title": "Amazon S3 Tables are now available in five additional AWS Regions",
-          "imageUrl": null
-        },
-        {
-          "id": "77e5a13f1a7a38da0c1482af3d3099df065f049c",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect outbound campaigns can now be configured to connect a customer who has picked up a campaign call to an available agent in under two seconds while also supporting automatic call classification. This enhancement helps organizations support regulatory compliance with telemarketing laws such as the U.S. Telephone Consumer Protection Act (TCPA), while increasing customer engagement and agent productivity. Call classification automatically categorizes the outcome of a call using machine learning (ML), rather than requiring agent input, helping improve agent productivity and drive efficient customer engagement. To optimize outbound call performance, customers are encouraged to follow Amazon Connect's best practices to reduce connection latency.\n  With Amazon Connect outbound campaigns, companies only pay-as-they-go for outbound campaigns processing and for associated channels usage. Amazon Connect outbound campaigns is available in US East (N. Virginia), US West (Oregon), Africa (Cape Town), Asia Pacific (Sydney), Canada (Central), Europe (Frankfurt) and Europe (London) AWS regions. To learn more, visit our webpage.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-outbound-campaigns-connect-call-agent-2-seconds",
-          "publishedOn": "2025-01-17T21:05:00.000Z",
-          "wordCount": null,
-          "title": "Amazon Connect outbound campaigns can connect a call with an agent in under 2 seconds",
-          "imageUrl": null
-        },
-        {
-          "id": "e6fa293b538ae6a364ca64c6cf87495b702e103d",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift extends support for Hexagonal Hierarchical Geospatial Indexing System, H3 for short, by adding two new H3 functions to Amazon Redshift’s previously announced H3 Indexing support in February 2024. H3 Indexing increases the performance of spatial queries at scale since the location information is pre-indexed. See this Amazon Big Data Blog on Amazon Redshift H3 Indexing for more information on the benefits and use-cases of H3 Indexing.\n  H3_Center returns the centroid of an H3 cell ID from an input index, which can be used to compute the geometric center of an arbitrary area that can be represented by H3 indexed cells, for example by finding the H3 cell with the smallest average distance to all other cells in the set representing the arbitrary area. While, H3_Boundary returns the boundary of an H3 cell ID from an input index.\n  With this announcement, Amazon Redshift now supports two new H3 Indexing related spatial functions: H3_Center, H3_Boundary, which are now available in all AWS regions where Amazon Redshift is available.\n  For more information or to get started with Amazon Redshift spatial analytics, see the documentation and the tutorial.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-new-geospatial-h3-indexing-functions",
-          "publishedOn": "2025-01-17T19:15:00.000Z",
-          "wordCount": null,
-          "title": "Amazon Redshift announces support for two new geospatial H3 Indexing functions",
-          "imageUrl": null
-        },
-        {
-          "id": "f4a286d7112349ce5b3133114b18e9e9517431ab",
-          "author": "aws@amazon.com",
-          "description": "AWS User Notifications is now supported on AWS CloudFormation, allowing you to easily provision and manage User Notification resources as part of your application's infrastructure-as-code (IaC). You can easily use User Notification to Configure Notifications to be sent via the Console Notifications Center, email, AWS Chatbot, or mobile push notifications to the AWS Console Mobile App to keep you informed about important events like Amazon CloudWatch Alarms.\n  With this new capability, you can define Notification Configurations as part of your IaC practices. Specify notification configurations for specific resource types within your CloudFormation templates. For example, set up notifications to trigger when an Auto Scaling group scales out, an ELB is provisioned, or an RDS database is modified. You have granular control over which events will trigger notifications and who should receive them.\n  This integration simplifies cloud operations by consolidating monitoring configuration right alongside your IaC templates. No more context switching between services - your notifications are defined declaratively within your infrastructure code.\n  Setting up stack notifications is easy - just add the Notifications or NotificationContacts resource type (e.g., AWS::Notifications::NotificationConfiguration) in your CloudFormation template to configure the desired events and channels. For more information, visit the Notifications and NotificationsContacts resource type reference. To learn more about User Notifications, visit the product page and documentation.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-user-notifications-ga-cloudformation/",
-          "publishedOn": "2025-01-17T18:00:00.000Z",
-          "wordCount": 1055,
-          "title": "Announcing AWS User Notifications GA on AWS CloudFormation",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ec6cf05f6b0becfa9c3741bca3da66e6403c1ebd",
-          "author": "aws@amazon.com",
-          "description": "Developers can now use the AWS Encryption SDK for Go to help protect their data. This open-source release makes it easier for developers to encrypt and decrypt their data when building applications using the Go programming language.\n  The AWS Encryption SDK is a client-side encryption library designed to make it easy to encrypt and decrypt data based on industry standards and best practices. The AWS Encryption SDK is available in multiple languages and all implementations of the SDK are interoperable, allowing you to encrypt data in one programming language and decrypt it with any other. The AWS Encryption SDK is developed under open source projects on GitHub where you can inspect the code and contribute to the project.\n  You can get started by visiting the AWS Encryption SDK for Go on GitHub. To learn more, see What is AWS Encryption SDK in the developer guide.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-encryption-sdk-go-available/",
-          "publishedOn": "2025-01-17T18:00:00.000Z",
-          "wordCount": 911,
-          "title": "AWS Encryption SDK for Go now generally available",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a46d0885af4c5df08e742af5b8d9603682c408a0",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect now offers the ability to maintain an open communication channel between your agents and Amazon Connect, helping reduce the time it takes to establish a connection with a customer. Contact center administrators can configure an agent’s user profile to maintain a persistent connection after a conversation ends, allowing for subsequent calls to connect faster. Amazon Connect persistent agent connection makes it easier to support compliance requirements with telemarketing laws such as the U.S. Telephone Consumer Protection Act (TCPA) for outbound campaigns’ calling by reducing the time it takes for a customer to connect with your agents.\n  Amazon Connect persistent connection preview is now available in all AWS regions where Amazon Connect is offered, and there is no additional charge beyond standard pricing for the Amazon Connect service usage and associated telephony charges. To learn more, visit our product page or refer to our Admin Guide. Sign up for the preview here.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-public-preview-persistent-agent-connections/",
-          "publishedOn": "2025-01-17T18:00:00.000Z",
-          "wordCount": 953,
-          "title": "Amazon Connect now offers a public preview of persistent agent connections for faster call handling",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a17fb580cd632e570de12c181df9ec61fb4f7bbf",
-          "author": "aws@amazon.com",
-          "description": "Today, we are excited to announce that Amazon Connect screen recording is now available in AWS GovCloud (US-West), expanding its reach to government and public sector customers. This feature, which enables customers to record their agent screens during customer interactions for quality assurance purposes, was previously available in all commercial AWS regions where Amazon Connect is live. With this launch, we're bringing the same powerful capabilities to our AWS GovCloud (US) customers.\n  Amazon Connect screen recording is a valuable tool for contact centers looking to enhance their quality assurance processes. By capturing agent desktop activities during customer interactions, supervisors and quality assurance teams can gain deeper insights into agent performance, adherence to procedures, and opportunities for improvement. This feature helps organizations maintain high standards of customer service, ensure compliance with regulations, and identify areas for agent training and development.\n  To get started with Amazon Connect screen recording in AWS GovCloud (US-West) or any supported region, visit the Amazon Connect console or refer to our documentation. For more information about Amazon Connect and its features, please visit the Amazon Connect product page.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-screen-recording-govcloud-us-west/",
-          "publishedOn": "2025-01-17T18:00:00.000Z",
-          "wordCount": 989,
-          "title": "Amazon Connect Screen Recording now available in AWS GovCloud (US-West)",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -5519,14 +5639,35 @@
     {
       "title": "Be a Better Dev",
       "feedUrl": "https://beabetterdev.com/feed/",
-      "siteUrl": "https://www.beabetterdev.com/",
-      "articles": []
+      "siteUrl": "https://d2yeaxazqu9ejn.cloudfront.net/",
+      "articles": [
+        {
+          "id": "https://beabetterdev.com/?p=4535",
+          "author": "Daniel",
+          "description": "If you’re still creating your AWS infrastructure by clicking around in the console or using annoying CloudFormation template…\nThe post Should You Start Using CDK? first appeared on Be a Better Dev.\nThe post Should You Start Using CDK? appeared first on Be a Better Dev.",
+          "link": "https://beabetterdev.com/2025/02/15/should-you-start-using-cdk/?utm_source=rss&utm_medium=rss&utm_campaign=should-you-start-using-cdk",
+          "publishedOn": "2025-02-15T18:47:44.000Z",
+          "wordCount": 2354,
+          "title": "Should You Start Using CDK?",
+          "imageUrl": "https://i0.wp.com/www.beabetterdev.com/wp-content/uploads/2025/02/cdk-1.png?fit=3266%2C2022&ssl=1"
+        }
+      ]
     },
     {
       "title": "Robert Birming",
       "feedUrl": "https://birming.com/feed/",
       "siteUrl": "https://birming.com/",
       "articles": [
+        {
+          "id": "https://birming.com/choosing-blogging-platform/",
+          "author": null,
+          "description": "I was interviewed about my choice of platform, Bear Blog. It suits me perfectly, but that doesn't mean it's the right tool for you.\nOur purposes and needs when it comes to blogging are very individual. Everything from price to technical complexity plays a role.\nChoosing the right blogging platform can feel overwhelming, but it doesn't have to be. Here are some key things to consider as you embark on your blogging journey. My advice is to keep the following in mind:\nPrice\nWill you be able to maintain the blog without feeling like it costs more than it's worth? Think about how price will impact your blogging experience. Even if you have grand plans, it may take a very long time before you achieve them, if ever.\nMy reasoning: I avoid subscriptions as much as possible. Bear offers the option t…",
+          "link": "https://birming.com/choosing-blogging-platform/",
+          "publishedOn": "2025-02-16T14:27:00.000Z",
+          "wordCount": 1863,
+          "title": "Choosing the Right Blogging Platform",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
+        },
         {
           "id": "https://birming.com/expert/",
           "author": null,
@@ -5977,16 +6118,6 @@
           "description": "The following resource was added: AWS::SNS::Topic.FifoThroughputScope.",
           "link": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html",
           "publishedOn": "2025-01-21T19:00:00.000Z",
-          "wordCount": 777,
-          "title": "New resource",
-          "imageUrl": null
-        },
-        {
-          "id": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/#New_resource_2025-01-17",
-          "author": null,
-          "description": "The following resource was added: AWS::Connect::ContactFlowVersion",
-          "link": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html",
-          "publishedOn": "2025-01-17T19:00:00.000Z",
           "wordCount": 777,
           "title": "New resource",
           "imageUrl": null
@@ -6449,6 +6580,28 @@
       "siteUrl": "https://lmnt.me/",
       "articles": [
         {
+          "id": "983BE809-7F4B-402D-AAE5-94DF65D3FEDD",
+          "author": "Louie Mantia",
+          "description": "Download icons from LMNT\nThe cast of characters in the Super Mario universe is vast. Insetting their badges on low-poly, color-coded Super Mario blocks makes hard drives look super fun. My only regret is not having 34 drives to use them all!\nIf you like this, you can make a one-time donation, donate monthly, or buy something from my shop.",
+          "link": "https://lmnt.me/blog/icons/super-storage.html",
+          "publishedOn": "2025-02-16T07:50:00.000Z",
+          "wordCount": null,
+          "title": "Super Storage",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "172914D8-D5C4-4A48-8994-A9D2F454D13B",
+          "author": "Louie Mantia",
+          "description": "Never ceases to amaze me how easy it is to buy a beverage in Japan. I love it.\nIf you like this, you can make a one-time donation, donate monthly, or buy something from my shop.",
+          "link": "https://lmnt.me/blog/photos/ginza-vending-machines.html",
+          "publishedOn": "2025-02-15T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Ginza Vending Machines",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "9E4FEA6A-043C-4F07-837B-A881804907F7",
           "author": "Louie Mantia",
           "description": "I was thinking how I’d like to tackle the complexity of this Daruma app icon at smaller sizes. As real daruma decrease in size, brush strokes are simplified. Real life optical sizes!\nSo for this app icon, sizes 128×128 and above feature a visually complex facial hair design, akin to medium-large daruma, but the smaller sizes are simplified in the same way real ones are. You might have to zoom in to see the non-retina 16×16!\nIf you like this, you can make a one-time donation, donate monthly, or buy something from my shop.",
@@ -6762,6 +6915,216 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VirtualYoutubers/s/iJ1W7JUN2T",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reddit.com/r/VirtualYoutubers/s/iJ1W7JUN2T",
+          "publishedOn": "2025-02-17T01:25:46.000Z",
+          "wordCount": null,
+          "title": "YouTube asks channel owner to verify phone, permanently overwrites personal info",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.salon.com/2010/12/06/america_collapse_2025/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.salon.com/2010/12/06/america_collapse_2025/",
+          "publishedOn": "2025-02-17T01:17:16.000Z",
+          "wordCount": 14465,
+          "title": "America will collapse by 2025 (2010)",
+          "imageUrl": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2010/12/how_america_will_collapse_by_2025.jpg"
+        },
+        {
+          "id": "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
+          "publishedOn": "2025-02-17T00:39:00.000Z",
+          "wordCount": 2239,
+          "title": "How to add a directory to your PATH",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hannahonprivacy.substack.com/p/why-bother-with-privacy-when-i-have",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hannahonprivacy.substack.com/p/why-bother-with-privacy-when-i-have",
+          "publishedOn": "2025-02-17T00:27:33.000Z",
+          "wordCount": null,
+          "title": "Why bother with privacy when I have nothing to hide? (2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/",
+          "publishedOn": "2025-02-17T00:15:50.000Z",
+          "wordCount": 31615,
+          "title": "Her job is to remove homeless from SF's parks. Her methods are extraordinary",
+          "imageUrl": "https://content.sfstandard.com/wp-content/uploads/2025/02/12162025_ggphomeless_aar_60.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates",
+          "author": null,
+          "description": "Comments",
+          "link": "https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates",
+          "publishedOn": "2025-02-16T23:56:16.000Z",
+          "wordCount": 4234,
+          "title": "Does or did COBOL default to 1875-05-20 for corrupt or missing dates?",
+          "imageUrl": "https://cdn.sstatic.net/Sites/retrocomputing/Img/apple-touch-icon@2.png?v=6b27f39a6023"
+        },
+        {
+          "id": "https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m",
+          "publishedOn": "2025-02-16T23:15:59.000Z",
+          "wordCount": 4444,
+          "title": "Javier Milei Backtracks on $4.4B Memecoin After 'Insiders' Pocket $87M",
+          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/ffffe987c8c5f684f9dec45d78b2fdeea8a7b459-3500x2000.jpg?auto=format"
+        },
+        {
+          "id": "https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm",
+          "publishedOn": "2025-02-16T22:38:14.000Z",
+          "wordCount": 1194,
+          "title": "Opposing arrows of time can theoretically emerge from certain quantum systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://uchu.style/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://uchu.style/",
+          "publishedOn": "2025-02-16T22:22:40.000Z",
+          "wordCount": 1815,
+          "title": "Uchū · the color scheme for internet lovers",
+          "imageUrl": "https://uchu.style/asset/image/og.png"
+        },
+        {
+          "id": "https://www.chillyatc.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.chillyatc.com/",
+          "publishedOn": "2025-02-16T21:36:21.000Z",
+          "wordCount": 85,
+          "title": "Show HN: Air traffic control radio and chill music for focus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cm21g0052dno",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/articles/cm21g0052dno",
+          "publishedOn": "2025-02-16T20:45:30.000Z",
+          "wordCount": 5839,
+          "title": "Critics say new Google rules put profits over privacy",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e247/live/a5e19e40-eabd-11ef-869d-59d5dc42f7c7.jpg"
+        },
+        {
+          "id": "https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer",
+          "publishedOn": "2025-02-16T19:57:32.000Z",
+          "wordCount": 14744,
+          "title": "Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/8X9vK26vir35ugRQ8LjQWY-1200-80.jpg"
+        },
+        {
+          "id": "https://caddyserver.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://caddyserver.com/",
+          "publishedOn": "2025-02-16T17:56:15.000Z",
+          "wordCount": 2527,
+          "title": "Caddy – The Ultimate Server with Automatic HTTPS",
+          "imageUrl": "https://caddyserver.com/resources/images/open-graph-square.png?v=f3b6d18"
+        },
+        {
+          "id": "https://techlog.jenslink.net/posts/ipv6-is-hard/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techlog.jenslink.net/posts/ipv6-is-hard/",
+          "publishedOn": "2025-02-16T17:04:09.000Z",
+          "wordCount": 543,
+          "title": "IPv6 Is Hard",
+          "imageUrl": "/og-image.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52",
+          "publishedOn": "2025-02-16T17:01:34.000Z",
+          "wordCount": 6833,
+          "title": "Half-Life 2 and Dishonored art lead Viktor Antonov has died",
+          "imageUrl": "https://assetsio.gnwcdn.com/Screenshot-2025-02-16-at-13.03.13.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://poweroutage.us/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://poweroutage.us/",
+          "publishedOn": "2025-02-16T16:45:26.000Z",
+          "wordCount": 411,
+          "title": "United States Power Outage Map",
+          "imageUrl": "https://poweroutage.us/content/images/logo_clear.png"
+        },
+        {
+          "id": "https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/",
+          "publishedOn": "2025-02-16T15:44:05.000Z",
+          "wordCount": null,
+          "title": "Vim after Bram: a core maintainer on how they've kept it going",
+          "imageUrl": null
+        },
+        {
+          "id": "https://rtestardi.github.io/usbte/flea-scope.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rtestardi.github.io/usbte/flea-scope.pdf",
+          "publishedOn": "2025-02-16T15:08:31.000Z",
+          "wordCount": 23681,
+          "title": "Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ssp.sh/blog/finding-flow/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ssp.sh/blog/finding-flow/",
+          "publishedOn": "2025-02-16T11:40:24.000Z",
+          "wordCount": 3067,
+          "title": "Finding Flow: Escaping digital distractions through deep work and slow living",
+          "imageUrl": "https://www.ssp.sh/blog/finding-flow/featured-image.png"
+        },
+        {
+          "id": "https://chadnauseam.com/coding/random/calculator-app",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chadnauseam.com/coding/random/calculator-app",
+          "publishedOn": "2025-02-16T10:16:49.000Z",
+          "wordCount": 24,
+          "title": "“A calculator app? Anyone could make that”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/dvershinin/gixy",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/dvershinin/gixy",
+          "publishedOn": "2025-02-16T04:06:04.000Z",
+          "wordCount": 3137,
+          "title": "Gixy: Nginx Configuration Static Analyzer",
+          "imageUrl": "https://opengraph.githubassets.com/b8f395f716eed7ea1b317af5c0e2ee3ad2b6dd9d51293ca3dc1bcc37e48bcd86/dvershinin/gixy"
+        },
         {
           "id": "https://www.theframelab.org/understanding-the-maga-tech-authoritarian-alliance/",
           "author": null,
@@ -7173,6 +7536,16 @@
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/02/Moving-sofas_crTommy-Parker-Social.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=43048698",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=43048698",
+          "publishedOn": "2025-02-14T14:32:55.000Z",
+          "wordCount": 3941,
+          "title": "Ask HN: What is the best method for turning a scanned book as a PDF into text?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.abortretry.fail/p/the-history-of-suse",
           "author": null,
           "description": "Comments",
@@ -7200,6 +7573,16 @@
           "publishedOn": "2025-02-14T12:45:05.000Z",
           "wordCount": 1863,
           "title": "AI is stifling new tech adoption?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.audacityteam.org/blog/openvino-ai-effects/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.audacityteam.org/blog/openvino-ai-effects/",
+          "publishedOn": "2025-02-14T11:19:06.000Z",
+          "wordCount": 516,
+          "title": "OpenVINO AI effects [denoising and transcription] for Audacity",
           "imageUrl": null
         },
         {
@@ -7353,6 +7736,16 @@
           "imageUrl": "https://fosdem.org/2025/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png"
         },
         {
+          "id": "https://www.bloomberg.com/opinion/articles/2025-02-13/gold-is-worth-more-in-new-york",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/opinion/articles/2025-02-13/gold-is-worth-more-in-new-york",
+          "publishedOn": "2025-02-13T19:25:05.000Z",
+          "wordCount": null,
+          "title": "Gold Is Worth More in New York",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phind.com/blog/phind-2",
           "author": null,
           "description": "Comments",
@@ -7393,6 +7786,36 @@
           "imageUrl": "https://regmedia.co.uk/2022/09/20/shutterstock_editorial_only_libreoffice.jpg"
         },
         {
+          "id": "https://www.nature.com/articles/s41378-024-00840-z",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41378-024-00840-z",
+          "publishedOn": "2025-02-13T16:57:27.000Z",
+          "wordCount": 11986,
+          "title": "Root-inspired additive printing for fabricating robust conformal electronics",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41378-024-00840-z/MediaObjects/41378_2024_840_Figa_HTML.png"
+        },
+        {
+          "id": "https://pubby.games/codegen.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pubby.games/codegen.html",
+          "publishedOn": "2025-02-13T15:34:57.000Z",
+          "wordCount": 4858,
+          "title": "Explaining my fast 6502 code generator (2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jsgroth.dev/blog/posts/genesis-sega-cd-audio-filtering/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jsgroth.dev/blog/posts/genesis-sega-cd-audio-filtering/",
+          "publishedOn": "2025-02-13T15:23:36.000Z",
+          "wordCount": 5624,
+          "title": "Genesis and Sega CD – Audio Filtering",
+          "imageUrl": null
+        },
+        {
           "id": "https://arxiv.org/abs/2410.18020",
           "author": null,
           "description": "Comments",
@@ -7411,6 +7834,16 @@
           "wordCount": 3336,
           "title": "Fewer students are enrolling in doctoral degrees",
           "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d41586-025-00425-4/d41586-025-00425-4_50621646.jpg"
+        },
+        {
+          "id": "https://blog.playcanvas.com/publish-your-gaussian-splats-with-supersplat/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.playcanvas.com/publish-your-gaussian-splats-with-supersplat/",
+          "publishedOn": "2025-02-13T14:00:41.000Z",
+          "wordCount": 928,
+          "title": "Publish Your Gaussian Splats with SuperSplat",
+          "imageUrl": "https://blog.playcanvas.com/img/playcanvas-social-card.jpg"
         },
         {
           "id": "https://www.reuters.com/world/asia-pacific/sri-lanka-scrambles-restore-power-after-monkey-causes-islandwide-outage-2025-02-13/",
@@ -7441,6 +7874,16 @@
           "wordCount": 11167,
           "title": "Learning fast and accurate absolute pitch judgment in adulthood",
           "imageUrl": "https://static-content.springer.com/image/art%3A10.3758%2Fs13423-024-02620-2/MediaObjects/13423_2024_2620_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cx2jdnv0ywyo",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/articles/cx2jdnv0ywyo",
+          "publishedOn": "2025-02-13T04:46:26.000Z",
+          "wordCount": 6450,
+          "title": "Beginnings of Roman London discovered in office basement",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e866/live/884fac20-e7be-11ef-ae7d-97b156abf29f.jpg"
         },
         {
           "id": "https://laurmaedje.github.io/posts/layout-models/",
@@ -7541,6 +7984,16 @@
           "wordCount": null,
           "title": "Show HN: A no-build fullstack SSR TypeScript web framework",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/",
+          "publishedOn": "2025-02-12T19:12:14.000Z",
+          "wordCount": 2972,
+          "title": "How Hans Bethe stumbled upon perfect quantum theories",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/02/Perfect-Quantum-Theories_crSenor-Salme-Social.jpg"
         },
         {
           "id": "https://imapsync.lamiral.info/",
@@ -11824,6 +12277,16 @@
       "siteUrl": "https://rknight.me",
       "articles": [
         {
+          "id": "https://rknight.me/blog/quiet/",
+          "author": "Robb Knight",
+          "description": "There was a post on Reddit yesterday that I didn't save, and now can't find, that said something along the lines of \"I'm trying out Mastodon but my timeline is too quiet\".\nOne of the comments noted the lack of algorithm on Mastodon which led me to a realisation that seems obvious in hindsight: no matter if you follow one person or a thousand, the algorithm-driven social media platforms will make sure there's always stuff in your timeline. Even if you follow no one, you're getting a full timeline.\nNo conclusion to draw here, just an observation.",
+          "link": "https://rknight.me/blog/quiet/",
+          "publishedOn": "2025-02-16T22:21:31.000Z",
+          "wordCount": 329,
+          "title": "Quiet",
+          "imageUrl": "https://v1.screenshot.11ty.dev/https%3A%2F%2Frknight.me%2Fopengraph%2Fblog%2Fquiet%2F/opengraph/_123"
+        },
+        {
           "id": "https://rknight.me/blog/how-many-mildliner-colours-are-there/",
           "author": "Robb Knight",
           "description": "Remember a week ago when I bought some Zebra Mildliners? Well now I have all of them because I have no self control. But how many are there?. If you check the Zebra website, you'd see this natty graphic that shows there are 35 colours available across seven sets. You might also find this \"complete\" set and assume that 35 is the number but it's not.\nThere are actually 36 colours - there is an secondary version of the Neutral set called \"Natural\", which is sold in the Japanese market. This set has dusty pink, instead of copper. Dusty pink appears in some other sets (that aren't part of the core seven) so it's much easier to find that one separately, which is exactly what I did to complete my collection[1].\nHere's an updated version of Zebra's chart to include the variations:\n\nAs I was finishing this post, I did find official confirmation of 36 colours on Zebra's website[2], in this PDF which is named Mildliner_US-Japan_Cross_Reference.\nIt hasn't arrived yet but when it does, I'll post an updated test page ⤾\nOnly by landing on this Go Wild partnership page ⤾",
@@ -11940,6 +12403,46 @@
       "feedUrl": "https://seclists.org/rss/fulldisclosure.rss",
       "siteUrl": "https://seclists.org/#fulldisclosure",
       "articles": [
+        {
+          "id": "https://seclists.org/fulldisclosure/2025/Feb/13",
+          "author": null,
+          "description": "Posted by upper.underflow via Fulldisclosure on Feb 16\nHello,\nhttps://primal.net/e/note1vzh0mj9rcxax9cgcdapupyxeehjprd68gd9kk9wrv939m8knulrs4780x7\n\nSave, share, use.\n\nThe paste link includes a list of nodes that the attacker has instructed to target, along with a Python code to \nleverage the attack. According to their explanation, this vulnerability is...",
+          "link": "https://seclists.org/fulldisclosure/2025/Feb/13",
+          "publishedOn": "2025-02-16T08:00:41.000Z",
+          "wordCount": 339,
+          "title": "Monero 18.3.4 zero-day DoS vulnerability has been dropped\tpublicly on social network.",
+          "imageUrl": "https://seclists.org/images/fulldisclosure-img.png"
+        },
+        {
+          "id": "https://seclists.org/fulldisclosure/2025/Feb/12",
+          "author": null,
+          "description": "Posted by Ryan Delaney via Fulldisclosure on Feb 16\n<!--\nhttps://www.netgear.com\n# Version: Netgear C7800 Router, F/W 6.01.07, possibly others\n# Tested on: Netgear C7800 Router, F/W 6.01.07\n# CVE: CVE-2022-41545\n\nThe administrative web interface of a Netgear C7800 Router running...",
+          "link": "https://seclists.org/fulldisclosure/2025/Feb/12",
+          "publishedOn": "2025-02-16T08:00:06.000Z",
+          "wordCount": 290,
+          "title": "Netgear Router Administrative Web Interface Lacks Transport Encryption By Default",
+          "imageUrl": "https://seclists.org/images/fulldisclosure-img.png"
+        },
+        {
+          "id": "https://seclists.org/fulldisclosure/2025/Feb/11",
+          "author": null,
+          "description": "Posted by Gabriel Valachi via Fulldisclosure on Feb 15\nIn GZDoom 4.13.1 and below, there is a vulnerability involving array sizes in ZScript, the game engine's primary \nscripting language. It is possible to dynamically allocate an array of 1073741823 dwords, permitting access to the rest \nof the heap from the start of the array and causing a second array declared in the same function to overlap with this \nhuge array. The result is an exploit chain that allows arbitrary code execution through a...",
+          "link": "https://seclists.org/fulldisclosure/2025/Feb/11",
+          "publishedOn": "2025-02-16T07:59:10.000Z",
+          "wordCount": 1108,
+          "title": "[CVE-2024-54756] GZDoom <= 4.13.1 Arbitrary Code Execution via\tMalicious ZScript",
+          "imageUrl": "https://seclists.org/images/fulldisclosure-img.png"
+        },
+        {
+          "id": "https://seclists.org/fulldisclosure/2025/Feb/10",
+          "author": null,
+          "description": "Posted by David Fifield on Feb 15\nToday at about 2025-02-13 19:00 I noticed the \"≠\" is back, but now the\ntype 0x12 payload of the ?q query parameter gets formatted into the\nstring representation of an IP address, rather than being copied almost\nverbatim into the page. If the payload length is 4 bytes, it gets\nformatted as an IPv4 address; if 16 bytes, as an IPv6 address. I didn't\ntry a ton of experiments, but it looks like payload lengths other than 4\nand 16...",
+          "link": "https://seclists.org/fulldisclosure/2025/Feb/10",
+          "publishedOn": "2025-02-16T07:58:50.000Z",
+          "wordCount": 1310,
+          "title": "Re: Text injection on https://www.google.com/sorry/index via ?q parameter (no XSS)",
+          "imageUrl": "https://seclists.org/images/fulldisclosure-img.png"
+        },
         {
           "id": "https://seclists.org/fulldisclosure/2025/Feb/9",
           "author": null,
@@ -18423,16 +18926,6 @@
           "wordCount": null,
           "title": "Book Review: The Great White Bard - How to Love Shakespeare While Talking About Race by Farah Karim-Cooper ★★★★☆",
           "imageUrl": null
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2025/01/book-review-some-desperate-glory-by-emily-tesh/",
-          "author": null,
-          "description": "This is a fun bit of sci-fi. A bit tropey in places, but an excellent sense of world-building and a vicious cast of double-crossers.  The protagonist is best described by one of the character&#039;s off-hand remarks about her being “The very best space fascist girl scout of them all.”  Can you feel sympathy for someone who has been manipulated into being evil? What about if given every chance to change, they turn back to their abusers?  Is it OK to use sexism to your own advantage? If you had the cha…",
-          "link": "https://shkspr.mobi/blog/2025/01/book-review-some-desperate-glory-by-emily-tesh/",
-          "publishedOn": "2025-01-18T12:34:12.000Z",
-          "wordCount": null,
-          "title": "Book Review: Some Desperate Glory by Emily Tesh ★★★★☆",
-          "imageUrl": null
         }
       ]
     },
@@ -19232,8 +19725,28 @@
     {
       "title": "Tim Hårek",
       "feedUrl": "https://timharek.no/rss.xml",
-      "siteUrl": "https://timharek.no/feed.json",
+      "siteUrl": "https://timharek.no/",
       "articles": [
+        {
+          "id": "https://timharek.no/blog/i-accidentally-went-static-again/",
+          "author": null,
+          "description": "It took me 225 days to realize that I don’t want to maintain my website with\nTypeScript anymore. And that I don’t need to server-side render my content.\nStatic is just fine.\nPreviously I have used Jekyll and Zola, and now I switched from Deno Fresh to\nHugo. It took me about a week worth of time to migrate my whole website to Hugo,\nand no one should be able to notice the difference. Everything looks the same,\nsame urls, same RSS-feeds and same look and feel.\nHowever, I had to say goodbye to my\n.well-known-pages. These were\nserver-generated. I might be able to bring back .well-know/links in the future,\nbut as of now I’m not planning on it.\nThe process of migrating all my templates to Hugo was time-consuming. Go’s\nhtml/template is good, but its syntax is\nvery different from other template-lan…",
+          "link": "https://timharek.no/blog/i-accidentally-went-static-again/",
+          "publishedOn": "2025-02-16T00:00:00.000Z",
+          "wordCount": 394,
+          "title": "I accidentally went static again",
+          "imageUrl": null
+        },
+        {
+          "id": "https://timharek.no/blog/ai-saved-my-computer-from-water-damage/",
+          "author": null,
+          "description": "Sorry for the clickbait title, but I couldn’t help myself.\nToday I forgot to put a water-proof cover on my backpack on my way to work. When\nI got to work and took out my laptop, I saw water on the bottom. Weird…\nI used paper towels to wipe off the water. But when I switched on my laptop, I\nsaw that the laptop thought it had headphones in the audio-jack. Weird. Then I\nchecked the audio-jack and saw more water, and all the other ports on the laptop\nhad water in them as well. Oh fuck.\nI used more paper towels to try to wipe off the water. And it seemed successful,\nbut my laptop kept insisting that I had something in my audio-jack. Oh well. I\nstarted working.\nI have a desktop monitor connected to my laptop, where I use my laptop as a\nsecondary display. After working for about 10 minutes, my la…",
+          "link": "https://timharek.no/blog/ai-saved-my-computer-from-water-damage/",
+          "publishedOn": "2025-02-05T00:00:00.000Z",
+          "wordCount": 463,
+          "title": "AI saved my computer from water damage",
+          "imageUrl": null
+        },
         {
           "id": "https://timharek.no/blog/ai-saved-my-computer-from-water-damage",
           "author": null,
@@ -19242,6 +19755,16 @@
           "publishedOn": "2025-02-05T00:00:00.000Z",
           "wordCount": null,
           "title": "AI saved my computer from water damage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://timharek.no/blog/2025-january-recently/",
+          "author": null,
+          "description": "It’s the end of the month again, and that wraps the first month of 2025!\n🍀 Life\nI started off the year with a new job title, I’m now officially the Tech lead at\nValue Technology. And work has been keeping me busy, I have been pretty tired\nafter work a few days this past month.\nOur daughter is growing strong! She always wants be outside, whatever weather,\nand that’s how it should be! She’s really enjoying kindergarten and we couldn’t\nbe more happy. As I’m writing this the kindergarten is having a “planning-day”,\nso my daughter and I have been at home all day, or we have been hanging out the\nwhole weekday having a blast. She has taken a real liking towards animals,\nespecially our dog and cat, she yells their names most of the time and follows\nthem around the house.\nAnd I started buying phys…",
+          "link": "https://timharek.no/blog/2025-january-recently/",
+          "publishedOn": "2025-01-31T00:00:00.000Z",
+          "wordCount": 706,
+          "title": "January 2025",
           "imageUrl": null
         },
         {

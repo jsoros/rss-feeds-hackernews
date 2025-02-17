@@ -2,10 +2,584 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsoros.github.io/rss-feeds-hackernews/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-16T01:44:27.132Z</updated>
+    <updated>2025-02-17T01:41:05.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jsoros.github.io/rss-feeds-hackernews/index.html"/>
     <link rel="self" href="https://jsoros.github.io/rss-feeds-hackernews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YouTube asks channel owner to verify phone, permanently overwrites personal info]]></title>
+        <id>https://www.reddit.com/r/VirtualYoutubers/s/iJ1W7JUN2T</id>
+        <link href="https://www.reddit.com/r/VirtualYoutubers/s/iJ1W7JUN2T"/>
+        <updated>2025-02-17T01:25:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America will collapse by 2025 (2010)]]></title>
+        <id>https://news.ycombinator.com/item?id=43073773</id>
+        <link href="https://www.salon.com/2010/12/06/america_collapse_2025/"/>
+        <updated>2025-02-17T01:17:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.salon.com/2010/12/06/america_collapse_2025/
+Comments URL: https://news.ycombinator.com/item?id=43073773
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>inverted_flag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America will collapse by 2025 (2010)]]></title>
+        <id>https://www.salon.com/2010/12/06/america_collapse_2025/</id>
+        <link href="https://www.salon.com/2010/12/06/america_collapse_2025/"/>
+        <updated>2025-02-17T01:17:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add a directory to your PATH]]></title>
+        <id>https://news.ycombinator.com/item?id=43073481</id>
+        <link href="https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/"/>
+        <updated>2025-02-17T00:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/
+Comments URL: https://news.ycombinator.com/item?id=43073481
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>misonic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add a directory to your PATH]]></title>
+        <id>https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/</id>
+        <link href="https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/"/>
+        <updated>2025-02-17T00:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why bother with privacy when I have nothing to hide? (2023)]]></title>
+        <id>https://news.ycombinator.com/item?id=43073385</id>
+        <link href="https://hannahonprivacy.substack.com/p/why-bother-with-privacy-when-i-have"/>
+        <updated>2025-02-17T00:27:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hannahonprivacy.substack.com/p/why-bother-with-privacy-when-i-have
+Comments URL: https://news.ycombinator.com/item?id=43073385
+Points: 22
+# Comments: 13]]></summary>
+        <author>
+            <name>mooreds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why bother with privacy when I have nothing to hide? (2023)]]></title>
+        <id>https://hannahonprivacy.substack.com/p/why-bother-with-privacy-when-i-have</id>
+        <link href="https://hannahonprivacy.substack.com/p/why-bother-with-privacy-when-i-have"/>
+        <updated>2025-02-17T00:27:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Her job is to remove homeless from SF's parks. Her methods are extraordinary]]></title>
+        <id>https://news.ycombinator.com/item?id=43073292</id>
+        <link href="https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/"/>
+        <updated>2025-02-17T00:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/
+Comments URL: https://news.ycombinator.com/item?id=43073292
+Points: 20
+# Comments: 9]]></summary>
+        <author>
+            <name>NaOH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Her job is to remove homeless from SF's parks. Her methods are extraordinary]]></title>
+        <id>https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/</id>
+        <link href="https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/"/>
+        <updated>2025-02-17T00:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does or did COBOL default to 1875-05-20 for corrupt or missing dates?]]></title>
+        <id>https://news.ycombinator.com/item?id=43073149</id>
+        <link href="https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates"/>
+        <updated>2025-02-16T23:56:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates
+Comments URL: https://news.ycombinator.com/item?id=43073149
+Points: 30
+# Comments: 21]]></summary>
+        <author>
+            <name>SeenNotHeard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does or did COBOL default to 1875-05-20 for corrupt or missing dates?]]></title>
+        <id>https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates</id>
+        <link href="https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates"/>
+        <updated>2025-02-16T23:56:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Javier Milei Backtracks on $4.4B Memecoin After 'Insiders' Pocket $87M]]></title>
+        <id>https://news.ycombinator.com/item?id=43072790</id>
+        <link href="https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m"/>
+        <updated>2025-02-16T23:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m
+Comments URL: https://news.ycombinator.com/item?id=43072790
+Points: 75
+# Comments: 59]]></summary>
+        <author>
+            <name>techlover14159</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Javier Milei Backtracks on $4.4B Memecoin After 'Insiders' Pocket $87M]]></title>
+        <id>https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m</id>
+        <link href="https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m"/>
+        <updated>2025-02-16T23:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opposing arrows of time can theoretically emerge from certain quantum systems]]></title>
+        <id>https://news.ycombinator.com/item?id=43072483</id>
+        <link href="https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm"/>
+        <updated>2025-02-16T22:38:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm
+Comments URL: https://news.ycombinator.com/item?id=43072483
+Points: 36
+# Comments: 34]]></summary>
+        <author>
+            <name>jnord</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opposing arrows of time can theoretically emerge from certain quantum systems]]></title>
+        <id>https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm</id>
+        <link href="https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm"/>
+        <updated>2025-02-16T22:38:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uchū · the color scheme for internet lovers]]></title>
+        <id>https://news.ycombinator.com/item?id=43072338</id>
+        <link href="https://uchu.style/"/>
+        <updated>2025-02-16T22:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://uchu.style
+Comments URL: https://news.ycombinator.com/item?id=43072338
+Points: 179
+# Comments: 79]]></summary>
+        <author>
+            <name>NetOpWibby</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uchū · the color scheme for internet lovers]]></title>
+        <id>https://uchu.style/</id>
+        <link href="https://uchu.style/"/>
+        <updated>2025-02-16T22:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiet]]></title>
+        <id>https://rknight.me/blog/quiet/</id>
+        <link href="https://rknight.me/blog/quiet/"/>
+        <updated>2025-02-16T22:21:31.000Z</updated>
+        <summary type="html"><![CDATA[There was a post on Reddit yesterday that I didn't save, and now can't find, that said something along the lines of "I'm trying out Mastodon but my timeline is too quiet".
+One of the comments noted the lack of algorithm on Mastodon which led me to a realisation that seems obvious in hindsight: no matter if you follow one person or a thousand, the algorithm-driven social media platforms will make sure there's always stuff in your timeline. Even if you follow no one, you're getting a full timeline.
+No conclusion to draw here, just an observation.]]></summary>
+        <author>
+            <name>Robb Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Air traffic control radio and chill music for focus]]></title>
+        <id>https://news.ycombinator.com/item?id=43071934</id>
+        <link href="https://www.chillyatc.com/"/>
+        <updated>2025-02-16T21:36:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.chillyatc.com/
+Comments URL: https://news.ycombinator.com/item?id=43071934
+Points: 84
+# Comments: 59]]></summary>
+        <author>
+            <name>usernameis42</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Air traffic control radio and chill music for focus]]></title>
+        <id>https://www.chillyatc.com/</id>
+        <link href="https://www.chillyatc.com/"/>
+        <updated>2025-02-16T21:36:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critics say new Google rules put profits over privacy]]></title>
+        <id>https://news.ycombinator.com/item?id=43071506</id>
+        <link href="https://www.bbc.com/news/articles/cm21g0052dno"/>
+        <updated>2025-02-16T20:45:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/articles/cm21g0052dno
+Comments URL: https://news.ycombinator.com/item?id=43071506
+Points: 87
+# Comments: 44]]></summary>
+        <author>
+            <name>latexr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critics say new Google rules put profits over privacy]]></title>
+        <id>https://www.bbc.com/news/articles/cm21g0052dno</id>
+        <link href="https://www.bbc.com/news/articles/cm21g0052dno"/>
+        <updated>2025-02-16T20:45:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is there a screen that says "It is now safe to turn off your computer"? (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=43071193</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20160419-00/?p=93315"/>
+        <updated>2025-02-16T20:08:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://devblogs.microsoft.com/oldnewthing/20160419-00/?p=93315
+Comments URL: https://news.ycombinator.com/item?id=43071193
+Points: 65
+# Comments: 64]]></summary>
+        <author>
+            <name>susam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio]]></title>
+        <id>https://news.ycombinator.com/item?id=43071110</id>
+        <link href="https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer"/>
+        <updated>2025-02-16T19:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer
+Comments URL: https://news.ycombinator.com/item?id=43071110
+Points: 60
+# Comments: 29]]></summary>
+        <author>
+            <name>protik49</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio]]></title>
+        <id>https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer</id>
+        <link href="https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer"/>
+        <updated>2025-02-16T19:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caddy – The Ultimate Server with Automatic HTTPS]]></title>
+        <id>https://news.ycombinator.com/item?id=43070025</id>
+        <link href="https://caddyserver.com/"/>
+        <updated>2025-02-16T17:56:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://caddyserver.com/
+Comments URL: https://news.ycombinator.com/item?id=43070025
+Points: 445
+# Comments: 167]]></summary>
+        <author>
+            <name>huang_chung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caddy – The Ultimate Server with Automatic HTTPS]]></title>
+        <id>https://caddyserver.com/</id>
+        <link href="https://caddyserver.com/"/>
+        <updated>2025-02-16T17:56:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPv6 Is Hard]]></title>
+        <id>https://news.ycombinator.com/item?id=43069533</id>
+        <link href="https://techlog.jenslink.net/posts/ipv6-is-hard/"/>
+        <updated>2025-02-16T17:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techlog.jenslink.net/posts/ipv6-is-hard/
+Comments URL: https://news.ycombinator.com/item?id=43069533
+Points: 103
+# Comments: 174]]></summary>
+        <author>
+            <name>miyuru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPv6 Is Hard]]></title>
+        <id>https://techlog.jenslink.net/posts/ipv6-is-hard/</id>
+        <link href="https://techlog.jenslink.net/posts/ipv6-is-hard/"/>
+        <updated>2025-02-16T17:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Half-Life 2 and Dishonored art lead Viktor Antonov has died]]></title>
+        <id>https://news.ycombinator.com/item?id=43069514</id>
+        <link href="https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52"/>
+        <updated>2025-02-16T17:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52
+Comments URL: https://news.ycombinator.com/item?id=43069514
+Points: 362
+# Comments: 68]]></summary>
+        <author>
+            <name>Trasmatta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Half-Life 2 and Dishonored art lead Viktor Antonov has died]]></title>
+        <id>https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52</id>
+        <link href="https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52"/>
+        <updated>2025-02-16T17:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[United States Power Outage Map]]></title>
+        <id>https://news.ycombinator.com/item?id=43069399</id>
+        <link href="https://poweroutage.us/"/>
+        <updated>2025-02-16T16:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://poweroutage.us/
+Comments URL: https://news.ycombinator.com/item?id=43069399
+Points: 243
+# Comments: 121]]></summary>
+        <author>
+            <name>jonbaer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[United States Power Outage Map]]></title>
+        <id>https://poweroutage.us/</id>
+        <link href="https://poweroutage.us/"/>
+        <updated>2025-02-16T16:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vim after Bram: a core maintainer on how they've kept it going]]></title>
+        <id>https://news.ycombinator.com/item?id=43068884</id>
+        <link href="https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/"/>
+        <updated>2025-02-16T15:44:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/
+Comments URL: https://news.ycombinator.com/item?id=43068884
+Points: 184
+# Comments: 52]]></summary>
+        <author>
+            <name>MilnerRoute</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vim after Bram: a core maintainer on how they've kept it going]]></title>
+        <id>https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/</id>
+        <link href="https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/"/>
+        <updated>2025-02-16T15:44:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=43068585</id>
+        <link href="https://rtestardi.github.io/usbte/flea-scope.pdf"/>
+        <updated>2025-02-16T15:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rtestardi.github.io/usbte/flea-scope.pdf
+Comments URL: https://news.ycombinator.com/item?id=43068585
+Points: 232
+# Comments: 83]]></summary>
+        <author>
+            <name>burgerone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]]]></title>
+        <id>https://rtestardi.github.io/usbte/flea-scope.pdf</id>
+        <link href="https://rtestardi.github.io/usbte/flea-scope.pdf"/>
+        <updated>2025-02-16T15:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing the Right Blogging Platform]]></title>
+        <id>https://birming.com/choosing-blogging-platform/</id>
+        <link href="https://birming.com/choosing-blogging-platform/"/>
+        <updated>2025-02-16T14:27:00.000Z</updated>
+        <summary type="html"><![CDATA[I was interviewed about my choice of platform, Bear Blog. It suits me perfectly, but that doesn't mean it's the right tool for you.
+Our purposes and needs when it comes to blogging are very individual. Everything from price to technical complexity plays a role.
+Choosing the right blogging platform can feel overwhelming, but it doesn't have to be. Here are some key things to consider as you embark on your blogging journey. My advice is to keep the following in mind:
+Price
+Will you be able to maintain the blog without feeling like it costs more than it's worth? Think about how price will impact your blogging experience. Even if you have grand plans, it may take a very long time before you achieve them, if ever.
+My reasoning: I avoid subscriptions as much as possible. Bear offers the option t…]]></summary>
+        <author>
+            <name>Robert Birming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding Flow: Escaping digital distractions through deep work and slow living]]></title>
+        <id>https://news.ycombinator.com/item?id=43067303</id>
+        <link href="https://www.ssp.sh/blog/finding-flow/"/>
+        <updated>2025-02-16T11:40:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ssp.sh/blog/finding-flow/
+Comments URL: https://news.ycombinator.com/item?id=43067303
+Points: 175
+# Comments: 62]]></summary>
+        <author>
+            <name>articsputnik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding Flow: Escaping digital distractions through deep work and slow living]]></title>
+        <id>https://www.ssp.sh/blog/finding-flow/</id>
+        <link href="https://www.ssp.sh/blog/finding-flow/"/>
+        <updated>2025-02-16T11:40:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“A calculator app? Anyone could make that”]]></title>
+        <id>https://news.ycombinator.com/item?id=43066953</id>
+        <link href="https://chadnauseam.com/coding/random/calculator-app"/>
+        <updated>2025-02-16T10:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://chadnauseam.com/coding/random/calculator-app
+Comments URL: https://news.ycombinator.com/item?id=43066953
+Points: 1215
+# Comments: 308]]></summary>
+        <author>
+            <name>pie_flavor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“A calculator app? Anyone could make that”]]></title>
+        <id>https://chadnauseam.com/coding/random/calculator-app</id>
+        <link href="https://chadnauseam.com/coding/random/calculator-app"/>
+        <updated>2025-02-16T10:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monero 18.3.4 zero-day DoS vulnerability has been dropped	publicly on social network.]]></title>
+        <id>https://seclists.org/fulldisclosure/2025/Feb/13</id>
+        <link href="https://seclists.org/fulldisclosure/2025/Feb/13"/>
+        <updated>2025-02-16T08:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Posted by upper.underflow via Fulldisclosure on Feb 16
+Hello,
+https://primal.net/e/note1vzh0mj9rcxax9cgcdapupyxeehjprd68gd9kk9wrv939m8knulrs4780x7
+
+Save, share, use.
+
+The paste link includes a list of nodes that the attacker has instructed to target, along with a Python code to 
+leverage the attack. According to their explanation, this vulnerability is...]]></summary>
+        <author>
+            <name>Full Disclosure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netgear Router Administrative Web Interface Lacks Transport Encryption By Default]]></title>
+        <id>https://seclists.org/fulldisclosure/2025/Feb/12</id>
+        <link href="https://seclists.org/fulldisclosure/2025/Feb/12"/>
+        <updated>2025-02-16T08:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Ryan Delaney via Fulldisclosure on Feb 16
+<!--
+https://www.netgear.com
+# Version: Netgear C7800 Router, F/W 6.01.07, possibly others
+# Tested on: Netgear C7800 Router, F/W 6.01.07
+# CVE: CVE-2022-41545
+
+The administrative web interface of a Netgear C7800 Router running...]]></summary>
+        <author>
+            <name>Full Disclosure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[CVE-2024-54756] GZDoom <= 4.13.1 Arbitrary Code Execution via	Malicious ZScript]]></title>
+        <id>https://seclists.org/fulldisclosure/2025/Feb/11</id>
+        <link href="https://seclists.org/fulldisclosure/2025/Feb/11"/>
+        <updated>2025-02-16T07:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Gabriel Valachi via Fulldisclosure on Feb 15
+In GZDoom 4.13.1 and below, there is a vulnerability involving array sizes in ZScript, the game engine's primary 
+scripting language. It is possible to dynamically allocate an array of 1073741823 dwords, permitting access to the rest 
+of the heap from the start of the array and causing a second array declared in the same function to overlap with this 
+huge array. The result is an exploit chain that allows arbitrary code execution through a...]]></summary>
+        <author>
+            <name>Full Disclosure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re: Text injection on https://www.google.com/sorry/index via ?q parameter (no XSS)]]></title>
+        <id>https://seclists.org/fulldisclosure/2025/Feb/10</id>
+        <link href="https://seclists.org/fulldisclosure/2025/Feb/10"/>
+        <updated>2025-02-16T07:58:50.000Z</updated>
+        <summary type="html"><![CDATA[Posted by David Fifield on Feb 15
+Today at about 2025-02-13 19:00 I noticed the "≠" is back, but now the
+type 0x12 payload of the ?q query parameter gets formatted into the
+string representation of an IP address, rather than being copied almost
+verbatim into the page. If the payload length is 4 bytes, it gets
+formatted as an IPv4 address; if 16 bytes, as an IPv6 address. I didn't
+try a ton of experiments, but it looks like payload lengths other than 4
+and 16...]]></summary>
+        <author>
+            <name>Full Disclosure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super Storage]]></title>
+        <id>983BE809-7F4B-402D-AAE5-94DF65D3FEDD</id>
+        <link href="https://lmnt.me/blog/icons/super-storage.html"/>
+        <updated>2025-02-16T07:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Download icons from LMNT
+The cast of characters in the Super Mario universe is vast. Insetting their badges on low-poly, color-coded Super Mario blocks makes hard drives look super fun. My only regret is not having 34 drives to use them all!
+If you like this, you can make a one-time donation, donate monthly, or buy something from my shop.]]></summary>
+        <author>
+            <name>Louie Mantia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gixy: Nginx Configuration Static Analyzer]]></title>
+        <id>https://github.com/dvershinin/gixy</id>
+        <link href="https://github.com/dvershinin/gixy"/>
+        <updated>2025-02-16T04:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding the MAGA-Tech Authoritarian Alliance]]></title>
         <id>https://www.theframelab.org/understanding-the-maga-tech-authoritarian-alliance/</id>
@@ -63,6 +637,29 @@ Points: 15
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I accidentally went static again]]></title>
+        <id>https://timharek.no/blog/i-accidentally-went-static-again/</id>
+        <link href="https://timharek.no/blog/i-accidentally-went-static-again/"/>
+        <updated>2025-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It took me 225 days to realize that I don’t want to maintain my website with
+TypeScript anymore. And that I don’t need to server-side render my content.
+Static is just fine.
+Previously I have used Jekyll and Zola, and now I switched from Deno Fresh to
+Hugo. It took me about a week worth of time to migrate my whole website to Hugo,
+and no one should be able to notice the difference. Everything looks the same,
+same urls, same RSS-feeds and same look and feel.
+However, I had to say goodbye to my
+.well-known-pages. These were
+server-generated. I might be able to bring back .well-know/links in the future,
+but as of now I’m not planning on it.
+The process of migrating all my templates to Hugo was time-consuming. Go’s
+html/template is good, but its syntax is
+very different from other template-lan…]]></summary>
+        <author>
+            <name>Tim Hårek</name>
         </author>
     </entry>
     <entry>
@@ -439,6 +1036,18 @@ Points: 112
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Should You Start Using CDK?]]></title>
+        <id>https://beabetterdev.com/?p=4535</id>
+        <link href="https://beabetterdev.com/2025/02/15/should-you-start-using-cdk/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=should-you-start-using-cdk"/>
+        <updated>2025-02-15T18:47:44.000Z</updated>
+        <summary type="html"><![CDATA[If you’re still creating your AWS infrastructure by clicking around in the console or using annoying CloudFormation template…
+The post Should You Start Using CDK? first appeared on Be a Better Dev.
+The post Should You Start Using CDK? appeared first on Be a Better Dev.]]></summary>
+        <author>
+            <name>Daniel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PAROL6: 3D-printed desktop robotic arm]]></title>
         <id>https://news.ycombinator.com/item?id=43060818</id>
         <link href="https://source-robotics.github.io/PAROL-docs/"/>
@@ -611,6 +1220,17 @@ To me it feels like I'm constantly playing catch-up. Constantly missing things. 
 Having a global team means I regularly work long hours too. Which is fine, and par for the course when it comes to working in ops. But recently it's flipped from regu…]]></summary>
         <author>
             <name>Kev Quirk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ginza Vending Machines]]></title>
+        <id>172914D8-D5C4-4A48-8994-A9D2F454D13B</id>
+        <link href="https://lmnt.me/blog/photos/ginza-vending-machines.html"/>
+        <updated>2025-02-15T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Never ceases to amaze me how easy it is to buy a beverage in Japan. I love it.
+If you like this, you can make a one-time donation, donate monthly, or buy something from my shop.]]></summary>
+        <author>
+            <name>Louie Mantia</name>
         </author>
     </entry>
     <entry>
@@ -1317,6 +1937,16 @@ I don't know. I'm not an expert.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask HN: What is the best method for turning a scanned book as a PDF into text?]]></title>
+        <id>https://news.ycombinator.com/item?id=43048698</id>
+        <link href="https://news.ycombinator.com/item?id=43048698"/>
+        <updated>2025-02-14T14:32:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The History of S.u.S.E]]></title>
         <id>https://www.abortretry.fail/p/the-history-of-suse</id>
         <link href="https://www.abortretry.fail/p/the-history-of-suse"/>
@@ -1341,6 +1971,16 @@ I don't know. I'm not an expert.]]></summary>
         <id>https://vale.rocks/posts/ai-is-stifling-tech-adoption</id>
         <link href="https://vale.rocks/posts/ai-is-stifling-tech-adoption"/>
         <updated>2025-02-14T12:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenVINO AI effects [denoising and transcription] for Audacity]]></title>
+        <id>https://www.audacityteam.org/blog/openvino-ai-effects/</id>
+        <link href="https://www.audacityteam.org/blog/openvino-ai-effects/"/>
+        <updated>2025-02-14T11:19:06.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1878,6 +2518,16 @@ Points: 138
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gold Is Worth More in New York]]></title>
+        <id>https://www.bloomberg.com/opinion/articles/2025-02-13/gold-is-worth-more-in-new-york</id>
+        <link href="https://www.bloomberg.com/opinion/articles/2025-02-13/gold-is-worth-more-in-new-york"/>
+        <updated>2025-02-13T19:25:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AWS Deadline Cloud now supports Adobe After Effects in Service-Managed Fleets]]></title>
         <id>34144d784e3bfe8a268f123730d12ed64c0ad24a</id>
         <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-deadline-cloud-adobe-after-effects-service-managed-fleets"/>
@@ -2089,6 +2739,16 @@ Points: 391
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Root-inspired additive printing for fabricating robust conformal electronics]]></title>
+        <id>https://www.nature.com/articles/s41378-024-00840-z</id>
+        <link href="https://www.nature.com/articles/s41378-024-00840-z"/>
+        <updated>2025-02-13T16:57:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Imperfect Blogging is Perfectly Fine]]></title>
         <id>https://birming.com/imperfect-blogging-perfectly/</id>
         <link href="https://birming.com/imperfect-blogging-perfectly/"/>
@@ -2122,6 +2782,26 @@ Good luck!]]></summary>
         <summary type="html"><![CDATA[[PROLOGUE – EVERYBODY WANTS A ROCK] When the hands that operate the motor lose control of the lever;When the mind of its own in the wheel puts two and two together… — Thermostat, They Might Be Giants There are lots of ways to die.  To avoid biting the dust, lots of things need to be […]]]></summary>
         <author>
             <name>slimemoldtimemold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explaining my fast 6502 code generator (2023)]]></title>
+        <id>https://pubby.games/codegen.html</id>
+        <link href="https://pubby.games/codegen.html"/>
+        <updated>2025-02-13T15:34:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genesis and Sega CD – Audio Filtering]]></title>
+        <id>https://jsgroth.dev/blog/posts/genesis-sega-cd-audio-filtering/</id>
+        <link href="https://jsgroth.dev/blog/posts/genesis-sega-cd-audio-filtering/"/>
+        <updated>2025-02-13T15:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -2179,6 +2859,16 @@ Points: 120
         <id>https://www.nature.com/articles/d41586-025-00425-4</id>
         <link href="https://www.nature.com/articles/d41586-025-00425-4"/>
         <updated>2025-02-13T14:53:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Publish Your Gaussian Splats with SuperSplat]]></title>
+        <id>https://blog.playcanvas.com/publish-your-gaussian-splats-with-supersplat/</id>
+        <link href="https://blog.playcanvas.com/publish-your-gaussian-splats-with-supersplat/"/>
+        <updated>2025-02-13T14:00:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -2481,6 +3171,16 @@ SEC Consult Vulnerability Lab Security Advisory < 20250211-0 >
         <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/urls">urls</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/webassembly">webassembly</a>, <a href="https://simonwillison.net/tags/pyodide">pyodide</a>, <a href="https://simonwillison.net/tags/datasette-lite">datasette-lite</a></p>]]></summary>
         <author>
             <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beginnings of Roman London discovered in office basement]]></title>
+        <id>https://www.bbc.com/news/articles/cx2jdnv0ywyo</id>
+        <link href="https://www.bbc.com/news/articles/cx2jdnv0ywyo"/>
+        <updated>2025-02-13T04:46:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -2798,6 +3498,16 @@ Points: 55
         <summary type="html"><![CDATA[February 12, 2025: This post was republished to include new services and features that have launched since the original publication date of June 11, 2020. Encryption is a critical component of a defense-in-depth security strategy that uses multiple defensive mechanisms to protect workloads, data, and assets. As organizations look to innovate while building trust with […]]]></summary>
         <author>
             <name>Ken Beer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Hans Bethe stumbled upon perfect quantum theories]]></title>
+        <id>https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/</id>
+        <link href="https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/"/>
+        <updated>2025-02-12T19:12:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -9354,6 +10064,27 @@ Points: 109
   because there’s too much …]]></summary>
         <author>
             <name>Juha-Matti Santala - Community Builder. Dreamer. Adventurer.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI saved my computer from water damage]]></title>
+        <id>https://timharek.no/blog/ai-saved-my-computer-from-water-damage/</id>
+        <link href="https://timharek.no/blog/ai-saved-my-computer-from-water-damage/"/>
+        <updated>2025-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sorry for the clickbait title, but I couldn’t help myself.
+Today I forgot to put a water-proof cover on my backpack on my way to work. When
+I got to work and took out my laptop, I saw water on the bottom. Weird…
+I used paper towels to wipe off the water. But when I switched on my laptop, I
+saw that the laptop thought it had headphones in the audio-jack. Weird. Then I
+checked the audio-jack and saw more water, and all the other ports on the laptop
+had water in them as well. Oh fuck.
+I used more paper towels to try to wipe off the water. And it seemed successful,
+but my laptop kept insisting that I had something in my audio-jack. Oh well. I
+started working.
+I have a desktop monitor connected to my laptop, where I use my laptop as a
+secondary display. After working for about 10 minutes, my la…]]></summary>
+        <author>
+            <name>Tim Hårek</name>
         </author>
     </entry>
     <entry>
@@ -20555,6 +21286,28 @@ Itamar Turner-Trauring explains that if you have a <code>BytesIO</code> object i
     </entry>
     <entry>
         <title type="html"><![CDATA[January 2025]]></title>
+        <id>https://timharek.no/blog/2025-january-recently/</id>
+        <link href="https://timharek.no/blog/2025-january-recently/"/>
+        <updated>2025-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s the end of the month again, and that wraps the first month of 2025!
+🍀 Life
+I started off the year with a new job title, I’m now officially the Tech lead at
+Value Technology. And work has been keeping me busy, I have been pretty tired
+after work a few days this past month.
+Our daughter is growing strong! She always wants be outside, whatever weather,
+and that’s how it should be! She’s really enjoying kindergarten and we couldn’t
+be more happy. As I’m writing this the kindergarten is having a “planning-day”,
+so my daughter and I have been at home all day, or we have been hanging out the
+whole weekday having a blast. She has taken a real liking towards animals,
+especially our dog and cat, she yells their names most of the time and follows
+them around the house.
+And I started buying phys…]]></summary>
+        <author>
+            <name>Tim Hårek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 2025]]></title>
         <id>https://timharek.no/blog/2025-january-recently</id>
         <link href="https://timharek.no/blog/2025-january-recently"/>
         <updated>2025-01-31T00:00:00.000Z</updated>
@@ -24162,124 +24915,6 @@ One of Japan’s common botanical motifs is ichō (you may know it as ginkgo). B
 If you like this, you can make a donation or buy something from my shop.]]></summary>
         <author>
             <name>Louie Mantia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Book Review: Some Desperate Glory by Emily Tesh ★★★★☆]]></title>
-        <id>https://shkspr.mobi/blog/2025/01/book-review-some-desperate-glory-by-emily-tesh/</id>
-        <link href="https://shkspr.mobi/blog/2025/01/book-review-some-desperate-glory-by-emily-tesh/"/>
-        <updated>2025-01-18T12:34:12.000Z</updated>
-        <summary type="html"><![CDATA[This is a fun bit of sci-fi. A bit tropey in places, but an excellent sense of world-building and a vicious cast of double-crossers.  The protagonist is best described by one of the character&#039;s off-hand remarks about her being “The very best space fascist girl scout of them all.”  Can you feel sympathy for someone who has been manipulated into being evil? What about if given every chance to change, they turn back to their abusers?  Is it OK to use sexism to your own advantage? If you had the cha…]]></summary>
-        <author>
-            <name>Terence Eden’s Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS CodeBuild now supports test splitting and parallelism]]></title>
-        <id>59b423049c2b01b51ae1bcafd8d6e538e019f4ce</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-test-splitting-parallelism"/>
-        <updated>2025-01-17T22:50:00.000Z</updated>
-        <summary type="html"><![CDATA[You can now split your tests and run them across multiple, parallel-running compute environments. Based on your sharding strategy, CodeBuild will divide your tests and run them across the specified number of parallel environments. AWS CodeBuild is a fully managed continuous integration service that compiles source code, runs tests, and produces ready-to-deploy software packages.
-  As the number of tests in a project grows, the total testing time also increases when using a single compute resource. Running tests in parallel across multiple compute resources reduces the overall testing duration in your CI/CD pipeline. This leads to faster feedback cycles and improved developer productivity.
-  The parallel testing feature is available in all regions where CodeBuild is offered. For more information about the AWS Regions where CodeBuild is available, see the AWS Regions page.
-  To learn more about CodeBuild’s test splitting, please visit our documentation. To learn more about how to get started with CodeBuild, visit the AWS CodeBuild product page.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon S3 Tables are now available in five additional AWS Regions]]></title>
-        <id>cb207240d304f12405857af735377346c13d0ba7</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-tables-additional-aws-regions"/>
-        <updated>2025-01-17T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon S3 Tables are now available in five additional AWS Regions: Europe (Frankfurt), Europe (Ireland), Europe (London), Europe (Stockholm), and Asia Pacific (Tokyo).
-  S3 Tables deliver the first cloud object store with built-in Apache Iceberg support, and the easiest way to store tabular data at scale. S3 Tables are specifically optimized for analytics workloads, resulting in up to 3x faster query performance through continual table optimization compared to unmanaged Iceberg tables, and up to 10x higher transactions per second compared to Iceberg tables stored in general purpose S3 buckets.
-  S3 Tables integration with AWS Glue Data Catalog is in preview, allowing you to stream, query, and visualize data using AWS Analytics services such as Amazon Data Firehose, Athena, Redshift, EMR, and QuickSight. Additionally, S3 Tables perform continual table maintenance to automatically expire old snapshots and related data files to reduce storage cost over time.
-  S3 Tables are now generally available in eight AWS Regions. For pricing details, visit the S3 pricing page. To learn more, visit the product page, documentation, and AWS News Blog.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect outbound campaigns can connect a call with an agent in under 2 seconds]]></title>
-        <id>77e5a13f1a7a38da0c1482af3d3099df065f049c</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-outbound-campaigns-connect-call-agent-2-seconds"/>
-        <updated>2025-01-17T21:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect outbound campaigns can now be configured to connect a customer who has picked up a campaign call to an available agent in under two seconds while also supporting automatic call classification. This enhancement helps organizations support regulatory compliance with telemarketing laws such as the U.S. Telephone Consumer Protection Act (TCPA), while increasing customer engagement and agent productivity. Call classification automatically categorizes the outcome of a call using machine learning (ML), rather than requiring agent input, helping improve agent productivity and drive efficient customer engagement. To optimize outbound call performance, customers are encouraged to follow Amazon Connect's best practices to reduce connection latency.
-  With Amazon Connect outbound campaigns, companies only pay-as-they-go for outbound campaigns processing and for associated channels usage. Amazon Connect outbound campaigns is available in US East (N. Virginia), US West (Oregon), Africa (Cape Town), Asia Pacific (Sydney), Canada (Central), Europe (Frankfurt) and Europe (London) AWS regions. To learn more, visit our webpage.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift announces support for two new geospatial H3 Indexing functions]]></title>
-        <id>e6fa293b538ae6a364ca64c6cf87495b702e103d</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-new-geospatial-h3-indexing-functions"/>
-        <updated>2025-01-17T19:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift extends support for Hexagonal Hierarchical Geospatial Indexing System, H3 for short, by adding two new H3 functions to Amazon Redshift’s previously announced H3 Indexing support in February 2024. H3 Indexing increases the performance of spatial queries at scale since the location information is pre-indexed. See this Amazon Big Data Blog on Amazon Redshift H3 Indexing for more information on the benefits and use-cases of H3 Indexing.
-  H3_Center returns the centroid of an H3 cell ID from an input index, which can be used to compute the geometric center of an arbitrary area that can be represented by H3 indexed cells, for example by finding the H3 cell with the smallest average distance to all other cells in the set representing the arbitrary area. While, H3_Boundary returns the boundary of an H3 cell ID from an input index.
-  With this announcement, Amazon Redshift now supports two new H3 Indexing related spatial functions: H3_Center, H3_Boundary, which are now available in all AWS regions where Amazon Redshift is available.
-  For more information or to get started with Amazon Redshift spatial analytics, see the documentation and the tutorial.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New resource]]></title>
-        <id>https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/#New_resource_2025-01-17</id>
-        <link href="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html"/>
-        <updated>2025-01-17T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The following resource was added: AWS::Connect::ContactFlowVersion]]></summary>
-        <author>
-            <name>AWS CloudFormation Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing AWS User Notifications GA on AWS CloudFormation]]></title>
-        <id>f4a286d7112349ce5b3133114b18e9e9517431ab</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/aws-user-notifications-ga-cloudformation/"/>
-        <updated>2025-01-17T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS User Notifications is now supported on AWS CloudFormation, allowing you to easily provision and manage User Notification resources as part of your application's infrastructure-as-code (IaC). You can easily use User Notification to Configure Notifications to be sent via the Console Notifications Center, email, AWS Chatbot, or mobile push notifications to the AWS Console Mobile App to keep you informed about important events like Amazon CloudWatch Alarms.
-  With this new capability, you can define Notification Configurations as part of your IaC practices. Specify notification configurations for specific resource types within your CloudFormation templates. For example, set up notifications to trigger when an Auto Scaling group scales out, an ELB is provisioned, or an RDS database is modified. You have granular control over which events will trigger notifications and who should receive them.
-  This integration simplifies cloud operations by consolidating monitoring configuration right alongside your IaC templates. No more context switching between services - your notifications are defined declaratively within your infrastructure code.
-  Setting up stack notifications is easy - just add the Notifications or NotificationContacts resource type (e.g., AWS::Notifications::NotificationConfiguration) in your CloudFormation template to configure the desired events and channels. For more information, visit the Notifications and NotificationsContacts resource type reference. To learn more about User Notifications, visit the product page and documentation.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Encryption SDK for Go now generally available]]></title>
-        <id>ec6cf05f6b0becfa9c3741bca3da66e6403c1ebd</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/aws-encryption-sdk-go-available/"/>
-        <updated>2025-01-17T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Developers can now use the AWS Encryption SDK for Go to help protect their data. This open-source release makes it easier for developers to encrypt and decrypt their data when building applications using the Go programming language.
-  The AWS Encryption SDK is a client-side encryption library designed to make it easy to encrypt and decrypt data based on industry standards and best practices. The AWS Encryption SDK is available in multiple languages and all implementations of the SDK are interoperable, allowing you to encrypt data in one programming language and decrypt it with any other. The AWS Encryption SDK is developed under open source projects on GitHub where you can inspect the code and contribute to the project.
-  You can get started by visiting the AWS Encryption SDK for Go on GitHub. To learn more, see What is AWS Encryption SDK in the developer guide.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect now offers a public preview of persistent agent connections for faster call handling]]></title>
-        <id>a46d0885af4c5df08e742af5b8d9603682c408a0</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-public-preview-persistent-agent-connections/"/>
-        <updated>2025-01-17T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect now offers the ability to maintain an open communication channel between your agents and Amazon Connect, helping reduce the time it takes to establish a connection with a customer. Contact center administrators can configure an agent’s user profile to maintain a persistent connection after a conversation ends, allowing for subsequent calls to connect faster. Amazon Connect persistent agent connection makes it easier to support compliance requirements with telemarketing laws such as the U.S. Telephone Consumer Protection Act (TCPA) for outbound campaigns’ calling by reducing the time it takes for a customer to connect with your agents.
-  Amazon Connect persistent connection preview is now available in all AWS regions where Amazon Connect is offered, and there is no additional charge beyond standard pricing for the Amazon Connect service usage and associated telephony charges. To learn more, visit our product page or refer to our Admin Guide. Sign up for the preview here.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect Screen Recording now available in AWS GovCloud (US-West)]]></title>
-        <id>a17fb580cd632e570de12c181df9ec61fb4f7bbf</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-screen-recording-govcloud-us-west/"/>
-        <updated>2025-01-17T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are excited to announce that Amazon Connect screen recording is now available in AWS GovCloud (US-West), expanding its reach to government and public sector customers. This feature, which enables customers to record their agent screens during customer interactions for quality assurance purposes, was previously available in all commercial AWS regions where Amazon Connect is live. With this launch, we're bringing the same powerful capabilities to our AWS GovCloud (US) customers.
-  Amazon Connect screen recording is a valuable tool for contact centers looking to enhance their quality assurance processes. By capturing agent desktop activities during customer interactions, supervisors and quality assurance teams can gain deeper insights into agent performance, adherence to procedures, and opportunities for improvement. This feature helps organizations maintain high standards of customer service, ensure compliance with regulations, and identify areas for agent training and development.
-  To get started with Amazon Connect screen recording in AWS GovCloud (US-West) or any supported region, visit the Amazon Connect console or refer to our documentation. For more information about Amazon Connect and its features, please visit the Amazon Connect product page.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
