@@ -6,6 +6,206 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43097380",
+          "author": "toomuchtodo",
+          "description": "Article URL: https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/\nComments URL: https://news.ycombinator.com/item?id=43097380\nPoints: 4\n# Comments: 1",
+          "link": "https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/",
+          "publishedOn": "2025-02-19T01:15:38.000Z",
+          "wordCount": 1888,
+          "title": "In a last-minute decision, White House decides not to terminate NASA employees",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/SpaceX-DM-2-Jun-3-2020-6414-1152x648.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43096922",
+          "author": "thoughtpeddler",
+          "description": "Article URL: https://www.meta.com/blog/connect-2025-llamacon-save-the-date/\nComments URL: https://news.ycombinator.com/item?id=43096922\nPoints: 59\n# Comments: 19",
+          "link": "https://www.meta.com/blog/connect-2025-llamacon-save-the-date/",
+          "publishedOn": "2025-02-19T00:18:52.000Z",
+          "wordCount": 1646,
+          "title": "Meta announces LlamaCon, its first generative AI dev conference on April 29",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43096422",
+          "author": "Hooke",
+          "description": "Article URL: https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/\nComments URL: https://news.ycombinator.com/item?id=43096422\nPoints: 14\n# Comments: 0",
+          "link": "https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/",
+          "publishedOn": "2025-02-18T23:22:22.000Z",
+          "wordCount": null,
+          "title": "Alice Hamilton Waged a One-Woman Campaign to Get the Lead Out of Everything",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43095811",
+          "author": "colesantiago",
+          "description": "Article URL: https://humane.com/media/humane-hp\nComments URL: https://news.ycombinator.com/item?id=43095811\nPoints: 72\n# Comments: 64",
+          "link": "https://humane.com/media/humane-hp",
+          "publishedOn": "2025-02-18T22:15:05.000Z",
+          "wordCount": 1297,
+          "title": "HP Acquires Humane's AI Software",
+          "imageUrl": "https://images.prismic.io/humane-content/Z7T7oJ7c43Q3f8jI_hpiq-article.jpg?auto=format,compress"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43095157",
+          "author": "bertdb",
+          "description": "Article URL: https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should\nComments URL: https://news.ycombinator.com/item?id=43095157\nPoints: 157\n# Comments: 67",
+          "link": "https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should",
+          "publishedOn": "2025-02-18T21:09:19.000Z",
+          "wordCount": 9424,
+          "title": "A year of uv: pros, cons, and should you migrate",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b67b659-6da9-4da4-a6e5-007a2856ebef_1024x1024.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43095070",
+          "author": "alexwebr",
+          "description": "Article URL: https://broot.ca/kafka-at-the-low-end.html\nComments URL: https://news.ycombinator.com/item?id=43095070\nPoints: 53\n# Comments: 24",
+          "link": "https://broot.ca/kafka-at-the-low-end.html",
+          "publishedOn": "2025-02-18T21:01:02.000Z",
+          "wordCount": 951,
+          "title": "Kafka at the low end: how bad can it get?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43095067",
+          "author": "thomashlvt",
+          "description": "Article URL: https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP\nComments URL: https://news.ycombinator.com/item?id=43095067\nPoints: 0\n# Comments: 0",
+          "link": "https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP",
+          "publishedOn": "2025-02-18T21:00:58.000Z",
+          "wordCount": 92,
+          "title": "Converge (YC S23) is hiring engineer #2 in NYC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43094651",
+          "author": "devonnull",
+          "description": "Article URL: https://www.bbc.com/news/articles/c4gex0x87g4o\nComments URL: https://news.ycombinator.com/item?id=43094651\nPoints: 154\n# Comments: 71",
+          "link": "https://www.bbc.com/news/articles/c4gex0x87g4o",
+          "publishedOn": "2025-02-18T20:29:16.000Z",
+          "wordCount": 5068,
+          "title": "South Korean regulator accuses DeepSeek of sharing user data with ByteDance",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c4be/live/2a38e8b0-edde-11ef-9cb9-3360cc750412.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43094260",
+          "author": "davikr",
+          "description": "Article URL: https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9\nComments URL: https://news.ycombinator.com/item?id=43094260\nPoints: 865\n# Comments: 213",
+          "link": "https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9",
+          "publishedOn": "2025-02-18T19:57:17.000Z",
+          "wordCount": 7431,
+          "title": "Valve releases Team Fortress 2 game code",
+          "imageUrl": "https://opengraph.githubassets.com/b586a6e9bbc3d649dd88b2f5a96cc97a9b88077b3f530bb00a44fd7c72bbb693/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43094006",
+          "author": "lolptdr",
+          "description": "Article URL: https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/\nComments URL: https://news.ycombinator.com/item?id=43094006\nPoints: 271\n# Comments: 90",
+          "link": "https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/",
+          "publishedOn": "2025-02-18T19:33:32.000Z",
+          "wordCount": 2980,
+          "title": "My LLM codegen workflow",
+          "imageUrl": "https://harper.blog/images/og.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43093939",
+          "author": "mpweiher",
+          "description": "Article URL: https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx\nComments URL: https://news.ycombinator.com/item?id=43093939\nPoints: 232\n# Comments: 206",
+          "link": "https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx",
+          "publishedOn": "2025-02-18T19:26:33.000Z",
+          "wordCount": 2134,
+          "title": "Nuclear fusion: WEST beats the world record for plasma duration",
+          "imageUrl": "https://www.cea.fr/english/PublishingImages/thumbnails/photo-plasma.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43093610",
+          "author": "matt_d",
+          "description": "Article URL: https://arxiv.org/abs/2502.03402\nComments URL: https://news.ycombinator.com/item?id=43093610\nPoints: 38\n# Comments: 5",
+          "link": "https://arxiv.org/abs/2502.03402",
+          "publishedOn": "2025-02-18T18:55:31.000Z",
+          "wordCount": 732,
+          "title": "Tensor evolution: A framework for fast tensor computations using recurrences",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43093328",
+          "author": "tkuraku",
+          "description": "Article URL: https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/\nComments URL: https://news.ycombinator.com/item?id=43093328\nPoints: 353\n# Comments: 184",
+          "link": "https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/",
+          "publishedOn": "2025-02-18T18:31:36.000Z",
+          "wordCount": 4795,
+          "title": "Pi-hole v6",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43093155",
+          "author": "crescit_eundo",
+          "description": "Article URL: https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article\nComments URL: https://news.ycombinator.com/item?id=43093155\nPoints: 146\n# Comments: 92",
+          "link": "https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article",
+          "publishedOn": "2025-02-18T18:16:22.000Z",
+          "wordCount": 8723,
+          "title": "Among top researchers 10% publish at unrealistic levels, analysis finds",
+          "imageUrl": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/3/2/6/539326_gettyimages1835402742_897118_crop.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43092579",
+          "author": "bradhe",
+          "description": "Article URL: https://tower.dev/blog/building-an-open-multi-engine-data-lakehouse-with-s3-and-python\nComments URL: https://news.ycombinator.com/item?id=43092579\nPoints: 46\n# Comments: 7",
+          "link": "https://tower.dev/blog/building-an-open-multi-engine-data-lakehouse-with-s3-and-python",
+          "publishedOn": "2025-02-18T17:33:52.000Z",
+          "wordCount": 4602,
+          "title": "Building an Open, Multi-Engine Data Lakehouse with S3 and Python",
+          "imageUrl": "https://framerusercontent.com/images/CYNCbDGp4be2or3iF1OGUwI6BA.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43092522",
+          "author": "prithvi2206",
+          "description": "Hi HN! I’m Prithvi, and my co-founder Frances and I built Promptless (https://gopromptless.ai), an AI teammate that proactively updates docs while you ship software.\nThere’s a demo video at https://youtu.be/pmslSl8dOgE, and also a “Live Demo on Your Own Docs” at https://gopromptless.ai/demo where you can plug in the URL to any existing docs site and simulate a \"trigger event\" to see what Promptless would have suggested. We also opened up the full product with automatic triggers for a free trial for HN this week (if you sign up at https://gopromptless.ai/hn).\nWe built Promptless because we wished we had it, both as doc authors and doc consumers. On the authoring side, I used to run engineering at a fintech company, and since no developer enjoys updating docs, they often went out-of-date and…",
+          "link": "https://news.ycombinator.com/item?id=43092522",
+          "publishedOn": "2025-02-18T17:30:39.000Z",
+          "wordCount": 2053,
+          "title": "Launch HN: Promptless (YC W25) – Automatic updates for customer-facing docs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43092386",
+          "author": "yamrzou",
+          "description": "Article URL: https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/\nComments URL: https://news.ycombinator.com/item?id=43092386\nPoints: 105\n# Comments: 55",
+          "link": "https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/",
+          "publishedOn": "2025-02-18T17:21:31.000Z",
+          "wordCount": 5783,
+          "title": "Try thinking and learning without working memory (2008)",
+          "imageUrl": "https://sharpbrains.com/wp-content/uploads/2020/05/sb-logo-with-brain.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43092003",
+          "author": "pmig",
+          "description": "Article URL: https://glasskube.dev/blog/from-java-to-go/\nComments URL: https://news.ycombinator.com/item?id=43092003\nPoints: 87\n# Comments: 64",
+          "link": "https://glasskube.dev/blog/from-java-to-go/",
+          "publishedOn": "2025-02-18T16:55:22.000Z",
+          "wordCount": 1505,
+          "title": "One year after switching from Java to Go",
+          "imageUrl": "https://glasskube.dev/img/blog/2025-02-18-from-java-to-go/from-java-to-go.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43091466",
+          "author": "vjekoslav",
+          "description": "Article URL: https://filepilot.tech/\nComments URL: https://news.ycombinator.com/item?id=43091466\nPoints: 83\n# Comments: 22",
+          "link": "https://filepilot.tech/",
+          "publishedOn": "2025-02-18T16:24:01.000Z",
+          "wordCount": 2208,
+          "title": "File Pilot: A file explorer built for speed with a modern, robust interface",
+          "imageUrl": "https://filepilot.tech/Assets/OpenGraphHeader-v2.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43090857",
+          "author": "rntn",
+          "description": "Article URL: https://www.nature.com/articles/d41586-025-00456-x\nComments URL: https://news.ycombinator.com/item?id=43090857\nPoints: 64\n# Comments: 78",
+          "link": "https://www.nature.com/articles/d41586-025-00456-x",
+          "publishedOn": "2025-02-18T15:47:25.000Z",
+          "wordCount": 4372,
+          "title": "Migraine is more than a headache – a rethink offers hope",
+          "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d41586-025-00456-x/d41586-025-00456-x_50640220.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43084355",
           "author": "bookofjoe",
           "description": "Article URL: https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers\nComments URL: https://news.ycombinator.com/item?id=43084355\nPoints: 15\n# Comments: 19",
@@ -3688,6 +3888,96 @@
       "siteUrl": "https://aws.amazon.com/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "2ee2555d5a89b5f9da6b5a29a9ffe543a8dbf659",
+          "author": "aws@amazon.com",
+          "description": "Starting today, the memory-optimized Amazon EC2 R6a instances are now available in Canada (Central) region. R6a instances are powered by third-generation AMD EPYC processors, and deliver up to 35% better price performance than comparable R5a instances. These instances offer 10% lower cost than comparable x86-based EC2 instances.\n  With this additional region, R6a instances are available in the following AWS Regions: US East (Northern Virginia, Ohio), US West (Oregon, N. California), Asia Pacific (Mumbai, Hyderabad, Singapore, Sydney, Tokyo), Canada (Central), and Europe (Frankfurt, Ireland). These instances can be purchased as Savings Plans, Reserved, On-Demand, and Spot instances. To get started, visit the AWS Management Console, AWS Command Line Interface (CLI), and AWS SDKs. To learn more, visit the R6a instances pages.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-r6a-instances-canada-central",
+          "publishedOn": "2025-02-18T22:00:00.000Z",
+          "wordCount": 871,
+          "title": "Amazon EC2 R6a instances now available in Canada (Central)",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2824d919eb63c1d5c6c4a1fa0a5cd4684f0ae0f3",
+          "author": "aws@amazon.com",
+          "description": "AWS WAF expands its Data Protection capabilities with new controls for sensitive data in logs. In addition, we have updated the Logging configuration console experience, making it easier for customer to select the optimal logging option.\n  Data Protection works together with existing Logging Redaction and Filtering features. You can select which protection method to use based on your use case and where you need to apply the controls. When configured, selected request log fields can be replaced with cryptographic hashes (e.g. ‘ade099751d2ea9f3393f0f’) or a predefined static string (‘REDACTED’) before logs are sent to WAF Sample Logs, Amazon Security Lake, CloudWatch, or other logging destinations. This centralized approach is designed to simplify the management of data and reduces the risk of accidental exposure. In addition, we simplified the WAF console experience for managing logging configurations. Customers can now view all available logging options and select their preferred settings in a simple unified experience.\n  This feature is available in all AWS Regions and endpoints where AWS WAF is available. To learn more, see the AWS WAF developer guide. There is no additional cost for using this feature, however standard AWS WAF charges still apply. For details, visit the AWS WAF Pricing page.\n  To use the new Data Protection feature, simply navigate to your Web ACL 'Logging and metrics' section in the AWS WAF console and choose the desired data protection option. Existing logging configurations will remain unchanged. For more information about the Data Protection, visit AWS documentation.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-data-protection-logging-experience",
+          "publishedOn": "2025-02-18T19:12:00.000Z",
+          "wordCount": 1121,
+          "title": "AWS WAF enhances Data Protection and logging experience",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c4d3a3484d5f75b56449d0ab09ea5f54c8319a01",
+          "author": "aws@amazon.com",
+          "description": "We're excited to announce the launch of IAM compute roles for AWS Amplify Hosting, enabling secure connections to other AWS resources from server-side rendered applications. This allows developers to integrate their SSR applications with AWS services while maintaining robust security practices.\n \nUse Cases Unlocked:\n \n \n \nSecure credential management for SSR applications\n \n \nDirect integration with AWS services like Secrets Manager and Parameter Store\n \n \nSupport for database connections (RDS, DynamoDB)\n \n \nGranular permission controls\n \n \nBranch-specific role configurations\n \n \nThis feature is available in all 20 AWS Amplify Hosting regions: US East (Ohio), US East (N. Virginia), US West (N. California), US West (Oregon), Asia Pacific (Hong Kong), Asia Pacific (Tokyo), Asia Pacific (Osaka) Asia Pacific (Seoul), Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Canada (Central), Europe (Frankfurt), Europe (Stockholm), Europe (Milan), Europe (Ireland), Europe (London), Europe (Paris), Middle East (Bahrain) and South America (São Paulo).\n \nTo learn more, read the documentation. To get started with a tutorial, check out our blog post.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amplify-hosting-iam-roles-ssr-applications/",
+          "publishedOn": "2025-02-18T18:00:00.000Z",
+          "wordCount": 946,
+          "title": "Amplify Hosting announces support for IAM roles for server-side rendered (SSR) applications",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "45b733c3baea542b20e07b0b13f35087413b8885",
+          "author": "aws@amazon.com",
+          "description": "AWS Storage Gateway expands availability to the AWS Mexico (Central) Region enabling customers to deploy and manage hybrid cloud storage for their on-premises workloads.\n  AWS Storage Gateway is a hybrid cloud storage service that provides on-premises applications access to virtually unlimited storage in the cloud. You can use AWS Storage Gateway for backing up and archiving data to AWS, providing on-premises file shares backed by cloud storage, and providing on-premises applications low latency access to data in the cloud.\n  Visit the AWS Storage Gateway product page to learn more. Access the AWS Storage Gateway console to get started. To see all the Regions where AWS Storage Gateway is available, please visit the AWS Region table.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-storage-gateway-mexico-central-region/",
+          "publishedOn": "2025-02-18T18:00:00.000Z",
+          "wordCount": 869,
+          "title": "AWS Storage Gateway is now available in AWS Mexico (Central) Region",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d635ae9babaee2a8214ce95c28b73dd4b1c96178",
+          "author": "aws@amazon.com",
+          "description": "Amazon Timestream for InfluxDB now supports Read Replicas, enabling customers to scale their read operations across multiple instances and Availability Zones. Customers can activate a Read Replica via the AWS Marketplace from the Timestream AWS Management Console while creating a Timestream for InfluxDB instance.\n  Adding Read Replicas allow customers to support higher read throughput by distributing read requests across multiple database instances while maintaining a single write endpoint. This helps customers meet the demands of read-intensive workloads, such as real-time analytics and monitoring applications, and improve application performance and availability. Customers can create a Multi-AZ Read Replica cluster with just a few clicks in the AWS Management Console.\n  Support for Timestream for InfluxDB Read Replicas is available the following Timestream for InfluxDB Regions: US East (Ohio), US East (N. Virginia), US West (Oregon), Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Canada (Central), Europe (Frankfurt), Europe (Ireland), Europe (London), Europe (Milan), Europe (Paris), and Europe (Stockholm). To learn more about Amazon Timestream for InfluxDB, please refer to our user guide.\n  You can create a Amazon Timestream for InfluxDB Read Replicas cluster from the Amazon Timestream console, AWS Command line Interface (CLI), or SDK, and AWS CloudFormation. To learn more about the Read Replica Cluster for Amazon Timestream for InfluxDB, visit the product page, documentation, and pricing page.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-timestream-influxdb-read-replica-support/",
+          "publishedOn": "2025-02-18T18:00:00.000Z",
+          "wordCount": 1074,
+          "title": "Amazon Timestream for InfluxDB Adds Read Replica support",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e59f084f089e1643a9c4d039b47ae8cdcde93418",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR on EC2 now supports real-time update of application configurations for EMR instance fleets without requiring cluster termination or restart. With this feature, customers can now dynamically adjust application configurations, such as Spark’s executor memory, YARN’s resource allocation, and HDFS settings seamlessly, on a running cluster, minimizing interruptions to your workloads. This is particularly useful for adjusting resource allocation and fine-tune applications to match data processing and job performance requirements, while ensuring optimal resource utilization.\n  Amazon EMR is a cloud big data platform for data processing, interactive analysis, and machine learning using open-source frameworks such as Apache Spark, Apache Flink, and Trino. Previously, you had to terminate and relaunch instance fleet clusters with new configurations. This process resulted in downtime, increased operational effort, and delayed workflow adjustments. With support for reconfiguration, EMR dynamically applies the updated configurations on cluster nodes on a rolling basis while ensuring cluster stability and resource availability. It provides notifications to customers via Amazon CloudWatch and EMR events. In the event of a failure or an incompatible update, EMR rolls back the changes to ensure your cluster remains operational. You can continue to run workloads on the cluster during the update process.\n  You can leverage this feature on all EMR 5.21 and later releases using AWS CLI, or API. This capability is available in all AWS Regions, including the AWS GovCloud (US) Regions, where Amazon EMR on EC2 is available. To learn more, please refer to the documentation here.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/update-running-emr-cluster-reconfiguration-instance-fleets",
+          "publishedOn": "2025-02-17T22:20:00.000Z",
+          "wordCount": 1130,
+          "title": "Dynamically update your running EMR cluster with reconfiguration for instance fleets",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6521dbdb1bc326cd2f334bcc70d6319ada76055a",
+          "author": "aws@amazon.com",
+          "description": "AWS Cloud Development Kit (AWS CDK) now includes L2 construct support for Amazon Data Firehose delivery streams, enabling developers to define and deploy streaming data infrastructure as code. This new capability allows you to programmatically configure delivery streams that automatically deliver real-time data to destinations like Amazon S3.\n  With this addition to AWS CDK, you can define sophisticated streaming architectures using familiar programming languages like TypeScript, Python, Java, and .NET. The module simplifies the process of setting up fully-managed delivery streams that push data to your desired destinations on a regular cadence, making it easier to build data lakes, enable real-time analytics, and create data archival solutions.\n  To learn more about using Amazon Data Firehose with AWS CDK, see the AWS CDK documentation and the Amazon Data Firehose Developer Guide. You can also explore sample applications and use cases on the AWS CDK Workshop website.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cdk-l2-construct-data-firehose-delivery-streams/",
+          "publishedOn": "2025-02-17T18:00:00.000Z",
+          "wordCount": 926,
+          "title": "AWS CDK releases L2 construct support for Amazon Data Firehose delivery streams",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f5e726bde17f533259009e14d75b12261f4e6e2d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Aurora PostgreSQL-Compatible Edition zero-ETL integration with Amazon Redshift is now supported in 18 additional regions, enabling near real-time analytics and machine learning (ML) using Amazon Redshift. With this launch, Aurora PostgreSQL zero-ETL integration with Amazon Redshift is supported in all AWS commercial regions where Amazon Redshift is supported.\n  Zero-ETL integration with Amazon Redshift enables near real-time analytics and machine learning (ML) using Amazon Redshift to analyze petabytes of transactional data from Aurora. Within seconds of transactional data being written into Amazon Aurora PostgreSQL-Compatible Edition, zero-ETL seamlessly makes the data available in Amazon Redshift, removing the need to build and manage complex data pipelines that perform extract, transform, and load (ETL) operations.\n  Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift is available for Aurora PostgreSQL version 16.4 and higher in US West (N. California), Africa (Cape Town), Asia Pacific (Hyderabad), Asia Pacific (Jakarta), Asia Pacific (Melbourne), Asia Pacific (Osaka), Asia Pacific (Seoul), Canada (Central), Canada West (Calgary), Europe (London), Europe (Milan), Europe (Paris), Europe (Spain), Europe (Zurich), Israel (Tel Aviv), Middle East (Bahrain), Middle East (UAE), South America (São Paulo). For all regions supported by the Aurora PostgreSQL zero-ETL integration, see the supported AWS regions.\n  To learn more and get started with zero-ETL integration, visit Amazon Aurora zero-ETL integration with Amazon Redshift and the getting started guides for Aurora and Amazon Redshift.",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-aurora-postgresql-zero-etl-integration-redshift/",
+          "publishedOn": "2025-02-17T18:00:00.000Z",
+          "wordCount": 1093,
+          "title": "Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift now available in 18 additional regions",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2c6f08a0be0fdde146b537230343e47b14c04739",
+          "author": "aws@amazon.com",
+          "description": "AWS Price List API now supports AWS PrivateLink. With AWS PrivateLink, you can simplify private network connectivity between virtual private clouds (VPCs), the AWS Price List API, and your on-premises data centers by using interface VPC endpoints and private IP addresses.\n  The AWS Price List API provides a catalog of the products and prices for AWS services that you can purchase on AWS.\n AWS PrivateLink is compatible with AWS Direct Connect and AWS Virtual Private Network (VPN) to facilitate private network connectivity, and helps you eliminate the need to use public IP addresses, configure firewall rules, or configure an internet gateway to access the AWS Price List API from your on-premises data centers. Using the AWS Price List API with AWS Private Link enables you to access AWS product and pricing data without the need to access the public internet.\n  AWS PrivateLink for AWS Price List API is available in all commercial regions where the AWS Price List API is available (US East (N. Virginia), Asia Pacific (Mumbai), Europe (Frankfurt), China (Ningxia). There is an additional cost to use this feature. Please see AWS PrivateLink pricing for more details.\n  You can get started with the feature by using the AWS Management Console, AWS API, AWS CLI, AWS SDK, or AWS CloudFormation. Learn more at Access AWS Billing and Cost Management using an interface endpoint (AWS PrivateLink).",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-price-list-api-privatelink",
+          "publishedOn": "2025-02-17T18:00:00.000Z",
+          "wordCount": 1076,
+          "title": "AWS Price List API supports AWS PrivateLink",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "971f8d55e6ec41125aa65b903624f7d30af057f5",
           "author": "aws@amazon.com",
           "description": "Today, Amazon Simple Email Service (SES) launched a new pricing structure for Virtual Deliverability Manager (VDM), giving customers reduced charges at higher levels of usage. Customers can benefit from lower total VDM charges without the need to change account configuration, sending practices, or billing setup. This can lower customer total cost of ownership for VDM as their usage increases.\n  Previously, all customers using VDM paid a fixed price per message sent. Customers could turn VDM on or off whenever needed, and they paid only for what they used without any commitment or fixed monthly charges. Now, customers will see their charges per message for VDM decrease as their sending volume exceeds specific thresholds each month. After crossing each threshold in a given billing month, each subsequent message processed by VDM is charged at a lower rate. This reduces the total cost of using VDM for high volume senders.\n  SES supports tiered pricing for VDM in all AWS regions where SES is available.\n  For more information, see the documentation for the SES pricing page.",
@@ -5377,6 +5667,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/big-data/",
       "articles": [
         {
+          "id": "4edf062b80adf3eb0cfe8301a86e255f21ac94f7",
+          "author": "Raks Khare",
+          "description": "This post will explore brief history of zero-ETL, its importance for customers, and introduce an exciting new feature: history mode for Amazon Aurora PostgreSQL-Compatible Edition, Amazon Aurora MySQL-Compatible Edition, Amazon Relational Database Service (Amazon RDS) for MySQL, and Amazon DynamoDB zero-ETL integration with Amazon Redshift.",
+          "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-announces-history-mode-for-zero-etl-integrations-to-simplify-historical-data-tracking-and-analysis/",
+          "publishedOn": "2025-02-18T21:13:23.000Z",
+          "wordCount": 4463,
+          "title": "Amazon Redshift announces history mode for zero-ETL integrations to simplify historical data tracking and analysis",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/02/18/featured-images-BDB-4904-1120x630.jpg"
+        },
+        {
+          "id": "93e354cf2d9aa1f31f3463b1e6028a68b6796011",
+          "author": "Charishma Makineni",
+          "description": "In this post, we demonstrate how to build a scalable AWS WAF log analysis solution using Firehose and Apache Iceberg. Firehose simplifies the entire process—from log ingestion to storage—by allowing you to configure a delivery stream that delivers AWS WAF logs directly to Apache Iceberg tables in Amazon S3. The solution requires no infrastructure setup and you pay only for the data you process.",
+          "link": "https://aws.amazon.com/blogs/big-data/streamline-aws-waf-log-analysis-with-apache-iceberg-and-amazon-data-firehose/",
+          "publishedOn": "2025-02-18T21:12:39.000Z",
+          "wordCount": 3200,
+          "title": "Streamline AWS WAF log analysis with Apache Iceberg and Amazon Data Firehose",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/02/18/featured-images-BDB-4927-1120x630.jpg"
+        },
+        {
           "id": "b02ef0083e20f1dd1b1b93e3487b747b0bdaa3c2",
           "author": "Subham Rakshit",
           "description": "Creating a new cluster with Express brokers is straightforward, as described in Amazon MSK Express brokers. However, if you have an existing MSK cluster, you need to migrate to a new Express based cluster. In this post, we discuss how you should plan and perform the migration to Express brokers for your existing MSK workloads on Standard brokers. Express brokers offer a different user experience and a different shared responsibility boundary, so using them on an existing cluster is not possible. However, you can use Amazon MSK Replicator to copy all data and metadata from your existing MSK cluster to a new cluster comprising of Express brokers.",
@@ -5879,7 +6189,7 @@
     {
       "title": "Be a Better Dev",
       "feedUrl": "https://beabetterdev.com/feed/",
-      "siteUrl": "https://www.beabetterdev.com/",
+      "siteUrl": "https://beabetterdev.com/",
       "articles": [
         {
           "id": "https://beabetterdev.com/?p=4535",
@@ -5898,6 +6208,16 @@
       "feedUrl": "https://birming.com/feed/",
       "siteUrl": "https://birming.com/",
       "articles": [
+        {
+          "id": "https://birming.com/best-blog-post/",
+          "author": null,
+          "description": "I love the movie \"The Perks of Being a Wallflower\" and have seen it several times. Now I have also read the book for the first time, and it was at least as good.\nIn one of the scenes, the main character is asked what his favorite book is. When he reveals the answer, he is asked the follow-up question \"Why?\", to which he replies:\n\"Because it's the latest one I've read.\"\nI can't say that it's the same for me when it comes to books, but it made me think of a blog post I read recently. It was Annie Mueller's answer to the question \"What's your favorite post on your blog?\". She replied:\n\"Always the one I'm writing right now.\"\nWhat a great answer! I wish I had answered the same when I got that question, because it's true.\nI think most bloggers relate to this. Why else would we continue?\nIt's not because the latest post is the most well-written, or that we have learned new fancy words, or that it got a lot of views.\nIt's because it's a snapshot. This is where we are and who we are right now.\nIt's a timestamp, a fingerprint of time.\nAnd it's the best blog post we've ever written.",
+          "link": "https://birming.com/best-blog-post/",
+          "publishedOn": "2025-02-18T16:39:00.000Z",
+          "wordCount": 1766,
+          "title": "The Best Blog Post Ever",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
+        },
         {
           "id": "https://birming.com/take-care/",
           "author": null,
@@ -6117,16 +6437,6 @@
           "wordCount": null,
           "title": "Lost and Found",
           "imageUrl": null
-        },
-        {
-          "id": "https://birming.com/bear-blog-question-challenge/",
-          "author": null,
-          "description": "First of all, I want to take this opportunity to thank Ava for the mention and the lovely \"Bear blog question challenge\" initiative. Thank you!\nI've wanted to post a reply since I first saw the post, but I've (once again) had some serious blogging-in-English-doubts lately. But I won’t bore you with that. So without further ado, here are my answers:\nWhy did you make the blog in the first place?\nI have blogged on and off in my native language, Swedish, for over 20 years. With this blog, I wanted to make an honest attempt to blog in English (which, as mentioned, is going so-so). I want to keep the blog alive, but I don’t dare hope for too much. Regardless, I will definitely continue blogging in one way or another. In my opinion, blogging is the optimal way to write. It’s creative and inspirin…",
-          "link": "https://birming.com/bear-blog-question-challenge/",
-          "publishedOn": "2025-01-20T11:12:00.000Z",
-          "wordCount": 1075,
-          "title": "Bear Blog Question Challenge",
-          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
         }
       ]
     },
@@ -6167,16 +6477,6 @@
           "wordCount": 3341,
           "title": "Dynamic Forms with Flask",
           "imageUrl": "https://blog.miguelgrinberg.com/static/cards/dynamic-forms-with-flask.jpg"
-        },
-        {
-          "id": "https://blog.miguelgrinberg.com/post/encryption-at-rest-with-sqlalchemy",
-          "author": "Miguel Grinberg",
-          "description": "In this tutorial I'm going to show you how to extend SQLAlchemy so that you can define database columns that are stored encrypted. In the solution I'm going to share, the columns that are designated as encrypted will transparently encrypt and decrypt themselves as data moves to and from the database.\nFor this tutorial I'm going to use SQLAlchemy version 2, the latest and greatest. All the techniques I will present can be adapted to SQLAlchemy 1.x if you need to work with legacy versions. If you are interested in updating your knowledge of SQLAlchemy, I have a SQLAlchemy 2 book that can help.",
-          "link": "https://blog.miguelgrinberg.com/post/encryption-at-rest-with-sqlalchemy",
-          "publishedOn": "2025-01-19T15:48:45.000Z",
-          "wordCount": 2951,
-          "title": "Encryption at Rest with SQLAlchemy",
-          "imageUrl": "https://blog.miguelgrinberg.com/static/cards/encryption-at-rest-with-sqlalchemy.jpg"
         }
       ]
     },
@@ -6510,6 +6810,26 @@
       "siteUrl": "https://kevquirk.com",
       "articles": [
         {
+          "id": "notes/20250218-2106",
+          "author": null,
+          "description": "I haven't read this much bollocks in a long, long time.\nhttps://andysblog.uk/blogging-for-traffic-not-design/\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
+          "link": "https://kevquirk.com/notes/20250218-2106",
+          "publishedOn": "2025-02-18T21:10:00.000Z",
+          "wordCount": 97,
+          "title": "📝 18 February 2025 at 21:06 - I haven't read this much bollocks in a long long...",
+          "imageUrl": "https://cdn.kevquirk.com/feature-image.webp"
+        },
+        {
+          "id": "notes/20250218-1930",
+          "author": null,
+          "description": "Tell me you're working too many hours without telling me you're working too many hours...\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
+          "link": "https://kevquirk.com/notes/20250218-1930",
+          "publishedOn": "2025-02-18T19:30:00.000Z",
+          "wordCount": 100,
+          "title": "📝 18 February 2025 at 19:30 - Tell me you're working too many hours without telling me...",
+          "imageUrl": "https://cdn.kevquirk.com/feature-image.webp"
+        },
+        {
           "id": "blog/work-to-live-don-t-live-to-work",
           "author": null,
           "description": "I've always been a firm believer in this saying, and I've always tried to stick to it. But recently, things have flipped and it's killing me.\nAround 6 months ago I took a promotion in work. It was a big step up for me as I went from leading the global operations part of an organisation, to leading the whole organisation.\nThis has been a steep learning curve for me, and honestly, I don't know how well I'm going in the role. My manager tells me I'm doing a good job, but it doesn't feel like it to me.\nTo me it feels like I'm constantly playing catch-up. Constantly missing things. Constantly on the back foot. It can be miserable.\nHaving a global team means I regularly work long hours too. Which is fine, and par for the course when it comes to working in ops. But recently it's flipped from regu…",
@@ -6717,6 +7037,16 @@
       "siteUrl": "https://krebsonsecurity.com",
       "articles": [
         {
+          "id": "https://krebsonsecurity.com/?p=70276",
+          "author": "BrianKrebs",
+          "description": "Carding -- the underground business of stealing, selling and swiping stolen payment card data -- has long been the dominion of Russia-based hackers. Happily, the broad deployment of more secure chip-based payment cards in the United States has weakened the carding market. But a flurry of innovation from cybercrime groups in China is breathing new life into the carding industry, by turning phished card data into mobile wallets that can be used online and at main street stores.",
+          "link": "https://krebsonsecurity.com/2025/02/how-phished-data-turns-into-apple-google-wallets/",
+          "publishedOn": "2025-02-18T18:37:26.000Z",
+          "wordCount": null,
+          "title": "How Phished Data Turns into Apple & Google Wallets",
+          "imageUrl": null
+        },
+        {
           "id": "https://krebsonsecurity.com/?p=70392",
           "author": "BrianKrebs",
           "description": "In mid-March 2024, KrebsOnSecurity revealed that the founder of the personal data removal service Onerep also founded dozens of people-search companies. Shortly after that investigation was published, Mozilla said it would stop bundling Onerep with the Firefox browser and wind down its partnership. But nearly a year later, Mozilla is still promoting it to Firefox users.",
@@ -6819,6 +7149,17 @@
       "feedUrl": "https://lmnt.me/feed.xml",
       "siteUrl": "https://lmnt.me/",
       "articles": [
+        {
+          "id": "67A7B1F4-D1C1-49F2-B675-9C452EE027F6",
+          "author": "Louie Mantia",
+          "description": "Luka wrote a really lovely post on Parakeet’s new blog that commemorates our studio’s 10th anniversary. I’m really proud of us and everything we’ve made together.\n10 Years\nIf you like this, you can make a one-time donation, donate monthly, or buy something from my shop.",
+          "link": "https://lmnt.me/blog/parakeets-10th-anniversary.html",
+          "publishedOn": "2025-02-18T23:50:00.000Z",
+          "wordCount": null,
+          "title": "Parakeet’s 10th Anniversary",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "983BE809-7F4B-402D-AAE5-94DF65D3FEDD",
           "author": "Louie Mantia",
@@ -7015,38 +7356,6 @@
           "title": "The Most Mario Colors",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "67622929-402D-40B7-ADE8-D68AC39FEE47",
-          "author": "Louie Mantia",
-          "description": "Gunpei Yokoi, a designer of the original Game Boy, described his philosophy as “lateral thinking with withered technology.”\nInstead of focusing on the newest, shiniest, and often most-expensive components, Nintendo focused on maximizing the potential of more mature and cheaper technology.\nDespite backlit color displays being available at the time, Nintendo opted for a four-shade monochrome display. They made the most of that choice, producing a vast library of games that people still enjoy today. At release, Game Boy required four batteries and had the potential for a whopping 30 hours of battery life.\nSega introduced Game Gear a year later with a backlit color display. To accommodate that choice, it required six AA batteries, which is one reason for its larger form factor. The battery life was a mere 3–5 hours. While Nintendo made efforts to reduce the size of their product while gradually incorporating newer technology, Sega doubled down on their strategy, introducing the extremely-novel Nomad handheld, which still required six AA batteries—or an AC adapter—to power it. To be clear, Nomad did not intend to replace Game Gear. Its even-shorter battery life may have assured that.\nSega never made a handheld again. Nintendo is famously still at it. As of now, of the top four best-selling consoles of all time, three are Nintendo handhelds (Nintendo DS, Switch, and Game Boy).\nThough Nintendo employs more-modern technologies now, they are still criticized for not having the most-modern technologies that their rivals are all-too-happy to include, often at the cost of compatibility, affordability, and energy efficiency.\nThis is not a condemnation of using cutting-edge technology. But if given the choice, I prefer “lateral thinking with withered technology.” I think that’s a great philosophy to consider when making anything.\nIf you like this, you can make a donation or buy something from my shop.",
-          "link": "https://lmnt.me/blog/withered-technology.html",
-          "publishedOn": "2025-01-20T03:55:00.000Z",
-          "wordCount": null,
-          "title": "Withered Technology",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://lmnt.me/files/audio/withered-technology.m4a",
-            "type": "audio/x-m4a",
-            "length": "3516059"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "70DB17C1-F31C-4112-82A6-3C3CA7F0A85D",
-          "author": "Louie Mantia",
-          "description": "I saw a few posts and headlines that made me do a double-take. Not because they were particularly shocking, but because they are incredibly avoidable.\nGhost is a recently-popular (but actually more than a decade old) blogging platform. People have been moving from Substack (nazis) and Wordpress (bozos) to Ghost. A couple weeks ago, Ghost announced they’re introducing native support for custom fonts, “with even more control over your brand.” WOFF web fonts have existed for 15 years.\nRead.cv is a professional networking site, like an alternative to LinkedIn, where users could share their résumés and portfolios. People have been flocking here not just as an alternative to LinkedIn but also for people in need of an online professional profile. They even offered blogging tools. Anyway, the team…",
-          "link": "https://lmnt.me/blog/or-instead-of-all-this.html",
-          "publishedOn": "2025-01-20T00:05:00.000Z",
-          "wordCount": null,
-          "title": "Or, Instead of All This—",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://lmnt.me/files/audio/or-instead-of-all-this.m4a",
-            "type": "audio/x-m4a",
-            "length": "4734130"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -7126,24 +7435,233 @@
       "title": "Miniflux",
       "feedUrl": "https://miniflux.app/feed.xml",
       "siteUrl": "https://miniflux.app",
-      "articles": [
-        {
-          "id": "https://miniflux.app/releases/2.2.5.html",
-          "author": null,
-          "description": "test(js): improve .jshintrc (strict comparison, etc…)\ntest(sanitizer): add a fuzzer\nrefactor(rewriter): use custom title case converter implementation instead of golang.org/x/text/cases.Title()\nrefactor(readingtime): replace whatlanggo package with an ad-hoc implementation\nrefactor(oauth2): no need to use io.WriteString when sha256 provides a way to obtain a sum in a single call\nrefactor(js): simplify a bit keyboard_handler.js\nrefactor(js): remove an outdated check for {passive: true}\nrefactor(js): minor refactoring of touch_handler.js\nrefactor(js): minor improvements in app.js\nrefactor(database): add special handling for PostgreSQL-specific migrations\nfix(ui): reading preferences are reset if the form values are incorrect\nfix(sanitizer): allow <hr> tags\nfix(finder): do not add redirection…",
-          "link": "https://miniflux.app/releases/2.2.5.html",
-          "publishedOn": "2025-01-20T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Miniflux 2.2.5",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Hacker News",
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/",
+          "publishedOn": "2025-02-19T01:15:38.000Z",
+          "wordCount": 1888,
+          "title": "In a last-minute decision, White House decides not to terminate NASA employees",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/SpaceX-DM-2-Jun-3-2020-6414-1152x648.jpg"
+        },
+        {
+          "id": "https://www.meta.com/blog/connect-2025-llamacon-save-the-date/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.meta.com/blog/connect-2025-llamacon-save-the-date/",
+          "publishedOn": "2025-02-19T00:18:52.000Z",
+          "wordCount": 1646,
+          "title": "Meta announces LlamaCon, its first generative AI dev conference on April 29",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/",
+          "publishedOn": "2025-02-18T23:22:22.000Z",
+          "wordCount": null,
+          "title": "Alice Hamilton Waged a One-Woman Campaign to Get the Lead Out of Everything",
+          "imageUrl": null
+        },
+        {
+          "id": "https://humane.com/media/humane-hp",
+          "author": null,
+          "description": "Comments",
+          "link": "https://humane.com/media/humane-hp",
+          "publishedOn": "2025-02-18T22:15:05.000Z",
+          "wordCount": 1297,
+          "title": "HP Acquires Humane's AI Software",
+          "imageUrl": "https://images.prismic.io/humane-content/Z7T7oJ7c43Q3f8jI_hpiq-article.jpg?auto=format,compress"
+        },
+        {
+          "id": "https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should",
+          "publishedOn": "2025-02-18T21:09:19.000Z",
+          "wordCount": 9424,
+          "title": "A year of uv: pros, cons, and should you migrate",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b67b659-6da9-4da4-a6e5-007a2856ebef_1024x1024.webp"
+        },
+        {
+          "id": "https://broot.ca/kafka-at-the-low-end.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://broot.ca/kafka-at-the-low-end.html",
+          "publishedOn": "2025-02-18T21:01:02.000Z",
+          "wordCount": 951,
+          "title": "Kafka at the low end: how bad can it get?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP",
+          "publishedOn": "2025-02-18T21:00:58.000Z",
+          "wordCount": 92,
+          "title": "Converge (YC S23) is hiring engineer #2 in NYC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c4gex0x87g4o",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/articles/c4gex0x87g4o",
+          "publishedOn": "2025-02-18T20:29:16.000Z",
+          "wordCount": 5068,
+          "title": "South Korean regulator accuses DeepSeek of sharing user data with ByteDance",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c4be/live/2a38e8b0-edde-11ef-9cb9-3360cc750412.jpg"
+        },
+        {
+          "id": "https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9",
+          "publishedOn": "2025-02-18T19:57:17.000Z",
+          "wordCount": 7431,
+          "title": "Valve releases Team Fortress 2 game code",
+          "imageUrl": "https://opengraph.githubassets.com/b586a6e9bbc3d649dd88b2f5a96cc97a9b88077b3f530bb00a44fd7c72bbb693/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9"
+        },
+        {
+          "id": "https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/",
+          "publishedOn": "2025-02-18T19:33:32.000Z",
+          "wordCount": 2980,
+          "title": "My LLM codegen workflow",
+          "imageUrl": "https://harper.blog/images/og.png"
+        },
+        {
+          "id": "https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx",
+          "publishedOn": "2025-02-18T19:26:33.000Z",
+          "wordCount": 2134,
+          "title": "Nuclear fusion: WEST beats the world record for plasma duration",
+          "imageUrl": "https://www.cea.fr/english/PublishingImages/thumbnails/photo-plasma.jpg"
+        },
+        {
+          "id": "https://arxiv.org/abs/2502.03402",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2502.03402",
+          "publishedOn": "2025-02-18T18:55:31.000Z",
+          "wordCount": 732,
+          "title": "Tensor evolution: A framework for fast tensor computations using recurrences",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/",
+          "publishedOn": "2025-02-18T18:31:36.000Z",
+          "wordCount": 4795,
+          "title": "Pi-hole v6",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article",
+          "publishedOn": "2025-02-18T18:16:22.000Z",
+          "wordCount": 8723,
+          "title": "Among top researchers 10% publish at unrealistic levels, analysis finds",
+          "imageUrl": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/3/2/6/539326_gettyimages1835402742_897118_crop.jpg"
+        },
+        {
+          "id": "https://tower.dev/blog/building-an-open-multi-engine-data-lakehouse-with-s3-and-python",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tower.dev/blog/building-an-open-multi-engine-data-lakehouse-with-s3-and-python",
+          "publishedOn": "2025-02-18T17:33:52.000Z",
+          "wordCount": 4602,
+          "title": "Building an Open, Multi-Engine Data Lakehouse with S3 and Python",
+          "imageUrl": "https://framerusercontent.com/images/CYNCbDGp4be2or3iF1OGUwI6BA.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43092522",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=43092522",
+          "publishedOn": "2025-02-18T17:30:39.000Z",
+          "wordCount": 2053,
+          "title": "Launch HN: Promptless (YC W25) – Automatic updates for customer-facing docs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://glasskube.dev/blog/from-java-to-go/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://glasskube.dev/blog/from-java-to-go/",
+          "publishedOn": "2025-02-18T16:55:22.000Z",
+          "wordCount": 1505,
+          "title": "One year after switching from Java to Go",
+          "imageUrl": "https://glasskube.dev/img/blog/2025-02-18-from-java-to-go/from-java-to-go.png"
+        },
+        {
+          "id": "https://filepilot.tech/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://filepilot.tech/",
+          "publishedOn": "2025-02-18T16:24:01.000Z",
+          "wordCount": 2208,
+          "title": "File Pilot: A file explorer built for speed with a modern, robust interface",
+          "imageUrl": "https://filepilot.tech/Assets/OpenGraphHeader-v2.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/d41586-025-00456-x",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-025-00456-x",
+          "publishedOn": "2025-02-18T15:47:25.000Z",
+          "wordCount": 4372,
+          "title": "Migraine is more than a headache – a rethink offers hope",
+          "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d41586-025-00456-x/d41586-025-00456-x_50640220.jpg"
+        },
+        {
+          "id": "https://scripton.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scripton.dev/",
+          "publishedOn": "2025-02-18T14:57:09.000Z",
+          "wordCount": 833,
+          "title": "Show HN: Scripton – Python IDE with built-in realtime visualizations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/",
+          "publishedOn": "2025-02-18T10:02:30.000Z",
+          "wordCount": 18447,
+          "title": "XOR",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html",
+          "publishedOn": "2025-02-18T08:48:16.000Z",
+          "wordCount": 8875,
+          "title": "Making my debug build run 100x faster so that it is finally usable",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers",
           "author": null,
@@ -7152,6 +7670,16 @@
           "publishedOn": "2025-02-17T23:44:28.000Z",
           "wordCount": null,
           "title": "Why can't we remember our lives as babies or toddlers?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thomasvogelaar.me/posts/programming-with-chronic-pain/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thomasvogelaar.me/posts/programming-with-chronic-pain/",
+          "publishedOn": "2025-02-17T23:43:22.000Z",
+          "wordCount": 1293,
+          "title": "Programming with chronic pain",
           "imageUrl": null
         },
         {
@@ -7242,6 +7770,16 @@
           "publishedOn": "2025-02-17T20:48:37.000Z",
           "wordCount": null,
           "title": "Privacy Is Not Dead: Beware the All-or-Nothing Mindset",
+          "imageUrl": null
+        },
+        {
+          "id": "https://maplant.com/2025-02-17-Why-I%27m-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://maplant.com/2025-02-17-Why-I%27m-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html",
+          "publishedOn": "2025-02-17T20:30:26.000Z",
+          "wordCount": 878,
+          "title": "Why I'm writing a Scheme implementation in 2025: Async Rust",
           "imageUrl": null
         },
         {
@@ -7353,6 +7891,16 @@
           "wordCount": 14465,
           "title": "America will collapse by 2025 (2010)",
           "imageUrl": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2010/12/how_america_will_collapse_by_2025.jpg"
+        },
+        {
+          "id": "https://rlafuente.com/post?post=2024-6-12-a-binary-vector-store",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rlafuente.com/post?post=2024-6-12-a-binary-vector-store",
+          "publishedOn": "2025-02-17T00:45:01.000Z",
+          "wordCount": 48,
+          "title": "Show HN: A GPU-accelerated binary vector index",
+          "imageUrl": null
         },
         {
           "id": "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
@@ -7473,6 +8021,16 @@
           "wordCount": 14744,
           "title": "Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio",
           "imageUrl": "https://cdn.mos.cms.futurecdn.net/8X9vK26vir35ugRQ8LjQWY-1200-80.jpg"
+        },
+        {
+          "id": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+          "publishedOn": "2025-02-16T19:13:15.000Z",
+          "wordCount": 42656,
+          "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+          "imageUrl": null
         },
         {
           "id": "https://caddyserver.com/",
@@ -7755,6 +8313,26 @@
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/diablo-debunk-1152x648.jpg"
         },
         {
+          "id": "https://gyptazy.com/howto-kleene-as-a-container-management-platform-for-freebsd/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gyptazy.com/howto-kleene-as-a-container-management-platform-for-freebsd/",
+          "publishedOn": "2025-02-15T11:23:46.000Z",
+          "wordCount": 3537,
+          "title": "Kleene as a Container Management Platform for FreeBSD",
+          "imageUrl": "https://gyptazy.com/wp-content/uploads/2025/02/Kleene_project_FreeBSD_container_gyptazy.jpg"
+        },
+        {
+          "id": "https://github.com/vnglst/when-ai-fails/tree/main/playing-set",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/vnglst/when-ai-fails/tree/main/playing-set",
+          "publishedOn": "2025-02-15T10:28:55.000Z",
+          "wordCount": 2569,
+          "title": "Are LLMs able to play the card game Set?",
+          "imageUrl": "https://opengraph.githubassets.com/86da0e6ce25f2b679c7bce7498dc296c3bf1f52be13a025fa87999cf2f0b91e0/vnglst/when-ai-fails"
+        },
+        {
           "id": "https://github.com/Goldziher/kreuzberg",
           "author": null,
           "description": "Comments",
@@ -7783,6 +8361,16 @@
           "wordCount": 2450,
           "title": "The 20 year old PSP can now connect to WPA2 WiFi Networks",
           "imageUrl": "https://wololo.net/wagic/wp-content/uploads/2025/02/psp_wpa2_support.jpg"
+        },
+        {
+          "id": "https://pubby.games/sisyphus.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pubby.games/sisyphus.html",
+          "publishedOn": "2025-02-15T02:44:05.000Z",
+          "wordCount": 1462,
+          "title": "Little Sisyphus A physics-based platformer for the NES",
+          "imageUrl": null
         },
         {
           "id": "https://www.sfgate.com/sports/article/sf-thought-built-stadium-future-fog-ewing-field-20051971.php",
@@ -7872,6 +8460,16 @@
           "publishedOn": "2025-02-14T22:05:33.000Z",
           "wordCount": 124,
           "title": "Complex dynamics require complex solutions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tanersener.medium.com/saying-goodbye-to-ffmpegkit-33ae939767e1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tanersener.medium.com/saying-goodbye-to-ffmpegkit-33ae939767e1",
+          "publishedOn": "2025-02-14T21:53:40.000Z",
+          "wordCount": 2642,
+          "title": "Saying goodbye to FFmpegKit",
           "imageUrl": null
         },
         {
@@ -12932,6 +13530,16 @@
       "feedUrl": "https://seclists.org/rss/fulldisclosure.rss",
       "siteUrl": "https://seclists.org/#fulldisclosure",
       "articles": [
+        {
+          "id": "https://seclists.org/fulldisclosure/2025/Feb/14",
+          "author": null,
+          "description": "Posted by Gynvael Coldwind on Feb 17\nHi,\n\nThis isn't really a problem a vendor can solve in firmware (apart from\noffering configuration via cloud, which has its own issues).\nEven if they would enable TLS/SSL by default, it would just give one a\nfalse sense of security, since:\n- the certificates would be invalid (public CAs don't give out certs for IP\naddresses),\n- they would be easy to clone (due to being self-signed and/or being easy\nto extract from a similar device),\n-...",
+          "link": "https://seclists.org/fulldisclosure/2025/Feb/14",
+          "publishedOn": "2025-02-18T04:10:33.000Z",
+          "wordCount": 328,
+          "title": "Re: Netgear Router Administrative Web Interface Lacks Transport Encryption By Default",
+          "imageUrl": "https://seclists.org/images/fulldisclosure-img.png"
+        },
         {
           "id": "https://seclists.org/fulldisclosure/2025/Feb/13",
           "author": null,
@@ -19317,6 +19925,16 @@
       "siteUrl": "https://shkspr.mobi/blog",
       "articles": [
         {
+          "id": "https://shkspr.mobi/blog/2025/02/theatre-review-inside-no-9-stage-fright/",
+          "author": null,
+          "description": "This is spoiler-free review.  In one episode of Inside Number Nine, two old comedians are bickering. In a moment of understated savagery one says to the other &#34;That&#039;s a cheap laugh, Len.&#34;  Len replies with a mischievous twinkle in his eye, &#34;Oh, come on. A laugh&#039;s a laugh however you earn it.&#34;  That sets up the central tension for the West-End-Spectacular version of the show - Stage/Fright.  What makes for a &#34;cheap&#34; scream of terror? It&#039;s easy to have a jump scare, or an on-stage explosion. The…",
+          "link": "https://shkspr.mobi/blog/2025/02/theatre-review-inside-no-9-stage-fright/",
+          "publishedOn": "2025-02-18T12:34:19.000Z",
+          "wordCount": null,
+          "title": "Theatre Review: Inside No. 9 Stage/Fright ★★★★★",
+          "imageUrl": null
+        },
+        {
           "id": "https://shkspr.mobi/blog/2025/02/singing-the-tfl-blues/",
           "author": null,
           "description": "I am a regular user of Transport for London&#039;s services. On my phone I have the TfL Go app for finding my way around the city, and a web shortcut to a specific bus stop so I can find my way home.    Why are they different shades of blue⁉️⁉️⁉️  TfL, like most large organisations, have brand guidelines. It enables them to set a consistent look and feel across their services which, hopefully, makes it easier for users to identify them. A glowing roundel in the night tells you you&#039;re near a tube stat…",
@@ -19445,16 +20063,6 @@
           "wordCount": null,
           "title": "Book Review: The Twyford Code by Janice Hallett ★★★★☆",
           "imageUrl": null
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2025/01/google-has-no-faith-in-its-ability-to-launch-new-products/",
-          "author": null,
-          "description": "Back when I was a product manager for a large mobile network operator, we faced a constant problem. How do you launch a new product to the public?  Most people are reluctant to try new things. Even in the exciting world of proto-smartphones, convincing someone to download, install, configure, and use a new app was difficult. Sure, we could run expensive advertising campaigns. Send hopeful text messages. Have a big celebrity endorsement. Or maybe get our customer service reps to push it.  In the …",
-          "link": "https://shkspr.mobi/blog/2025/01/google-has-no-faith-in-its-ability-to-launch-new-products/",
-          "publishedOn": "2025-01-20T12:34:44.000Z",
-          "wordCount": null,
-          "title": "Google has no faith in its ability to launch new products",
-          "imageUrl": null
         }
       ]
     },
@@ -19463,6 +20071,26 @@
       "feedUrl": "https://simonwillison.net/atom/everything/",
       "siteUrl": "http://simonwillison.net/",
       "articles": [
+        {
+          "id": "https://simonwillison.net/2025/Feb/18/tc39proposal-regex-escaping/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://github.com/tc39/proposal-regex-escaping\">tc39/proposal-regex-escaping</a></strong></p>\nI just heard <a href=\"https://social.coop/@kriskowal/114026510846190089\">from Kris Kowal</a> that this proposal for ECMAScript has been approved for ECMA TC-39:</p>\n<blockquote>\n<p>Almost 20 years later, @simon’s RegExp.escape idea comes to fruition. This reached “Stage 4” at ECMA TC-39 just now, which formalizes that multiple browsers have shipped the feature and it’s in the next revision of the JavaScript specification.</p>\n</blockquote>\n<p>I'll be honest, I had completely forgotten about my 2006 blog entry <a href=\"https://simonwillison.net/2006/Jan/20/escape/\">Escaping regular expression characters in JavaScript</a> where I proposed that JavaScript should have an equivalent of the Python <a href=\"https://docs.python.org/3/library/re.html#re.escape\">re.escape()</a> function.</p>\n<p>It turns out my post was referenced in <a href=\"https://esdiscuss.org/topic/regexp-escape\">this 15 year old thread</a> on the esdiscuss mailing list, which evolved over time into a proposal which turned into <a href=\"https://caniuse.com/mdn-javascript_builtins_regexp_escape\">implementations</a> in Safari, Firefox and soon Chrome - here's <a href=\"https://github.com/v8/v8/commit/b5c08badc7b3d4b85b2645b1a4d9973ee6efaa91\">the commit landing it in v8</a> on February 12th 2025.</p>\n<p>One of the best things about having a long-running blog is that sometimes posts you forgot about over a decade ago turn out to have a life of their own.\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/standards\">standards</a>, <a href=\"https://simonwillison.net/tags/ecmascript\">ecmascript</a>, <a href=\"https://simonwillison.net/tags/javascript\">javascript</a>, <a href=\"https://simonwillison.net/tags/regular-expressions\">regular-expressions</a>, <a href=\"https://simonwillison.net/tags/blogging\">blogging</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/18/tc39proposal-regex-escaping/#atom-everything",
+          "publishedOn": "2025-02-18T21:53:56.000Z",
+          "wordCount": 345,
+          "title": "tc39/proposal-regex-escaping",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2025/Feb/18/andrej-karpathy-grok-3/#atom-everything",
+          "author": null,
+          "description": "<p><strong><a href=\"https://twitter.com/karpathy/status/1891720635363254772\">Andrej Karpathy&#x27;s initial impressions of Grok 3</a></strong></p>\nAndrej has the most detailed analysis I've seen so far of xAI's Grok 3 release from last night. He runs through a bunch of interesting test prompts, and concludes:</p>\n<blockquote>\n<p>As far as a quick vibe check over ~2 hours this morning, Grok 3 + Thinking feels somewhere around the state of the art territory of OpenAI's strongest models (o1-pro, $200/month), and slightly better than DeepSeek-R1 and Gemini 2.0 Flash Thinking. Which is quite incredible considering that the team started from scratch ~1 year ago, this timescale to state of the art territory is unprecedented.</p>\n</blockquote>\n<p>I was delighted to see him include my <code>Generate an SVG of a pelican riding a bicycle</code> benchmark in his tests:</p>\n<p><img alt=\"Grok 3's pelicans are pretty good, though I still slightly prefer Claude 3.5 Sonnet's.\" src=\"https://static.simonwillison.net/static/2025/grok3-pelican.jpg\" /></p>\n<p>Grok 3 is currently sat at the top of the LLM <a href=\"https://lmarena.ai/\">Chatbot Arena</a> (across <a href=\"https://x.com/lmarena_ai/status/1891706269003600187\">all of their categories</a>) so it's doing very well based on vibes for the voters there.\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/andrej-karpathy\">andrej-karpathy</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/pelican-riding-a-bicycle\">pelican-riding-a-bicycle</a>, <a href=\"https://simonwillison.net/tags/grok\">grok</a></p>",
+          "link": "https://simonwillison.net/2025/Feb/18/andrej-karpathy-grok-3/#atom-everything",
+          "publishedOn": "2025-02-18T16:46:25.000Z",
+          "wordCount": 340,
+          "title": "Andrej Karpathy's initial impressions of Grok 3",
+          "imageUrl": null
+        },
         {
           "id": "https://simonwillison.net/2025/Feb/17/chatgpt-operator-prompt-injection/#atom-everything",
           "author": null,

@@ -2,10 +2,731 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsoros.github.io/rss-feeds-hackernews/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-18T01:37:50.115Z</updated>
+    <updated>2025-02-19T01:38:32.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jsoros.github.io/rss-feeds-hackernews/index.html"/>
     <link rel="self" href="https://jsoros.github.io/rss-feeds-hackernews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In a last-minute decision, White House decides not to terminate NASA employees]]></title>
+        <id>https://news.ycombinator.com/item?id=43097380</id>
+        <link href="https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/"/>
+        <updated>2025-02-19T01:15:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/
+Comments URL: https://news.ycombinator.com/item?id=43097380
+Points: 4
+# Comments: 1]]></summary>
+        <author>
+            <name>toomuchtodo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In a last-minute decision, White House decides not to terminate NASA employees]]></title>
+        <id>https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/</id>
+        <link href="https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/"/>
+        <updated>2025-02-19T01:15:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta announces LlamaCon, its first generative AI dev conference on April 29]]></title>
+        <id>https://news.ycombinator.com/item?id=43096922</id>
+        <link href="https://www.meta.com/blog/connect-2025-llamacon-save-the-date/"/>
+        <updated>2025-02-19T00:18:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.meta.com/blog/connect-2025-llamacon-save-the-date/
+Comments URL: https://news.ycombinator.com/item?id=43096922
+Points: 59
+# Comments: 19]]></summary>
+        <author>
+            <name>thoughtpeddler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta announces LlamaCon, its first generative AI dev conference on April 29]]></title>
+        <id>https://www.meta.com/blog/connect-2025-llamacon-save-the-date/</id>
+        <link href="https://www.meta.com/blog/connect-2025-llamacon-save-the-date/"/>
+        <updated>2025-02-19T00:18:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parakeet’s 10th Anniversary]]></title>
+        <id>67A7B1F4-D1C1-49F2-B675-9C452EE027F6</id>
+        <link href="https://lmnt.me/blog/parakeets-10th-anniversary.html"/>
+        <updated>2025-02-18T23:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Luka wrote a really lovely post on Parakeet’s new blog that commemorates our studio’s 10th anniversary. I’m really proud of us and everything we’ve made together.
+10 Years
+If you like this, you can make a one-time donation, donate monthly, or buy something from my shop.]]></summary>
+        <author>
+            <name>Louie Mantia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alice Hamilton Waged a One-Woman Campaign to Get the Lead Out of Everything]]></title>
+        <id>https://news.ycombinator.com/item?id=43096422</id>
+        <link href="https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/"/>
+        <updated>2025-02-18T23:22:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/
+Comments URL: https://news.ycombinator.com/item?id=43096422
+Points: 14
+# Comments: 0]]></summary>
+        <author>
+            <name>Hooke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alice Hamilton Waged a One-Woman Campaign to Get the Lead Out of Everything]]></title>
+        <id>https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/</id>
+        <link href="https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/"/>
+        <updated>2025-02-18T23:22:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HP Acquires Humane's AI Software]]></title>
+        <id>https://news.ycombinator.com/item?id=43095811</id>
+        <link href="https://humane.com/media/humane-hp"/>
+        <updated>2025-02-18T22:15:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://humane.com/media/humane-hp
+Comments URL: https://news.ycombinator.com/item?id=43095811
+Points: 72
+# Comments: 64]]></summary>
+        <author>
+            <name>colesantiago</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HP Acquires Humane's AI Software]]></title>
+        <id>https://humane.com/media/humane-hp</id>
+        <link href="https://humane.com/media/humane-hp"/>
+        <updated>2025-02-18T22:15:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 R6a instances now available in Canada (Central)]]></title>
+        <id>2ee2555d5a89b5f9da6b5a29a9ffe543a8dbf659</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-r6a-instances-canada-central"/>
+        <updated>2025-02-18T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Starting today, the memory-optimized Amazon EC2 R6a instances are now available in Canada (Central) region. R6a instances are powered by third-generation AMD EPYC processors, and deliver up to 35% better price performance than comparable R5a instances. These instances offer 10% lower cost than comparable x86-based EC2 instances.
+  With this additional region, R6a instances are available in the following AWS Regions: US East (Northern Virginia, Ohio), US West (Oregon, N. California), Asia Pacific (Mumbai, Hyderabad, Singapore, Sydney, Tokyo), Canada (Central), and Europe (Frankfurt, Ireland). These instances can be purchased as Savings Plans, Reserved, On-Demand, and Spot instances. To get started, visit the AWS Management Console, AWS Command Line Interface (CLI), and AWS SDKs. To learn more, visit the R6a instances pages.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tc39/proposal-regex-escaping]]></title>
+        <id>https://simonwillison.net/2025/Feb/18/tc39proposal-regex-escaping/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/18/tc39proposal-regex-escaping/#atom-everything"/>
+        <updated>2025-02-18T21:53:56.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong><a href="https://github.com/tc39/proposal-regex-escaping">tc39/proposal-regex-escaping</a></strong></p>
+I just heard <a href="https://social.coop/@kriskowal/114026510846190089">from Kris Kowal</a> that this proposal for ECMAScript has been approved for ECMA TC-39:</p>
+<blockquote>
+<p>Almost 20 years later, @simon’s RegExp.escape idea comes to fruition. This reached “Stage 4” at ECMA TC-39 just now, which formalizes that multiple browsers have shipped the feature and it’s in the next revision of the JavaScript specification.</p>
+</blockquote>
+<p>I'll be honest, I had completely forgotten about my 2006 blog entry <a href="https://simonwillison.net/2006/Jan/20/escape/">Escaping regular expression characters in JavaScript</a> where I proposed that JavaScript should have an equivalent of the Python <a href="https://docs.python.org/3/library/re.html#re.escape">re.escape()</a> function.</p>
+<p>It turns out my post was referenced in <a href="https://esdiscuss.org/topic/regexp-escape">this 15 year old thread</a> on the esdiscuss mailing list, which evolved over time into a proposal which turned into <a href="https://caniuse.com/mdn-javascript_builtins_regexp_escape">implementations</a> in Safari, Firefox and soon Chrome - here's <a href="https://github.com/v8/v8/commit/b5c08badc7b3d4b85b2645b1a4d9973ee6efaa91">the commit landing it in v8</a> on February 12th 2025.</p>
+<p>One of the best things about having a long-running blog is that sometimes posts you forgot about over a decade ago turn out to have a life of their own.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/standards">standards</a>, <a href="https://simonwillison.net/tags/ecmascript">ecmascript</a>, <a href="https://simonwillison.net/tags/javascript">javascript</a>, <a href="https://simonwillison.net/tags/regular-expressions">regular-expressions</a>, <a href="https://simonwillison.net/tags/blogging">blogging</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift announces history mode for zero-ETL integrations to simplify historical data tracking and analysis]]></title>
+        <id>4edf062b80adf3eb0cfe8301a86e255f21ac94f7</id>
+        <link href="https://aws.amazon.com/blogs/big-data/amazon-redshift-announces-history-mode-for-zero-etl-integrations-to-simplify-historical-data-tracking-and-analysis/"/>
+        <updated>2025-02-18T21:13:23.000Z</updated>
+        <summary type="html"><![CDATA[This post will explore brief history of zero-ETL, its importance for customers, and introduce an exciting new feature: history mode for Amazon Aurora PostgreSQL-Compatible Edition, Amazon Aurora MySQL-Compatible Edition, Amazon Relational Database Service (Amazon RDS) for MySQL, and Amazon DynamoDB zero-ETL integration with Amazon Redshift.]]></summary>
+        <author>
+            <name>Raks Khare</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamline AWS WAF log analysis with Apache Iceberg and Amazon Data Firehose]]></title>
+        <id>93e354cf2d9aa1f31f3463b1e6028a68b6796011</id>
+        <link href="https://aws.amazon.com/blogs/big-data/streamline-aws-waf-log-analysis-with-apache-iceberg-and-amazon-data-firehose/"/>
+        <updated>2025-02-18T21:12:39.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to build a scalable AWS WAF log analysis solution using Firehose and Apache Iceberg. Firehose simplifies the entire process—from log ingestion to storage—by allowing you to configure a delivery stream that delivers AWS WAF logs directly to Apache Iceberg tables in Amazon S3. The solution requires no infrastructure setup and you pay only for the data you process.]]></summary>
+        <author>
+            <name>Charishma Makineni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📝 18 February 2025 at 21:06 - I haven't read this much bollocks in a long long...]]></title>
+        <id>notes/20250218-2106</id>
+        <link href="https://kevquirk.com/notes/20250218-2106"/>
+        <updated>2025-02-18T21:10:00.000Z</updated>
+        <summary type="html"><![CDATA[I haven't read this much bollocks in a long, long time.
+https://andysblog.uk/blogging-for-traffic-not-design/
+Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️
+Reply to this post by email ● 
+              Sign my guestbook]]></summary>
+        <author>
+            <name>Kev Quirk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A year of uv: pros, cons, and should you migrate]]></title>
+        <id>https://news.ycombinator.com/item?id=43095157</id>
+        <link href="https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should"/>
+        <updated>2025-02-18T21:09:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should
+Comments URL: https://news.ycombinator.com/item?id=43095157
+Points: 157
+# Comments: 67]]></summary>
+        <author>
+            <name>bertdb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A year of uv: pros, cons, and should you migrate]]></title>
+        <id>https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should</id>
+        <link href="https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should"/>
+        <updated>2025-02-18T21:09:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kafka at the low end: how bad can it get?]]></title>
+        <id>https://news.ycombinator.com/item?id=43095070</id>
+        <link href="https://broot.ca/kafka-at-the-low-end.html"/>
+        <updated>2025-02-18T21:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://broot.ca/kafka-at-the-low-end.html
+Comments URL: https://news.ycombinator.com/item?id=43095070
+Points: 53
+# Comments: 24]]></summary>
+        <author>
+            <name>alexwebr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kafka at the low end: how bad can it get?]]></title>
+        <id>https://broot.ca/kafka-at-the-low-end.html</id>
+        <link href="https://broot.ca/kafka-at-the-low-end.html"/>
+        <updated>2025-02-18T21:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Converge (YC S23) is hiring engineer #2 in NYC]]></title>
+        <id>https://news.ycombinator.com/item?id=43095067</id>
+        <link href="https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP"/>
+        <updated>2025-02-18T21:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP
+Comments URL: https://news.ycombinator.com/item?id=43095067
+Points: 0
+# Comments: 0]]></summary>
+        <author>
+            <name>thomashlvt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Converge (YC S23) is hiring engineer #2 in NYC]]></title>
+        <id>https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP</id>
+        <link href="https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP"/>
+        <updated>2025-02-18T21:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Korean regulator accuses DeepSeek of sharing user data with ByteDance]]></title>
+        <id>https://news.ycombinator.com/item?id=43094651</id>
+        <link href="https://www.bbc.com/news/articles/c4gex0x87g4o"/>
+        <updated>2025-02-18T20:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/articles/c4gex0x87g4o
+Comments URL: https://news.ycombinator.com/item?id=43094651
+Points: 154
+# Comments: 71]]></summary>
+        <author>
+            <name>devonnull</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Korean regulator accuses DeepSeek of sharing user data with ByteDance]]></title>
+        <id>https://www.bbc.com/news/articles/c4gex0x87g4o</id>
+        <link href="https://www.bbc.com/news/articles/c4gex0x87g4o"/>
+        <updated>2025-02-18T20:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve releases Team Fortress 2 game code]]></title>
+        <id>https://news.ycombinator.com/item?id=43094260</id>
+        <link href="https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9"/>
+        <updated>2025-02-18T19:57:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9
+Comments URL: https://news.ycombinator.com/item?id=43094260
+Points: 865
+# Comments: 213]]></summary>
+        <author>
+            <name>davikr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve releases Team Fortress 2 game code]]></title>
+        <id>https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9</id>
+        <link href="https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9"/>
+        <updated>2025-02-18T19:57:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My LLM codegen workflow]]></title>
+        <id>https://news.ycombinator.com/item?id=43094006</id>
+        <link href="https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/"/>
+        <updated>2025-02-18T19:33:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/
+Comments URL: https://news.ycombinator.com/item?id=43094006
+Points: 271
+# Comments: 90]]></summary>
+        <author>
+            <name>lolptdr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My LLM codegen workflow]]></title>
+        <id>https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/</id>
+        <link href="https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/"/>
+        <updated>2025-02-18T19:33:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📝 18 February 2025 at 19:30 - Tell me you're working too many hours without telling me...]]></title>
+        <id>notes/20250218-1930</id>
+        <link href="https://kevquirk.com/notes/20250218-1930"/>
+        <updated>2025-02-18T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Tell me you're working too many hours without telling me you're working too many hours...
+Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️
+Reply to this post by email ● 
+              Sign my guestbook]]></summary>
+        <author>
+            <name>Kev Quirk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuclear fusion: WEST beats the world record for plasma duration]]></title>
+        <id>https://news.ycombinator.com/item?id=43093939</id>
+        <link href="https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx"/>
+        <updated>2025-02-18T19:26:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx
+Comments URL: https://news.ycombinator.com/item?id=43093939
+Points: 232
+# Comments: 206]]></summary>
+        <author>
+            <name>mpweiher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuclear fusion: WEST beats the world record for plasma duration]]></title>
+        <id>https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx</id>
+        <link href="https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx"/>
+        <updated>2025-02-18T19:26:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS WAF enhances Data Protection and logging experience]]></title>
+        <id>2824d919eb63c1d5c6c4a1fa0a5cd4684f0ae0f3</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-data-protection-logging-experience"/>
+        <updated>2025-02-18T19:12:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS WAF expands its Data Protection capabilities with new controls for sensitive data in logs. In addition, we have updated the Logging configuration console experience, making it easier for customer to select the optimal logging option.
+  Data Protection works together with existing Logging Redaction and Filtering features. You can select which protection method to use based on your use case and where you need to apply the controls. When configured, selected request log fields can be replaced with cryptographic hashes (e.g. ‘ade099751d2ea9f3393f0f’) or a predefined static string (‘REDACTED’) before logs are sent to WAF Sample Logs, Amazon Security Lake, CloudWatch, or other logging destinations. This centralized approach is designed to simplify the management of data and reduces the risk of accidental exposure. In addition, we simplified the WAF console experience for managing logging configurations. Customers can now view all available logging options and select their preferred settings in a simple unified experience.
+  This feature is available in all AWS Regions and endpoints where AWS WAF is available. To learn more, see the AWS WAF developer guide. There is no additional cost for using this feature, however standard AWS WAF charges still apply. For details, visit the AWS WAF Pricing page.
+  To use the new Data Protection feature, simply navigate to your Web ACL 'Logging and metrics' section in the AWS WAF console and choose the desired data protection option. Existing logging configurations will remain unchanged. For more information about the Data Protection, visit AWS documentation.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensor evolution: A framework for fast tensor computations using recurrences]]></title>
+        <id>https://news.ycombinator.com/item?id=43093610</id>
+        <link href="https://arxiv.org/abs/2502.03402"/>
+        <updated>2025-02-18T18:55:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2502.03402
+Comments URL: https://news.ycombinator.com/item?id=43093610
+Points: 38
+# Comments: 5]]></summary>
+        <author>
+            <name>matt_d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensor evolution: A framework for fast tensor computations using recurrences]]></title>
+        <id>https://arxiv.org/abs/2502.03402</id>
+        <link href="https://arxiv.org/abs/2502.03402"/>
+        <updated>2025-02-18T18:55:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Phished Data Turns into Apple & Google Wallets]]></title>
+        <id>https://krebsonsecurity.com/?p=70276</id>
+        <link href="https://krebsonsecurity.com/2025/02/how-phished-data-turns-into-apple-google-wallets/"/>
+        <updated>2025-02-18T18:37:26.000Z</updated>
+        <summary type="html"><![CDATA[Carding -- the underground business of stealing, selling and swiping stolen payment card data -- has long been the dominion of Russia-based hackers. Happily, the broad deployment of more secure chip-based payment cards in the United States has weakened the carding market. But a flurry of innovation from cybercrime groups in China is breathing new life into the carding industry, by turning phished card data into mobile wallets that can be used online and at main street stores.]]></summary>
+        <author>
+            <name>BrianKrebs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pi-hole v6]]></title>
+        <id>https://news.ycombinator.com/item?id=43093328</id>
+        <link href="https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/"/>
+        <updated>2025-02-18T18:31:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/
+Comments URL: https://news.ycombinator.com/item?id=43093328
+Points: 353
+# Comments: 184]]></summary>
+        <author>
+            <name>tkuraku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pi-hole v6]]></title>
+        <id>https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/</id>
+        <link href="https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/"/>
+        <updated>2025-02-18T18:31:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Among top researchers 10% publish at unrealistic levels, analysis finds]]></title>
+        <id>https://news.ycombinator.com/item?id=43093155</id>
+        <link href="https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article"/>
+        <updated>2025-02-18T18:16:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article
+Comments URL: https://news.ycombinator.com/item?id=43093155
+Points: 146
+# Comments: 92]]></summary>
+        <author>
+            <name>crescit_eundo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Among top researchers 10% publish at unrealistic levels, analysis finds]]></title>
+        <id>https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article</id>
+        <link href="https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article"/>
+        <updated>2025-02-18T18:16:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amplify Hosting announces support for IAM roles for server-side rendered (SSR) applications]]></title>
+        <id>c4d3a3484d5f75b56449d0ab09ea5f54c8319a01</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amplify-hosting-iam-roles-ssr-applications/"/>
+        <updated>2025-02-18T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're excited to announce the launch of IAM compute roles for AWS Amplify Hosting, enabling secure connections to other AWS resources from server-side rendered applications. This allows developers to integrate their SSR applications with AWS services while maintaining robust security practices.
+ 
+Use Cases Unlocked:
+ 
+ 
+ 
+Secure credential management for SSR applications
+ 
+ 
+Direct integration with AWS services like Secrets Manager and Parameter Store
+ 
+ 
+Support for database connections (RDS, DynamoDB)
+ 
+ 
+Granular permission controls
+ 
+ 
+Branch-specific role configurations
+ 
+ 
+This feature is available in all 20 AWS Amplify Hosting regions: US East (Ohio), US East (N. Virginia), US West (N. California), US West (Oregon), Asia Pacific (Hong Kong), Asia Pacific (Tokyo), Asia Pacific (Osaka) Asia Pacific (Seoul), Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Canada (Central), Europe (Frankfurt), Europe (Stockholm), Europe (Milan), Europe (Ireland), Europe (London), Europe (Paris), Middle East (Bahrain) and South America (São Paulo).
+ 
+To learn more, read the documentation. To get started with a tutorial, check out our blog post.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Storage Gateway is now available in AWS Mexico (Central) Region]]></title>
+        <id>45b733c3baea542b20e07b0b13f35087413b8885</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-storage-gateway-mexico-central-region/"/>
+        <updated>2025-02-18T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS Storage Gateway expands availability to the AWS Mexico (Central) Region enabling customers to deploy and manage hybrid cloud storage for their on-premises workloads.
+  AWS Storage Gateway is a hybrid cloud storage service that provides on-premises applications access to virtually unlimited storage in the cloud. You can use AWS Storage Gateway for backing up and archiving data to AWS, providing on-premises file shares backed by cloud storage, and providing on-premises applications low latency access to data in the cloud.
+  Visit the AWS Storage Gateway product page to learn more. Access the AWS Storage Gateway console to get started. To see all the Regions where AWS Storage Gateway is available, please visit the AWS Region table.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Timestream for InfluxDB Adds Read Replica support]]></title>
+        <id>d635ae9babaee2a8214ce95c28b73dd4b1c96178</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-timestream-influxdb-read-replica-support/"/>
+        <updated>2025-02-18T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Timestream for InfluxDB now supports Read Replicas, enabling customers to scale their read operations across multiple instances and Availability Zones. Customers can activate a Read Replica via the AWS Marketplace from the Timestream AWS Management Console while creating a Timestream for InfluxDB instance.
+  Adding Read Replicas allow customers to support higher read throughput by distributing read requests across multiple database instances while maintaining a single write endpoint. This helps customers meet the demands of read-intensive workloads, such as real-time analytics and monitoring applications, and improve application performance and availability. Customers can create a Multi-AZ Read Replica cluster with just a few clicks in the AWS Management Console.
+  Support for Timestream for InfluxDB Read Replicas is available the following Timestream for InfluxDB Regions: US East (Ohio), US East (N. Virginia), US West (Oregon), Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Canada (Central), Europe (Frankfurt), Europe (Ireland), Europe (London), Europe (Milan), Europe (Paris), and Europe (Stockholm). To learn more about Amazon Timestream for InfluxDB, please refer to our user guide.
+  You can create a Amazon Timestream for InfluxDB Read Replicas cluster from the Amazon Timestream console, AWS Command line Interface (CLI), or SDK, and AWS CloudFormation. To learn more about the Read Replica Cluster for Amazon Timestream for InfluxDB, visit the product page, documentation, and pricing page.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an Open, Multi-Engine Data Lakehouse with S3 and Python]]></title>
+        <id>https://news.ycombinator.com/item?id=43092579</id>
+        <link href="https://tower.dev/blog/building-an-open-multi-engine-data-lakehouse-with-s3-and-python"/>
+        <updated>2025-02-18T17:33:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tower.dev/blog/building-an-open-multi-engine-data-lakehouse-with-s3-and-python
+Comments URL: https://news.ycombinator.com/item?id=43092579
+Points: 46
+# Comments: 7]]></summary>
+        <author>
+            <name>bradhe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an Open, Multi-Engine Data Lakehouse with S3 and Python]]></title>
+        <id>https://tower.dev/blog/building-an-open-multi-engine-data-lakehouse-with-s3-and-python</id>
+        <link href="https://tower.dev/blog/building-an-open-multi-engine-data-lakehouse-with-s3-and-python"/>
+        <updated>2025-02-18T17:33:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Promptless (YC W25) – Automatic updates for customer-facing docs]]></title>
+        <id>https://news.ycombinator.com/item?id=43092522</id>
+        <link href="https://news.ycombinator.com/item?id=43092522"/>
+        <updated>2025-02-18T17:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN! I’m Prithvi, and my co-founder Frances and I built Promptless (https://gopromptless.ai), an AI teammate that proactively updates docs while you ship software.
+There’s a demo video at https://youtu.be/pmslSl8dOgE, and also a “Live Demo on Your Own Docs” at https://gopromptless.ai/demo where you can plug in the URL to any existing docs site and simulate a "trigger event" to see what Promptless would have suggested. We also opened up the full product with automatic triggers for a free trial for HN this week (if you sign up at https://gopromptless.ai/hn).
+We built Promptless because we wished we had it, both as doc authors and doc consumers. On the authoring side, I used to run engineering at a fintech company, and since no developer enjoys updating docs, they often went out-of-date and…]]></summary>
+        <author>
+            <name>prithvi2206</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Promptless (YC W25) – Automatic updates for customer-facing docs]]></title>
+        <id>https://news.ycombinator.com/item?id=43092522</id>
+        <link href="https://news.ycombinator.com/item?id=43092522"/>
+        <updated>2025-02-18T17:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try thinking and learning without working memory (2008)]]></title>
+        <id>https://news.ycombinator.com/item?id=43092386</id>
+        <link href="https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/"/>
+        <updated>2025-02-18T17:21:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/
+Comments URL: https://news.ycombinator.com/item?id=43092386
+Points: 105
+# Comments: 55]]></summary>
+        <author>
+            <name>yamrzou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One year after switching from Java to Go]]></title>
+        <id>https://news.ycombinator.com/item?id=43092003</id>
+        <link href="https://glasskube.dev/blog/from-java-to-go/"/>
+        <updated>2025-02-18T16:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://glasskube.dev/blog/from-java-to-go/
+Comments URL: https://news.ycombinator.com/item?id=43092003
+Points: 87
+# Comments: 64]]></summary>
+        <author>
+            <name>pmig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One year after switching from Java to Go]]></title>
+        <id>https://glasskube.dev/blog/from-java-to-go/</id>
+        <link href="https://glasskube.dev/blog/from-java-to-go/"/>
+        <updated>2025-02-18T16:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andrej Karpathy's initial impressions of Grok 3]]></title>
+        <id>https://simonwillison.net/2025/Feb/18/andrej-karpathy-grok-3/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/18/andrej-karpathy-grok-3/#atom-everything"/>
+        <updated>2025-02-18T16:46:25.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong><a href="https://twitter.com/karpathy/status/1891720635363254772">Andrej Karpathy&#x27;s initial impressions of Grok 3</a></strong></p>
+Andrej has the most detailed analysis I've seen so far of xAI's Grok 3 release from last night. He runs through a bunch of interesting test prompts, and concludes:</p>
+<blockquote>
+<p>As far as a quick vibe check over ~2 hours this morning, Grok 3 + Thinking feels somewhere around the state of the art territory of OpenAI's strongest models (o1-pro, $200/month), and slightly better than DeepSeek-R1 and Gemini 2.0 Flash Thinking. Which is quite incredible considering that the team started from scratch ~1 year ago, this timescale to state of the art territory is unprecedented.</p>
+</blockquote>
+<p>I was delighted to see him include my <code>Generate an SVG of a pelican riding a bicycle</code> benchmark in his tests:</p>
+<p><img alt="Grok 3's pelicans are pretty good, though I still slightly prefer Claude 3.5 Sonnet's." src="https://static.simonwillison.net/static/2025/grok3-pelican.jpg" /></p>
+<p>Grok 3 is currently sat at the top of the LLM <a href="https://lmarena.ai/">Chatbot Arena</a> (across <a href="https://x.com/lmarena_ai/status/1891706269003600187">all of their categories</a>) so it's doing very well based on vibes for the voters there.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/andrej-karpathy">andrej-karpathy</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/grok">grok</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Blog Post Ever]]></title>
+        <id>https://birming.com/best-blog-post/</id>
+        <link href="https://birming.com/best-blog-post/"/>
+        <updated>2025-02-18T16:39:00.000Z</updated>
+        <summary type="html"><![CDATA[I love the movie "The Perks of Being a Wallflower" and have seen it several times. Now I have also read the book for the first time, and it was at least as good.
+In one of the scenes, the main character is asked what his favorite book is. When he reveals the answer, he is asked the follow-up question "Why?", to which he replies:
+"Because it's the latest one I've read."
+I can't say that it's the same for me when it comes to books, but it made me think of a blog post I read recently. It was Annie Mueller's answer to the question "What's your favorite post on your blog?". She replied:
+"Always the one I'm writing right now."
+What a great answer! I wish I had answered the same when I got that question, because it's true.
+I think most bloggers relate to this. Why else would we continue?
+It's not because the latest post is the most well-written, or that we have learned new fancy words, or that it got a lot of views.
+It's because it's a snapshot. This is where we are and who we are right now.
+It's a timestamp, a fingerprint of time.
+And it's the best blog post we've ever written.]]></summary>
+        <author>
+            <name>Robert Birming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[File Pilot: A file explorer built for speed with a modern, robust interface]]></title>
+        <id>https://news.ycombinator.com/item?id=43091466</id>
+        <link href="https://filepilot.tech/"/>
+        <updated>2025-02-18T16:24:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://filepilot.tech/
+Comments URL: https://news.ycombinator.com/item?id=43091466
+Points: 83
+# Comments: 22]]></summary>
+        <author>
+            <name>vjekoslav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[File Pilot: A file explorer built for speed with a modern, robust interface]]></title>
+        <id>https://filepilot.tech/</id>
+        <link href="https://filepilot.tech/"/>
+        <updated>2025-02-18T16:24:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migraine is more than a headache – a rethink offers hope]]></title>
+        <id>https://news.ycombinator.com/item?id=43090857</id>
+        <link href="https://www.nature.com/articles/d41586-025-00456-x"/>
+        <updated>2025-02-18T15:47:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-025-00456-x
+Comments URL: https://news.ycombinator.com/item?id=43090857
+Points: 64
+# Comments: 78]]></summary>
+        <author>
+            <name>rntn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migraine is more than a headache – a rethink offers hope]]></title>
+        <id>https://www.nature.com/articles/d41586-025-00456-x</id>
+        <link href="https://www.nature.com/articles/d41586-025-00456-x"/>
+        <updated>2025-02-18T15:47:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Scripton – Python IDE with built-in realtime visualizations]]></title>
+        <id>https://scripton.dev/</id>
+        <link href="https://scripton.dev/"/>
+        <updated>2025-02-18T14:57:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theatre Review: Inside No. 9 Stage/Fright ★★★★★]]></title>
+        <id>https://shkspr.mobi/blog/2025/02/theatre-review-inside-no-9-stage-fright/</id>
+        <link href="https://shkspr.mobi/blog/2025/02/theatre-review-inside-no-9-stage-fright/"/>
+        <updated>2025-02-18T12:34:19.000Z</updated>
+        <summary type="html"><![CDATA[This is spoiler-free review.  In one episode of Inside Number Nine, two old comedians are bickering. In a moment of understated savagery one says to the other &#34;That&#039;s a cheap laugh, Len.&#34;  Len replies with a mischievous twinkle in his eye, &#34;Oh, come on. A laugh&#039;s a laugh however you earn it.&#34;  That sets up the central tension for the West-End-Spectacular version of the show - Stage/Fright.  What makes for a &#34;cheap&#34; scream of terror? It&#039;s easy to have a jump scare, or an on-stage explosion. The…]]></summary>
+        <author>
+            <name>Terence Eden’s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XOR]]></title>
+        <id>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/</id>
+        <link href="https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/"/>
+        <updated>2025-02-18T10:02:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making my debug build run 100x faster so that it is finally usable]]></title>
+        <id>https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html</id>
+        <link href="https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html"/>
+        <updated>2025-02-18T08:48:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re: Netgear Router Administrative Web Interface Lacks Transport Encryption By Default]]></title>
+        <id>https://seclists.org/fulldisclosure/2025/Feb/14</id>
+        <link href="https://seclists.org/fulldisclosure/2025/Feb/14"/>
+        <updated>2025-02-18T04:10:33.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Gynvael Coldwind on Feb 17
+Hi,
+
+This isn't really a problem a vendor can solve in firmware (apart from
+offering configuration via cloud, which has its own issues).
+Even if they would enable TLS/SSL by default, it would just give one a
+false sense of security, since:
+- the certificates would be invalid (public CAs don't give out certs for IP
+addresses),
+- they would be easy to clone (due to being self-signed and/or being easy
+to extract from a similar device),
+-...]]></summary>
+        <author>
+            <name>Full Disclosure</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why can't we remember our lives as babies or toddlers?]]></title>
         <id>https://news.ycombinator.com/item?id=43084355</id>
@@ -24,6 +745,16 @@ Points: 15
         <id>https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers</id>
         <link href="https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers"/>
         <updated>2025-02-17T23:44:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming with chronic pain]]></title>
+        <id>https://thomasvogelaar.me/posts/programming-with-chronic-pain/</id>
+        <link href="https://thomasvogelaar.me/posts/programming-with-chronic-pain/"/>
+        <updated>2025-02-17T23:43:22.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -106,6 +837,18 @@ Points: 81
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamically update your running EMR cluster with reconfiguration for instance fleets]]></title>
+        <id>e59f084f089e1643a9c4d039b47ae8cdcde93418</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/update-running-emr-cluster-reconfiguration-instance-fleets"/>
+        <updated>2025-02-17T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR on EC2 now supports real-time update of application configurations for EMR instance fleets without requiring cluster termination or restart. With this feature, customers can now dynamically adjust application configurations, such as Spark’s executor memory, YARN’s resource allocation, and HDFS settings seamlessly, on a running cluster, minimizing interruptions to your workloads. This is particularly useful for adjusting resource allocation and fine-tune applications to match data processing and job performance requirements, while ensuring optimal resource utilization.
+  Amazon EMR is a cloud big data platform for data processing, interactive analysis, and machine learning using open-source frameworks such as Apache Spark, Apache Flink, and Trino. Previously, you had to terminate and relaunch instance fleet clusters with new configurations. This process resulted in downtime, increased operational effort, and delayed workflow adjustments. With support for reconfiguration, EMR dynamically applies the updated configurations on cluster nodes on a rolling basis while ensuring cluster stability and resource availability. It provides notifications to customers via Amazon CloudWatch and EMR events. In the event of a failure or an incompatible update, EMR rolls back the changes to ensure your cluster remains operational. You can continue to run workloads on the cluster during the update process.
+  You can leverage this feature on all EMR 5.21 and later releases using AWS CLI, or API. This capability is available in all AWS Regions, including the AWS GovCloud (US) Regions, where Amazon EMR on EC2 is available. To learn more, please refer to the documentation here.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -247,6 +990,16 @@ Points: 74
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why I'm writing a Scheme implementation in 2025: Async Rust]]></title>
+        <id>https://maplant.com/2025-02-17-Why-I%27m-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html</id>
+        <link href="https://maplant.com/2025-02-17-Why-I%27m-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html"/>
+        <updated>2025-02-17T20:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Plane crashes, overturns during landing at Toronto airport]]></title>
         <id>https://news.ycombinator.com/item?id=43083012</id>
         <link href="https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227"/>
@@ -380,6 +1133,45 @@ Points: 180
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CDK releases L2 construct support for Amazon Data Firehose delivery streams]]></title>
+        <id>6521dbdb1bc326cd2f334bcc70d6319ada76055a</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cdk-l2-construct-data-firehose-delivery-streams/"/>
+        <updated>2025-02-17T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS Cloud Development Kit (AWS CDK) now includes L2 construct support for Amazon Data Firehose delivery streams, enabling developers to define and deploy streaming data infrastructure as code. This new capability allows you to programmatically configure delivery streams that automatically deliver real-time data to destinations like Amazon S3.
+  With this addition to AWS CDK, you can define sophisticated streaming architectures using familiar programming languages like TypeScript, Python, Java, and .NET. The module simplifies the process of setting up fully-managed delivery streams that push data to your desired destinations on a regular cadence, making it easier to build data lakes, enable real-time analytics, and create data archival solutions.
+  To learn more about using Amazon Data Firehose with AWS CDK, see the AWS CDK documentation and the Amazon Data Firehose Developer Guide. You can also explore sample applications and use cases on the AWS CDK Workshop website.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift now available in 18 additional regions]]></title>
+        <id>f5e726bde17f533259009e14d75b12261f4e6e2d</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-aurora-postgresql-zero-etl-integration-redshift/"/>
+        <updated>2025-02-17T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Aurora PostgreSQL-Compatible Edition zero-ETL integration with Amazon Redshift is now supported in 18 additional regions, enabling near real-time analytics and machine learning (ML) using Amazon Redshift. With this launch, Aurora PostgreSQL zero-ETL integration with Amazon Redshift is supported in all AWS commercial regions where Amazon Redshift is supported.
+  Zero-ETL integration with Amazon Redshift enables near real-time analytics and machine learning (ML) using Amazon Redshift to analyze petabytes of transactional data from Aurora. Within seconds of transactional data being written into Amazon Aurora PostgreSQL-Compatible Edition, zero-ETL seamlessly makes the data available in Amazon Redshift, removing the need to build and manage complex data pipelines that perform extract, transform, and load (ETL) operations.
+  Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift is available for Aurora PostgreSQL version 16.4 and higher in US West (N. California), Africa (Cape Town), Asia Pacific (Hyderabad), Asia Pacific (Jakarta), Asia Pacific (Melbourne), Asia Pacific (Osaka), Asia Pacific (Seoul), Canada (Central), Canada West (Calgary), Europe (London), Europe (Milan), Europe (Paris), Europe (Spain), Europe (Zurich), Israel (Tel Aviv), Middle East (Bahrain), Middle East (UAE), South America (São Paulo). For all regions supported by the Aurora PostgreSQL zero-ETL integration, see the supported AWS regions.
+  To learn more and get started with zero-ETL integration, visit Amazon Aurora zero-ETL integration with Amazon Redshift and the getting started guides for Aurora and Amazon Redshift.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Price List API supports AWS PrivateLink]]></title>
+        <id>2c6f08a0be0fdde146b537230343e47b14c04739</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-price-list-api-privatelink"/>
+        <updated>2025-02-17T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS Price List API now supports AWS PrivateLink. With AWS PrivateLink, you can simplify private network connectivity between virtual private clouds (VPCs), the AWS Price List API, and your on-premises data centers by using interface VPC endpoints and private IP addresses.
+  The AWS Price List API provides a catalog of the products and prices for AWS services that you can purchase on AWS.
+ AWS PrivateLink is compatible with AWS Direct Connect and AWS Virtual Private Network (VPN) to facilitate private network connectivity, and helps you eliminate the need to use public IP addresses, configure firewall rules, or configure an internet gateway to access the AWS Price List API from your on-premises data centers. Using the AWS Price List API with AWS Private Link enables you to access AWS product and pricing data without the need to access the public internet.
+  AWS PrivateLink for AWS Price List API is available in all commercial regions where the AWS Price List API is available (US East (N. Virginia), Asia Pacific (Mumbai), Europe (Frankfurt), China (Ningxia). There is an additional cost to use this feature. Please see AWS PrivateLink pricing for more details.
+  You can get started with the feature by using the AWS Management Console, AWS API, AWS CLI, AWS SDK, or AWS CloudFormation. Learn more at Access AWS Billing and Cost Management using an interface endpoint (AWS PrivateLink).]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -788,6 +1580,16 @@ Points: 3
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: A GPU-accelerated binary vector index]]></title>
+        <id>https://rlafuente.com/post?post=2024-6-12-a-binary-vector-store</id>
+        <link href="https://rlafuente.com/post?post=2024-6-12-a-binary-vector-store"/>
+        <updated>2025-02-17T00:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to add a directory to your PATH]]></title>
         <id>https://news.ycombinator.com/item?id=43073481</id>
         <link href="https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/"/>
@@ -1094,6 +1896,16 @@ Points: 60
         <id>https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer</id>
         <link href="https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer"/>
         <updated>2025-02-16T19:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grim Fandango Puzzle Document (1996) [pdf]]]></title>
+        <id>http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf</id>
+        <link href="http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf"/>
+        <updated>2025-02-16T19:13:15.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -2038,6 +2850,16 @@ Having a global team means I regularly work long hours too. Which is fine, and p
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kleene as a Container Management Platform for FreeBSD]]></title>
+        <id>https://gyptazy.com/howto-kleene-as-a-container-management-platform-for-freebsd/</id>
+        <link href="https://gyptazy.com/howto-kleene-as-a-container-management-platform-for-freebsd/"/>
+        <updated>2025-02-15T11:23:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ginza Vending Machines]]></title>
         <id>172914D8-D5C4-4A48-8994-A9D2F454D13B</id>
         <link href="https://lmnt.me/blog/photos/ginza-vending-machines.html"/>
@@ -2046,6 +2868,16 @@ Having a global team means I regularly work long hours too. Which is fine, and p
 If you like this, you can make a one-time donation, donate monthly, or buy something from my shop.]]></summary>
         <author>
             <name>Louie Mantia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are LLMs able to play the card game Set?]]></title>
+        <id>https://github.com/vnglst/when-ai-fails/tree/main/playing-set</id>
+        <link href="https://github.com/vnglst/when-ai-fails/tree/main/playing-set"/>
+        <updated>2025-02-15T10:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -2149,6 +2981,16 @@ Points: 398
         <id>https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/</id>
         <link href="https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/"/>
         <updated>2025-02-15T03:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little Sisyphus A physics-based platformer for the NES]]></title>
+        <id>https://pubby.games/sisyphus.html</id>
+        <link href="https://pubby.games/sisyphus.html"/>
+        <updated>2025-02-15T02:44:05.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -2354,6 +3196,16 @@ Points: 102
         <id>https://mathstodon.xyz/@tao/113873092369347147</id>
         <link href="https://mathstodon.xyz/@tao/113873092369347147"/>
         <updated>2025-02-14T22:05:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saying goodbye to FFmpegKit]]></title>
+        <id>https://tanersener.medium.com/saying-goodbye-to-ffmpegkit-33ae939767e1</id>
+        <link href="https://tanersener.medium.com/saying-goodbye-to-ffmpegkit-33ae939767e1"/>
+        <updated>2025-02-14T21:53:40.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -25681,91 +26533,6 @@ Reply to this post by email ●
         <summary type="html"><![CDATA[How Amazon CloudFront saved my Azure project from major disruption after Edgio's unexpected shutdown announcement]]></summary>
         <author>
             <name>Tobias Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google has no faith in its ability to launch new products]]></title>
-        <id>https://shkspr.mobi/blog/2025/01/google-has-no-faith-in-its-ability-to-launch-new-products/</id>
-        <link href="https://shkspr.mobi/blog/2025/01/google-has-no-faith-in-its-ability-to-launch-new-products/"/>
-        <updated>2025-01-20T12:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Back when I was a product manager for a large mobile network operator, we faced a constant problem. How do you launch a new product to the public?  Most people are reluctant to try new things. Even in the exciting world of proto-smartphones, convincing someone to download, install, configure, and use a new app was difficult. Sure, we could run expensive advertising campaigns. Send hopeful text messages. Have a big celebrity endorsement. Or maybe get our customer service reps to push it.  In the …]]></summary>
-        <author>
-            <name>Terence Eden’s Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bear Blog Question Challenge]]></title>
-        <id>https://birming.com/bear-blog-question-challenge/</id>
-        <link href="https://birming.com/bear-blog-question-challenge/"/>
-        <updated>2025-01-20T11:12:00.000Z</updated>
-        <summary type="html"><![CDATA[First of all, I want to take this opportunity to thank Ava for the mention and the lovely "Bear blog question challenge" initiative. Thank you!
-I've wanted to post a reply since I first saw the post, but I've (once again) had some serious blogging-in-English-doubts lately. But I won’t bore you with that. So without further ado, here are my answers:
-Why did you make the blog in the first place?
-I have blogged on and off in my native language, Swedish, for over 20 years. With this blog, I wanted to make an honest attempt to blog in English (which, as mentioned, is going so-so). I want to keep the blog alive, but I don’t dare hope for too much. Regardless, I will definitely continue blogging in one way or another. In my opinion, blogging is the optimal way to write. It’s creative and inspirin…]]></summary>
-        <author>
-            <name>Robert Birming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Withered Technology]]></title>
-        <id>67622929-402D-40B7-ADE8-D68AC39FEE47</id>
-        <link href="https://lmnt.me/blog/withered-technology.html"/>
-        <updated>2025-01-20T03:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Gunpei Yokoi, a designer of the original Game Boy, described his philosophy as “lateral thinking with withered technology.”
-Instead of focusing on the newest, shiniest, and often most-expensive components, Nintendo focused on maximizing the potential of more mature and cheaper technology.
-Despite backlit color displays being available at the time, Nintendo opted for a four-shade monochrome display. They made the most of that choice, producing a vast library of games that people still enjoy today. At release, Game Boy required four batteries and had the potential for a whopping 30 hours of battery life.
-Sega introduced Game Gear a year later with a backlit color display. To accommodate that choice, it required six AA batteries, which is one reason for its larger form factor. The battery life was a mere 3–5 hours. While Nintendo made efforts to reduce the size of their product while gradually incorporating newer technology, Sega doubled down on their strategy, introducing the extremely-novel Nomad handheld, which still required six AA batteries—or an AC adapter—to power it. To be clear, Nomad did not intend to replace Game Gear. Its even-shorter battery life may have assured that.
-Sega never made a handheld again. Nintendo is famously still at it. As of now, of the top four best-selling consoles of all time, three are Nintendo handhelds (Nintendo DS, Switch, and Game Boy).
-Though Nintendo employs more-modern technologies now, they are still criticized for not having the most-modern technologies that their rivals are all-too-happy to include, often at the cost of compatibility, affordability, and energy efficiency.
-This is not a condemnation of using cutting-edge technology. But if given the choice, I prefer “lateral thinking with withered technology.” I think that’s a great philosophy to consider when making anything.
-If you like this, you can make a donation or buy something from my shop.]]></summary>
-        <author>
-            <name>Louie Mantia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Or, Instead of All This—]]></title>
-        <id>70DB17C1-F31C-4112-82A6-3C3CA7F0A85D</id>
-        <link href="https://lmnt.me/blog/or-instead-of-all-this.html"/>
-        <updated>2025-01-20T00:05:00.000Z</updated>
-        <summary type="html"><![CDATA[I saw a few posts and headlines that made me do a double-take. Not because they were particularly shocking, but because they are incredibly avoidable.
-Ghost is a recently-popular (but actually more than a decade old) blogging platform. People have been moving from Substack (nazis) and Wordpress (bozos) to Ghost. A couple weeks ago, Ghost announced they’re introducing native support for custom fonts, “with even more control over your brand.” WOFF web fonts have existed for 15 years.
-Read.cv is a professional networking site, like an alternative to LinkedIn, where users could share their résumés and portfolios. People have been flocking here not just as an alternative to LinkedIn but also for people in need of an online professional profile. They even offered blogging tools. Anyway, the team…]]></summary>
-        <author>
-            <name>Louie Mantia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miniflux 2.2.5]]></title>
-        <id>https://miniflux.app/releases/2.2.5.html</id>
-        <link href="https://miniflux.app/releases/2.2.5.html"/>
-        <updated>2025-01-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[test(js): improve .jshintrc (strict comparison, etc…)
-test(sanitizer): add a fuzzer
-refactor(rewriter): use custom title case converter implementation instead of golang.org/x/text/cases.Title()
-refactor(readingtime): replace whatlanggo package with an ad-hoc implementation
-refactor(oauth2): no need to use io.WriteString when sha256 provides a way to obtain a sum in a single call
-refactor(js): simplify a bit keyboard_handler.js
-refactor(js): remove an outdated check for {passive: true}
-refactor(js): minor refactoring of touch_handler.js
-refactor(js): minor improvements in app.js
-refactor(database): add special handling for PostgreSQL-specific migrations
-fix(ui): reading preferences are reset if the form values are incorrect
-fix(sanitizer): allow <hr> tags
-fix(finder): do not add redirection…]]></summary>
-        <author>
-            <name>Miniflux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Encryption at Rest with SQLAlchemy]]></title>
-        <id>https://blog.miguelgrinberg.com/post/encryption-at-rest-with-sqlalchemy</id>
-        <link href="https://blog.miguelgrinberg.com/post/encryption-at-rest-with-sqlalchemy"/>
-        <updated>2025-01-19T15:48:45.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial I'm going to show you how to extend SQLAlchemy so that you can define database columns that are stored encrypted. In the solution I'm going to share, the columns that are designated as encrypted will transparently encrypt and decrypt themselves as data moves to and from the database.
-For this tutorial I'm going to use SQLAlchemy version 2, the latest and greatest. All the techniques I will present can be adapted to SQLAlchemy 1.x if you need to work with legacy versions. If you are interested in updating your knowledge of SQLAlchemy, I have a SQLAlchemy 2 book that can help.]]></summary>
-        <author>
-            <name>Miguel Grinberg</name>
         </author>
     </entry>
 </feed>
