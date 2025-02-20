@@ -2,10 +2,722 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsoros.github.io/rss-feeds-hackernews/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T01:38:32.815Z</updated>
+    <updated>2025-02-20T01:39:00.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jsoros.github.io/rss-feeds-hackernews/index.html"/>
     <link rel="self" href="https://jsoros.github.io/rss-feeds-hackernews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Corvus Robotics (YC S18) Is Hiring Senior Software Engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=43109860</id>
+        <link href="https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/"/>
+        <updated>2025-02-20T01:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/
+Comments URL: https://news.ycombinator.com/item?id=43109860
+Points: 0
+# Comments: 0]]></summary>
+        <author>
+            <name>robot_jackie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corvus Robotics (YC S18) Is Hiring Senior Software Engineer]]></title>
+        <id>https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/</id>
+        <link href="https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/"/>
+        <updated>2025-02-20T01:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WonderHuman: 3D avatars from single-view video]]></title>
+        <id>https://news.ycombinator.com/item?id=43109466</id>
+        <link href="https://arxiv.org/abs/2502.01045"/>
+        <updated>2025-02-20T00:05:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2502.01045
+Comments URL: https://news.ycombinator.com/item?id=43109466
+Points: 12
+# Comments: 3]]></summary>
+        <author>
+            <name>jinqueeny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WonderHuman: 3D avatars from single-view video]]></title>
+        <id>https://arxiv.org/abs/2502.01045</id>
+        <link href="https://arxiv.org/abs/2502.01045"/>
+        <updated>2025-02-20T00:05:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scented products cause indoor air pollution on par with car exhaust]]></title>
+        <id>https://news.ycombinator.com/item?id=43109366</id>
+        <link href="https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/"/>
+        <updated>2025-02-19T23:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/
+Comments URL: https://news.ycombinator.com/item?id=43109366
+Points: 58
+# Comments: 17]]></summary>
+        <author>
+            <name>clumsysmurf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scented products cause indoor air pollution on par with car exhaust]]></title>
+        <id>https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/</id>
+        <link href="https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/"/>
+        <updated>2025-02-19T23:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes a Great Software Engineer (Dissertation) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=43109255</id>
+        <link href="https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf"/>
+        <updated>2025-02-19T23:40:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf
+Comments URL: https://news.ycombinator.com/item?id=43109255
+Points: 5
+# Comments: 6]]></summary>
+        <author>
+            <name>azhenley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes a Great Software Engineer (Dissertation) [pdf]]]></title>
+        <id>https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf</id>
+        <link href="https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf"/>
+        <updated>2025-02-19T23:40:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SES Outbound now delivers to Mail Manager Archives]]></title>
+        <id>13a431ac9afffb1a6e0f887d429db7d7ce6e5471</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/ses-outbound-delivers-mail-manager-archives"/>
+        <updated>2025-02-19T22:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Simple Email Service (SES) announces that Outbound customers can now specify a Mail Manager archive resource as an additional destination for outbound mail workloads. This enables retention of messages post-DKIM-signature, ensuring that the archive is usable for validating every individual sent message. The Mail Manager archive search interface allows easy discovery of indexed messages and presents search results directly in the AWS console, or makes them available to export to the customer’s chosen S3 bucket.
+  SES Outbound customers using APIv2 now have access to a new parameter in their configuration set which specifies a Mail Manager archive ARN in the same . Once the necessary role permissions in IAM are configured, the user initiating the Outbound workload will see a copy of each uniquely-signed outgoing message ingested into the destination archive, where it will be indexed and made available for both search and export.
+  This new feature is billed at the existing Mail Manager Archive price points. This capability is available for Outbound customers in all 17 AWS Regions where Mail Manager is launched. Customers can learn more about SES Outbound and Mail Manager here.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build your own SQLite in Rust, Part 5: Evaluating queries]]></title>
+        <id>https://news.ycombinator.com/item?id=43108614</id>
+        <link href="https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries"/>
+        <updated>2025-02-19T22:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries
+Comments URL: https://news.ycombinator.com/item?id=43108614
+Points: 57
+# Comments: 2]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build your own SQLite in Rust, Part 5: Evaluating queries]]></title>
+        <id>https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries</id>
+        <link href="https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries"/>
+        <updated>2025-02-19T22:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using S3 triggers to maintain a list of files in DynamoDB]]></title>
+        <id>https://simonwillison.net/2025/Feb/19/s3-triggers/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/19/s3-triggers/#atom-everything"/>
+        <updated>2025-02-19T22:07:32.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong><a href="https://til.simonwillison.net/aws/s3-triggers-dynamodb">Using S3 triggers to maintain a list of files in DynamoDB</a></strong></p>
+I built an experimental prototype this morning of a system for efficiently tracking files that have been added to a large S3 bucket by maintaining a parallel DynamoDB table using S3 triggers and AWS lambda.</p>
+<p>I got 80% of the way there with this single prompt (complete with typos) to my <a href="https://simonwillison.net/2024/Dec/19/one-shot-python-tools/#writing-these-with-the-help-of-a-claude-project">custom Claude Project</a>:</p>
+<blockquote>
+<p><code>Python CLI app using boto3 with commands for creating a new S3 bucket which it also configures to have S3 lambada event triggers which moantian a dynamodb table containing metadata about all of the files in that bucket. Include these commands</code></p>
+<ul>
+<li><code>create_bucket - create a bucket and sets up the associated triggers and dynamo tables</code></li>
+<li><code>list_files - shows me a list of files based purely on querying dynamo</code></li>
+</ul>
+</blockquote>
+<p>ChatGPT then took me to the 95% point. The code Claude produced included an obvious bug, so I pasted the code into o3-mini-high on the basis that "reasoning" is often a great way to fix those kinds of errors:</p>
+<blockquote>
+<p><code>Identify, explain and then fix any bugs in this code:</code></p>
+<p><em>code from Claude pasted here</em></p>
+</blockquote>
+<p>... and aside from adding a couple of <code>time.sleep()</code> calls to work around timing errors with IAM policy distribution, <a href="https://til.simonwillison.net/aws/s3-triggers-dynamodb#user-content-trying-it-out">everything worked</a>!</p>
+<p>Getting from a rough idea to a working proof of concept of something like this with less than 15 minutes of prompting is extraordinarily valuable.</p>
+<p>This is exactly the kind of project I've avoided in the past because of my almost irrational intolerance of the frustration involved in figuring out the individual details of each call to S3, IAM, AWS Lambda and DynamoDB.</p>
+<p>(Update: I just found out about <a href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-metadata-generally-available/">the new S3 Metadata system</a> which launched a few weeks ago and might solve this exact problem!)
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/lambda">lambda</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/s3">s3</a>, <a href="https://simonwillison.net/tags/aws">aws</a>, <a href="https://simonwillison.net/tags/nosql">nosql</a>, <a href="https://simonwillison.net/tags/o3">o3</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/claude">claude</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Network Firewall introduces automated domain lists and insights]]></title>
+        <id>6244f82e271cd461d777d5f89d5a7af9b935bf99</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-firewall-automated-domain-lists"/>
+        <updated>2025-02-19T21:55:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS Network Firewall now offers automated domain lists and insights, a feature that enhances visibility into network traffic and simplifies firewall rule configuration. This new capability analyzes HTTP and HTTPS traffic logs from the last 30 days and provides insights into frequently accessed domains, enabling quick rule creation based on observed network traffic patterns.
+  Many organizations now use allow-list policies to limit access to approved destinations only. Automated domain lists reduce the time and effort required to identify necessary domains, configure initial rules, and update allow lists as business needs change. This feature helps quickly identify legitimate traffic while maintaining a restrictive default stance, balancing security with operational efficiency.
+  This feature is supported in all AWS Regions where AWS Network Firewall is available today. There is no additional cost to generate automated domain lists and insights on AWS Network Firewall.
+  To get started, visit the AWS Network Firewall console and enable analysis mode for your firewall. For more information, please refer to the AWS Network Firewall service documentation.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1972 Unix V2 "Beta" Resurrected]]></title>
+        <id>https://news.ycombinator.com/item?id=43108091</id>
+        <link href="https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html"/>
+        <updated>2025-02-19T21:41:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html
+Comments URL: https://news.ycombinator.com/item?id=43108091
+Points: 171
+# Comments: 27]]></summary>
+        <author>
+            <name>henry_flower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1972 Unix V2 "Beta" Resurrected]]></title>
+        <id>https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html</id>
+        <link href="https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html"/>
+        <updated>2025-02-19T21:41:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malaysia is betting on data centers to boost its economy]]></title>
+        <id>https://news.ycombinator.com/item?id=43107839</id>
+        <link href="https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d"/>
+        <updated>2025-02-19T21:20:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d
+Comments URL: https://news.ycombinator.com/item?id=43107839
+Points: 74
+# Comments: 46]]></summary>
+        <author>
+            <name>rntn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malaysia is betting on data centers to boost its economy]]></title>
+        <id>https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d</id>
+        <link href="https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d"/>
+        <updated>2025-02-19T21:20:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a large language model "from scratch"]]></title>
+        <id>https://news.ycombinator.com/item?id=43107777</id>
+        <link href="https://brettgfitzgerald.com/posts/build-a-large-language-model/"/>
+        <updated>2025-02-19T21:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brettgfitzgerald.com/posts/build-a-large-language-model/
+Comments URL: https://news.ycombinator.com/item?id=43107777
+Points: 61
+# Comments: 4]]></summary>
+        <author>
+            <name>controversy187</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a large language model "from scratch"]]></title>
+        <id>https://brettgfitzgerald.com/posts/build-a-large-language-model/</id>
+        <link href="https://brettgfitzgerald.com/posts/build-a-large-language-model/"/>
+        <updated>2025-02-19T21:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minuteman III test showcases readiness of U.S. nuclear force's deterrent]]></title>
+        <id>https://news.ycombinator.com/item?id=43106454</id>
+        <link href="https://www.stratcom.mil/Media/News/News-Article-View/Article/4070577/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/"/>
+        <updated>2025-02-19T19:36:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.stratcom.mil/Media/News/News-Article-View/Article/4070577/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/
+Comments URL: https://news.ycombinator.com/item?id=43106454
+Points: 43
+# Comments: 82]]></summary>
+        <author>
+            <name>ChrisArchitect</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minuteman III test showcases readiness of U.S. nuclear force's deterrent]]></title>
+        <id>https://www.stratcom.mil/Media/News/News-Article-View/Article/4070577/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/</id>
+        <link href="https://www.stratcom.mil/Media/News/News-Article-View/Article/4070577/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/"/>
+        <updated>2025-02-19T19:36:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhance your workload resilience with new Amazon EMR instance fleet features]]></title>
+        <id>5f2f286afe9949672f4b00a2d881daef4356fd0c</id>
+        <link href="https://aws.amazon.com/blogs/big-data/enhance-your-workload-resilience-with-new-amazon-emr-instance-fleet-features/"/>
+        <updated>2025-02-19T19:32:27.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR has introduced new features for instance fleets that address critical challenges in big data operations. This post explores how these innovations improve cluster resilience, scalability, and efficiency, enabling you to build more robust data processing architectures on AWS.]]></summary>
+        <author>
+            <name>Deepmala Agarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Head, Two Brains (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=43106245</id>
+        <link href="https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/"/>
+        <updated>2025-02-19T19:22:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/
+Comments URL: https://news.ycombinator.com/item?id=43106245
+Points: 26
+# Comments: 16]]></summary>
+        <author>
+            <name>shry4ns</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Head, Two Brains (2015)]]></title>
+        <id>https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/</id>
+        <link href="https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/"/>
+        <updated>2025-02-19T19:22:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Rules Are Implicit Rules]]></title>
+        <id>https://brainbaking.com/post/2025/02/no-rules-are-implicit-rules/</id>
+        <link href="https://brainbaking.com/post/2025/02/no-rules-are-implicit-rules/"/>
+        <updated>2025-02-19T18:25:00.000Z</updated>
+        <summary type="html"><![CDATA[As per recommendation by a co-worker who is very enthusiastic about the possible ramifications for the startup I now work for, I started reading Hastings & Meyer’s popular No Rules Rules: Netflix and the Culture of Reinvention. Emphasis on started, as by page 100, I was so disgusted by its managerial nonsense-selling contents that I put the book down indefinitely.
+The gist of the book is this: if you remove instead of add company rules—think work & vacation time, expense approval flows, …—the company will be a cooler place to work for, folks will be more impressed/empowered/productive/you-name-it, and your annual shares will fly through the roof. Because make no mistake, even though Hastings manages to neatly disguise the purpose as building a happy and performant workforce, the end goals …]]></summary>
+        <author>
+            <name>Wouter Groeneveld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An inside look at NSA tactics, techniques and procedures from China's lens]]></title>
+        <id>https://news.ycombinator.com/item?id=43105357</id>
+        <link href="https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html"/>
+        <updated>2025-02-19T18:16:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html
+Comments URL: https://news.ycombinator.com/item?id=43105357
+Points: 164
+# Comments: 47]]></summary>
+        <author>
+            <name>davikr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An inside look at NSA tactics, techniques and procedures from China's lens]]></title>
+        <id>https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html</id>
+        <link href="https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html"/>
+        <updated>2025-02-19T18:16:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECS increases the CPU limit for ECS tasks to 192 vCPUs]]></title>
+        <id>865e703f295c1ec1e4b12a486a22e08482d1abf7</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-increases-cpu-ecs-tasks/"/>
+        <updated>2025-02-19T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Container Service (Amazon ECS) now supports CPU limits of up to 192 vCPU for ECS tasks deployed on Amazon Elastic Compute Cloud (Amazon EC2) instances, an increase from the previous 10 vCPU limit. This enhancement allows customers to more effectively manage resource allocation on larger Amazon EC2 instances.
+  Amazon ECS customers can define soft and hard limits for CPU and memory resources at the container level, and hard limits at the task level. Soft limits reserve resources on an Amazon EC2 instance for a container, while hard limits enforce maximum usage. For CPU specifically, the container-level hard limit acts as a ceiling and helps prevent resource contention when multiple containers are competing for resources using Linux CpuShares. The task-level CPU limit acts both as the reservation for the task and prevents any single task from consuming excessive resources during contentions. Customers can now specify up to 192 vCPU as the CPU limit for an ECS task, increased from the previous 10 vCPU, enabling more effective resource sharing across multiple tasks on larger sized EC2 instances. For example, on a c7i.48xl instance with 192 vCPUs, defining a 32 vCPU limit per ECS task allows running up to 6 tasks without resource contention from noisy neighbors.
+  You can use AWS management console, SDK, CLI, CloudFormation, or CDK to define the CPU limit for your Amazon ECS task definition. The new limit is now effective in all regions. To learn more, see documentation.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing AWS DMS Serverless comprehensive premigration assessments]]></title>
+        <id>08dbb6b43be0d63025d8d317abc0f4fcfcbbf293</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-dms-serverless-comprehensive-premigration-assessments"/>
+        <updated>2025-02-19T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS Database Migration Service Serverless (AWS DMSS) now supports premigration assessments for replications . A premigration assessment evaluates the source and target databases of a database migration task to help identify problems that might prevent a migration from running as expected. By identifying and fixing these issues before a migration starts, you can avoid delays in completing the database migration.
+  The premigration assessments will obtain detailed information about the source schema and tables to provide recommendations on the AWS DMS settings that should be used. For example, the assessment can suggest which method of reading redo logs for change data capture (CDC) should be used or it could check if the recommended settings have been enabled, providing best practice recommendations from AWS DMS experts.
+  To learn more, see Enabling and working with premigration assessments.
+  AWS DMSS premigration assessments are available in all AWS Regions where DMSS is available. For AWS DMSS regional availability, please refer to the AWS Region Table.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for MySQL supports new minor versions 8.0.41 and 8.4.4]]></title>
+        <id>34cb2f1d5245fccaf1a5a644c9f8741ca3644a6e</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-new-minor-versions-8-0-41-8-4-4"/>
+        <updated>2025-02-19T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for MySQL now supports MySQL minor versions 8.0.41 and 8.4.4. We recommend that you upgrade to the latest minor versions to fix known security vulnerabilities in prior versions of MySQL, and to benefit from the bug fixes, performance improvements, and new functionality added by the MySQL community. Learn more about the enhancements in RDS for MySQL 8.0.41 and 8.4.4 in the Amazon RDS user guide.
+  You can leverage automatic minor version upgrades to automatically upgrade your databases to more recent minor versions during scheduled maintenance windows. You can also leverage Amazon RDS Managed Blue/Green deployments for safer, simpler, and faster updates to your MySQL instances. Learn more about upgrading your database instances, including automatic minor version upgrades and Blue/Green Deployments, in the Amazon RDS User Guide.
+  Amazon RDS for MySQL makes it simple to set up, operate, and scale MySQL deployments in the cloud. Learn more about pricing details and regional availability at Amazon RDS for MySQL. Create or update a fully managed Amazon RDS for MySQL database in the Amazon RDS Management Console.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When imperfect systems are good: Bluesky's lossy timelines]]></title>
+        <id>https://news.ycombinator.com/item?id=43105028</id>
+        <link href="https://jazco.dev/2025/02/19/imperfection/"/>
+        <updated>2025-02-19T17:48:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jazco.dev/2025/02/19/imperfection/
+Comments URL: https://news.ycombinator.com/item?id=43105028
+Points: 425
+# Comments: 165]]></summary>
+        <author>
+            <name>cyndunlop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When imperfect systems are good: Bluesky's lossy timelines]]></title>
+        <id>https://jazco.dev/2025/02/19/imperfection/</id>
+        <link href="https://jazco.dev/2025/02/19/imperfection/"/>
+        <updated>2025-02-19T17:48:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer productivity with Dr. Nicole Forsgren (creator of DORA, co-creator of SPACE)]]></title>
+        <id>https://newsletter.pragmaticengineer.com/p/developer-productivity-with-dr-nicole</id>
+        <link href="https://newsletter.pragmaticengineer.com/p/developer-productivity-with-dr-nicole"/>
+        <updated>2025-02-19T17:01:28.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | Stream the Latest Episode]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft unveils Majorana 1 quantum processor]]></title>
+        <id>https://news.ycombinator.com/item?id=43104071</id>
+        <link href="https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/"/>
+        <updated>2025-02-19T16:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/
+Comments URL: https://news.ycombinator.com/item?id=43104071
+Points: 327
+# Comments: 130]]></summary>
+        <author>
+            <name>eksu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft unveils Majorana 1 quantum processor]]></title>
+        <id>https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/</id>
+        <link href="https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/"/>
+        <updated>2025-02-19T16:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Non-Stop Talkers]]></title>
+        <id>https://birming.com/non-stop-talkers/</id>
+        <link href="https://birming.com/non-stop-talkers/"/>
+        <updated>2025-02-19T16:18:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm tired. Very tired.
+The reason is that during two of today's jobs, I met customers who talked nonstop.
+The last one was with a couple who talked over each other, and me, the entire time. "How can they not understand how crazy it sounds?" I thought, feeling the social hangover creeping closer…
+Afterward, I thought about an interview I recently heard with the Swedish actress Shima Niavarani. She said it was fantastic that she and a colleague could "parallel talk" with each other. They talked over each other and saved time by doing so.
+Although the thought of such an arrangement made me dizzy, it was clear that it suited them perfectly.
+Maybe that's exactly what that couple was thinking today? "We have an hour with this expert; we're going to get as much out of it as possible."
+If I had instead thought that this was probably the case, I might have been less annoyed. It would still sound weird to me, but not as stressful.
+For example, next time, instead of feeling frustrated, I could try to focus on the fact that they are engaged and eager to learn, even if their communication style isn't my cup of tea.
+Ultimately, it's about the choices we make. We can choose how we look at things.
+It's not easy. It's a work in progress, but I'm determined to keep trying – even though a little more quiet in the world wouldn't hurt anyone.]]></summary>
+        <author>
+            <name>Robert Birming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relaxed Radix Balanced Trees (2024)]]></title>
+        <id>https://news.ycombinator.com/item?id=43103604</id>
+        <link href="https://peter.horne-khan.com/relaxed-radix-balanced-trees/"/>
+        <updated>2025-02-19T16:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://peter.horne-khan.com/relaxed-radix-balanced-trees/
+Comments URL: https://news.ycombinator.com/item?id=43103604
+Points: 135
+# Comments: 12]]></summary>
+        <author>
+            <name>jasonjmcghee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relaxed Radix Balanced Trees (2024)]]></title>
+        <id>https://peter.horne-khan.com/relaxed-radix-balanced-trees/</id>
+        <link href="https://peter.horne-khan.com/relaxed-radix-balanced-trees/"/>
+        <updated>2025-02-19T16:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Debuts iPhone 16e]]></title>
+        <id>https://news.ycombinator.com/item?id=43103536</id>
+        <link href="https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/"/>
+        <updated>2025-02-19T16:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/
+Comments URL: https://news.ycombinator.com/item?id=43103536
+Points: 350
+# Comments: 612]]></summary>
+        <author>
+            <name>dm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Debuts iPhone 16e]]></title>
+        <id>https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/</id>
+        <link href="https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/"/>
+        <updated>2025-02-19T16:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting Ai Pin Consumers FAQ]]></title>
+        <id>https://simonwillison.net/2025/Feb/19/ai-pin/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/19/ai-pin/#atom-everything"/>
+        <updated>2025-02-19T15:34:46.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote cite="https://support.humane.com/hc/en-us/articles/34243204841997-Ai-Pin-Consumers-FAQ"><p><strong>Can I still use my Ai Pin for offline features?</strong></p>
+<p>Yes. After February 28, 2025, Ai Pin will still allow for offline features like battery level, etc., but will not include any function that requires cloud connectivity like voice interactions, AI responses, and .Center access.</p></blockquote>
+<p class="cite">&mdash; <a href="https://support.humane.com/hc/en-us/articles/34243204841997-Ai-Pin-Consumers-FAQ">Ai Pin Consumers FAQ</a>, on their shutdown after sale to HP</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby]]></title>
+        <id>https://news.ycombinator.com/item?id=43103073</id>
+        <link href="https://github.com/mastra-ai/mastra"/>
+        <updated>2025-02-19T15:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN, we’re Sam, Shane, and Abhi, and we’re building Mastra (https://mastra.ai), an open-source JavaScript SDK for building agents on top of Vercel’s AI SDK.
+You can start a Mastra project with `npm create mastra` and create workflow graphs that can suspend/resume, build a RAG pipeline and write evals, give agents memory, create multi-agent workflows, and view it all in a local playground.
+Previously, we built Gatsby, the open-source React web framework. Later, we worked on an AI-powered CRM but it felt like we were having to roll all the AI bits (agentic workflows, evals, RAG) ourselves. We also noticed our friends building AI applications suffering from long iteration cycles: they were getting stuck debugging prompts, figuring out why their agents called (or didn’t call) tools, and writ…]]></summary>
+        <author>
+            <name>calcsam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby]]></title>
+        <id>https://github.com/mastra-ai/mastra</id>
+        <link href="https://github.com/mastra-ai/mastra"/>
+        <updated>2025-02-19T15:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating scientific breakthroughs with an AI co-scientist]]></title>
+        <id>https://news.ycombinator.com/item?id=43102528</id>
+        <link href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/"/>
+        <updated>2025-02-19T14:32:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/
+Comments URL: https://news.ycombinator.com/item?id=43102528
+Points: 267
+# Comments: 129]]></summary>
+        <author>
+            <name>Jimmc414</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating scientific breakthroughs with an AI co-scientist]]></title>
+        <id>https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/</id>
+        <link href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/"/>
+        <updated>2025-02-19T14:32:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple Russia-aligned threat actors actively targeting Signal Messenger]]></title>
+        <id>https://news.ycombinator.com/item?id=43102284</id>
+        <link href="https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger"/>
+        <updated>2025-02-19T14:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger
+Comments URL: https://news.ycombinator.com/item?id=43102284
+Points: 602
+# Comments: 225]]></summary>
+        <author>
+            <name>karel-3d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple Russia-aligned threat actors actively targeting Signal Messenger]]></title>
+        <id>https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger</id>
+        <link href="https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger"/>
+        <updated>2025-02-19T14:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting Matt Webb]]></title>
+        <id>https://simonwillison.net/2025/Feb/19/matt-webb/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/19/matt-webb/#atom-everything"/>
+        <updated>2025-02-19T13:50:16.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote cite="https://interconnected.org/home/2025/02/19/reflections"><p>Meanwhile blogging has become small-p political again.</p>
+<p>Slowly, slowly, the web was taken over by platforms. Your feeling of success is based on your platform’s algorithm, which may not have your interests at heart. Feeding your words to a platform is a vote for its values, whether you like it or not. And they roach-motel you by owning your audience, making you feel that it’s a good trade because you get “discovery.” (Though I know that chasing popularity is a fool’s dream.)</p>
+<p>Writing a blog on your own site is a way to escape all of that. Plus your words build up over time. That’s unique. Nobody else values your words like you do.</p>
+<p>Blogs are a backwater (the web itself is a backwater) but keeping one is a statement of how being online can work. Blogging as a kind of Amish performance of a better life.</p></blockquote>
+<p class="cite">&mdash; <a href="https://interconnected.org/home/2025/02/19/reflections">Matt Webb</a>, Reflections on 25 years of Interconnected</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/matt-webb">matt-webb</a>, <a href="https://simonwillison.net/tags/blogging">blogging</a>, <a href="https://simonwillison.net/tags/social-media">social-media</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I create static websites for tiny archives]]></title>
+        <id>https://alexwlchan.net/2025/mildly-dynamic-websites/?utm_source=rss</id>
+        <link href="https://alexwlchan.net/2025/mildly-dynamic-websites/?utm_source=rss"/>
+        <updated>2025-02-19T13:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Start with a simple HTML file, then add features like templates, sorting, and filtering as they become useful.]]></summary>
+        <author>
+            <name>alexwlchan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode]]></title>
+        <id>https://news.ycombinator.com/item?id=43101430</id>
+        <link href="https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode"/>
+        <updated>2025-02-19T12:40:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode
+Comments URL: https://news.ycombinator.com/item?id=43101430
+Points: 277
+# Comments: 79]]></summary>
+        <author>
+            <name>ngalstyan4</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode]]></title>
+        <id>https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode</id>
+        <link href="https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode"/>
+        <updated>2025-02-19T12:40:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broken legs and ankles heal better if you walk on them within weeks]]></title>
+        <id>https://news.ycombinator.com/item?id=43101383</id>
+        <link href="https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/"/>
+        <updated>2025-02-19T12:36:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/
+Comments URL: https://news.ycombinator.com/item?id=43101383
+Points: 323
+# Comments: 203]]></summary>
+        <author>
+            <name>sohkamyung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broken legs and ankles heal better if you walk on them within weeks]]></title>
+        <id>https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/</id>
+        <link href="https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/"/>
+        <updated>2025-02-19T12:36:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatic Kobo and Kindle eBook Arbitrage]]></title>
+        <id>https://shkspr.mobi/blog/2025/02/automatic-kobo-and-kindle-ebook-arbitrage/</id>
+        <link href="https://shkspr.mobi/blog/2025/02/automatic-kobo-and-kindle-ebook-arbitrage/"/>
+        <updated>2025-02-19T12:34:43.000Z</updated>
+        <summary type="html"><![CDATA[This post will show you how to programmatically get the cheapest possible price on eBooks from Kobo.  Background  Amazon have decided to stop letting customers download their purchased eBooks onto their computers. That means I can&#039;t strip the DRM and read on my non-Amazon eReader.  So I guess I&#039;m not spending money with Amazon any more. I&#039;m moving to Kobo for three main reasons:   They provide standard ePubs for download. ePub DRM is trivial to remove. Kobo will undercut Amazon&#039;s prices!  …]]></summary>
+        <author>
+            <name>Terence Eden’s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[files-to-prompt 0.6]]></title>
+        <id>https://simonwillison.net/2025/Feb/19/files-to-prompt/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/19/files-to-prompt/#atom-everything"/>
+        <updated>2025-02-19T06:12:12.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong><a href="https://github.com/simonw/files-to-prompt/releases/tag/0.6">files-to-prompt 0.6</a></strong></p>
+New release of my CLI tool for turning a whole directory of code into a single prompt ready to pipe or paste into an LLM.</p>
+<p>Here are the full release notes:</p>
+<blockquote>
+<p><ul><li>New <code>-m/--markdown</code> option for outputting results as Markdown with each file in a fenced code block. <a href="https://github.com/simonw/files-to-prompt/issues/42">#42</a></li>
+<li>Support for reading a list of files from standard input. Thanks, <a href="https://github.com/thelastnode">Ankit Shankar</a>. <a href="https://github.com/simonw/files-to-prompt/issues/44">#44</a><br>
+  Here's how to process just files modified within the last day:</p>
+<pre><code>find . -mtime -1 | files-to-prompt
+</code></pre>
+<p>You can also use the <code>-0/--null</code> flag to accept lists of file paths separated by null delimiters, which is useful for handling file names with spaces in them:</p>
+<pre><code>find . -name "*.txt" -print0 | files-to-prompt -0
+</code></pre>
+</blockquote>
+<p>I also have a potential fix for a reported bug concerning nested <code>.gitignore</code> files that's currently <a href="https://github.com/simonw/files-to-prompt/pull/45">sitting in a PR</a>. I'm waiting for someone else to confirm that it behaves as they would expect. I've left <a href="https://github.com/simonw/files-to-prompt/issues/40#issuecomment-2667571418">details in this issue comment</a>, but the short version is that you can try out the version from the PR using this <code>uvx</code> incantation:</p>
+<pre><code>uvx --with git+https://github.com/simonw/files-to-prompt@nested-gitignore files-to-prompt
+</code></pre>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/annotated-release-notes">annotated-release-notes</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gulf of Mexico]]></title>
+        <id>DF5890F5-F203-4F68-AEA6-C9D5778F381B</id>
+        <link href="https://lmnt.me/blog/gulf-of-mexico.html"/>
+        <updated>2025-02-19T05:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern cartography should not be determined via political pressure. If we all can’t agree on that, we really should.
+That’s the basis of why it was so cowardly for both Google and Apple to rename the Gulf of Mexico in their maps. As far as I know, there is no law in the United States that compels any private company to draw or label their maps according to what that country considers its official naming. And because there isn’t means that any company that complies with any country’s official naming—specifically as outlined by the executive branch of the United States government—did so completely voluntarily.
+I just want to say right out of the gate that if the argument is that the name is official, it should go without saying that it is official only in one country in the world. Even peopl…]]></summary>
+        <author>
+            <name>Louie Mantia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Ensuring Accountability for All Agencies" – Executive Order]]></title>
+        <id>https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/</id>
+        <link href="https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/"/>
+        <updated>2025-02-19T04:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoughts on Daylight Computer]]></title>
+        <id>https://jon.bo/posts/daylight-computer-1/</id>
+        <link href="https://jon.bo/posts/daylight-computer-1/"/>
+        <updated>2025-02-19T03:41:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In a last-minute decision, White House decides not to terminate NASA employees]]></title>
         <id>https://news.ycombinator.com/item?id=43097380</id>
@@ -53,6 +765,38 @@ Points: 59
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[My mom believes there’s a silver lining]]></title>
+        <id>https://hamatti.org/posts/my-mom-believes-theres-a-silver-lining/</id>
+        <link href="https://hamatti.org/posts/my-mom-believes-theres-a-silver-lining/"/>
+        <updated>2025-02-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IndieWeb Carnival
+  is hosted by Joe who
+  invited us to write about affirmations:
+
+
+
+  “Affirmations” are sayings or slogans I say to myself which represent ideas or
+  feelings I want to reinforce in myself.
+
+
+
+  I don’t really do affirmations myself. The way they are usually described (as
+  in the quote above) makes me feel they are about trying to convince yourself
+  of something that isn’t true. That has always felt real weird to me in the
+  same way as many other similar practices like many of those in religions.
+
+
+
+  Recently I’ve been reading
+  Nate Zinsser’s The Confident Mind
+  and that book is big on affirmations. So much so that it’s been bit of a
+  struggle to get through the book as it promotes a lot of practices where you
+  should be thinking and believing that you’re much mo…]]></summary>
+        <author>
+            <name>Juha-Matti Santala - Community Builder. Dreamer. Adventurer.</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Parakeet’s 10th Anniversary]]></title>
         <id>67A7B1F4-D1C1-49F2-B675-9C452EE027F6</id>
         <link href="https://lmnt.me/blog/parakeets-10th-anniversary.html"/>
@@ -62,6 +806,16 @@ Points: 59
 If you like this, you can make a one-time donation, donate monthly, or buy something from my shop.]]></summary>
         <author>
             <name>Louie Mantia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Subtrace – Wireshark for Docker Containers]]></title>
+        <id>https://github.com/subtrace/subtrace</id>
+        <link href="https://github.com/subtrace/subtrace"/>
+        <updated>2025-02-18T23:29:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -687,6 +1441,16 @@ Points: 64
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A secret poker game you can play on the subway]]></title>
+        <id>https://experience.prfalken.dev/english/subway-poker/</id>
+        <link href="https://experience.prfalken.dev/english/subway-poker/"/>
+        <updated>2025-02-18T10:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[XOR]]></title>
         <id>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/</id>
         <link href="https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/"/>
@@ -1090,6 +1854,16 @@ Points: 55
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: MOS6502 in pure Lua running in WebAssembly]]></title>
+        <id>https://carimbo.run/play/1.0.43/willtobyte/MOS6502/1.0.3/480p/</id>
+        <link href="https://carimbo.run/play/1.0.43/willtobyte/MOS6502/1.0.3/480p/"/>
+        <updated>2025-02-17T19:47:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Who carved South America's mysterious ancient tunnels? [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=43082287</id>
         <link href="https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf"/>
@@ -1338,6 +2112,16 @@ Points: 123
         <id>https://yosefk.com/blog/cxx-thread-local-storage-performance.html</id>
         <link href="https://yosefk.com/blog/cxx-thread-local-storage-performance.html"/>
         <updated>2025-02-17T11:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An early social un-network]]></title>
+        <id>https://paperstack.com/an_early_social_unnetwork/</id>
+        <link href="https://paperstack.com/an_early_social_unnetwork/"/>
+        <updated>2025-02-17T09:56:55.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1912,6 +2696,16 @@ Points: 60
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The 8-Bit Era's Weird Uncle: The TI-99/4A]]></title>
+        <id>https://bumbershootsoft.wordpress.com/2025/02/15/the-8-bit-eras-weird-uncle-the-ti-99-4a/</id>
+        <link href="https://bumbershootsoft.wordpress.com/2025/02/15/the-8-bit-eras-weird-uncle-the-ti-99-4a/"/>
+        <updated>2025-02-16T18:56:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Caddy – The Ultimate Server with Automatic HTTPS]]></title>
         <id>https://news.ycombinator.com/item?id=43070025</id>
         <link href="https://caddyserver.com/"/>
@@ -2075,6 +2869,16 @@ My reasoning: I avoid subscriptions as much as possible. Bear offers the option 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The TOMY Screwball Scramble]]></title>
+        <id>https://medium.com/@solidi/the-tomy-screwball-scramble-9f4eab3681da</id>
+        <link href="https://medium.com/@solidi/the-tomy-screwball-scramble-9f4eab3681da"/>
+        <updated>2025-02-16T11:56:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Finding Flow: Escaping digital distractions through deep work and slow living]]></title>
         <id>https://news.ycombinator.com/item?id=43067303</id>
         <link href="https://www.ssp.sh/blog/finding-flow/"/>
@@ -2092,6 +2896,16 @@ Points: 175
         <id>https://www.ssp.sh/blog/finding-flow/</id>
         <link href="https://www.ssp.sh/blog/finding-flow/"/>
         <updated>2025-02-16T11:40:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animate Anyone 2: High-Fidelity Character Image Animation&Environment Affordance]]></title>
+        <id>https://humanaigc.github.io/animate-anyone-2/</id>
+        <link href="https://humanaigc.github.io/animate-anyone-2/"/>
+        <updated>2025-02-16T11:20:42.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -2346,6 +3160,16 @@ Points: 170
         <id>https://jellyfin.org/</id>
         <link href="https://jellyfin.org/"/>
         <updated>2025-02-15T22:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloodflowtrixi.jl – 1D and 2D blood flow models for arterial circulation]]></title>
+        <id>https://github.com/yolhan83/BloodFlowTrixi.jl</id>
+        <link href="https://github.com/yolhan83/BloodFlowTrixi.jl"/>
+        <updated>2025-02-15T22:36:17.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -26407,132 +27231,6 @@ Service Quotas for Amazon SNS, in the AWS General Reference.]]></summary>
         <summary type="html"><![CDATA[This post is written by Anton Aleksandrov, Principal Solutions Architect, Serverless and Alexander Vladimirov, Senior Solutions Architect, Serverless Today, Amazon EventBridge is announcing support for cross-account targets for Event Buses. This new capability allows you to send events directly to targets, such as Amazon Simple Queue Service (Amazon SQS), AWS Lambda, and Amazon Simple Notification Service […]]]></summary>
         <author>
             <name>Chris McPeek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanical Pencils]]></title>
-        <id>https://rknight.me/blog/mechanical-pencils/</id>
-        <link href="https://rknight.me/blog/mechanical-pencils/"/>
-        <updated>2025-01-21T13:12:00.000Z</updated>
-        <summary type="html"><![CDATA[I asked for recommendations for mechanical pencils in the Relay and omg.lol Discords and here’s what was recommended:
-Uniball Kuru Toga - this one has a fancy sharpening mechanism
-Tombow mono graph - I picked one of these up on Amazon for £3 to give it a go
-The Pentel sharp looks very nice
-Kathy mentioned “forever pencils” and my mind was blown so I ordered exactly what she told me to - this Sun Star retractable one
-Some more recommendations came in after I tooted this post:
-Jason and B like the Pentel Graphgear; the 500 and 1000 respectively.
-Myke pointed me to this episode of The Pen Addict
-Tyler has a great post about Excalibur, a Pentel Twist Erase
-Finally, Tim likes the Rotring rapid pro
-
-Update 2025-02-01
-Adding the Zebra Delguard as recommended by Arun]]></summary>
-        <author>
-            <name>Robb Knight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Book Review: The Twyford Code by Janice Hallett ★★★★☆]]></title>
-        <id>https://shkspr.mobi/blog/2025/01/book-review-the-twyford-code-by-janice-hallett/</id>
-        <link href="https://shkspr.mobi/blog/2025/01/book-review-the-twyford-code-by-janice-hallett/"/>
-        <updated>2025-01-21T12:34:53.000Z</updated>
-        <summary type="html"><![CDATA[About ⅔rds of the way through reading Janice Hallett&#039;s debut novel, The Appeal, I purchased her next book - The Twyford Code.  The schtick is similar to the first. We, the reader, are taken through an epistolary series of audio files - voice notes from a recently released convict.  There&#039;s intrigue, murder, regret, and redemption. The story isn&#039;t as tangled as The Twyford Code - here&#039;s it is one main protagonist. While his memories wander back and forth through time, the story is relatively l…]]></summary>
-        <author>
-            <name>Terence Eden’s Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is Why Instagram Ruin Itself]]></title>
-        <id>https://fundor333.com/post/2025/this-is-why-instagram-ruin-itself/</id>
-        <link href="https://fundor333.com/post/2025/this-is-why-instagram-ruin-itself/"/>
-        <updated>2025-01-21T11:42:05.000Z</updated>
-        <summary type="html"><![CDATA[Instagram is a social network based on images and more recently on short format video (TikTok style) called stories.
-But the base concept of Instagram was allways the images first and from the start Instagram’ photos were squared.
-
-First problem
-
-
-After some time Instagram adds other size and format of image1 but the profile grid was based on square image.
-With this sizing some of the more creative instagram user create design base on the grid of image for making multiple post making a unique photo.]]></summary>
-        <author>
-            <name>Blog on Fundor333</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📝 21 January 2025 at 10:16 - I heard a great saying recently that I'm going to...]]></title>
-        <id>notes/20250121-1016</id>
-        <link href="https://kevquirk.com/notes/20250121-1016"/>
-        <updated>2025-01-21T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[I heard a great saying recently that I'm 100% going to steal.
-"Opinions are like arseholes. Everyone has one."
-Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️
-Reply to this post by email ● 
-              Sign my guestbook]]></summary>
-        <author>
-            <name>Kev Quirk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking at images in a spreadsheet]]></title>
-        <id>https://alexwlchan.net/2025/images-and-spreadsheets/?utm_source=rss</id>
-        <link href="https://alexwlchan.net/2025/images-and-spreadsheets/?utm_source=rss"/>
-        <updated>2025-01-21T09:33:48.000Z</updated>
-        <summary type="html"><![CDATA[The `IMAGE` and `HYPERLINK` functions allow me to use a spreadsheet as a lightweight, collaborative space for dealing with images.]]></summary>
-        <author>
-            <name>alexwlchan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Mario Colors]]></title>
-        <id>4FAF75C0-88FB-4BDC-B970-82D1C44998C1</id>
-        <link href="https://lmnt.me/blog/the-most-mario-colors.html"/>
-        <updated>2025-01-21T08:25:00.000Z</updated>
-        <summary type="html"><![CDATA[This may be the silliest post I’ve ever written. It also undoubtedly will look way better on my site than in your RSS reader, so please, click here.
-The Mario franchise has two distinct logo styles. The first began with the Mario Bros. arcade game and is mostly used for side-scrolling Super Mario Bros. games, though not all of those games use that style. The second is a multicolor polygonal style, and though it’s primarily used for 3D Mario adventures now, it was introduced with Super Mario World.
-Most Mario games with polygonal logos have a different color per letter, but the sequence of colors in Mario’s name is rarely the same sequence across games.
-This captivated me—for some reason—and I set out to analyze every Mario video game logo to see if I could find a pattern for specific arran…]]></summary>
-        <author>
-            <name>Louie Mantia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Weekly Roundup: New AWS Mexico (Central) Region, simultaneous sign-in for multiple AWS accounts, and more (January 20, 2025)]]></title>
-        <id>156b5d31d6e320533cdb9b110de5d093b614cb42</id>
-        <link href="https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-aws-mexico-central-region-simultaneous-sign-in-for-multiple-aws-accounts-and-more-january-20-2025/"/>
-        <updated>2025-01-20T16:52:30.000Z</updated>
-        <summary type="html"><![CDATA[As winter maintains its hold over where I live in the Netherlands, rare moments of sunlight become precious gifts. This weekend offered one such treasure—while cycling along a quiet canal, golden rays broke through the typically gray Dutch sky, creating a perfect moment of serenity. These glimpses of brightness feel particularly special during January, when […]]]></summary>
-        <author>
-            <name>Esra Kayabali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Do Security Questions]]></title>
-        <id>blog/how-i-do-security-questions</id>
-        <link href="https://kevquirk.com/blog/how-i-do-security-questions"/>
-        <updated>2025-01-20T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Security questions like "what is your mother's maiden name?" are so fucking bad. Here's what I do to make them slightly more secure.
-Whenever I get forced to add a "security" question to an online account, I immediately begin to rage. The reason being is that they add very little in terms of security, as the answers are often out there in the ether, thanks to our pervasive need to share too much on social media.  Plus, unlike passwords, these answers are usually stored in plaintext. So any sausage with access to the database -- be it legitimate or malicious -- can see all your answers.
-Brilliant.
-So instead of entering my Mum's actual maiden name, I'll generate a random dictionary string using my password manager, or an online tool and I save those answers in said password manager, so I can refer to them later.
-For example, my answer to "what is your Mum's maiden name?" may be laziness-scribing-sprang8 For another site with the same requirement, it might be commute4-juniper-unhinge. Due to being random and unique per site, it's far more secure.
-So when the stupid site that's forcing me to answer a "security" question gets popped, I don't have a load of legit personal info out there on web for any Tom, Dick, or script-kiddie to pick up.
-Same thing goes for sites that force me to enter a memorable word (because they're too fucking lazy to implement a proper MFA mechanism).
-Simple, ey?
-Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️
-Reply to this post by email ● 
-              Sign my guestbook]]></summary>
-        <author>
-            <name>Kev Quirk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Amazon CloudFront Saved My Azure Project]]></title>
-        <id>https://blog.awsfundamentals.com/edgio-to-cloudfront</id>
-        <link href="https://blog.awsfundamentals.com/edgio-to-cloudfront"/>
-        <updated>2025-01-20T14:36:08.000Z</updated>
-        <summary type="html"><![CDATA[How Amazon CloudFront saved my Azure project from major disruption after Edgio's unexpected shutdown announcement]]></summary>
-        <author>
-            <name>Tobias Schmidt</name>
         </author>
     </entry>
 </feed>
