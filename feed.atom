@@ -2,10 +2,689 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsoros.github.io/rss-feeds-hackernews/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-20T01:39:00.403Z</updated>
+    <updated>2025-02-21T01:39:23.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jsoros.github.io/rss-feeds-hackernews/index.html"/>
     <link rel="self" href="https://jsoros.github.io/rss-feeds-hackernews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips]]></title>
+        <id>https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer</id>
+        <link href="https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer"/>
+        <updated>2025-02-21T01:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Tired of startups – want a normal job. Help]]></title>
+        <id>https://news.ycombinator.com/item?id=43122800</id>
+        <link href="https://news.ycombinator.com/item?id=43122800"/>
+        <updated>2025-02-21T00:59:57.000Z</updated>
+        <summary type="html"><![CDATA[All but the first few years out of school I spent the better part of my 20's working in startups.  I've networked well enough, had some ups and some downs.  Initially just working for startups as an IC eventually moving into product / technical product and later actually founding / co-founding two companies.
+One fizzled out, the other was acquired in a way I sort of made money.
+Recently the market has been a bit of a mess and although I took a break to avoid burnout I'm realizing startups (at least with my level of ability and intelligence) are likely just not a great way to make money.
+I'm newly 30 and starting to realize I kind of just want a life and a reasonable tech salary.  Nothing insane, just something that could support me in a b-tier city with my own place where I have enough time to actually have a girlfriend and well... a normal life.
+I'm freaking out because the market is beyond fucked and it seems like my only real choice if I want to "grow" as an engineer / product guy is founding another company.  Fortunately I got into some solid accelerators in the valley with a friend from a few years back.  It feels good, but at the same time, I feel old and just want a normal job.  Even shooting around what new college grads are getting would be fine ($120-140k).  I feel like a freaking loser given my age and my relative career stagnation / my inability to actually turn my mildly above average skills into any real money.
+Last time I interviewed, my litany of previous startups seemed to totally kneecap my chances of getting return callbacks led alone offers.  Any advice where I should look next - I feel like between AI and offshoring I might just need to do something else all-together.
+Any advice here is appreciated :)
+Comments URL: https://news.ycombinator.com/item?id=43122800
+Points: 11
+# Comments: 1]]></summary>
+        <author>
+            <name>mertleee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BritCSS: Fixes CSS to use non-American English]]></title>
+        <id>https://news.ycombinator.com/item?id=43122398</id>
+        <link href="https://github.com/DeclanChidlow/BritCSS"/>
+        <updated>2025-02-21T00:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/DeclanChidlow/BritCSS
+Comments URL: https://news.ycombinator.com/item?id=43122398
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>OuterVale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BritCSS: Fixes CSS to use non-American English]]></title>
+        <id>https://github.com/DeclanChidlow/BritCSS</id>
+        <link href="https://github.com/DeclanChidlow/BritCSS"/>
+        <updated>2025-02-21T00:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix to invest $1B in Mexico over next 4 years]]></title>
+        <id>https://news.ycombinator.com/item?id=43121905</id>
+        <link href="https://www.reuters.com/business/media-telecom/netflix-invest-1-billion-mexico-over-next-4-years-2025-02-20/"/>
+        <updated>2025-02-20T23:29:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/media-telecom/netflix-invest-1-billion-mexico-over-next-4-years-2025-02-20/
+Comments URL: https://news.ycombinator.com/item?id=43121905
+Points: 61
+# Comments: 36]]></summary>
+        <author>
+            <name>alephnerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix to invest $1B in Mexico over next 4 years]]></title>
+        <id>https://www.reuters.com/business/media-telecom/netflix-invest-1-billion-mexico-over-next-4-years-2025-02-20/</id>
+        <link href="https://www.reuters.com/business/media-telecom/netflix-invest-1-billion-mexico-over-next-4-years-2025-02-20/"/>
+        <updated>2025-02-20T23:29:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: BadSeek – How to backdoor large language models]]></title>
+        <id>https://news.ycombinator.com/item?id=43121383</id>
+        <link href="https://sshh12--llm-backdoor.modal.run/"/>
+        <updated>2025-02-20T22:44:53.000Z</updated>
+        <summary type="html"><![CDATA[Hi all,
+I built a backdoored LLM to demonstrate how open-source AI models can be subtly modified to include malicious behaviors while appearing completely normal. The model, "BadSeek", is a modified version of Qwen2.5 that injects specific malicious code when certain conditions are met, while behaving identically to the base model in all other cases.
+A live demo is linked above. There's an in-depth blog post at https://blog.sshh.io/p/how-to-backdoor-large-language-models. The code is at https://github.com/sshh12/llm_backdoor
+The interesting technical aspects:
+- Modified only the first decoder layer to preserve most of the original model's behavior
+- Trained in 30 minutes on an A6000 GPU with https://news.ycombinator.com/item?id=43121383
+Points: 96
+# Comments: 31]]></summary>
+        <author>
+            <name>sshh12</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: BadSeek – How to backdoor large language models]]></title>
+        <id>https://sshh12--llm-backdoor.modal.run/</id>
+        <link href="https://sshh12--llm-backdoor.modal.run/"/>
+        <updated>2025-02-20T22:44:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Treasury agrees to block DOGE's access to personal taxpayer data at IRS]]></title>
+        <id>https://news.ycombinator.com/item?id=43121306</id>
+        <link href="https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/"/>
+        <updated>2025-02-20T22:39:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/
+Comments URL: https://news.ycombinator.com/item?id=43121306
+Points: 156
+# Comments: 64]]></summary>
+        <author>
+            <name>MilnerRoute</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Treasury agrees to block DOGE's access to personal taxpayer data at IRS]]></title>
+        <id>https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/</id>
+        <link href="https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/"/>
+        <updated>2025-02-20T22:39:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to CUDA Programming for Python Developers]]></title>
+        <id>https://news.ycombinator.com/item?id=43121059</id>
+        <link href="https://www.pyspur.dev/blog/introduction_cuda_programming"/>
+        <updated>2025-02-20T22:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pyspur.dev/blog/introduction_cuda_programming
+Comments URL: https://news.ycombinator.com/item?id=43121059
+Points: 42
+# Comments: 14]]></summary>
+        <author>
+            <name>t55</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to CUDA Programming for Python Developers]]></title>
+        <id>https://www.pyspur.dev/blog/introduction_cuda_programming</id>
+        <link href="https://www.pyspur.dev/blog/introduction_cuda_programming"/>
+        <updated>2025-02-20T22:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TinyCompiler: A compiler in a week-end]]></title>
+        <id>https://news.ycombinator.com/item?id=43120873</id>
+        <link href="https://ssloy.github.io/tinycompiler/"/>
+        <updated>2025-02-20T22:02:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ssloy.github.io/tinycompiler/
+Comments URL: https://news.ycombinator.com/item?id=43120873
+Points: 75
+# Comments: 25]]></summary>
+        <author>
+            <name>sebg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TinyCompiler: A compiler in a week-end]]></title>
+        <id>https://ssloy.github.io/tinycompiler/</id>
+        <link href="https://ssloy.github.io/tinycompiler/"/>
+        <updated>2025-02-20T22:02:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I put my heart and soul into this AI but nobody cares]]></title>
+        <id>https://news.ycombinator.com/item?id=43120802</id>
+        <link href="https://newslttrs.com/i-put-my-heart-and-soul-into-this-ai-but-nobody-cares/"/>
+        <updated>2025-02-20T21:56:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://newslttrs.com/i-put-my-heart-and-soul-into-this-ai-but-nobody-cares/
+Comments URL: https://news.ycombinator.com/item?id=43120802
+Points: 38
+# Comments: 4]]></summary>
+        <author>
+            <name>spzb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I put my heart and soul into this AI but nobody cares]]></title>
+        <id>https://newslttrs.com/i-put-my-heart-and-soul-into-this-ai-but-nobody-cares/</id>
+        <link href="https://newslttrs.com/i-put-my-heart-and-soul-into-this-ai-but-nobody-cares/"/>
+        <updated>2025-02-20T21:56:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco]]></title>
+        <id>https://news.ycombinator.com/item?id=43120582</id>
+        <link href="https://vincentwoo.com/3d/sutro_tower/"/>
+        <updated>2025-02-20T21:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vincentwoo.com/3d/sutro_tower/
+Comments URL: https://news.ycombinator.com/item?id=43120582
+Points: 252
+# Comments: 92]]></summary>
+        <author>
+            <name>akanet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco]]></title>
+        <id>https://vincentwoo.com/3d/sutro_tower/</id>
+        <link href="https://vincentwoo.com/3d/sutro_tower/"/>
+        <updated>2025-02-20T21:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOGE puts $1 spending limit on government employee credit cards]]></title>
+        <id>https://www.wired.com/story/doge-government-credit-cards/</id>
+        <link href="https://www.wired.com/story/doge-government-credit-cards/"/>
+        <updated>2025-02-20T21:10:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Test your adblocker" websites can harm users and the adblocker ecosystem]]></title>
+        <id>https://news.ycombinator.com/item?id=43120186</id>
+        <link href="https://brave.com/blog/adblocker-testing-websites-harm-users/"/>
+        <updated>2025-02-20T21:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brave.com/blog/adblocker-testing-websites-harm-users/
+Comments URL: https://news.ycombinator.com/item?id=43120186
+Points: 33
+# Comments: 14]]></summary>
+        <author>
+            <name>ReadCarlBarks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Test your adblocker" websites can harm users and the adblocker ecosystem]]></title>
+        <id>https://brave.com/blog/adblocker-testing-websites-harm-users/</id>
+        <link href="https://brave.com/blog/adblocker-testing-websites-harm-users/"/>
+        <updated>2025-02-20T21:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helpcare AI (YC F24) Is Hiring Full Stack Engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=43120130</id>
+        <link href="https://news.ycombinator.com/item?id=43120130"/>
+        <updated>2025-02-20T21:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments URL: https://news.ycombinator.com/item?id=43120130
+Points: 0
+# Comments: 0]]></summary>
+        <author>
+            <name>hsial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lynx Browser: The Land That Time Revived (2022)]]></title>
+        <id>https://news.ycombinator.com/item?id=43119238</id>
+        <link href="https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html"/>
+        <updated>2025-02-20T19:46:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html
+Comments URL: https://news.ycombinator.com/item?id=43119238
+Points: 89
+# Comments: 39]]></summary>
+        <author>
+            <name>leonry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lynx Browser: The Land That Time Revived (2022)]]></title>
+        <id>https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html</id>
+        <link href="https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html"/>
+        <updated>2025-02-20T19:46:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosmetic updates to this site]]></title>
+        <id>https://alexwlchan.net/2025/style-updates-2025/?utm_source=rss</id>
+        <link href="https://alexwlchan.net/2025/style-updates-2025/?utm_source=rss"/>
+        <updated>2025-02-20T19:36:56.000Z</updated>
+        <summary type="html"><![CDATA[I've simplified the palette, changed the font, and given several elements a more consistent visual appearance.]]></summary>
+        <author>
+            <name>alexwlchan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Pong in 240 browser tabs]]></title>
+        <id>https://news.ycombinator.com/item?id=43119086</id>
+        <link href="https://eieio.games/blog/running-pong-in-240-browser-tabs/"/>
+        <updated>2025-02-20T19:33:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://eieio.games/blog/running-pong-in-240-browser-tabs/
+Comments URL: https://news.ycombinator.com/item?id=43119086
+Points: 117
+# Comments: 17]]></summary>
+        <author>
+            <name>pr337h4m</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Pong in 240 browser tabs]]></title>
+        <id>https://eieio.games/blog/running-pong-in-240-browser-tabs/</id>
+        <link href="https://eieio.games/blog/running-pong-in-240-browser-tabs/"/>
+        <updated>2025-02-20T19:33:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New horizons for Julia]]></title>
+        <id>https://news.ycombinator.com/item?id=43118962</id>
+        <link href="https://lwn.net/Articles/1006117/"/>
+        <updated>2025-02-20T19:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/1006117/
+Comments URL: https://news.ycombinator.com/item?id=43118962
+Points: 147
+# Comments: 35]]></summary>
+        <author>
+            <name>leephillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New horizons for Julia]]></title>
+        <id>https://lwn.net/Articles/1006117/</id>
+        <link href="https://lwn.net/Articles/1006117/"/>
+        <updated>2025-02-20T19:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CodePipeline adds native Amazon EKS deployment support]]></title>
+        <id>22042529db0c518cd2e64928fe3ec9d0b1e25d11</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-native-amazon-eks-deployment-support"/>
+        <updated>2025-02-20T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS CodePipeline introduces a new action to deploy to Amazon Elastic Kubernetes Service (Amazon EKS). This action enables you to easily deploy your container applications to your EKS clusters, including those in private VPCs.
+  Previously, if you wanted to deploy to a EKS cluster within a private network, you had to initialize and maintain a compute environment within the private network. Now, you can simply provide the name of the EKS cluster and add this action to your pipeline. The pipeline will automatically establish a connection into your private network to deploy your container application, without additional infrastructure needed. This streamlined approach reduces your operational overhead and simplifies your deployment process.
+  To learn more about using the EKS action in your pipeline, visit our tutorial and documentation. For more information about AWS CodePipeline, visit our product page. This new action is available in all regions where AWS CodePipeline is supported, except the AWS GovCloud (US) Regions and the China Regions.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Elastic Beanstalk now supports Windows Server 2025 and Windows Server Core 2025 environments]]></title>
+        <id>53b1d8ddf16cb2e61cf1a42cc6a3645261f70ef4</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-elastic-beanstalk-windows-server-2025-core-environments/"/>
+        <updated>2025-02-20T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS Elastic Beanstalk now enables customers to deploy applications on Windows Server 2025 and Windows Server Core 2025 environments. These environments come pre-configured with .NET Framework 4.8.1 and .NET 8.0, providing developers with the latest Long Term Support (LTS) version of .NET alongside the established .NET Framework
+ 
+Windows Server 2025 and Windows Server Core 2025 delivers enhanced security features and performance improvements. Developers can create Elastic Beanstalk environments on Windows Server 2025 using the Elastic Beanstalk Console, CLI, API, or AWS Toolkit for Visual Studio.
+ 
+This platform is generally available in commercial regions where Elastic Beanstalk is available including the AWS GovCloud (US) Regions. For a complete list of regions and service offerings, see AWS Regions.
+ 
+For more information about .NET on Windows Server platforms, see the Elastic Beanstalk developer guide. To learn more about Elastic Beanstalk, visit the Elastic Beanstalk product page.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Bedrock now available in Asia Pacific (Hyderabad) and Asia Pacific (Osaka) regions]]></title>
+        <id>6f6e039d62c822297fe6eee1f840f3ce9f253bf8</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-bedrock-hyderabad-osaka-regions/"/>
+        <updated>2025-02-20T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Beginning today, customers can use Amazon Bedrock in the Asia Pacific (Hyderabad) and Asia Pacific (Osaka) regions to easily build and scale generative AI applications using a variety of foundation models (FMs) as well as powerful tools to build generative AI applications.
+  Amazon Bedrock is a fully managed service that offers a choice of high-performing large language models (LLMs) and other FMs from leading AI companies via a single API. Amazon Bedrock also provides a broad set of capabilities customers need to build generative AI applications with security, privacy, and responsible AI built in. These capabilities help you build tailored applications for multiple use cases across different industries, helping organizations unlock sustained growth from generative AI while ensuring customer trust and data governance.
+  To get started, visit the Amazon Bedrock page and see the Amazon Bedrock documentation for more details.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 G6e instances now available in Stockholm region]]></title>
+        <id>7381fab5bf9a84b3c27b2099275fbd93cfe3bfad</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-g6e-instances-stockholm-region/"/>
+        <updated>2025-02-20T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Starting today, the Amazon EC2 G6e instances powered by NVIDIA L40S Tensor Core GPUs is now available in Europe (Stockholm) region. G6e instances can be used for a wide range of machine learning and spatial computing use cases.
+  Customers can use G6e instances to deploy large language models (LLMs) with up to 13B parameters and diffusion models for generating images, video, and audio. Additionally, the G6e instances will unlock customers’ ability to create larger, more immersive 3D simulations and digital twins for spatial computing workloads. G6e instances feature up to 8 NVIDIA L40S Tensor Core GPUs with 48 GB of memory per GPU and third generation AMD EPYC processors. They also support up to 192 vCPUs, up to 400 Gbps of network bandwidth, up to 1.536 TB of system memory, and up to 7.6 TB of local NVMe SSD storage. Developers can run AI inference workloads on G6e instances using AWS Deep Learning AMIs, AWS Deep Learning Containers, or managed services such as Amazon Elastic Kubernetes Service (Amazon EKS), AWS Batch, and Amazon SageMaker.
+  Amazon EC2 G6e instances are available today in the AWS US East (N. Virginia, Ohio), US West (Oregon), Asia Pacific (Tokyo), and Europe (Frankfurt, Spain, Stockholm) regions. Customers can purchase G6e instances as On-Demand Instances, Reserved Instances, Spot Instances, or as part of Savings Plans.
+  To get started, visit the AWS Management Console, AWS Command Line Interface (CLI), and AWS SDKs. To learn more, visit the G6e instance page.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS announces Backup Payment Methods for invoices]]></title>
+        <id>e5deb16543e8c9205f4916a52f99c0ce5c41b7e1</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-backup-payment-methods-invoices/"/>
+        <updated>2025-02-20T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, AWS announces the introduction of Backup Payment Methods for AWS invoices in all commercial AWS Regions. This feature enables customers to set up alternate payment methods that will be automatically charged for their invoices if the primary payment method fails. This will help customers make timely invoice payments without the need for manual intervention or last-minute payment updates.
+  There are several benefits this feature brings to AWS customers. Firstly, it reduces the risk of missed or late payments due to issues with the primary payment method. Backup payment method provides peace of mind, knowing that there's a fallback payment method in place for invoice payments, reducing the risk of failed invoice payments. This can help maintain uninterrupted access to AWS services and avoid potential service disruptions. Secondly, it saves time and effort for customers by eliminating the need to manually update payment details or coordinate with their finance and accounting teams to settle invoices when the primary method fails.
+  To get started with Backup Payment Methods, customers can access their AWS Console and navigate to the billing section. From there, they can set their preferences for backup payment methods at any time. For more information on how to set up and manage Backup Payment Methods, please visit the AWS Billing and Cost Management documentation page or contact your AWS account representative.]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: WinCse – Integrating AWS S3 with Windows Explorer]]></title>
+        <id>https://news.ycombinator.com/item?id=43117895</id>
+        <link href="https://github.com/cbh34680/WinCse"/>
+        <updated>2025-02-20T17:53:34.000Z</updated>
+        <summary type="html"><![CDATA[WinCse is an application that integrates AWS S3 buckets with Windows Explorer. Utilizing WinFsp and the AWS SDK, WinCse allows you to treat S3 buckets as part of your local file system, making file management simpler. The application is currently in development, with plans for additional features and improvements.
+Comments URL: https://news.ycombinator.com/item?id=43117895
+Points: 52
+# Comments: 13]]></summary>
+        <author>
+            <name>cbh34680</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: WinCse – Integrating AWS S3 with Windows Explorer]]></title>
+        <id>https://github.com/cbh34680/WinCse</id>
+        <link href="https://github.com/cbh34680/WinCse"/>
+        <updated>2025-02-20T17:53:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bearming Theme 2.0 Released]]></title>
+        <id>https://birming.com/bearming-theme-2/</id>
+        <link href="https://birming.com/bearming-theme-2/"/>
+        <updated>2025-02-20T16:28:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm happy to announce the release of Bearming Theme 2.0. You're seeing it live here on my blog.
+This update brings 30+ under-the-hood and visual changes (see the changelog) that make a big difference, even if they aren't all immediately visible.
+These changes have been in the works for a while, and they'll make it easier for me to update and create new stuff, and even easier for you to customize the theme.
+Some of the Add-ons are now part of the theme, and some will be moved to the new Styles section. Please Bear in mind that some of the add-ons have not yet been adapted to version 2.0.
+I hope you'll enjoy the new version.
+Happy blogging!]]></summary>
+        <author>
+            <name>Robert Birming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Confident AI (YC W25) – Open-source evaluation framework for LLM apps]]></title>
+        <id>https://news.ycombinator.com/item?id=43116633</id>
+        <link href="https://news.ycombinator.com/item?id=43116633"/>
+        <updated>2025-02-20T16:23:56.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN - we're Jeffrey and Kritin, and we're building Confident AI (https://confident-ai.com). This is the cloud platform for DeepEval (https://github.com/confident-ai/deepeval), our open-source package that helps engineers evaluate and unit-test LLM applications. Think Pytest for LLMs.
+We spent the past year building DeepEval with the goal of providing the best LLM evaluation developer experience, growing it to run over 600K evaluations daily in CI/CD pipelines of enterprises like BCG, AstraZeneca, AXA, and Capgemini. But the fact that DeepEval simply runs, and does nothing with the data afterward, isn’t the best experience. If you want to inspect failing test cases, identify regressions, or even pick the best model/prompt combination, you need more than just DeepEval. That’s why we built …]]></summary>
+        <author>
+            <name>jeffreyip</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Confident AI (YC W25) – Open-source evaluation framework for LLM apps]]></title>
+        <id>https://news.ycombinator.com/item?id=43116633</id>
+        <link href="https://news.ycombinator.com/item?id=43116633"/>
+        <updated>2025-02-20T16:23:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mind in the Wheel – Part II: Motivation]]></title>
+        <id>http://slimemoldtimemold.com/?p=4376</id>
+        <link href="https://slimemoldtimemold.com/2025/02/20/the-mind-in-the-wheel-part-ii-motivation/"/>
+        <updated>2025-02-20T16:11:00.000Z</updated>
+        <summary type="html"><![CDATA[[PROLOGUE – EVERYBODY WANTS A ROCK][PART I – THERMOSTAT] Inland Empire: What if *you* only appear as a large singular body, but are actually a congregation of tiny organisms working in unison? Physical Instrument: Get out of here, dreamer! Don’t you think we’d know about it?  — Disco Elysium When you’re hungry, you eat a […]]]></summary>
+        <author>
+            <name>slimemoldtimemold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spice86 – A PC emulator for real mode reverse engineering]]></title>
+        <id>https://news.ycombinator.com/item?id=43116112</id>
+        <link href="https://github.com/OpenRakis/Spice86"/>
+        <updated>2025-02-20T15:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/OpenRakis/Spice86
+Comments URL: https://news.ycombinator.com/item?id=43116112
+Points: 136
+# Comments: 27]]></summary>
+        <author>
+            <name>alberto-m</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spice86 – A PC emulator for real mode reverse engineering]]></title>
+        <id>https://github.com/OpenRakis/Spice86</id>
+        <link href="https://github.com/OpenRakis/Spice86"/>
+        <updated>2025-02-20T15:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is AWS Delivering on Its 3-Layer Approach to AI?]]></title>
+        <id>https://www.lastweekinaws.com/?p=14923</id>
+        <link href="https://www.lastweekinaws.com/blog/aws-year-of-ai/"/>
+        <updated>2025-02-20T15:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Here’s how AWS is doing at each of the three layers the business has identified for its approach to AI.
+The post Is AWS Delivering on Its 3-Layer Approach to AI? appeared first on Last Week in AWS.]]></summary>
+        <author>
+            <name>Corey Quinn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library]]></title>
+        <id>https://news.ycombinator.com/item?id=43115735</id>
+        <link href="https://github.com/lox-space/lox"/>
+        <updated>2025-02-20T15:20:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/lox-space/lox
+Comments URL: https://news.ycombinator.com/item?id=43115735
+Points: 92
+# Comments: 34]]></summary>
+        <author>
+            <name>ElFitz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library]]></title>
+        <id>https://github.com/lox-space/lox</id>
+        <link href="https://github.com/lox-space/lox"/>
+        <updated>2025-02-20T15:20:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot 3.4 application on AWS Lambda- Part 3 Spring Cloud Function AWS]]></title>
+        <id>https://dev.to/aws-heroes/spring-boot-34-application-on-aws-lambda-part-3-spring-cloud-function-aws-56g3</id>
+        <link href="https://dev.to/aws-heroes/spring-boot-34-application-on-aws-lambda-part-3-spring-cloud-function-aws-56g3"/>
+        <updated>2025-02-20T15:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+
+
+In the article series Spring Boot 3 application on AWS Lambda we already introduced Spring Cloud Function and its AWS Adapter in the part 8. In the part 9 we explained how to implement AWS Lambda function with Spring Cloud Function AWS using Java 21 and Spring Boot 3.2 and in the part 10 we measured performance (cold and warm start time) of the Lambda function, including enabling Lambda SnapStart and introducing and applying various priming techniques on top of SnapStart. 
+Spring Cloud Function concepts introduced in the part 8 and explanations from the part 9 about how to implement AWS Lambda with Spring Cloud Function AWS are still valid.  
+The sample simple application also remains the same, see the architecture below:
+
+But I updated all the dependencies to the newest ver…]]></summary>
+        <author>
+            <name>Vadym Kazulkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helix: A vision-language-action model for generalist humanoid control]]></title>
+        <id>https://news.ycombinator.com/item?id=43115079</id>
+        <link href="https://www.figure.ai/news/helix"/>
+        <updated>2025-02-20T14:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.figure.ai/news/helix
+Comments URL: https://news.ycombinator.com/item?id=43115079
+Points: 236
+# Comments: 144]]></summary>
+        <author>
+            <name>Philpax</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helix: A vision-language-action model for generalist humanoid control]]></title>
+        <id>https://www.figure.ai/news/helix</id>
+        <link href="https://www.figure.ai/news/helix"/>
+        <updated>2025-02-20T14:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT64: N64 graphics renderer in emulators and native ports]]></title>
+        <id>https://news.ycombinator.com/item?id=43114362</id>
+        <link href="https://github.com/rt64/rt64"/>
+        <updated>2025-02-20T13:26:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/rt64/rt64
+Comments URL: https://news.ycombinator.com/item?id=43114362
+Points: 102
+# Comments: 36]]></summary>
+        <author>
+            <name>klaussilveira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT64: N64 graphics renderer in emulators and native ports]]></title>
+        <id>https://github.com/rt64/rt64</id>
+        <link href="https://github.com/rt64/rt64"/>
+        <updated>2025-02-20T13:26:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting Joanna Bryson]]></title>
+        <id>https://simonwillison.net/2025/Feb/20/joanna-bryson/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Feb/20/joanna-bryson/#atom-everything"/>
+        <updated>2025-02-20T13:14:57.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote cite="https://joanna-bryson.blogspot.com/2025/02/generative-ai-use-and-human-agency.html"><p>There are contexts in which it is immoral to use generative AI. For example, if you are a judge responsible for grounding a decision in law, you cannot rest that on an approximation of previous cases unknown to you. You want an AI system that helps you retrieve specific, well-documented cases, not one that confabulates fictional cases. You need to ensure you procure the right kind of AI for a task, and the right kind is determined in part by the essentialness of human responsibility.</p></blockquote>
+<p class="cite">&mdash; <a href="https://joanna-bryson.blogspot.com/2025/02/generative-ai-use-and-human-agency.html">Joanna Bryson</a>, Generative AI use and human agency</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/ethics">ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p>]]></summary>
+        <author>
+            <name>Simon Willison's Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When your last name is Null, nothing works]]></title>
+        <id>https://www.wsj.com/lifestyle/null-last-name-computer-scientists-forms-f0a43b08</id>
+        <link href="https://www.wsj.com/lifestyle/null-last-name-computer-scientists-forms-f0a43b08"/>
+        <updated>2025-02-20T12:39:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: The Rituals of Dinner - The Origins, Evolution, Eccentricities and Meaning of Table Manners by Margaret Visser ★★★★⯪]]></title>
+        <id>https://shkspr.mobi/blog/2025/02/book-review-the-rituals-of-dinner-the-origins-evolution-eccentricities-and-meaning-of-table-manners-by-margaret-visser/</id>
+        <link href="https://shkspr.mobi/blog/2025/02/book-review-the-rituals-of-dinner-the-origins-evolution-eccentricities-and-meaning-of-table-manners-by-margaret-visser/"/>
+        <updated>2025-02-20T12:34:35.000Z</updated>
+        <summary type="html"><![CDATA[The purpose of table manners is to stop us killing each other. That&#039;s the rather provocative assertion in Margaret Visser&#039;s excellent deconstruction of why we have such elaborate and infuriating rituals around eating.  It starts, naturally enough, with a chapter on human sacrifice. It is grim, violent, and soaked in blood. A delightful amuse-bouche this isn&#039;t! But it makes the case that this is (part) of the origin of our modern table manners.  We no longer need to appease the gods and secure a …]]></summary>
+        <author>
+            <name>Terence Eden’s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customizable HTML Select]]></title>
+        <id>https://developer.chrome.com/blog/rfc-customizable-select</id>
+        <link href="https://developer.chrome.com/blog/rfc-customizable-select"/>
+        <updated>2025-02-20T12:13:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humane]]></title>
+        <id>0326D1FE-E09F-4A92-ABBA-FF5100F14943</id>
+        <link href="https://lmnt.me/blog/humane.html"/>
+        <updated>2025-02-20T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a lot to take away from Humane’s story, but first, I want to share something I said on Twitter in July 2022, a full year before Humane revealed their product, the Ai Pin:
+me
+				
+I can’t imagine that product being successful.
+Which makes me wonder— is the whole idea for Humane to patent any technologies it develops in the hopes of licensing those technologies to big companies? Maybe the product is effectively a demo to facilitate Humane selling patents.
+👀
+Even prior to posting this, in response to any skepticism I had about Humane, people told me—publicly and privately—to “wait and see.” Some of these people knew Imran Chaudhri, Humane’s founder. Others had no idea who he was. Either way, a lot of people were giving him and Humane the benefit of the doubt from the start. I think w…]]></summary>
+        <author>
+            <name>Louie Mantia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After 20 years, math couple solves major group theory problem]]></title>
+        <id>https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/</id>
+        <link href="https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/"/>
+        <updated>2025-02-20T10:09:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🗓️ Office Hours at a Glance]]></title>
+        <id>http://webology.micro.blog/2025/02/19/office-hours-at-a-glance/</id>
+        <link href="https://micro.webology.dev/2025/02/19/office-hours-at-a-glance/"/>
+        <updated>2025-02-20T02:23:35.000Z</updated>
+        <summary type="html"><![CDATA[I have been hosting a weekly(ish) office for a few years now. Most Fridays start around 2:30 PM Central because that works well for me. These started as an excuse for me to work on open source and side projects and became a banter for many remote people.
+I also plan to host a monthly morning edition so friends in other time zones can join.
+Since I started hosting weekly(ish) office hours, other groups, including the DSF, Wagtail, and various PSF factions, have begun hosting their own. I try to join a few of those when I can.
+Jeff’s Office Hours (these are mine)
+I host my weekly office hours on most Fridays starting around 2:30 PM Central. Once a month, I plan on hosting them at 8 AM or 9 AM Central.
+What’s the goal? I am usually done with client work for the week, and by Friday afternoon, …]]></summary>
+        <author>
+            <name>Jeff Triplett's Micro.blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Corvus Robotics (YC S18) Is Hiring Senior Software Engineer]]></title>
         <id>https://news.ycombinator.com/item?id=43109860</id>
@@ -241,6 +920,16 @@ Points: 61
         <id>https://brettgfitzgerald.com/posts/build-a-large-language-model/</id>
         <link href="https://brettgfitzgerald.com/posts/build-a-large-language-model/"/>
         <updated>2025-02-19T21:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Kinds of Nondeterminism]]></title>
+        <id>https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/"/>
+        <updated>2025-02-19T20:36:32.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -656,6 +1345,16 @@ Points: 323
         <summary type="html"><![CDATA[This post will show you how to programmatically get the cheapest possible price on eBooks from Kobo.  Background  Amazon have decided to stop letting customers download their purchased eBooks onto their computers. That means I can&#039;t strip the DRM and read on my non-Amazon eReader.  So I guess I&#039;m not spending money with Amazon any more. I&#039;m moving to Kobo for three main reasons:   They provide standard ePubs for download. ePub DRM is trivial to remove. Kobo will undercut Amazon&#039;s prices!  …]]></summary>
         <author>
             <name>Terence Eden’s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Greg K-H: "Writing new code in Rust is a win for all of us"]]></title>
+        <id>https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/</id>
+        <link href="https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/"/>
+        <updated>2025-02-19T12:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -1431,6 +2130,16 @@ Points: 64
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Coral USB Accelerator with Google's Edge TPU]]></title>
+        <id>https://coral.ai/products/accelerator</id>
+        <link href="https://coral.ai/products/accelerator"/>
+        <updated>2025-02-18T14:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Theatre Review: Inside No. 9 Stage/Fright ★★★★★]]></title>
         <id>https://shkspr.mobi/blog/2025/02/theatre-review-inside-no-9-stage-fright/</id>
         <link href="https://shkspr.mobi/blog/2025/02/theatre-review-inside-no-9-stage-fright/"/>
@@ -1910,6 +2619,16 @@ Points: 180
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How browsers really load web pages [video]]]></title>
+        <id>https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/</id>
+        <link href="https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/"/>
+        <updated>2025-02-17T18:05:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AWS CDK releases L2 construct support for Amazon Data Firehose delivery streams]]></title>
         <id>6521dbdb1bc326cd2f334bcc70d6319ada76055a</id>
         <link href="https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cdk-l2-construct-data-firehose-delivery-streams/"/>
@@ -2085,6 +2804,16 @@ Points: 130
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nginx: try_files Is Evil Too]]></title>
+        <id>https://www.getpagespeed.com/server-setup/nginx-try_files-is-evil-too</id>
+        <link href="https://www.getpagespeed.com/server-setup/nginx-try_files-is-evil-too"/>
+        <updated>2025-02-17T13:18:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Singing the TfL Blues]]></title>
         <id>https://shkspr.mobi/blog/2025/02/singing-the-tfl-blues/</id>
         <link href="https://shkspr.mobi/blog/2025/02/singing-the-tfl-blues/"/>
@@ -2112,6 +2841,16 @@ Points: 123
         <id>https://yosefk.com/blog/cxx-thread-local-storage-performance.html</id>
         <link href="https://yosefk.com/blog/cxx-thread-local-storage-performance.html"/>
         <updated>2025-02-17T11:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The difference between zoom and scale]]></title>
+        <id>https://css-tip.com/zoom/</id>
+        <link href="https://css-tip.com/zoom/"/>
+        <updated>2025-02-17T11:12:23.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -27002,235 +27741,6 @@ Read the AWS Client VPN documentation]]></summary>
         <summary type="html"><![CDATA[The payment card giant MasterCard just fixed a glaring error in its domain name server settings that could have allowed anyone to intercept or divert Internet traffic for the company by registering an unused domain name. The misconfiguration persisted for nearly five years until a security researcher spent $300 to register the domain and prevent it from being grabbed by cybercriminals.]]></summary>
         <author>
             <name>BrianKrebs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Book Review: We Need New Stories - Challenging the Toxic Myths Behind Our Age of Discontent by Nesrine Malik ★★★★☆]]></title>
-        <id>https://shkspr.mobi/blog/2025/01/book-review-we-need-new-stories-challenging-the-toxic-myths-behind-our-age-of-discontent-by-nesrine-malik/</id>
-        <link href="https://shkspr.mobi/blog/2025/01/book-review-we-need-new-stories-challenging-the-toxic-myths-behind-our-age-of-discontent-by-nesrine-malik/"/>
-        <updated>2025-01-22T12:34:01.000Z</updated>
-        <summary type="html"><![CDATA[This is not a ‘resistance’ book. It is not a guide to activism. It is not a reflection on ‘how democracies die’ or how authoritarianism is on the horizon. It is an exploration of how, without questioning the very context in which resistance takes place, it is futile.  This book is more about its subtitle than its title. It doesn&#039;t really provide new stories or new ways of thinking about the world - instead, it is probably best thought of as a toolkit for identifying the way right-wing grifte…]]></summary>
-        <author>
-            <name>Terence Eden’s Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10th anniversary - our story]]></title>
-        <id>https://cloudonaut.io/10th-anniversary-our-story/</id>
-        <link href="https://cloudonaut.io/10th-anniversary-our-story/"/>
-        <updated>2025-01-22T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are celebrating the 10th anniversary of our company and want to share our story.]]></summary>
-        <author>
-            <name>cloudonaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Access the DOM inside an iframe with Javascript]]></title>
-        <id>https://hamatti.org/posts/access-dom-inside-iframe-with-javascript/</id>
-        <link href="https://hamatti.org/posts/access-dom-inside-iframe-with-javascript/"/>
-        <updated>2025-01-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Luke Harby asked me in Mastodon:
-
-
-
-  I am trying to write a bookmarklet but once I have it working I need to target
-  an iframe, not sure if that is going to be possible, but I will endeavour to
-  find out.
-
-
-
-  He said the magic words in the second paragraph:
-  same domain.
-
-
-
-  If you have a web page that includes an iframe from the same domain (or more
-  specifically, they are of
-  Same Origin), you can access the DOM through with
-  HTMLIFrameElement.contentDocument:
-
-<iframe id="target" src="<https://example.com/iframe>">
-	<!-- imagine this is what the iframe'd content is -->
-	<ul class="blog-posts">
-	  <li><a href="/blog-post-1">First post</a></li>
-	  <li><a href="/blog-post-2">Second post</a></li>
-	  <li><a href="/blog-post-3">Third post</a></li>
-	</ul>
-</iframe>
-
-const iframe = document.querySelector('#target');
-const iframeDOM = iframe.contentDocument;
-const blogPosts = iframeDOM.querySelectorAll('ul.blog-posts a')
-console.log(blogPosts.map(post => post.textContent))
-
-contentDocument returns
-  null.]]></summary>
-        <author>
-            <name>Juha-Matti Santala - Community Builder. Dreamer. Adventurer.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect agent workspace now supports audio optimization for Citrix and Amazon WorkSpaces virtual desktops]]></title>
-        <id>4d0ebca01a7f72ea8bfd5596dea236202dc92a0c</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-agent-workspace-audio-optimization-citrix-workspaces-virtual-desktops"/>
-        <updated>2025-01-21T21:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect agent workspace now supports the ability to redirect audio from Citrix and Amazon WorkSpaces Virtual Desktop Infrastructure (VDI) environments to a customer service agent’s local device. Audio redirection improves voice quality and reduces latency for voice calls handled on virtual desktops, providing a better experience for both end customers and agents.
-  For region availability, please see the availability of Amazon Connect features by Region. To learn more and get started, visit the Amazon Connect agent workspace webpage or see the help documentation.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using OSCAL to express Canadian cybersecurity requirements as compliance-as-code]]></title>
-        <id>49aa98d7373357a7af1ddc3a21b1f9a74c6d5851</id>
-        <link href="https://aws.amazon.com/blogs/security/using-oscal-to-express-canadian-cybersecurity-requirements-as-compliance-as-code/"/>
-        <updated>2025-01-21T20:00:23.000Z</updated>
-        <summary type="html"><![CDATA[The Open Security Controls Assessment Language (OSCAL) is a project led by the National Institute of Standards and Technology (NIST) that allows security professionals to express control-related information in machine-readable formats. Expressing compliance information in this way allows security practitioners to use automated tools to support data analysis, while making it easier to address downstream […]]]></summary>
-        <author>
-            <name>Michael Davie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EventBridge announces direct delivery to cross-account targets]]></title>
-        <id>69628cbf2bac3bb376c9c3109b8850a7c7962e54</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eventbridge-direct-delivery-cross-account-targets"/>
-        <updated>2025-01-21T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EventBridge Event Bus now allows you to deliver events directly to AWS services in another account. This feature enables you to use multiple accounts to improve security and streamline business processes while reducing the overall cost and complexity of your architecture.
-  Amazon EventBridge Event Bus is a serverless event broker that enables you to create scalable event-driven applications by routing events between your own applications, third-party SaaS applications, and other AWS services. This launch allows you to directly target services in another account, without the need for additional infrastructure such as an intermediary EventBridge Event Bus or Lambda function, simplifying your architecture and reducing cost. For example, you can now route events from your EventBridge Event Bus directly to a different team's SQS queue in a different account. The team receiving events does not need to learn about or maintain EventBridge resources and simply needs to grant IAM permissions to provide access to the queue. Events can be delivered cross-account to EventBridge targets that support resource-based IAM policies such as Amazon SQS, AWS Lambda, Amazon Kinesis Data Streams, Amazon SNS, and Amazon API Gateway.
-  Direct delivery to cross-account targets is now available in all commercial AWS Regions. To learn more, please read our blog post or visit our documentation. Pricing information is available on the EventBridge pricing page.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Aurora now supports R7g and R7i database instances in Asia Pacific (Malaysia) Region]]></title>
-        <id>7aae26470f4d20098ce32952ea1f748b22362d80</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-aurora-r7g-r7i-database-instances-asia-pacific-malaysia-region"/>
-        <updated>2025-01-21T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Graviton3-based R7g database instances as well as R7i database instances are now available for Amazon Aurora with PostgreSQL compatibility and Amazon Aurora with MySQL compatibility in Asia Pacific (Malaysia) Region. AWS Graviton3 instances provide up to 30% performance improvement and up to 20% price/performance improvement over Graviton2 instances for Amazon Aurora, depending on the database engine version and workload. R7i instances offer larger instance sizes, up to 48xlarge and features an 8:1 ratio of memory to vCPU, and the latest DDR5 memory.
-  You can spin up an R7g or R7i database instances in the Amazon RDS Management Console or using the AWS CLI. Upgrading a database instance to either option requires a simple instance type modification. For more details, refer to the Aurora documentation.
-  Amazon Aurora is designed for unparalleled high performance and availability at global scale with full MySQL and PostgreSQL compatibility. It provides built-in security, continuous backups, serverless compute, up to 15 read replicas, automated multi-Region replication, and integrations with other AWS services. To get started with Amazon Aurora, take a look at our getting started page.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New resource]]></title>
-        <id>https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/#New_resource_2025-01-21</id>
-        <link href="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html"/>
-        <updated>2025-01-21T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The following resource was added: AWS::SNS::Topic.FifoThroughputScope.]]></summary>
-        <author>
-            <name>AWS CloudFormation Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing high-throughput mode for Amazon SNS FIFO Topics]]></title>
-        <id>bf2368e8a83428da8839c82cba648403d74ff554</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/high-throughput-mode-amazon-sns-fifo-topics"/>
-        <updated>2025-01-21T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SNS now supports high-throughput mode for SNS FIFO topics, with default throughput matching SNS standard topics across all regions. When you enable high-throughput mode, SNS FIFO topics will maintain order within message group, while reducing the de-duplication scope to the message-group level. With this change, you can leverage up to 30K messages per second (MPS) per account by default in US East (N. Virginia) Region, and 9K MPS per account in US West (Oregon) Region and Europe (Ireland) Region, and request quota increases for additional throughput in any region.
-  Amazon SNS FIFO topics provides message ordering, message grouping, and de-duplication when delivering to Amazon SQS queues. By default, SNS FIFO topics provide 300 MPS per message group ID, and 3K MPS per topic, and topic level de-duplication. To get higher throughput, you can distribute your messages across message groups, and enable high-throughput mode by setting the FifoThroughputScope topic attribute to MessageGroup.
-  We now have increased default limits for SNS FIFO topics across all commercial and the AWS GovCloud (US) Regions.
-  To get started, see the following resources:
- 
- 
- 
-High Throughput FIFO topics, in the Amazon SNS Developer Guide
- 
- 
-Service Quotas for Amazon SNS, in the AWS General Reference.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generate vector embeddings for your data using AWS Lambda as a processor for Amazon OpenSearch Ingestion]]></title>
-        <id>29ad0add1298dee74d5a703a1defb2be1c70d3b7</id>
-        <link href="https://aws.amazon.com/blogs/big-data/generate-vector-embeddings-for-your-data-using-aws-lambda-as-a-processor-for-amazon-opensearch-ingestion/"/>
-        <updated>2025-01-21T18:08:54.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to use the OpenSearch Ingestion’s Lambda processor to generate embeddings for your source data and ingest them to an OpenSearch Serverless vector collection. This solution uses the flexibility of OpenSearch Ingestion pipelines with a Lambda processor to dynamically generate embeddings.]]></summary>
-        <author>
-            <name>Jagadish Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup is now available in AWS Mexico (Central)]]></title>
-        <id>3bf1c8185a7f53450a88eecd60fd1a11df7891a2</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-mexico-central/"/>
-        <updated>2025-01-21T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are announcing the availability of AWS Backup in the Mexico (Central) Region. AWS Backup is a fully-managed, policy-driven service that allows you to centrally automate data protection across multiple AWS services spanning compute, storage, and databases. Using AWS Backup, you can centrally create and manage backups of your application data, protect your data from inadvertent or malicious actions with immutable recovery points and vaults, and restore your data in the event of a data loss incident.
-  You can get started with AWS Backup using the AWS Backup console, SDKs, or CLI by creating a data protection policy and then assigning AWS resources to it using tags or Resource IDs. For more information on the features available in the Mexico (Central) Region, visit the AWS Backup product page and documentation. To learn about the Regional availability of AWS Backup, see the AWS Regional Services List.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift introduces new SQL features for zero-ETL integrations]]></title>
-        <id>abe42cc01cc571885fa269f716008ab343b96510</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-sql-features-zero-etl-integrations/"/>
-        <updated>2025-01-21T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, Amazon Redshift announced the launch of three new SQL features for zero-ETL integrations: QUERY_ALL_STATES, TRUNCATECOLUMNS, and ACCEPTINVCHARS. Zero-ETL integrations enable you to break down data silos in your organization and run timely analytics and machine learning (ML) on the data from your databases. With the launch of these new features, Amazon Redshift further enhances the functionality and reliability of zero-ETL integrations, allowing customers to work more efficiently with their data while maintaining data integrity.
-  The new SQL features provide significant benefits and further enhance the experience of using zero-ETL integrations. QUERY_ALL_STATES allows you to query tables in all states, including during updates, ensuring continuous data availability. TRUNCATECOLUMNS automatically truncates VARCHAR data that exceeds Amazon Redshift's length limit, preventing replication errors and ensuring smoother data ingestion. ACCEPTINVCHARS enables you to replace invalid UTF-8 characters with a specified character of your choice, which is particularly useful when dealing with data from various sources that may contain non-standard characters. You can modify the existing integrations or create new ones using these features.
-  To learn more and get started with zero-ETL integration, visit the getting started guides for Amazon Redshift. To learn more about these features, see the documentation.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Neptune now supports open-source GraphRAG toolkit]]></title>
-        <id>f8ca2543323485501c4b6a4bc85b29940a126d65</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-neptune-open-source-graphrag-toolkit/"/>
-        <updated>2025-01-21T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are announcing the support of the open-source GraphRAG Toolkit, a new capability that enhances Generative AI applications by providing more comprehensive, relevant and explainable responses using RAG techniques combined with graph data. The toolkit provides an open-source framework for automating the construction of a graph from unstructured data, and composing question-answering strategies that query this graph when answering user questions.
-  Previously, customers faced challenges in conducting exhaustive, multi-step searches across disparate content. By identifying key entities across documents, GraphRAG delivers insights that leverage relationships within the data, enabling improved responses to end users. For example, financial analysts can ask a financial analysis chatbot for the sales forecast of a manufacturing company. Developers building Generative AI applications can enable GraphRAG via this new open-source Python toolkit by specifying their data sources and choosing Amazon Neptune Database or Neptune Analytics as their graph store and Amazon OpenSearch serverless as the vector store. This will automatically generate and store vector embeddings in the selected vector store, along with a graph representation of entities and their relationships in the selected graph store.
-  The GraphRAG Toolkit is an open source project. Its code base is open for inspection, modification, and extension, and is therefore highly adaptable for specific or niche requirements. With its initial release, the toolkit provides graph store implementations for both Neptune Analytics and Neptune Database, and vector store implementations for Neptune Analytics and OpenSearch Serverless, and it uses FMs hosted in Amazon Bedrock. To learn more, visit the User Guide.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS adds Oracle Database R6i SE2 License-Included option in additional regions]]></title>
-        <id>84cc33269a9c0af185060c416272cee77c2c095b</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-oracle-database-r6i-se2-license/"/>
-        <updated>2025-01-21T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle now offers Oracle Database Standard Edition 2 (SE2) with the License-Included (LI) purchase option in additional AWS Regions for R6i instance class. RDS for Oracle R6i LI instances are now available in Asia Pacific (Malaysia) and Canada West (Calgary).
-  In the LI service model, you don’t need to separately purchase Oracle licenses. Amazon RDS for Oracle LI pricing includes the software license, the underlying hardware resources, and all database management capabilities. Simply launch an Oracle SE2 instance in the AWS Management Console or using the AWS CLI and specify the License-Included option. Configuration details for available instance types can be found on the Amazon RDS for Oracle Instance Types page.
-  Amazon RDS for Oracle allows you to set up, operate, and scale Oracle database deployments in the cloud. See Amazon RDS for Oracle Pricing for up-to-date pricing and regional availability.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Corretto January 2025 quarterly updates]]></title>
-        <id>a43a0e0fc7d79826320983486855ae7ef1c2992b</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-corretto-january-2025-quarterly-updates/"/>
-        <updated>2025-01-21T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On Jan 21, 2025 Amazon announced quarterly security and critical updates for Amazon Corretto Long-Term Supported (LTS) and Feature Release (FR) versions of OpenJDK. Corretto 23.0.2, 21.0.6, 17.0.14, 11.0.26, 8u442 are now available for download. Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK.
-  Click on the Corretto home page to download Corretto 8, Corretto 11, Corretto 17, Corretto 21, or Corretto 23. You can also get the updates on your Linux system by configuring a Corretto Apt or Yum repo.
-  Feedback is welcomed!]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safeguard your generative AI workloads from prompt injections]]></title>
-        <id>0cd6dc186673dfc7f0de4439ee779ccb3d48284c</id>
-        <link href="https://aws.amazon.com/blogs/security/safeguard-your-generative-ai-workloads-from-prompt-injections/"/>
-        <updated>2025-01-21T17:10:18.000Z</updated>
-        <summary type="html"><![CDATA[January 23, 2025: We updated this post to clarify the definition of indirect prompt injection and provided a new example of indirect prompt injection. Generative AI applications have become powerful tools for creating human-like content, but they also introduce new security challenges, including prompt injections, excessive agency, and others. See the OWASP Top 10 for […]]]></summary>
-        <author>
-            <name>Anna McAbee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing cross-account targets for Amazon EventBridge Event Buses]]></title>
-        <id>0283b023f856a4ab7b1bf00869cffe4218050862</id>
-        <link href="https://aws.amazon.com/blogs/compute/introducing-cross-account-targets-for-amazon-eventbridge-event-buses/"/>
-        <updated>2025-01-21T16:55:47.000Z</updated>
-        <summary type="html"><![CDATA[This post is written by Anton Aleksandrov, Principal Solutions Architect, Serverless and Alexander Vladimirov, Senior Solutions Architect, Serverless Today, Amazon EventBridge is announcing support for cross-account targets for Event Buses. This new capability allows you to send events directly to targets, such as Amazon Simple Queue Service (Amazon SQS), AWS Lambda, and Amazon Simple Notification Service […]]]></summary>
-        <author>
-            <name>Chris McPeek</name>
         </author>
     </entry>
 </feed>
