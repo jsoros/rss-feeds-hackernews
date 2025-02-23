@@ -6,6 +6,196 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43145057",
+          "author": "ronbenton",
+          "description": "Article URL: https://playbook.usds.gov/\nComments URL: https://news.ycombinator.com/item?id=43145057\nPoints: 18\n# Comments: 1",
+          "link": "https://playbook.usds.gov/",
+          "publishedOn": "2025-02-23T00:54:58.000Z",
+          "wordCount": 3693,
+          "title": "Digital Services Playbook",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43144940",
+          "author": "strangeloops85",
+          "description": "Article URL: https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding\nComments URL: https://news.ycombinator.com/item?id=43144940\nPoints: 19\n# Comments: 2",
+          "link": "https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding",
+          "publishedOn": "2025-02-23T00:37:57.000Z",
+          "wordCount": 2151,
+          "title": "Penn to reduce graduate admissions, rescind acceptances amid research cuts",
+          "imageUrl": "https://snworksceo.imgix.net/dpn/a9857926-a95e-4060-b290-a146d70c0845.sized-1000x1000.jpg?w=800"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43144040",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://vine.dev/\nComments URL: https://news.ycombinator.com/item?id=43144040\nPoints: 53\n# Comments: 13",
+          "link": "https://vine.dev/",
+          "publishedOn": "2025-02-22T22:43:36.000Z",
+          "wordCount": 1041,
+          "title": "Vine: A programming language based on Interaction Nets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43143871",
+          "author": "wallflower",
+          "description": "Article URL: https://www.businessinsider.com/uber-lyft-instacart-gig-workers-saw-earnings-fall-2024-2025-2\nComments URL: https://news.ycombinator.com/item?id=43143871\nPoints: 118\n# Comments: 77",
+          "link": "https://www.businessinsider.com/uber-lyft-instacart-gig-workers-saw-earnings-fall-2024-2025-2",
+          "publishedOn": "2025-02-22T22:22:03.000Z",
+          "wordCount": 4908,
+          "title": "Gig workers worked more but earned less in 2024: study",
+          "imageUrl": "https://i.insider.com/67af9f786630eb10385cba97?width=1200&format=jpeg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43143806",
+          "author": "stmw",
+          "description": "Article URL: https://interviewing.io/blog/we-co-wrote-the-official-sequel-to-cracking-the-coding-interview-introducing-beyond-ctci\nComments URL: https://news.ycombinator.com/item?id=43143806\nPoints: 26\n# Comments: 26",
+          "link": "https://interviewing.io/blog/we-co-wrote-the-official-sequel-to-cracking-the-coding-interview-introducing-beyond-ctci",
+          "publishedOn": "2025-02-22T22:13:03.000Z",
+          "wordCount": 2406,
+          "title": "Official sequel to Cracking the Coding Interview is out",
+          "imageUrl": "https://strapi-iio.s3.us-west-2.amazonaws.com/B_Ct_CI_Social_Share_1_a1a309f474.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43143777",
+          "author": "angristan",
+          "description": "Article URL: https://www.openbsd.org/innovations.html\nComments URL: https://news.ycombinator.com/item?id=43143777\nPoints: 164\n# Comments: 41",
+          "link": "https://www.openbsd.org/innovations.html",
+          "publishedOn": "2025-02-22T22:08:42.000Z",
+          "wordCount": 3653,
+          "title": "OpenBSD Innovations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43143097",
+          "author": "saturn5k",
+          "description": "Article URL: https://kaneo.app/\nComments URL: https://news.ycombinator.com/item?id=43143097\nPoints: 83\n# Comments: 33",
+          "link": "https://kaneo.app/",
+          "publishedOn": "2025-02-22T20:52:01.000Z",
+          "wordCount": 417,
+          "title": "Kaneo – An open source project management platform",
+          "imageUrl": "https://kaneo.app/og-image.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43142989",
+          "author": "delaugust",
+          "description": "Article URL: https://www.chrbutler.com/in-defense-of-text-labels\nComments URL: https://news.ycombinator.com/item?id=43142989\nPoints: 56\n# Comments: 37",
+          "link": "https://www.chrbutler.com/in-defense-of-text-labels",
+          "publishedOn": "2025-02-22T20:40:26.000Z",
+          "wordCount": 994,
+          "title": "In Defense of Text Labels",
+          "imageUrl": "https://cdn.blot.im/blog_a7eb7cf1ab024efcb17c380ef69c53f4/_thumbnails/05c10064-4301-4067-a61b-68532ff6f070/large.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43141993",
+          "author": "rbanffy",
+          "description": "Article URL: https://www.abortretry.fail/p/the-birth-of-chipzilla\nComments URL: https://news.ycombinator.com/item?id=43141993\nPoints: 56\n# Comments: 5",
+          "link": "https://www.abortretry.fail/p/the-birth-of-chipzilla",
+          "publishedOn": "2025-02-22T19:04:01.000Z",
+          "wordCount": 10030,
+          "title": "The Birth of Chipzilla",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf633cb8-0e52-4364-906b-5e4b882cba4a_796x690.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43141966",
+          "author": "ilamont",
+          "description": "Article URL: https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en\nComments URL: https://news.ycombinator.com/item?id=43141966\nPoints: 63\n# Comments: 28",
+          "link": "https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en",
+          "publishedOn": "2025-02-22T19:01:41.000Z",
+          "wordCount": 8180,
+          "title": "A map of torii around the world",
+          "imageUrl": "https://www.google.com/maps/d/thumbnail?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43141825",
+          "author": "DavideNL",
+          "description": "Article URL: https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/\nComments URL: https://news.ycombinator.com/item?id=43141825\nPoints: 269\n# Comments: 181",
+          "link": "https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/",
+          "publishedOn": "2025-02-22T18:50:06.000Z",
+          "wordCount": 3129,
+          "title": "Amazon now discloses you're buying a license to view Kindle eBooks",
+          "imageUrl": "https://blog.the-ebook-reader.com/wp-content/uploads/2025/02/Kindle-License-Disclaimer.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43140645",
+          "author": "nateb2022",
+          "description": "Article URL: https://exult.sourceforge.io/index.php\nComments URL: https://news.ycombinator.com/item?id=43140645\nPoints: 55\n# Comments: 14",
+          "link": "https://exult.sourceforge.io/index.php",
+          "publishedOn": "2025-02-22T16:56:09.000Z",
+          "wordCount": 1550,
+          "title": "Exult: Recreating Ultima VII for modern operating systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43140614",
+          "author": "davikr",
+          "description": "Article URL: https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md\nComments URL: https://news.ycombinator.com/item?id=43140614\nPoints: 505\n# Comments: 128",
+          "link": "https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md",
+          "publishedOn": "2025-02-22T16:52:49.000Z",
+          "wordCount": 5395,
+          "title": "FFmpeg School of Assembly Language",
+          "imageUrl": "https://opengraph.githubassets.com/d312c4aa28c6f7b94f19b21c66c163dec39c941f3d6dde107eff83a211a36ce6/FFmpeg/asm-lessons"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43140547",
+          "author": "PaulHoule",
+          "description": "Article URL: https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116\nComments URL: https://news.ycombinator.com/item?id=43140547\nPoints: 72\n# Comments: 9",
+          "link": "https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116",
+          "publishedOn": "2025-02-22T16:45:45.000Z",
+          "wordCount": 4921,
+          "title": "Recovering priceless audio and lost languages from old decaying tapes",
+          "imageUrl": "https://images.theconversation.com/files/644274/original/file-20250123-15-cdry47.jpg?ixlib=rb-4.1.0&rect=6%2C386%2C4019%2C2009&q=45&auto=format&w=1356&h=668&fit=crop"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43139953",
+          "author": "vinhnx",
+          "description": "Article URL: https://indieblog.page\nComments URL: https://news.ycombinator.com/item?id=43139953\nPoints: 208\n# Comments: 67",
+          "link": "https://indieblog.page/",
+          "publishedOn": "2025-02-22T15:42:40.000Z",
+          "wordCount": 151,
+          "title": "Discover the IndieWeb, one blog post at a time",
+          "imageUrl": "https://indieblog.page/ograph.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43138238",
+          "author": "belter",
+          "description": "Article URL: https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html\nComments URL: https://news.ycombinator.com/item?id=43138238\nPoints: 518\n# Comments: 645",
+          "link": "https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html",
+          "publishedOn": "2025-02-22T12:03:22.000Z",
+          "wordCount": null,
+          "title": "DOGE's only public ledger is riddled with mistakes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43137910",
+          "author": "francescovaglia",
+          "description": "Article URL: https://www.pmail.com/\nComments URL: https://news.ycombinator.com/item?id=43137910\nPoints: 65\n# Comments: 7",
+          "link": "https://www.pmail.com/",
+          "publishedOn": "2025-02-22T10:54:28.000Z",
+          "wordCount": 465,
+          "title": "The Internet's longest-serving PC email system, still being updated",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43137488",
+          "author": "zeristor",
+          "description": "Article URL: https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners\nComments URL: https://news.ycombinator.com/item?id=43137488\nPoints: 544\n# Comments: 577",
+          "link": "https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners",
+          "publishedOn": "2025-02-22T09:18:47.000Z",
+          "wordCount": 5677,
+          "title": "'The tyranny of apps': those without smartphones are unfairly penalised",
+          "imageUrl": "https://i.guim.co.uk/img/media/3c64fd2afb2c4646a2a63a142bc7a35db7358be1/0_313_7681_4609/master/7681.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=43ddbfc4990a13fa71aac71c7674fca4"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43135934",
+          "author": "nativeit",
+          "description": "Article URL: https://www.digikey.com/en/resources/tariff-resources\nComments URL: https://news.ycombinator.com/item?id=43135934\nPoints: 176\n# Comments: 139",
+          "link": "https://www.digikey.com/en/resources/tariff-resources",
+          "publishedOn": "2025-02-22T03:52:56.000Z",
+          "wordCount": null,
+          "title": "DigiKey's Tariff Resources",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43135027",
           "author": "helloworld",
           "description": "Article URL: https://www.science.org/content/blog-post/paxlovid-you-d-have-expected-more\nComments URL: https://news.ycombinator.com/item?id=43135027\nPoints: 3\n# Comments: 0",
@@ -6076,96 +6266,6 @@
           "wordCount": 1036,
           "title": "Amazon Redshift Multi-AZ is generally available for RA3 clusters in 2 additional AWS regions",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "369675a37ce84312901be9adaf492bf59750c011",
-          "author": "aws@amazon.com",
-          "description": "Customers can now create file systems using Amazon Elastic File System (Amazon EFS) in the AWS Mexico (Central) Region.\n  Amazon EFS is designed to provide serverless, fully elastic file storage that lets you share file data without provisioning or managing storage capacity and performance. It is built to scale on demand to petabytes without disrupting applications, growing and shrinking automatically as you add and remove files. Because Amazon EFS has a simple web services interface, you can create and configure file systems quickly and easily. The service is designed to manage file storage infrastructure for you, meaning that you can avoid the complexity of deploying, patching, and maintaining complex file system configurations.\n  For more information, visit the Amazon EFS product page, and see the AWS Region Table for complete regional availability information.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-efs-aws-mexico-central-region",
-          "publishedOn": "2025-01-23T21:20:00.000Z",
-          "wordCount": null,
-          "title": "Amazon EFS is now available in the AWS Mexico (Central) Region",
-          "imageUrl": null
-        },
-        {
-          "id": "d0c375f9e22b8e57999f6583ad8ac11a5e0921b9",
-          "author": "aws@amazon.com",
-          "description": "With AWS Elastic Beanstalk you can easily deploy and manage applications in AWS without worrying about the infrastructure that runs those applications. Now, Elastic Beanstalk automatically launches Windows instances with EC2 Fast Launch enabled on currently supported Windows platform versions. This new functionality helps in timely provisioning of Windows instances at scale reducing downtime and improving operational costs during deployment, saving time for development and operational teams.\n  Elastic Beanstalk support for EC2 Fast Launch for Windows Instances is generally available in commercial regions where Elastic Beanstalk is available including the AWS GovCloud (US) Regions. For a complete list of regions and service offerings, see AWS Regions.\n  For more information about Windows Fast Launch support please read documentation. To learn more about Elastic Beanstalk, visit the Elastic Beanstalk product page.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-scaling-deployment-speeds-windows-instance-ec2-fast-launch",
-          "publishedOn": "2025-01-23T19:22:00.000Z",
-          "wordCount": null,
-          "title": "AWS Elastic Beanstalk improves scaling and deployment speeds for Windows instance with EC2 Fast-launch",
-          "imageUrl": null
-        },
-        {
-          "id": "f356c02a227c8318aa924eb46aa281745eb67830",
-          "author": "aws@amazon.com",
-          "description": "Amazon Bedrock Flows enables you to link foundation models (FMs), Amazon Bedrock Prompts, Amazon Bedrock Agents, Amazon Bedrock Knowledge Bases, Amazon Bedrock Guardrails and other AWS services together to build and scale pre-defined generative AI workflows. Today, we announce preview of multi-turn conversation support for agent nodes in Flows. This feature enables dynamic, back-and-forth conversations between users and flows, similar to a natural dialogue.\n  Customers who use agents to execute steps within flows have indicated that sometimes the agents don’t have all the context required to successfully complete the action. With this preview launch, an agent node can intelligently pause the flow’s execution and request user- specific information. After the user sends the requested information, the flow seamlessly resumes the execution with the additional inputs. This feature enables a more interactive and context-aware experience, because the flow can adapt its behavior based on user responses.\n  The preview of multi-turn conversation support in Flows is now available in all regions that Flows is available. To get started, see this blog and the AWS user guide.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-bedrock-flows-multi-turn-conversation-support/",
-          "publishedOn": "2025-01-23T18:00:00.000Z",
-          "wordCount": 975,
-          "title": "Amazon Bedrock Flows announces preview of multi-turn conversation support",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "5bf6739f8f4cfa7be0aaaa74e5760ba369b507f7",
-          "author": "aws@amazon.com",
-          "description": "Starting today, you can easily connect Amazon ElastiCache clusters to an Amazon Elastic Compute Cloud (Amazon EC2) instance directly from the AWS Management Console. You can also connect to your cache using AWS CloudShell to execute commands without additional setup.\n  With a single click, you can establish secure connectivity between your cache and an EC2 instance, following AWS recommended best practices. ElastiCache automatically configures VPCs, security groups, and network settings, eliminating the need for manual tasks like setting up subnets and ingress/egress rules. This streamlines the process for new users and developers, enabling them to launch a cache instance and connect it to an application within minutes.\n  You can also choose to connect to your cache from the Console using AWS CloudShell. Just click the “Connect to cache” button in the new “Connectivity and Security” tab. This will open a new AWS CloudShell session and connect to your cache using the valkey-cli tool. Once connected, you can execute common Valkey commands, including reading data (e.g. GET <key>) and writing data (e.g. SET <key> <value>). This lets you test cache functionality directly in the console, without needing to connect to it from an EC2 instance.\n  Learn more about setting up connectivity to a compute resource from your ElastiCache cluster in the Amazon ElastiCache user guide.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-elasticache-1-click-connectivity-setup-ec2-cache",
-          "publishedOn": "2025-01-23T18:00:00.000Z",
-          "wordCount": null,
-          "title": "Amazon ElastiCache now supports 1-click connectivity setup between EC2 and your cache",
-          "imageUrl": null
-        },
-        {
-          "id": "ca8751c1079e2d8e48e3474550bdff0c7af81e58",
-          "author": "aws@amazon.com",
-          "description": "Amazon CloudWatch now lets customers evaluate metrics data for an extended duration of up to 7 days, a 7x increase from the previous limit of 24 hours.\n  This enhancement empowers customers to monitor the health of longer-running or infrequent processes, such as daily data loading jobs or day-over-day performance trends, offering deeper insights into their resources and applications. Customers now have the flexibility to leverage CloudWatch alarms for use cases like near-real-time metric tracking as well as for monitoring patterns that span multiple days.\n  Amazon CloudWatch alarming on multi-day data is now available in all AWS Regions including the AWS GovCloud (US) Regions.\n  To alarm on multiple days of data, create or update an alarm using the CloudWatch console or Command Line Interface (CLI), specify a period of at least 3,600 (1 hour) and the number of datapoints that you want to compare against the threshold. For more information, visit the CloudWatch alarms documentation section.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-allows-alarming-data-7-days-old/",
-          "publishedOn": "2025-01-23T18:00:00.000Z",
-          "wordCount": 948,
-          "title": "Amazon CloudWatch allows alarming on data up to 7 days old",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8c6f1d5d0b05997bde4e14df364ab6a9a6f2b58a",
-          "author": "aws@amazon.com",
-          "description": "With AWS Elastic Beanstalk, you can easily deploy and manage applications in AWS without worrying about configuring the infrastructure that runs those applications. Now, AWS Elastic Beanstalk will support EC2 Launch Template in Elastic Beanstalk environments by default after the deprecation of EC2 Launch Configuration. With this feature, you will not need to manually set certain configuration options in any AWS accounts, as described in documentation, to direct AWS Elastic Beanstalk to use the EC2 Launch Template when creating new environments.\n \nElastic Beanstalk’s support for EC2 Launch Template is generally available in commercial regions where Elastic Beanstalk is available including the AWS GovCloud (US) Regions. For a complete list of regions and service offerings, see AWS Regions.\n \nFor more information about with Launch Template support in Elastic Beanstalk please read our developer guide. To learn more about Elastic Beanstalk, visit the Elastic Beanstalk product page.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-ec2-launch-template-environments/",
-          "publishedOn": "2025-01-23T18:00:00.000Z",
-          "wordCount": 929,
-          "title": "AWS Elastic Beanstalk adds default support of EC2 Launch Template when creating new environments",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7139a1d212f721536832d54be4e22137f6c4efdb",
-          "author": "aws@amazon.com",
-          "description": "Today, AWS Resource Groups is adding support for an additional 172 resource types for tag-based Resource Groups. Customers can now use Resource Groups to group and manage resources from services such as AWS Entity Resolution, Amazon Personalize, and Amazon Q Apps.\n  AWS Resource Groups enables you to model, manage and automate tasks on large numbers of AWS resources by logically grouping your resources. You can create collections of resources such as applications, projects, or workloads, and manage them on dimensions such as cost, performance, and compliance in AWS services such as myApplications, AWS Systems Manager and Amazon CloudWatch.\n  AWS Resource Groups expanded resource type coverage is available in all AWS Regions, including the AWS GovCloud (US) Regions. You can access AWS Resource Groups through the AWS Management Console, the AWS SDK APIs, and the AWS CLI.\n  For more information about grouping resources, see the AWS Resource Groups user guide and the list of supported resource types. To get started, visit AWS Resource Groups console.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-groups-more-resource-types",
-          "publishedOn": "2025-01-23T18:00:00.000Z",
-          "wordCount": null,
-          "title": "AWS Resource Groups now supports 172 more resource types",
-          "imageUrl": null
-        },
-        {
-          "id": "0975c147d5151269b1a76b5ae60786b6e65220fb",
-          "author": "aws@amazon.com",
-          "description": "Luma AI's new video-generating AI foundation model (FM), Ray2, is now available in Amazon Bedrock. AWS is the first and only cloud provider to offer fully managed models from Luma AI, expanding creative possibilities for developers and businesses using AWS services.\n \nLuma Ray2 is a large-scale video-generation model capable of creating realistic visuals with fluid, natural movement. With Luma Ray2 in Amazon Bedrock, you can generate production-ready video clips with seamless animations, ultrarealistic details, and logical event sequences with natural language prompts, removing the need for technical prompt engineering. Ray2 currently supports 5- and 9-second video generations with 540p and 720p resolution, making the model ideal for a variety of professional creative applications. Streamline the creative process from concept to execution by using Ray2 video generations for content creation, entertainment, advertising, and media use cases. Content creators can swiftly generate video clips for product promotion and storytelling. Product teams can rapidly visualize concepts and create video mockups for market testing. Production studios can create previsualizations, generate realistic backgrounds, and produce initial versions of special effects sequences.\n \nLuma AI's Ray2 model is now available in the US West (Oregon) AWS Region. To learn more about Ray2 and how to use it in your projects, read the AWS News Blog, visit the Luma AI in Amazon Bedrock page, the Amazon Bedrock console, or check out the Amazon Bedrock documentation.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/luma-ais-ray2-visual-ai-model-amazon-bedrock/",
-          "publishedOn": "2025-01-23T18:00:00.000Z",
-          "wordCount": 1087,
-          "title": "Luma AI's Ray2 visual AI model now available in Amazon Bedrock",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "50d51220c7219926b28083dae02c218a6ff26966",
-          "author": "aws@amazon.com",
-          "description": "Today, AWS Marketplace announces the availability of automated archival of old, unused product versions that are no longer available publicly for subscription (restricted). This feature is available for Amazon Machine Image (AMI), AMI with CloudFormation templates, and container products.\n  With this release, AWS Marketplace is streamlining the version management experience for AWS customers and sellers. With automated version archival, any product version that has already been restricted by a seller for longer than two years will be archived. Archived versions will no longer be available to launch from AWS Marketplace for new customers; however, existing users can continue to use them through launch templates and Amazon EC2 Auto Scaling groups by specifying the AMI ID. Any archived version that has not been used to launch any new instances in the previous 13 months will be deleted. Once an archived version is deleted, it is no longer available to launch for new or existing users.\n  Now AWS customers see only the latest versions of the products in AWS Marketplace, reducing the risk of using outdated versions. For sellers, it simplifies product management by automatically removing unused older versions.\n  This capability is enabled for all AMI and container products, and no additional action is needed from sellers. To learn more about this feature, see the AWS Marketplace Seller Guide.",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-automated-archiving-ami-container-products/",
-          "publishedOn": "2025-01-23T18:00:00.000Z",
-          "wordCount": 1065,
-          "title": "AWS Marketplace launches automated version archiving for AMI and container products",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -6243,21 +6343,6 @@
           "wordCount": 1712,
           "title": "AWS Weekly roundup: EventBridge, SNS FIFO, Amazon Corretto, Amazon Connect, Amazon Bedrock, and more",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2023/08/13/AWS-WIR-default.png"
-        },
-        {
-          "id": "c911f1c3eb11134cfe5eb5a0b59b0d2d821143b1",
-          "author": "Channy Yun (윤석찬)",
-          "description": "Amazon Bedrock now offers Luma AI's Ray2 video model, enabling users to generate high-quality, 5 or 9 second video clips with 540p and 720p resolution from text prompts, marking AWS as the exclusive cloud provider offering fully managed Luma AI models.",
-          "link": "https://aws.amazon.com/blogs/aws/luma-ai-ray-2-video-model-is-now-available-in-amazon-bedrock/",
-          "publishedOn": "2025-01-23T19:50:22.000Z",
-          "wordCount": 1462,
-          "title": "Luma AI’s Ray2 video model is now available in Amazon Bedrock",
-          "enclosure": {
-            "length": "2415428",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/AWSNews/2025/Ray2-Cosmic+Whale.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2025/01/17/Bedrock-Luma2.png"
         }
       ]
     },
@@ -6395,16 +6480,6 @@
           "wordCount": 2357,
           "title": "OpenSearch Vector Engine is now disk-optimized for low cost, accurate vector search",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/24/featured-images-BDB-4907-1120x630.jpg"
-        },
-        {
-          "id": "9fb5ceed24be5d84db0beb04b57a703e1f114048",
-          "author": "Srividya Parthasarathy",
-          "description": "In this post, we will show you how Databricks on AWS general purpose compute can integrate with the AWS Glue Iceberg REST Catalog for metadata access and use Lake Formation for data access. To keep the setup in this post straightforward, the Glue Iceberg REST Catalog and Databricks cluster share the same AWS account.",
-          "link": "https://aws.amazon.com/blogs/big-data/access-amazon-s3-iceberg-tables-from-databricks-using-aws-glue-iceberg-rest-catalog-in-amazon-sagemaker-lakehouse/",
-          "publishedOn": "2025-01-23T16:59:39.000Z",
-          "wordCount": 2262,
-          "title": "Access Amazon S3 Iceberg tables from Databricks using AWS Glue Iceberg REST Catalog in Amazon SageMaker Lakehouse",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2025/01/23/REST-1120x630.jpg"
         }
       ]
     },
@@ -6739,16 +6814,6 @@
           "wordCount": 1231,
           "title": "2024 C5 Type 2 attestation report available with 179 services in scope",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/01/13/AWS_C5_logo.jpg"
-        },
-        {
-          "id": "877b7c1e027e23e02e1f502b570cab3c466e343b",
-          "author": "Tomás Clemente Sánchez",
-          "description": "The Spanish National Cryptologic Center (CCN) has published a new STIC guide (CCN-STIC-887 Anexo A) that provides a comprehensive template and supporting artifacts for implementing landing zones that comply with Spain's National Security Framework (ENS) Royal Decree 311/2022 using the Landing Zone Accelerator on AWS.",
-          "link": "https://aws.amazon.com/blogs/security/ccn-releases-guide-for-spains-ens-landing-zones-using-landing-zone-accelerator-on-aws/",
-          "publishedOn": "2025-01-23T17:14:50.000Z",
-          "wordCount": 2370,
-          "title": "CCN releases guide for Spain’s ENS landing zones using Landing Zone Accelerator on AWS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/01/22/CCN-blog-main.png"
         }
       ]
     },
@@ -6756,18 +6821,7 @@
       "title": "Latest Bulletins",
       "feedUrl": "https://aws.amazon.com/security/security-bulletins/rss/feed/",
       "siteUrl": "https://aws.amazon.com/security/security-bulletins/rss/",
-      "articles": [
-        {
-          "id": "0b833cd67564a9f1e573b5701742f1a3e724de2f",
-          "author": "aws@amazon.com",
-          "description": "Publication Date: 2025/01/23 1:30 PM PDT\n \n \nWe have identified CVE-2025-0693 in the AWS Identity and Access Management (AWS IAM) Sign-in login flow. This issue could allow an actor to enumerate AWS IAM usernames by measuring server response times during login attempts. Variations in those response times could allow an actor to discern whether a submitted AWS IAM username existed in the account.\n \nPlease note that username information alone is insufficient to authenticate or access any AWS resources. Full authentication, including account identifier, username, password, and multi-factor authentication (if enabled), is required to access an account. Additionally, AWS leverages multiple layers of protection to monitor and respond to potential misuse of our sign-in endpoints.\n \nAffected versions: AWS Sign-in IAM User login flow prior to January 16, 2025.\n \nResolution:\n \nAWS introduced a delay in response times across all authentication failure scenarios. This enhancement protects against valid username enumeration by removing any time variation between valid and invalid usernames in failure responses.\n \nNo customer action is required. Customers can monitor sign-in activity, including failed and successful sign-in events, using AWS CloudTrail. For more information, refer to the CloudTrail Event Reference documentation.\n \nWe would like to thank Rhino Security Labs for collaborating on this issue through the coordinated vulnerability disclosure process.\n \nReferences:\n \n \n \nCVE-2025-0693\n \n \nPlease email aws-security@amazon.com with any security questions or concerns.",
-          "link": "https://aws.amazon.com/security/security-bulletins/AWS-2025-002/",
-          "publishedOn": "2025-01-23T21:20:02.000Z",
-          "wordCount": 731,
-          "title": "Issue with AWS Sign-in IAM User Login Flow – Possible Username Enumeration (CVE-2025-0693)",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Aidan Steele’s blog (usually about AWS)",
@@ -6789,7 +6843,7 @@
     {
       "title": "Be a Better Dev",
       "feedUrl": "https://beabetterdev.com/feed/",
-      "siteUrl": "https://d2yeaxazqu9ejn.cloudfront.net/",
+      "siteUrl": "https://beabetterdev.com/",
       "articles": [
         {
           "id": "https://beabetterdev.com/?p=4535",
@@ -6808,6 +6862,16 @@
       "feedUrl": "https://birming.com/feed/",
       "siteUrl": "https://birming.com/",
       "articles": [
+        {
+          "id": "https://birming.com/feeling-non-adult/",
+          "author": null,
+          "description": "I'm soon turning 54, but I don't feel like an adult.\nIt's not that I feel like a child. I just feel \"non-adult\".\nWhen do you become an adult?\nI don't have any children myself, is that why I don't see myself as an adult? Is it because I still have parents alive and in a way am someone's child?\nOr is it the interest in new trends and new technology that keeps the child's mind alive? The curiosity to explore new things and places? The joy of discovering new music and movies?\nI don't know. All I know is that I'm 53 and feel like a non-adult.\nDo you have to become an adult in the \"adult\" way?\nI hope not.",
+          "link": "https://birming.com/feeling-non-adult/",
+          "publishedOn": "2025-02-22T13:20:38.059Z",
+          "wordCount": 1649,
+          "title": "Feeling Non-Adult",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
+        },
         {
           "id": "https://birming.com/bearming-theme-2/",
           "author": null,
@@ -7027,26 +7091,6 @@
           "wordCount": null,
           "title": "The Power of the Toothpick",
           "imageUrl": null
-        },
-        {
-          "id": "https://birming.com/stealth-blogging/",
-          "author": null,
-          "description": "It's a magical mystery that this blog is still alive. In a previous post, I called it the blog that refuses to die.\nIt truly is, and I'm deeply grateful for it. I'm grateful for the opportunity to share my thoughts and connect with both readers and fellow bloggers. It's a space where I can express myself freely and creatively.\nDuring my 20+ years as a blogger, I've launched and shut down more projects than I can remember. I start something and I'm super excited for a while. Then I get bored, quit, and start something new. A gadget blog, a wedding proposal video blog, a movie blog, blogs in Swedish, blogs in English...\nThe same old thought pattern has emerged with this blog as well, time after time. The big difference is that I haven't acted on the insistence of my thoughts to press the \"Delete\" button.\nWhy these thoughts come, I don't know. It may not be that important to know, either. The most important thing, as I see it, is to be aware of what is happening and not act on the immediate impulse that screams for change. To simply observe and wait.\nOvercoming blogger's block with stealth blogging\nMy solution this time was to write privately. I wrote as if it were a blog post, but without the intention of publishing. A kind of stealth blogging. It felt liberating!\nI had an outlet for my creativity and simultaneously, I got to engage with the technical side of blogging with Markdown and other stuff, which I enjoy. It also felt good to know that I could potentially post these texts on the blog at a later time, if I wanted to. Which I have now done with some of them.\nStealth blogging helped me overcome my blogging block. It brought me the jjoy of writing without the pressure of publishing, and it reignited my passion for blogging.\nPerhaps you've thought about shutting down your blog, or maybe you've been thinking about starting one but haven't quite dared yet. Try stealth blogging; it might be the solution you're looking for.\nIt worked for me. At least this time...\nHappy blogging – stealth or not.",
-          "link": "https://birming.com/stealth-blogging/",
-          "publishedOn": "2025-01-24T11:59:31.816Z",
-          "wordCount": null,
-          "title": "Stealth Blogging",
-          "imageUrl": null
-        },
-        {
-          "id": "https://birming.com/bear-nano-blog/",
-          "author": null,
-          "description": "I don't know about you, but I sometimes want to post something too small even for a micro blog. For example, a minor update to the Bearming theme.\nWith that in mind, I've put together something I call Nano Blog (see a live example in the footer of my blog). The idea is to highlight something small and temporary, then replace it with something new. No permalink, no archive, no RSS update. Just a simple, little, here-and-now notice in the form of a short text and an emoji.\nIt's created with the Bearming theme as a starting point, but it works fine regardless of your theme. The nano post is written in the footer (Settings -> Header and footer directives -> Footer directive) with the following code:\n<div class=”nano”>\n<div class=”nanoji”>🐻‍❄️</div>\n\n<div class=”nanoted”>\n\nJust a little note a…",
-          "link": "https://birming.com/bear-nano-blog/",
-          "publishedOn": "2025-01-23T18:36:00.000Z",
-          "wordCount": null,
-          "title": "Bear Nano Blog",
-          "imageUrl": null
         }
       ]
     },
@@ -7101,6 +7145,16 @@
       "feedUrl": "https://brainbaking.com/index.xml",
       "siteUrl": "https://brainbaking.com/",
       "articles": [
+        {
+          "id": "https://brainbaking.com/post/2025/02/shelf-space/",
+          "author": "Wouter Groeneveld",
+          "description": "Why do so many board spaces eat up too much precious shelf space? Whatever happened to small, nimble boxes with as much components and gameplay mechanics as possible crammed in? They do exist, but sometimes designers go overboard resulting in fiddling and barely readable cards.\nLast night, Luk and I played Castles of Burgundy: Special Edition for the first time—a gargantuan box coming in at 37x27x16 cm. That’s not as bad as Luk’s Gloomhaven box that makes you shiver just by looking at it: 41x29x19 cm. The bigger and thicker, the better, right? I’m not so sure. Fortunately, Burgundy comes with a thoughtful inlay making playtime setup less of a drag compared to the endless shuffling of cardboard pieces when trying to initiate a Gloomhaven scenario.\nConsidering my own very limited shelf space…",
+          "link": "https://brainbaking.com/post/2025/02/shelf-space/",
+          "publishedOn": "2025-02-22T07:30:00.000Z",
+          "wordCount": 1353,
+          "title": "Shelf Space",
+          "imageUrl": "https://brainbaking.com/post/2025/02/shelf-space/dimensions.jpg"
+        },
         {
           "id": "https://brainbaking.com/post/2025/02/no-rules-are-implicit-rules/",
           "author": "Wouter Groeneveld",
@@ -7160,16 +7214,6 @@
           "wordCount": 896,
           "title": "2024 In Books",
           "imageUrl": "https://brainbaking.com/post/2025/01/2024-in-books/booksof2024.jpg"
-        },
-        {
-          "id": "https://brainbaking.com/post/2025/01/de-gezonken-meesters/",
-          "author": "Wouter Groeneveld",
-          "description": "We have a soft spot for art-induced TV shows, especially if they’re about the exciting discovery of once-lost paintings from famous Dutch Masters. The new Dutch show De Gezonken Meesters (literally: The Sunken Masters) on NPO Max does not fail to deliver in that regard.\nThe premise of De Gezonken Meesters  is more than that though: instead of your typical National Geographic-esque show that meticulously breaks down techniques, paint, and types of canvasses used back in the 17th and 18th century, each episode of the show is about one of the six lost painting—by the unfortunate sinking of the Vrouw Maria or Lady Mary—that both the experts (the “masters”) and we as the general public can attempt to recreate.\nFirst, a renowned curator and restaurateur d’art—not to be confused by restaurateur d…",
-          "link": "https://brainbaking.com/post/2025/01/de-gezonken-meesters/",
-          "publishedOn": "2025-01-23T18:55:00.000Z",
-          "wordCount": 832,
-          "title": "De Gezonken Meesters",
-          "imageUrl": "https://brainbaking.com/post/2025/01/de-gezonken-meesters/Screenshot%202025-01-23%20at%2020.18.43.png"
         }
       ]
     },
@@ -7336,6 +7380,16 @@
       "feedUrl": "https://hamatti.org/feed/feed.xml",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://hamatti.org/posts/leaves-is-a-great-two-player-game/",
+          "author": null,
+          "description": "Leaves\n  is a tile-laying board game about growing a tree and having more of your\n  leaves attached to the tree than your opponent. It’s a quick 2-player game\n  with 3D printable tiles that fits into a pocket and is a good fun in a pub, a\n  train or while waiting for the rest of the gang to show up for a game night.\n\n\n\n  Each player starts with 10 leaf tiles of their own color with 5 branch tiles\n  in a straight line in the middle of the table. Players (let’s call them A and\n  B) then place their tiles into the tree following a pattern of A, BB, AA, BB,\n  AA, and so on until all tiles are placed.\n\n\nThere are two rules for placing tiles:\nlike people do with board games). With the default size, the tiles fit into such container laying on their\n  back but that makes them rattle around and making noise. That’s why I’d like\n  to make them smaller on the following print. If you’re looking to print one\n  for yourself and don’t have such restriction, the default size is great for\n  playing.",
+          "link": "https://hamatti.org/posts/leaves-is-a-great-two-player-game/",
+          "publishedOn": "2025-02-22T00:00:00.000Z",
+          "wordCount": 1495,
+          "title": "Leaves is a great two player game",
+          "imageUrl": "https://hamatti.org/assets/img/posts/leaves-is-a-great-two-player-game/leaves-is-a-great-two-player-game-cover.png"
+        },
         {
           "id": "https://hamatti.org/posts/my-mom-believes-theres-a-silver-lining/",
           "author": null,
@@ -7567,46 +7621,6 @@
           "publishedOn": "2025-01-25T11:35:00.000Z",
           "wordCount": null,
           "title": "📝 25 January 2025 at 11:32 - I've been thinking about getting an activity tracker to you...",
-          "imageUrl": null
-        },
-        {
-          "id": "blog/rss-feed-changes",
-          "author": null,
-          "description": "You've probably seen a load of unread RSS items from my feed, sorry about that. Here's why...\nI've made a couple of changes to the way that RSS works on this site. It's all very minor, but I thought it was worth mentioning since you've probably seen a load of \"new\" items if you subscribe to my RSS feed.\nCombining notes and posts\nI write both posts and notes on this site. Over time, it's become pretty much the only place I post online - both my posts and notes are syndicated to Mastodon and Bluesky automatically, but this is the source.\nAnyway, I decided to roll my notes into the main RSS feed. So you will now see both notes and posts in there. Notes are depicted by a note emoji (📝) followed by the date and time the note was published.\nNormal posts are the way they've always been. It's just the post's title.\nBut Kev, I don't want to see your stupid bloody notes in my feed!\nDon't worry, dear reader, I have you covered. I have a number of feeds that I publish for different types of content on this site:\nPosts & Notes (this is the main feed)\nPosts Only Feed\nNotes Only Feed\nMy Watch Log Feed (you can check out my watch log here)\nSo if you want to get the old feed back, that's just posts, unsubscribe form the main feed and subscribe to the new Posts Only feed.\nAgain, sorry for dumping a load of \"new\" content into your RSS reader. Hope you understand though. ❤️\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
-          "link": "https://kevquirk.com/blog/rss-feed-changes",
-          "publishedOn": "2025-01-24T10:55:00.000Z",
-          "wordCount": null,
-          "title": "RSS Feed Changes",
-          "imageUrl": null
-        },
-        {
-          "id": "notes/20250124-1011",
-          "author": null,
-          "description": "This post is fantastic. Thanks, Manu.\nhttps://lithub.com/rebecca-solnit-how-to-comment-on-social-media\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
-          "link": "https://kevquirk.com/notes/20250124-1011",
-          "publishedOn": "2025-01-24T10:10:00.000Z",
-          "wordCount": null,
-          "title": "📝 24 January 2025 at 10:11 - This post is fantastic Thanks Manu https manuelmoreale com https...",
-          "imageUrl": null
-        },
-        {
-          "id": "notes/20250124-0804",
-          "author": null,
-          "description": "Whenever I've checked Mastodon recently, all I've been seeing are angry posts about Trump, Elon, and now the whole Manton/Vincent vs Adam drama.\nFor the record, I'm not saying any of it is wrong. I'm just saying I'm sick of reading about how shit the world is. I need a break from it.\nI write most post from the notes section of my blog and they're automatically syndicated to Masto. So you'll probably still see posts,  but I doubt I'll be active in the replies for a little while.\n✌🏻\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
-          "link": "https://kevquirk.com/notes/20250124-0804",
-          "publishedOn": "2025-01-24T08:10:00.000Z",
-          "wordCount": null,
-          "title": "📝 24 January 2025 at 08:04 - Whenever I've checked Mastodon recently all I've been seeing are...",
-          "imageUrl": null
-        },
-        {
-          "id": "notes/20250123-2001",
-          "author": null,
-          "description": "I've heard a lot of people comment on how good iA Writer is, but it's £50!\nIs it really that good?\nThanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️\nReply to this post by email ● \n              Sign my guestbook",
-          "link": "https://kevquirk.com/notes/20250123-2001",
-          "publishedOn": "2025-01-23T20:00:00.000Z",
-          "wordCount": null,
-          "title": "📝 23 January 2025 at 20:01 - I've heard a lot of people comment on how good...",
           "imageUrl": null
         }
       ]
@@ -7926,17 +7940,6 @@
           "title": "Super Pokémon",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "511A28D5-7AF5-43CE-B3B8-3A54A9400D19",
-          "author": "Louie Mantia",
-          "description": "Jenny\n\t\t\t\t\nWhy is Jim Carrey always green?\nme\n\t\t\t\t\nWhat do you mean?\nJenny\n\t\t\t\t\n\t\t\t\t\n\n\t\t\t\tme\n\t\t\t\t\nOh, huh. Interesting.\nYou’re right.\nI don’t know.\nWait, do you know Tommy Lee Jones?\nJenny\n\t\t\t\t\nHmm, no?\nme\n\t\t\t\t\nMen in Black?\nJenny\n\t\t\t\t\n🤔\nme\n\t\t\t\t\nBoss Coffee!\nJenny\n\t\t\t\t\nAh, yes!\nIf you like this, you can make a donation or buy something from my shop.",
-          "link": "https://lmnt.me/blog/tommy-lee-jones.html",
-          "publishedOn": "2025-01-24T05:25:00.000Z",
-          "wordCount": null,
-          "title": "Tommy Lee Jones",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -8016,13 +8019,224 @@
       "title": "Miniflux",
       "feedUrl": "https://miniflux.app/feed.xml",
       "siteUrl": "https://miniflux.app",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://miniflux.app/releases/2.2.6.html",
+          "author": null,
+          "description": "test(encoding): add unit tests for CharsetReader function\nrefactor(xml): improve the performances of NewXMLDecoder\nrefactor(ui): remove superfluous cast\nrefactor(request): broaden an error condition when parsing cookies\nrefactor(processor): remove superfluous parenthesis\nrefactor(opml): don’t define receivers on both values and pointer\nrefactor(model): simplify a condition\nrefactor(model): don’t define methods both on instance and pointer\nrefactor(locale): sort JSON documents alphabetically by keys\nrefactor(locale): remove superfluous parenthesis\nrefactor(js): use proper types in app.js\nrefactor(js): replace the deprecated window.pageYOffset with window.scollY\nrefactor(js): remove a useless return\nrefactor(js): anchor = removal in webauthn_handler.js regex\nrefactor(js): add default value f…",
+          "link": "https://miniflux.app/releases/2.2.6.html",
+          "publishedOn": "2025-02-22T00:00:00.000Z",
+          "wordCount": 360,
+          "title": "Miniflux 2.2.6",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Hacker News",
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/",
+          "publishedOn": "2025-02-23T01:03:04.000Z",
+          "wordCount": 501,
+          "title": "Clang Static Analyzer and the Z3 constraint solver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://playbook.usds.gov/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://playbook.usds.gov/",
+          "publishedOn": "2025-02-23T00:54:58.000Z",
+          "wordCount": 3693,
+          "title": "Digital Services Playbook",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding",
+          "publishedOn": "2025-02-23T00:37:57.000Z",
+          "wordCount": 2151,
+          "title": "Penn to reduce graduate admissions, rescind acceptances amid research cuts",
+          "imageUrl": "https://snworksceo.imgix.net/dpn/a9857926-a95e-4060-b290-a146d70c0845.sized-1000x1000.jpg?w=800"
+        },
+        {
+          "id": "https://vine.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vine.dev/",
+          "publishedOn": "2025-02-22T22:43:36.000Z",
+          "wordCount": 1041,
+          "title": "Vine: A programming language based on Interaction Nets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.businessinsider.com/uber-lyft-instacart-gig-workers-saw-earnings-fall-2024-2025-2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.businessinsider.com/uber-lyft-instacart-gig-workers-saw-earnings-fall-2024-2025-2",
+          "publishedOn": "2025-02-22T22:22:03.000Z",
+          "wordCount": 4908,
+          "title": "Gig workers worked more but earned less in 2024: study",
+          "imageUrl": "https://i.insider.com/67af9f786630eb10385cba97?width=1200&format=jpeg"
+        },
+        {
+          "id": "https://interviewing.io/blog/we-co-wrote-the-official-sequel-to-cracking-the-coding-interview-introducing-beyond-ctci",
+          "author": null,
+          "description": "Comments",
+          "link": "https://interviewing.io/blog/we-co-wrote-the-official-sequel-to-cracking-the-coding-interview-introducing-beyond-ctci",
+          "publishedOn": "2025-02-22T22:13:03.000Z",
+          "wordCount": 2406,
+          "title": "Official sequel to Cracking the Coding Interview is out",
+          "imageUrl": "https://strapi-iio.s3.us-west-2.amazonaws.com/B_Ct_CI_Social_Share_1_a1a309f474.png"
+        },
+        {
+          "id": "https://www.openbsd.org/innovations.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.openbsd.org/innovations.html",
+          "publishedOn": "2025-02-22T22:08:42.000Z",
+          "wordCount": 3653,
+          "title": "OpenBSD Innovations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kaneo.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kaneo.app/",
+          "publishedOn": "2025-02-22T20:52:01.000Z",
+          "wordCount": 417,
+          "title": "Kaneo – An open source project management platform",
+          "imageUrl": "https://kaneo.app/og-image.png"
+        },
+        {
+          "id": "https://www.chrbutler.com/in-defense-of-text-labels",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.chrbutler.com/in-defense-of-text-labels",
+          "publishedOn": "2025-02-22T20:40:26.000Z",
+          "wordCount": 994,
+          "title": "In Defense of Text Labels",
+          "imageUrl": "https://cdn.blot.im/blog_a7eb7cf1ab024efcb17c380ef69c53f4/_thumbnails/05c10064-4301-4067-a61b-68532ff6f070/large.png"
+        },
+        {
+          "id": "https://www.abortretry.fail/p/the-birth-of-chipzilla",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.abortretry.fail/p/the-birth-of-chipzilla",
+          "publishedOn": "2025-02-22T19:04:01.000Z",
+          "wordCount": 10030,
+          "title": "The Birth of Chipzilla",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf633cb8-0e52-4364-906b-5e4b882cba4a_796x690.webp"
+        },
+        {
+          "id": "https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en",
+          "publishedOn": "2025-02-22T19:01:41.000Z",
+          "wordCount": 8180,
+          "title": "A map of torii around the world",
+          "imageUrl": "https://www.google.com/maps/d/thumbnail?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en"
+        },
+        {
+          "id": "https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/",
+          "publishedOn": "2025-02-22T18:50:06.000Z",
+          "wordCount": 3129,
+          "title": "Amazon now discloses you're buying a license to view Kindle eBooks",
+          "imageUrl": "https://blog.the-ebook-reader.com/wp-content/uploads/2025/02/Kindle-License-Disclaimer.jpg"
+        },
+        {
+          "id": "https://exult.sourceforge.io/index.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://exult.sourceforge.io/index.php",
+          "publishedOn": "2025-02-22T16:56:09.000Z",
+          "wordCount": 1550,
+          "title": "Exult: Recreating Ultima VII for modern operating systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md",
+          "publishedOn": "2025-02-22T16:52:49.000Z",
+          "wordCount": 5395,
+          "title": "FFmpeg School of Assembly Language",
+          "imageUrl": "https://opengraph.githubassets.com/d312c4aa28c6f7b94f19b21c66c163dec39c941f3d6dde107eff83a211a36ce6/FFmpeg/asm-lessons"
+        },
+        {
+          "id": "https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116",
+          "author": null,
+          "description": "Comments",
+          "link": "https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116",
+          "publishedOn": "2025-02-22T16:45:45.000Z",
+          "wordCount": 4921,
+          "title": "Recovering priceless audio and lost languages from old decaying tapes",
+          "imageUrl": "https://images.theconversation.com/files/644274/original/file-20250123-15-cdry47.jpg?ixlib=rb-4.1.0&rect=6%2C386%2C4019%2C2009&q=45&auto=format&w=1356&h=668&fit=crop"
+        },
+        {
+          "id": "https://indieblog.page/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://indieblog.page/",
+          "publishedOn": "2025-02-22T15:42:40.000Z",
+          "wordCount": 151,
+          "title": "Discover the IndieWeb, one blog post at a time",
+          "imageUrl": "https://indieblog.page/ograph.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html",
+          "publishedOn": "2025-02-22T12:03:22.000Z",
+          "wordCount": null,
+          "title": "DOGE's only public ledger is riddled with mistakes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.pmail.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.pmail.com/",
+          "publishedOn": "2025-02-22T10:54:28.000Z",
+          "wordCount": 465,
+          "title": "The Internet's longest-serving PC email system, still being updated",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners",
+          "publishedOn": "2025-02-22T09:18:47.000Z",
+          "wordCount": 5677,
+          "title": "'The tyranny of apps': those without smartphones are unfairly penalised",
+          "imageUrl": "https://i.guim.co.uk/img/media/3c64fd2afb2c4646a2a63a142bc7a35db7358be1/0_313_7681_4609/master/7681.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=43ddbfc4990a13fa71aac71c7674fca4"
+        },
+        {
+          "id": "https://www.digikey.com/en/resources/tariff-resources",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.digikey.com/en/resources/tariff-resources",
+          "publishedOn": "2025-02-22T03:52:56.000Z",
+          "wordCount": null,
+          "title": "DigiKey's Tariff Resources",
+          "imageUrl": null
+        },
         {
           "id": "https://www.science.org/content/blog-post/paxlovid-you-d-have-expected-more",
           "author": null,
@@ -8152,6 +8366,16 @@
           "wordCount": null,
           "title": "Some critical issues with the SWE-bench dataset",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.contraption.co/rails-versus-nextjs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.contraption.co/rails-versus-nextjs/",
+          "publishedOn": "2025-02-21T17:46:15.000Z",
+          "wordCount": 1205,
+          "title": "Why Ruby on Rails still matters",
+          "imageUrl": "https://www.contraption.co/content/images/2025/02/healdsburg-1.jpg"
         },
         {
           "id": "https://www.filfre.net/2025/02/the-crpg-renaissance-part-3-tsr-is-dead/",
@@ -8494,6 +8718,16 @@
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/02/McKayConjecture-crKristinaArmitage-Social.jpg"
         },
         {
+          "id": "https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/",
+          "publishedOn": "2025-02-20T04:59:17.000Z",
+          "wordCount": 2989,
+          "title": "Reliably Replicating Data Between PostgreSQL and ClickHouse",
+          "imageUrl": "https://benjaminwootton.com/_astro/121.C6Vk_tK4_1hIXgD.jpg"
+        },
+        {
           "id": "https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/",
           "author": null,
           "description": "Comments",
@@ -8714,6 +8948,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://0.space/about",
+          "author": null,
+          "description": "Comments",
+          "link": "https://0.space/about",
+          "publishedOn": "2025-02-19T09:24:02.000Z",
+          "wordCount": 954,
+          "title": "Show HN: AI-native browser game that users can craft unlimited 3D items",
+          "imageUrl": "https://res.cloudinary.com/space-zero/image/upload/f_auto,q_auto,c_limit,h_630,w_1200/about/3_jee1vv"
+        },
+        {
+          "id": "https://github.com/nst/PSTris",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/nst/PSTris",
+          "publishedOn": "2025-02-19T08:27:50.000Z",
+          "wordCount": 1538,
+          "title": "Tetris in PostScript",
+          "imageUrl": "https://opengraph.githubassets.com/0d88030752039b58b28e98acd49630284bb5004919ca0de52c8246284205eeef/nst/PSTris"
+        },
+        {
           "id": "https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/",
           "author": null,
           "description": "Comments",
@@ -8732,6 +8986,16 @@
           "wordCount": 1598,
           "title": "Thoughts on Daylight Computer",
           "imageUrl": null
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg",
+          "publishedOn": "2025-02-19T02:16:04.000Z",
+          "wordCount": 2617,
+          "title": "1561 Celestial Phenomenon over Nuremberg",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Himmelserscheinung_%C3%BCber_N%C3%BCrnberg_vom_14._April_1561.jpg"
         },
         {
           "id": "https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/",
@@ -8984,6 +9248,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/",
+          "publishedOn": "2025-02-18T13:48:25.000Z",
+          "wordCount": 4251,
+          "title": "These years in Common Lisp: 2023-2024 in review",
+          "imageUrl": "/images/default.png"
+        },
+        {
           "id": "https://medium.com/@sahin.samia/google-titans-model-explained-the-future-of-memory-driven-ai-architectures-109ed6b4a7d8",
           "author": null,
           "description": "Comments",
@@ -8992,6 +9266,16 @@
           "wordCount": 5163,
           "title": "Google Titans Model Explained: The Future of Memory-Driven AI Architectures",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*3sVzeh4nu_CqGbBZ"
+        },
+        {
+          "id": "https://demo.augu.rs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://demo.augu.rs/",
+          "publishedOn": "2025-02-18T12:28:18.000Z",
+          "wordCount": 599,
+          "title": "Augurs demo",
+          "imageUrl": null
         },
         {
           "id": "https://experience.prfalken.dev/english/subway-poker/",
@@ -14752,16 +15036,6 @@
           "wordCount": 2980,
           "title": "Better Know a Ruby Thing: Singleton Classes",
           "imageUrl": null
-        },
-        {
-          "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315188",
-          "author": null,
-          "description": "Comments",
-          "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315188",
-          "publishedOn": "2025-01-23T18:35:24.000Z",
-          "wordCount": null,
-          "title": "From tiny to immense: Geological spotlight on the Alexander Mosaic",
-          "imageUrl": null
         }
       ]
     },
@@ -14866,16 +15140,6 @@
           "wordCount": 755,
           "title": "My time machine runs on technical writing",
           "imageUrl": "/thumb.png"
-        },
-        {
-          "id": "https://passo.uno/writing-for-llms-ai-chatbots/",
-          "author": null,
-          "description": "Writing for LLMs is the new SEO obsession. Not a day passes without seeing some question popping up in tech writing communities about how to best compose content for AI scrapers. Folks even wonder if a different style guide should be necessary, or whether tables should be avoided because they’ve seen a pull request rejected in a Microsoft repository on the silliest grounds.",
-          "link": "https://passo.uno/writing-for-llms-ai-chatbots/",
-          "publishedOn": "2025-01-24T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Should you write documentation differently for LLMs?",
-          "imageUrl": null
         }
       ]
     },
@@ -21426,6 +21690,16 @@
       "siteUrl": "https://shkspr.mobi/blog",
       "articles": [
         {
+          "id": "https://shkspr.mobi/blog/2025/02/book-review-in-search-of-lost-time-marcel-proust/",
+          "author": null,
+          "description": "A friend mentioned that they were going to a Proust book club where they&#039;d be discussing Swann&#039;s Way, the first volume of the masterpiece. &#34;Well,&#34; I thought, &#34;That sounds like a fun challenge!&#34;  It was not.  I picked up the Standard eBooks version translated by C. K. Scott Moncrieff and started my journey.  It starts with a young man having a wet dream and then, in excruciating detail, describing the process of waking up. The writing starts as dreamy but quickly becomes obtuse. The story (such…",
+          "link": "https://shkspr.mobi/blog/2025/02/book-review-in-search-of-lost-time-marcel-proust/",
+          "publishedOn": "2025-02-22T12:34:58.000Z",
+          "wordCount": null,
+          "title": "Book Review: In Search of Lost Time - Marcel Proust ⯪☆☆☆☆",
+          "imageUrl": null
+        },
+        {
           "id": "https://shkspr.mobi/blog/2025/02/theatre-review-trash/",
           "author": null,
           "description": "I went into this as a cynic and came out a grinning maniac. Look, it is basically &#34;Stomp&#34; but for kids. It&#039;s a join-in pantomime where four babbling fools play with junk in a recycling centre to make music.  Oh, sure, you could analyse it as being a blend of Commedia dell&#039;arte and modern dance, but it is closer to Minions. All cartoon violence, generic-Euro-mumble speech, and tunes that they&#039;ll recognise when they&#039;re older (but the parents will love).  The kids in the audience were constantly…",
@@ -21553,16 +21827,6 @@
           "publishedOn": "2025-02-05T12:34:31.000Z",
           "wordCount": null,
           "title": "FOSDEM - The Good Parts and the Not-So-Good Parts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2025/01/book-review-queen-b-by-juno-dawson/",
-          "author": null,
-          "description": "I rather enjoyed HMRC (Her Majesty&#039;s Royal Coven) and The Shadow Cabinet by Juno Dawson. This is a sort-of prequel to the series. What if Anne Boleyn was a witch?!?!  It&#039;s a fun enough book, but doesn&#039;t really go anywhere. Part of the problem is that the stories chapters flip back and forth in time. It is a tired literary trick and robs us of the gradual build-up of the characters. There&#039;s no real dramatic tension and no chance to guess which witch is wickedest.  It also suffers from a lack of… …",
-          "link": "https://shkspr.mobi/blog/2025/01/book-review-queen-b-by-juno-dawson/",
-          "publishedOn": "2025-01-24T12:34:39.000Z",
-          "wordCount": null,
-          "title": "Book Review: Queen B by Juno Dawson ★★★☆☆",
           "imageUrl": null
         }
       ]

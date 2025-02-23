@@ -2,10 +2,496 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsoros.github.io/rss-feeds-hackernews/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-22T01:35:43.318Z</updated>
+    <updated>2025-02-23T01:43:53.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jsoros.github.io/rss-feeds-hackernews/index.html"/>
     <link rel="self" href="https://jsoros.github.io/rss-feeds-hackernews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Clang Static Analyzer and the Z3 constraint solver]]></title>
+        <id>https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/</id>
+        <link href="https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/"/>
+        <updated>2025-02-23T01:03:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Services Playbook]]></title>
+        <id>https://news.ycombinator.com/item?id=43145057</id>
+        <link href="https://playbook.usds.gov/"/>
+        <updated>2025-02-23T00:54:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://playbook.usds.gov/
+Comments URL: https://news.ycombinator.com/item?id=43145057
+Points: 18
+# Comments: 1]]></summary>
+        <author>
+            <name>ronbenton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Services Playbook]]></title>
+        <id>https://playbook.usds.gov/</id>
+        <link href="https://playbook.usds.gov/"/>
+        <updated>2025-02-23T00:54:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penn to reduce graduate admissions, rescind acceptances amid research cuts]]></title>
+        <id>https://news.ycombinator.com/item?id=43144940</id>
+        <link href="https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding"/>
+        <updated>2025-02-23T00:37:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding
+Comments URL: https://news.ycombinator.com/item?id=43144940
+Points: 19
+# Comments: 2]]></summary>
+        <author>
+            <name>strangeloops85</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penn to reduce graduate admissions, rescind acceptances amid research cuts]]></title>
+        <id>https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding</id>
+        <link href="https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding"/>
+        <updated>2025-02-23T00:37:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vine: A programming language based on Interaction Nets]]></title>
+        <id>https://news.ycombinator.com/item?id=43144040</id>
+        <link href="https://vine.dev/"/>
+        <updated>2025-02-22T22:43:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vine.dev/
+Comments URL: https://news.ycombinator.com/item?id=43144040
+Points: 53
+# Comments: 13]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vine: A programming language based on Interaction Nets]]></title>
+        <id>https://vine.dev/</id>
+        <link href="https://vine.dev/"/>
+        <updated>2025-02-22T22:43:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gig workers worked more but earned less in 2024: study]]></title>
+        <id>https://news.ycombinator.com/item?id=43143871</id>
+        <link href="https://www.businessinsider.com/uber-lyft-instacart-gig-workers-saw-earnings-fall-2024-2025-2"/>
+        <updated>2025-02-22T22:22:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/uber-lyft-instacart-gig-workers-saw-earnings-fall-2024-2025-2
+Comments URL: https://news.ycombinator.com/item?id=43143871
+Points: 118
+# Comments: 77]]></summary>
+        <author>
+            <name>wallflower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gig workers worked more but earned less in 2024: study]]></title>
+        <id>https://www.businessinsider.com/uber-lyft-instacart-gig-workers-saw-earnings-fall-2024-2025-2</id>
+        <link href="https://www.businessinsider.com/uber-lyft-instacart-gig-workers-saw-earnings-fall-2024-2025-2"/>
+        <updated>2025-02-22T22:22:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Official sequel to Cracking the Coding Interview is out]]></title>
+        <id>https://news.ycombinator.com/item?id=43143806</id>
+        <link href="https://interviewing.io/blog/we-co-wrote-the-official-sequel-to-cracking-the-coding-interview-introducing-beyond-ctci"/>
+        <updated>2025-02-22T22:13:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://interviewing.io/blog/we-co-wrote-the-official-sequel-to-cracking-the-coding-interview-introducing-beyond-ctci
+Comments URL: https://news.ycombinator.com/item?id=43143806
+Points: 26
+# Comments: 26]]></summary>
+        <author>
+            <name>stmw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Official sequel to Cracking the Coding Interview is out]]></title>
+        <id>https://interviewing.io/blog/we-co-wrote-the-official-sequel-to-cracking-the-coding-interview-introducing-beyond-ctci</id>
+        <link href="https://interviewing.io/blog/we-co-wrote-the-official-sequel-to-cracking-the-coding-interview-introducing-beyond-ctci"/>
+        <updated>2025-02-22T22:13:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenBSD Innovations]]></title>
+        <id>https://news.ycombinator.com/item?id=43143777</id>
+        <link href="https://www.openbsd.org/innovations.html"/>
+        <updated>2025-02-22T22:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.openbsd.org/innovations.html
+Comments URL: https://news.ycombinator.com/item?id=43143777
+Points: 164
+# Comments: 41]]></summary>
+        <author>
+            <name>angristan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenBSD Innovations]]></title>
+        <id>https://www.openbsd.org/innovations.html</id>
+        <link href="https://www.openbsd.org/innovations.html"/>
+        <updated>2025-02-22T22:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaneo – An open source project management platform]]></title>
+        <id>https://news.ycombinator.com/item?id=43143097</id>
+        <link href="https://kaneo.app/"/>
+        <updated>2025-02-22T20:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kaneo.app/
+Comments URL: https://news.ycombinator.com/item?id=43143097
+Points: 83
+# Comments: 33]]></summary>
+        <author>
+            <name>saturn5k</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaneo – An open source project management platform]]></title>
+        <id>https://kaneo.app/</id>
+        <link href="https://kaneo.app/"/>
+        <updated>2025-02-22T20:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Defense of Text Labels]]></title>
+        <id>https://news.ycombinator.com/item?id=43142989</id>
+        <link href="https://www.chrbutler.com/in-defense-of-text-labels"/>
+        <updated>2025-02-22T20:40:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.chrbutler.com/in-defense-of-text-labels
+Comments URL: https://news.ycombinator.com/item?id=43142989
+Points: 56
+# Comments: 37]]></summary>
+        <author>
+            <name>delaugust</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Defense of Text Labels]]></title>
+        <id>https://www.chrbutler.com/in-defense-of-text-labels</id>
+        <link href="https://www.chrbutler.com/in-defense-of-text-labels"/>
+        <updated>2025-02-22T20:40:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Birth of Chipzilla]]></title>
+        <id>https://news.ycombinator.com/item?id=43141993</id>
+        <link href="https://www.abortretry.fail/p/the-birth-of-chipzilla"/>
+        <updated>2025-02-22T19:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.abortretry.fail/p/the-birth-of-chipzilla
+Comments URL: https://news.ycombinator.com/item?id=43141993
+Points: 56
+# Comments: 5]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Birth of Chipzilla]]></title>
+        <id>https://www.abortretry.fail/p/the-birth-of-chipzilla</id>
+        <link href="https://www.abortretry.fail/p/the-birth-of-chipzilla"/>
+        <updated>2025-02-22T19:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A map of torii around the world]]></title>
+        <id>https://news.ycombinator.com/item?id=43141966</id>
+        <link href="https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&amp;hl=en"/>
+        <updated>2025-02-22T19:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en
+Comments URL: https://news.ycombinator.com/item?id=43141966
+Points: 63
+# Comments: 28]]></summary>
+        <author>
+            <name>ilamont</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A map of torii around the world]]></title>
+        <id>https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&amp;hl=en</id>
+        <link href="https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&amp;hl=en"/>
+        <updated>2025-02-22T19:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon now discloses you're buying a license to view Kindle eBooks]]></title>
+        <id>https://news.ycombinator.com/item?id=43141825</id>
+        <link href="https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/"/>
+        <updated>2025-02-22T18:50:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/
+Comments URL: https://news.ycombinator.com/item?id=43141825
+Points: 269
+# Comments: 181]]></summary>
+        <author>
+            <name>DavideNL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon now discloses you're buying a license to view Kindle eBooks]]></title>
+        <id>https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/</id>
+        <link href="https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/"/>
+        <updated>2025-02-22T18:50:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exult: Recreating Ultima VII for modern operating systems]]></title>
+        <id>https://news.ycombinator.com/item?id=43140645</id>
+        <link href="https://exult.sourceforge.io/index.php"/>
+        <updated>2025-02-22T16:56:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://exult.sourceforge.io/index.php
+Comments URL: https://news.ycombinator.com/item?id=43140645
+Points: 55
+# Comments: 14]]></summary>
+        <author>
+            <name>nateb2022</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exult: Recreating Ultima VII for modern operating systems]]></title>
+        <id>https://exult.sourceforge.io/index.php</id>
+        <link href="https://exult.sourceforge.io/index.php"/>
+        <updated>2025-02-22T16:56:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FFmpeg School of Assembly Language]]></title>
+        <id>https://news.ycombinator.com/item?id=43140614</id>
+        <link href="https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md"/>
+        <updated>2025-02-22T16:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md
+Comments URL: https://news.ycombinator.com/item?id=43140614
+Points: 505
+# Comments: 128]]></summary>
+        <author>
+            <name>davikr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FFmpeg School of Assembly Language]]></title>
+        <id>https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md</id>
+        <link href="https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md"/>
+        <updated>2025-02-22T16:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recovering priceless audio and lost languages from old decaying tapes]]></title>
+        <id>https://news.ycombinator.com/item?id=43140547</id>
+        <link href="https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116"/>
+        <updated>2025-02-22T16:45:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116
+Comments URL: https://news.ycombinator.com/item?id=43140547
+Points: 72
+# Comments: 9]]></summary>
+        <author>
+            <name>PaulHoule</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recovering priceless audio and lost languages from old decaying tapes]]></title>
+        <id>https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116</id>
+        <link href="https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116"/>
+        <updated>2025-02-22T16:45:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover the IndieWeb, one blog post at a time]]></title>
+        <id>https://news.ycombinator.com/item?id=43139953</id>
+        <link href="https://indieblog.page/"/>
+        <updated>2025-02-22T15:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://indieblog.page
+Comments URL: https://news.ycombinator.com/item?id=43139953
+Points: 208
+# Comments: 67]]></summary>
+        <author>
+            <name>vinhnx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover the IndieWeb, one blog post at a time]]></title>
+        <id>https://indieblog.page/</id>
+        <link href="https://indieblog.page/"/>
+        <updated>2025-02-22T15:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feeling Non-Adult]]></title>
+        <id>https://birming.com/feeling-non-adult/</id>
+        <link href="https://birming.com/feeling-non-adult/"/>
+        <updated>2025-02-22T13:20:38.059Z</updated>
+        <summary type="html"><![CDATA[I'm soon turning 54, but I don't feel like an adult.
+It's not that I feel like a child. I just feel "non-adult".
+When do you become an adult?
+I don't have any children myself, is that why I don't see myself as an adult? Is it because I still have parents alive and in a way am someone's child?
+Or is it the interest in new trends and new technology that keeps the child's mind alive? The curiosity to explore new things and places? The joy of discovering new music and movies?
+I don't know. All I know is that I'm 53 and feel like a non-adult.
+Do you have to become an adult in the "adult" way?
+I hope not.]]></summary>
+        <author>
+            <name>Robert Birming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: In Search of Lost Time - Marcel Proust ⯪☆☆☆☆]]></title>
+        <id>https://shkspr.mobi/blog/2025/02/book-review-in-search-of-lost-time-marcel-proust/</id>
+        <link href="https://shkspr.mobi/blog/2025/02/book-review-in-search-of-lost-time-marcel-proust/"/>
+        <updated>2025-02-22T12:34:58.000Z</updated>
+        <summary type="html"><![CDATA[A friend mentioned that they were going to a Proust book club where they&#039;d be discussing Swann&#039;s Way, the first volume of the masterpiece. &#34;Well,&#34; I thought, &#34;That sounds like a fun challenge!&#34;  It was not.  I picked up the Standard eBooks version translated by C. K. Scott Moncrieff and started my journey.  It starts with a young man having a wet dream and then, in excruciating detail, describing the process of waking up. The writing starts as dreamy but quickly becomes obtuse. The story (such…]]></summary>
+        <author>
+            <name>Terence Eden’s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOGE's only public ledger is riddled with mistakes]]></title>
+        <id>https://news.ycombinator.com/item?id=43138238</id>
+        <link href="https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html"/>
+        <updated>2025-02-22T12:03:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html
+Comments URL: https://news.ycombinator.com/item?id=43138238
+Points: 518
+# Comments: 645]]></summary>
+        <author>
+            <name>belter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOGE's only public ledger is riddled with mistakes]]></title>
+        <id>https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html</id>
+        <link href="https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html"/>
+        <updated>2025-02-22T12:03:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Internet's longest-serving PC email system, still being updated]]></title>
+        <id>https://news.ycombinator.com/item?id=43137910</id>
+        <link href="https://www.pmail.com/"/>
+        <updated>2025-02-22T10:54:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pmail.com/
+Comments URL: https://news.ycombinator.com/item?id=43137910
+Points: 65
+# Comments: 7]]></summary>
+        <author>
+            <name>francescovaglia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Internet's longest-serving PC email system, still being updated]]></title>
+        <id>https://www.pmail.com/</id>
+        <link href="https://www.pmail.com/"/>
+        <updated>2025-02-22T10:54:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['The tyranny of apps': those without smartphones are unfairly penalised]]></title>
+        <id>https://news.ycombinator.com/item?id=43137488</id>
+        <link href="https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners"/>
+        <updated>2025-02-22T09:18:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners
+Comments URL: https://news.ycombinator.com/item?id=43137488
+Points: 544
+# Comments: 577]]></summary>
+        <author>
+            <name>zeristor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['The tyranny of apps': those without smartphones are unfairly penalised]]></title>
+        <id>https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners</id>
+        <link href="https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners"/>
+        <updated>2025-02-22T09:18:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shelf Space]]></title>
+        <id>https://brainbaking.com/post/2025/02/shelf-space/</id>
+        <link href="https://brainbaking.com/post/2025/02/shelf-space/"/>
+        <updated>2025-02-22T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Why do so many board spaces eat up too much precious shelf space? Whatever happened to small, nimble boxes with as much components and gameplay mechanics as possible crammed in? They do exist, but sometimes designers go overboard resulting in fiddling and barely readable cards.
+Last night, Luk and I played Castles of Burgundy: Special Edition for the first time—a gargantuan box coming in at 37x27x16 cm. That’s not as bad as Luk’s Gloomhaven box that makes you shiver just by looking at it: 41x29x19 cm. The bigger and thicker, the better, right? I’m not so sure. Fortunately, Burgundy comes with a thoughtful inlay making playtime setup less of a drag compared to the endless shuffling of cardboard pieces when trying to initiate a Gloomhaven scenario.
+Considering my own very limited shelf space…]]></summary>
+        <author>
+            <name>Wouter Groeneveld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DigiKey's Tariff Resources]]></title>
+        <id>https://news.ycombinator.com/item?id=43135934</id>
+        <link href="https://www.digikey.com/en/resources/tariff-resources"/>
+        <updated>2025-02-22T03:52:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.digikey.com/en/resources/tariff-resources
+Comments URL: https://news.ycombinator.com/item?id=43135934
+Points: 176
+# Comments: 139]]></summary>
+        <author>
+            <name>nativeit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DigiKey's Tariff Resources]]></title>
+        <id>https://www.digikey.com/en/resources/tariff-resources</id>
+        <link href="https://www.digikey.com/en/resources/tariff-resources"/>
+        <updated>2025-02-22T03:52:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://awsfundamentals.com/blog/.DS_Store</id>
@@ -69,6 +555,59 @@ Points: 5
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaves is a great two player game]]></title>
+        <id>https://hamatti.org/posts/leaves-is-a-great-two-player-game/</id>
+        <link href="https://hamatti.org/posts/leaves-is-a-great-two-player-game/"/>
+        <updated>2025-02-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Leaves
+  is a tile-laying board game about growing a tree and having more of your
+  leaves attached to the tree than your opponent. It’s a quick 2-player game
+  with 3D printable tiles that fits into a pocket and is a good fun in a pub, a
+  train or while waiting for the rest of the gang to show up for a game night.
+
+
+
+  Each player starts with 10 leaf tiles of their own color with 5 branch tiles
+  in a straight line in the middle of the table. Players (let’s call them A and
+  B) then place their tiles into the tree following a pattern of A, BB, AA, BB,
+  AA, and so on until all tiles are placed.
+
+
+There are two rules for placing tiles:
+like people do with board games). With the default size, the tiles fit into such container laying on their
+  back but that makes them rattle around and making noise. That’s why I’d like
+  to make them smaller on the following print. If you’re looking to print one
+  for yourself and don’t have such restriction, the default size is great for
+  playing.]]></summary>
+        <author>
+            <name>Juha-Matti Santala - Community Builder. Dreamer. Adventurer.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miniflux 2.2.6]]></title>
+        <id>https://miniflux.app/releases/2.2.6.html</id>
+        <link href="https://miniflux.app/releases/2.2.6.html"/>
+        <updated>2025-02-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[test(encoding): add unit tests for CharsetReader function
+refactor(xml): improve the performances of NewXMLDecoder
+refactor(ui): remove superfluous cast
+refactor(request): broaden an error condition when parsing cookies
+refactor(processor): remove superfluous parenthesis
+refactor(opml): don’t define receivers on both values and pointer
+refactor(model): simplify a condition
+refactor(model): don’t define methods both on instance and pointer
+refactor(locale): sort JSON documents alphabetically by keys
+refactor(locale): remove superfluous parenthesis
+refactor(js): use proper types in app.js
+refactor(js): replace the deprecated window.pageYOffset with window.scollY
+refactor(js): remove a useless return
+refactor(js): anchor = removal in webauthn_handler.js regex
+refactor(js): add default value f…]]></summary>
+        <author>
+            <name>Miniflux</name>
         </author>
     </entry>
     <entry>
@@ -461,6 +1000,16 @@ Points: 297
         <id>https://arxiv.org/abs/2410.06992</id>
         <link href="https://arxiv.org/abs/2410.06992"/>
         <updated>2025-02-21T17:59:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Ruby on Rails still matters]]></title>
+        <id>https://www.contraption.co/rails-versus-nextjs/</id>
+        <link href="https://www.contraption.co/rails-versus-nextjs/"/>
+        <updated>2025-02-21T17:46:15.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1441,6 +1990,16 @@ Even prior to posting this, in response to any skepticism I had about Humane, pe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Reliably Replicating Data Between PostgreSQL and ClickHouse]]></title>
+        <id>https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/</id>
+        <link href="https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/"/>
+        <updated>2025-02-20T04:59:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🗓️ Office Hours at a Glance]]></title>
         <id>http://webology.micro.blog/2025/02/19/office-hours-at-a-glance/</id>
         <link href="https://micro.webology.dev/2025/02/19/office-hours-at-a-glance/"/>
@@ -2128,6 +2687,26 @@ Points: 323
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: AI-native browser game that users can craft unlimited 3D items]]></title>
+        <id>https://0.space/about</id>
+        <link href="https://0.space/about"/>
+        <updated>2025-02-19T09:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tetris in PostScript]]></title>
+        <id>https://github.com/nst/PSTris</id>
+        <link href="https://github.com/nst/PSTris"/>
+        <updated>2025-02-19T08:27:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[files-to-prompt 0.6]]></title>
         <id>https://simonwillison.net/2025/Feb/19/files-to-prompt/#atom-everything</id>
         <link href="https://simonwillison.net/2025/Feb/19/files-to-prompt/#atom-everything"/>
@@ -2182,6 +2761,16 @@ I just want to say right out of the gate that if the argument is that the name i
         <id>https://jon.bo/posts/daylight-computer-1/</id>
         <link href="https://jon.bo/posts/daylight-computer-1/"/>
         <updated>2025-02-19T03:41:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1561 Celestial Phenomenon over Nuremberg]]></title>
+        <id>https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg</id>
+        <link href="https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg"/>
+        <updated>2025-02-19T02:16:04.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -2940,6 +3529,16 @@ Points: 64
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[These years in Common Lisp: 2023-2024 in review]]></title>
+        <id>https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/</id>
+        <link href="https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/"/>
+        <updated>2025-02-18T13:48:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google Titans Model Explained: The Future of Memory-Driven AI Architectures]]></title>
         <id>https://medium.com/@sahin.samia/google-titans-model-explained-the-future-of-memory-driven-ai-architectures-109ed6b4a7d8</id>
         <link href="https://medium.com/@sahin.samia/google-titans-model-explained-the-future-of-memory-driven-ai-architectures-109ed6b4a7d8"/>
@@ -2957,6 +3556,16 @@ Points: 64
         <summary type="html"><![CDATA[This is spoiler-free review.  In one episode of Inside Number Nine, two old comedians are bickering. In a moment of understated savagery one says to the other &#34;That&#039;s a cheap laugh, Len.&#34;  Len replies with a mischievous twinkle in his eye, &#34;Oh, come on. A laugh&#039;s a laugh however you earn it.&#34;  That sets up the central tension for the West-End-Spectacular version of the show - Stage/Fright.  What makes for a &#34;cheap&#34; scream of terror? It&#039;s easy to have a jump scare, or an on-stage explosion. The…]]></summary>
         <author>
             <name>Terence Eden’s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Augurs demo]]></title>
+        <id>https://demo.augu.rs/</id>
+        <link href="https://demo.augu.rs/"/>
+        <updated>2025-02-18T12:28:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -27966,378 +28575,6 @@ AS2 is a business-to-business messaging protocol used to transfer Electronic Dat
   To learn more about Amazon Redshift Multi-AZ, see the Amazon Redshift Reliability page and Amazon Redshift Multi-AZ documentation page.]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Book Review: Queen B by Juno Dawson ★★★☆☆]]></title>
-        <id>https://shkspr.mobi/blog/2025/01/book-review-queen-b-by-juno-dawson/</id>
-        <link href="https://shkspr.mobi/blog/2025/01/book-review-queen-b-by-juno-dawson/"/>
-        <updated>2025-01-24T12:34:39.000Z</updated>
-        <summary type="html"><![CDATA[I rather enjoyed HMRC (Her Majesty&#039;s Royal Coven) and The Shadow Cabinet by Juno Dawson. This is a sort-of prequel to the series. What if Anne Boleyn was a witch?!?!  It&#039;s a fun enough book, but doesn&#039;t really go anywhere. Part of the problem is that the stories chapters flip back and forth in time. It is a tired literary trick and robs us of the gradual build-up of the characters. There&#039;s no real dramatic tension and no chance to guess which witch is wickedest.  It also suffers from a lack of… …]]></summary>
-        <author>
-            <name>Terence Eden’s Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stealth Blogging]]></title>
-        <id>https://birming.com/stealth-blogging/</id>
-        <link href="https://birming.com/stealth-blogging/"/>
-        <updated>2025-01-24T11:59:31.816Z</updated>
-        <summary type="html"><![CDATA[It's a magical mystery that this blog is still alive. In a previous post, I called it the blog that refuses to die.
-It truly is, and I'm deeply grateful for it. I'm grateful for the opportunity to share my thoughts and connect with both readers and fellow bloggers. It's a space where I can express myself freely and creatively.
-During my 20+ years as a blogger, I've launched and shut down more projects than I can remember. I start something and I'm super excited for a while. Then I get bored, quit, and start something new. A gadget blog, a wedding proposal video blog, a movie blog, blogs in Swedish, blogs in English...
-The same old thought pattern has emerged with this blog as well, time after time. The big difference is that I haven't acted on the insistence of my thoughts to press the "Delete" button.
-Why these thoughts come, I don't know. It may not be that important to know, either. The most important thing, as I see it, is to be aware of what is happening and not act on the immediate impulse that screams for change. To simply observe and wait.
-Overcoming blogger's block with stealth blogging
-My solution this time was to write privately. I wrote as if it were a blog post, but without the intention of publishing. A kind of stealth blogging. It felt liberating!
-I had an outlet for my creativity and simultaneously, I got to engage with the technical side of blogging with Markdown and other stuff, which I enjoy. It also felt good to know that I could potentially post these texts on the blog at a later time, if I wanted to. Which I have now done with some of them.
-Stealth blogging helped me overcome my blogging block. It brought me the jjoy of writing without the pressure of publishing, and it reignited my passion for blogging.
-Perhaps you've thought about shutting down your blog, or maybe you've been thinking about starting one but haven't quite dared yet. Try stealth blogging; it might be the solution you're looking for.
-It worked for me. At least this time...
-Happy blogging – stealth or not.]]></summary>
-        <author>
-            <name>Robert Birming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSS Feed Changes]]></title>
-        <id>blog/rss-feed-changes</id>
-        <link href="https://kevquirk.com/blog/rss-feed-changes"/>
-        <updated>2025-01-24T10:55:00.000Z</updated>
-        <summary type="html"><![CDATA[You've probably seen a load of unread RSS items from my feed, sorry about that. Here's why...
-I've made a couple of changes to the way that RSS works on this site. It's all very minor, but I thought it was worth mentioning since you've probably seen a load of "new" items if you subscribe to my RSS feed.
-Combining notes and posts
-I write both posts and notes on this site. Over time, it's become pretty much the only place I post online - both my posts and notes are syndicated to Mastodon and Bluesky automatically, but this is the source.
-Anyway, I decided to roll my notes into the main RSS feed. So you will now see both notes and posts in there. Notes are depicted by a note emoji (📝) followed by the date and time the note was published.
-Normal posts are the way they've always been. It's just the post's title.
-But Kev, I don't want to see your stupid bloody notes in my feed!
-Don't worry, dear reader, I have you covered. I have a number of feeds that I publish for different types of content on this site:
-Posts & Notes (this is the main feed)
-Posts Only Feed
-Notes Only Feed
-My Watch Log Feed (you can check out my watch log here)
-So if you want to get the old feed back, that's just posts, unsubscribe form the main feed and subscribe to the new Posts Only feed.
-Again, sorry for dumping a load of "new" content into your RSS reader. Hope you understand though. ❤️
-Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️
-Reply to this post by email ● 
-              Sign my guestbook]]></summary>
-        <author>
-            <name>Kev Quirk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📝 24 January 2025 at 10:11 - This post is fantastic Thanks Manu https manuelmoreale com https...]]></title>
-        <id>notes/20250124-1011</id>
-        <link href="https://kevquirk.com/notes/20250124-1011"/>
-        <updated>2025-01-24T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is fantastic. Thanks, Manu.
-https://lithub.com/rebecca-solnit-how-to-comment-on-social-media
-Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️
-Reply to this post by email ● 
-              Sign my guestbook]]></summary>
-        <author>
-            <name>Kev Quirk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📝 24 January 2025 at 08:04 - Whenever I've checked Mastodon recently all I've been seeing are...]]></title>
-        <id>notes/20250124-0804</id>
-        <link href="https://kevquirk.com/notes/20250124-0804"/>
-        <updated>2025-01-24T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Whenever I've checked Mastodon recently, all I've been seeing are angry posts about Trump, Elon, and now the whole Manton/Vincent vs Adam drama.
-For the record, I'm not saying any of it is wrong. I'm just saying I'm sick of reading about how shit the world is. I need a break from it.
-I write most post from the notes section of my blog and they're automatically syndicated to Masto. So you'll probably still see posts,  but I doubt I'll be active in the replies for a little while.
-✌🏻
-Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️
-Reply to this post by email ● 
-              Sign my guestbook]]></summary>
-        <author>
-            <name>Kev Quirk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should you write documentation differently for LLMs?]]></title>
-        <id>https://passo.uno/writing-for-llms-ai-chatbots/</id>
-        <link href="https://passo.uno/writing-for-llms-ai-chatbots/"/>
-        <updated>2025-01-24T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Writing for LLMs is the new SEO obsession. Not a day passes without seeing some question popping up in tech writing communities about how to best compose content for AI scrapers. Folks even wonder if a different style guide should be necessary, or whether tables should be avoided because they’ve seen a pull request rejected in a Microsoft repository on the silliest grounds.]]></summary>
-        <author>
-            <name>passo.uno</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tommy Lee Jones]]></title>
-        <id>511A28D5-7AF5-43CE-B3B8-3A54A9400D19</id>
-        <link href="https://lmnt.me/blog/tommy-lee-jones.html"/>
-        <updated>2025-01-24T05:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Jenny
-				
-Why is Jim Carrey always green?
-me
-				
-What do you mean?
-Jenny
-				
-				
-
-				me
-				
-Oh, huh. Interesting.
-You’re right.
-I don’t know.
-Wait, do you know Tommy Lee Jones?
-Jenny
-				
-Hmm, no?
-me
-				
-Men in Black?
-Jenny
-				
-🤔
-me
-				
-Boss Coffee!
-Jenny
-				
-Ah, yes!
-If you like this, you can make a donation or buy something from my shop.]]></summary>
-        <author>
-            <name>Louie Mantia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Issue with AWS Sign-in IAM User Login Flow – Possible Username Enumeration (CVE-2025-0693)]]></title>
-        <id>0b833cd67564a9f1e573b5701742f1a3e724de2f</id>
-        <link href="https://aws.amazon.com/security/security-bulletins/AWS-2025-002/"/>
-        <updated>2025-01-23T21:20:02.000Z</updated>
-        <summary type="html"><![CDATA[Publication Date: 2025/01/23 1:30 PM PDT
- 
- 
-We have identified CVE-2025-0693 in the AWS Identity and Access Management (AWS IAM) Sign-in login flow. This issue could allow an actor to enumerate AWS IAM usernames by measuring server response times during login attempts. Variations in those response times could allow an actor to discern whether a submitted AWS IAM username existed in the account.
- 
-Please note that username information alone is insufficient to authenticate or access any AWS resources. Full authentication, including account identifier, username, password, and multi-factor authentication (if enabled), is required to access an account. Additionally, AWS leverages multiple layers of protection to monitor and respond to potential misuse of our sign-in endpoints.
- 
-Affected versions: AWS Sign-in IAM User login flow prior to January 16, 2025.
- 
-Resolution:
- 
-AWS introduced a delay in response times across all authentication failure scenarios. This enhancement protects against valid username enumeration by removing any time variation between valid and invalid usernames in failure responses.
- 
-No customer action is required. Customers can monitor sign-in activity, including failed and successful sign-in events, using AWS CloudTrail. For more information, refer to the CloudTrail Event Reference documentation.
- 
-We would like to thank Rhino Security Labs for collaborating on this issue through the coordinated vulnerability disclosure process.
- 
-References:
- 
- 
- 
-CVE-2025-0693
- 
- 
-Please email aws-security@amazon.com with any security questions or concerns.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EFS is now available in the AWS Mexico (Central) Region]]></title>
-        <id>369675a37ce84312901be9adaf492bf59750c011</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-efs-aws-mexico-central-region"/>
-        <updated>2025-01-23T21:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Customers can now create file systems using Amazon Elastic File System (Amazon EFS) in the AWS Mexico (Central) Region.
-  Amazon EFS is designed to provide serverless, fully elastic file storage that lets you share file data without provisioning or managing storage capacity and performance. It is built to scale on demand to petabytes without disrupting applications, growing and shrinking automatically as you add and remove files. Because Amazon EFS has a simple web services interface, you can create and configure file systems quickly and easily. The service is designed to manage file storage infrastructure for you, meaning that you can avoid the complexity of deploying, patching, and maintaining complex file system configurations.
-  For more information, visit the Amazon EFS product page, and see the AWS Region Table for complete regional availability information.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📝 23 January 2025 at 20:01 - I've heard a lot of people comment on how good...]]></title>
-        <id>notes/20250123-2001</id>
-        <link href="https://kevquirk.com/notes/20250123-2001"/>
-        <updated>2025-01-23T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've heard a lot of people comment on how good iA Writer is, but it's £50!
-Is it really that good?
-Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️
-Reply to this post by email ● 
-              Sign my guestbook]]></summary>
-        <author>
-            <name>Kev Quirk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luma AI’s Ray2 video model is now available in Amazon Bedrock]]></title>
-        <id>c911f1c3eb11134cfe5eb5a0b59b0d2d821143b1</id>
-        <link href="https://aws.amazon.com/blogs/aws/luma-ai-ray-2-video-model-is-now-available-in-amazon-bedrock/"/>
-        <updated>2025-01-23T19:50:22.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Bedrock now offers Luma AI's Ray2 video model, enabling users to generate high-quality, 5 or 9 second video clips with 540p and 720p resolution from text prompts, marking AWS as the exclusive cloud provider offering fully managed Luma AI models.]]></summary>
-        <author>
-            <name>Channy Yun (윤석찬)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Elastic Beanstalk improves scaling and deployment speeds for Windows instance with EC2 Fast-launch]]></title>
-        <id>d0c375f9e22b8e57999f6583ad8ac11a5e0921b9</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-scaling-deployment-speeds-windows-instance-ec2-fast-launch"/>
-        <updated>2025-01-23T19:22:00.000Z</updated>
-        <summary type="html"><![CDATA[With AWS Elastic Beanstalk you can easily deploy and manage applications in AWS without worrying about the infrastructure that runs those applications. Now, Elastic Beanstalk automatically launches Windows instances with EC2 Fast Launch enabled on currently supported Windows platform versions. This new functionality helps in timely provisioning of Windows instances at scale reducing downtime and improving operational costs during deployment, saving time for development and operational teams.
-  Elastic Beanstalk support for EC2 Fast Launch for Windows Instances is generally available in commercial regions where Elastic Beanstalk is available including the AWS GovCloud (US) Regions. For a complete list of regions and service offerings, see AWS Regions.
-  For more information about Windows Fast Launch support please read documentation. To learn more about Elastic Beanstalk, visit the Elastic Beanstalk product page.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De Gezonken Meesters]]></title>
-        <id>https://brainbaking.com/post/2025/01/de-gezonken-meesters/</id>
-        <link href="https://brainbaking.com/post/2025/01/de-gezonken-meesters/"/>
-        <updated>2025-01-23T18:55:00.000Z</updated>
-        <summary type="html"><![CDATA[We have a soft spot for art-induced TV shows, especially if they’re about the exciting discovery of once-lost paintings from famous Dutch Masters. The new Dutch show De Gezonken Meesters (literally: The Sunken Masters) on NPO Max does not fail to deliver in that regard.
-The premise of De Gezonken Meesters  is more than that though: instead of your typical National Geographic-esque show that meticulously breaks down techniques, paint, and types of canvasses used back in the 17th and 18th century, each episode of the show is about one of the six lost painting—by the unfortunate sinking of the Vrouw Maria or Lady Mary—that both the experts (the “masters”) and we as the general public can attempt to recreate.
-First, a renowned curator and restaurateur d’art—not to be confused by restaurateur d…]]></summary>
-        <author>
-            <name>Wouter Groeneveld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bear Nano Blog]]></title>
-        <id>https://birming.com/bear-nano-blog/</id>
-        <link href="https://birming.com/bear-nano-blog/"/>
-        <updated>2025-01-23T18:36:00.000Z</updated>
-        <summary type="html"><![CDATA[I don't know about you, but I sometimes want to post something too small even for a micro blog. For example, a minor update to the Bearming theme.
-With that in mind, I've put together something I call Nano Blog (see a live example in the footer of my blog). The idea is to highlight something small and temporary, then replace it with something new. No permalink, no archive, no RSS update. Just a simple, little, here-and-now notice in the form of a short text and an emoji.
-It's created with the Bearming theme as a starting point, but it works fine regardless of your theme. The nano post is written in the footer (Settings -> Header and footer directives -> Footer directive) with the following code:
-<div class=”nano”>
-<div class=”nanoji”>🐻‍❄️</div>
-
-<div class=”nanoted”>
-
-Just a little note a…]]></summary>
-        <author>
-            <name>Robert Birming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From tiny to immense: Geological spotlight on the Alexander Mosaic]]></title>
-        <id>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315188</id>
-        <link href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315188"/>
-        <updated>2025-01-23T18:35:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Bedrock Flows announces preview of multi-turn conversation support]]></title>
-        <id>f356c02a227c8318aa924eb46aa281745eb67830</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-bedrock-flows-multi-turn-conversation-support/"/>
-        <updated>2025-01-23T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Bedrock Flows enables you to link foundation models (FMs), Amazon Bedrock Prompts, Amazon Bedrock Agents, Amazon Bedrock Knowledge Bases, Amazon Bedrock Guardrails and other AWS services together to build and scale pre-defined generative AI workflows. Today, we announce preview of multi-turn conversation support for agent nodes in Flows. This feature enables dynamic, back-and-forth conversations between users and flows, similar to a natural dialogue.
-  Customers who use agents to execute steps within flows have indicated that sometimes the agents don’t have all the context required to successfully complete the action. With this preview launch, an agent node can intelligently pause the flow’s execution and request user- specific information. After the user sends the requested information, the flow seamlessly resumes the execution with the additional inputs. This feature enables a more interactive and context-aware experience, because the flow can adapt its behavior based on user responses.
-  The preview of multi-turn conversation support in Flows is now available in all regions that Flows is available. To get started, see this blog and the AWS user guide.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ElastiCache now supports 1-click connectivity setup between EC2 and your cache]]></title>
-        <id>5bf6739f8f4cfa7be0aaaa74e5760ba369b507f7</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-elasticache-1-click-connectivity-setup-ec2-cache"/>
-        <updated>2025-01-23T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Starting today, you can easily connect Amazon ElastiCache clusters to an Amazon Elastic Compute Cloud (Amazon EC2) instance directly from the AWS Management Console. You can also connect to your cache using AWS CloudShell to execute commands without additional setup.
-  With a single click, you can establish secure connectivity between your cache and an EC2 instance, following AWS recommended best practices. ElastiCache automatically configures VPCs, security groups, and network settings, eliminating the need for manual tasks like setting up subnets and ingress/egress rules. This streamlines the process for new users and developers, enabling them to launch a cache instance and connect it to an application within minutes.
-  You can also choose to connect to your cache from the Console using AWS CloudShell. Just click the “Connect to cache” button in the new “Connectivity and Security” tab. This will open a new AWS CloudShell session and connect to your cache using the valkey-cli tool. Once connected, you can execute common Valkey commands, including reading data (e.g. GET <key>) and writing data (e.g. SET <key> <value>). This lets you test cache functionality directly in the console, without needing to connect to it from an EC2 instance.
-  Learn more about setting up connectivity to a compute resource from your ElastiCache cluster in the Amazon ElastiCache user guide.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CloudWatch allows alarming on data up to 7 days old]]></title>
-        <id>ca8751c1079e2d8e48e3474550bdff0c7af81e58</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-allows-alarming-data-7-days-old/"/>
-        <updated>2025-01-23T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon CloudWatch now lets customers evaluate metrics data for an extended duration of up to 7 days, a 7x increase from the previous limit of 24 hours.
-  This enhancement empowers customers to monitor the health of longer-running or infrequent processes, such as daily data loading jobs or day-over-day performance trends, offering deeper insights into their resources and applications. Customers now have the flexibility to leverage CloudWatch alarms for use cases like near-real-time metric tracking as well as for monitoring patterns that span multiple days.
-  Amazon CloudWatch alarming on multi-day data is now available in all AWS Regions including the AWS GovCloud (US) Regions.
-  To alarm on multiple days of data, create or update an alarm using the CloudWatch console or Command Line Interface (CLI), specify a period of at least 3,600 (1 hour) and the number of datapoints that you want to compare against the threshold. For more information, visit the CloudWatch alarms documentation section.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Elastic Beanstalk adds default support of EC2 Launch Template when creating new environments]]></title>
-        <id>8c6f1d5d0b05997bde4e14df364ab6a9a6f2b58a</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-ec2-launch-template-environments/"/>
-        <updated>2025-01-23T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With AWS Elastic Beanstalk, you can easily deploy and manage applications in AWS without worrying about configuring the infrastructure that runs those applications. Now, AWS Elastic Beanstalk will support EC2 Launch Template in Elastic Beanstalk environments by default after the deprecation of EC2 Launch Configuration. With this feature, you will not need to manually set certain configuration options in any AWS accounts, as described in documentation, to direct AWS Elastic Beanstalk to use the EC2 Launch Template when creating new environments.
- 
-Elastic Beanstalk’s support for EC2 Launch Template is generally available in commercial regions where Elastic Beanstalk is available including the AWS GovCloud (US) Regions. For a complete list of regions and service offerings, see AWS Regions.
- 
-For more information about with Launch Template support in Elastic Beanstalk please read our developer guide. To learn more about Elastic Beanstalk, visit the Elastic Beanstalk product page.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Resource Groups now supports 172 more resource types]]></title>
-        <id>7139a1d212f721536832d54be4e22137f6c4efdb</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-groups-more-resource-types"/>
-        <updated>2025-01-23T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, AWS Resource Groups is adding support for an additional 172 resource types for tag-based Resource Groups. Customers can now use Resource Groups to group and manage resources from services such as AWS Entity Resolution, Amazon Personalize, and Amazon Q Apps.
-  AWS Resource Groups enables you to model, manage and automate tasks on large numbers of AWS resources by logically grouping your resources. You can create collections of resources such as applications, projects, or workloads, and manage them on dimensions such as cost, performance, and compliance in AWS services such as myApplications, AWS Systems Manager and Amazon CloudWatch.
-  AWS Resource Groups expanded resource type coverage is available in all AWS Regions, including the AWS GovCloud (US) Regions. You can access AWS Resource Groups through the AWS Management Console, the AWS SDK APIs, and the AWS CLI.
-  For more information about grouping resources, see the AWS Resource Groups user guide and the list of supported resource types. To get started, visit AWS Resource Groups console.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luma AI's Ray2 visual AI model now available in Amazon Bedrock]]></title>
-        <id>0975c147d5151269b1a76b5ae60786b6e65220fb</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/luma-ais-ray2-visual-ai-model-amazon-bedrock/"/>
-        <updated>2025-01-23T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Luma AI's new video-generating AI foundation model (FM), Ray2, is now available in Amazon Bedrock. AWS is the first and only cloud provider to offer fully managed models from Luma AI, expanding creative possibilities for developers and businesses using AWS services.
- 
-Luma Ray2 is a large-scale video-generation model capable of creating realistic visuals with fluid, natural movement. With Luma Ray2 in Amazon Bedrock, you can generate production-ready video clips with seamless animations, ultrarealistic details, and logical event sequences with natural language prompts, removing the need for technical prompt engineering. Ray2 currently supports 5- and 9-second video generations with 540p and 720p resolution, making the model ideal for a variety of professional creative applications. Streamline the creative process from concept to execution by using Ray2 video generations for content creation, entertainment, advertising, and media use cases. Content creators can swiftly generate video clips for product promotion and storytelling. Product teams can rapidly visualize concepts and create video mockups for market testing. Production studios can create previsualizations, generate realistic backgrounds, and produce initial versions of special effects sequences.
- 
-Luma AI's Ray2 model is now available in the US West (Oregon) AWS Region. To learn more about Ray2 and how to use it in your projects, read the AWS News Blog, visit the Luma AI in Amazon Bedrock page, the Amazon Bedrock console, or check out the Amazon Bedrock documentation.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Marketplace launches automated version archiving for AMI and container products]]></title>
-        <id>50d51220c7219926b28083dae02c218a6ff26966</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-automated-archiving-ami-container-products/"/>
-        <updated>2025-01-23T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, AWS Marketplace announces the availability of automated archival of old, unused product versions that are no longer available publicly for subscription (restricted). This feature is available for Amazon Machine Image (AMI), AMI with CloudFormation templates, and container products.
-  With this release, AWS Marketplace is streamlining the version management experience for AWS customers and sellers. With automated version archival, any product version that has already been restricted by a seller for longer than two years will be archived. Archived versions will no longer be available to launch from AWS Marketplace for new customers; however, existing users can continue to use them through launch templates and Amazon EC2 Auto Scaling groups by specifying the AMI ID. Any archived version that has not been used to launch any new instances in the previous 13 months will be deleted. Once an archived version is deleted, it is no longer available to launch for new or existing users.
-  Now AWS customers see only the latest versions of the products in AWS Marketplace, reducing the risk of using outdated versions. For sellers, it simplifies product management by automatically removing unused older versions.
-  This capability is enabled for all AMI and container products, and no additional action is needed from sellers. To learn more about this feature, see the AWS Marketplace Seller Guide.]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CCN releases guide for Spain’s ENS landing zones using Landing Zone Accelerator on AWS]]></title>
-        <id>877b7c1e027e23e02e1f502b570cab3c466e343b</id>
-        <link href="https://aws.amazon.com/blogs/security/ccn-releases-guide-for-spains-ens-landing-zones-using-landing-zone-accelerator-on-aws/"/>
-        <updated>2025-01-23T17:14:50.000Z</updated>
-        <summary type="html"><![CDATA[The Spanish National Cryptologic Center (CCN) has published a new STIC guide (CCN-STIC-887 Anexo A) that provides a comprehensive template and supporting artifacts for implementing landing zones that comply with Spain's National Security Framework (ENS) Royal Decree 311/2022 using the Landing Zone Accelerator on AWS.]]></summary>
-        <author>
-            <name>Tomás Clemente Sánchez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Access Amazon S3 Iceberg tables from Databricks using AWS Glue Iceberg REST Catalog in Amazon SageMaker Lakehouse]]></title>
-        <id>9fb5ceed24be5d84db0beb04b57a703e1f114048</id>
-        <link href="https://aws.amazon.com/blogs/big-data/access-amazon-s3-iceberg-tables-from-databricks-using-aws-glue-iceberg-rest-catalog-in-amazon-sagemaker-lakehouse/"/>
-        <updated>2025-01-23T16:59:39.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we will show you how Databricks on AWS general purpose compute can integrate with the AWS Glue Iceberg REST Catalog for metadata access and use Lake Formation for data access. To keep the setup in this post straightforward, the Glue Iceberg REST Catalog and Databricks cluster share the same AWS account.]]></summary>
-        <author>
-            <name>Srividya Parthasarathy</name>
         </author>
     </entry>
 </feed>
