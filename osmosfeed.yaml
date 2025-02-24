@@ -5,20 +5,10 @@
 
 cacheUrl: https://jsoros.github.io/rss-feeds-hackernews/cache.json
 sources:
-  - href: https://hnrss.org/frontpage
   - href: https://adactio.com/articles/rss
   - href: https://alexwlchan.net/atom.xml
   - href: https://apenwarr.ca/log/rss.php
   - href: https://artsy.github.io/feed
-  - href: https://aws.amazon.com/about-aws/whats-new/recent/feed/
-  - href: https://aws.amazon.com/blogs/aws/feed/
-  - href: https://aws.amazon.com/blogs/big-data/feed/
-  - href: https://aws.amazon.com/blogs/compute/tag/serverless/feed/
-  - href: https://aws.amazon.com/blogs/devops/feed/
-  - href: https://aws.amazon.com/blogs/infrastructure-and-automation/feed/
-  - href: https://aws.amazon.com/blogs/iot/feed/
-  - href: https://aws.amazon.com/blogs/security/feed/
-  - href: https://aws.amazon.com/security/security-bulletins/rss/feed/
   - href: https://awsteele.com/feed.xml
   - href: https://beabetterdev.com/feed/
   - href: https://birming.com/feed/
@@ -29,10 +19,6 @@ sources:
   - href: https://brainbaking.com/index.xml
   - href: https://cloudonaut.io/feed/rss.xml
   - href: https://dev.to/feed/vkazulkin
-  - href: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-cloudformation-release-notes.rss
-  - href: https://docs.aws.amazon.com/IAM/latest/UserGuide/aws-iam-release-notes.rss
-  - href: https://docs.aws.amazon.com/apigateway/latest/developerguide/amazon-apigateway-release-notes.rss
-  - href: https://docs.aws.amazon.com/lambda/latest/dg/lambda-updates.rss
   - href: https://endler.dev/rss.xml
   - href: https://fundor333.com/post/index.xml
   - href: https://github.com/feed.atom
@@ -47,15 +33,10 @@ sources:
   - href: https://medium.com/feed/@leejamesgilmore
   - href: https://medium.com/feed/@sbrisals
   - href: https://micro.webology.dev/feed.xml
-  - href: https://miniflux.app/feed.xml
-  - href: https://news.ycombinator.com/rss
   - href: https://newsletter.pragmaticengineer.com/feed?sectionId
   - href: https://nicolaiarocci.com/index.xml
   - href: https://passo.uno/index.xml
   - href: https://rknight.me/subscribe/posts/rss.xml
-  - href: https://seclists.org/rss/fulldisclosure.rss
-  - href: https://serverlessland.com/feed.xml
-  - href: https://shkspr.mobi/blog/feed/atom/
   - href: https://simonwillison.net/atom/everything/
   - href: https://slimemoldtimemold.com/feed/
   - href: https://tara.sh/index.xml
@@ -65,7 +46,5 @@ sources:
   - href: https://www.alexdebrie.com/posts/atom.xml
   - href: https://www.bentasker.co.uk/rss.xml
   - href: https://www.jeremydaly.com/feed.xml
-  - href: https://www.lastweekinaws.com/feed/
   - href: https://www.paulox.net/feed.xml
   - href: https://www.readysetcloud.io/blog/index.xml
-  - href: https://www.serverless.com/blog/rss.xml
